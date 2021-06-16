@@ -12,7 +12,7 @@ Bibi.preset({
 //-- Behavior
 //----------------------------------------------------------------------------------------------------------------------------------------------
 
-"reader-view-mode"              : "paged", // "paged" or "horizontal" or "vertical" ("paged" is for flipping, "horizontal" and "vertical" are for scrolling)
+"reader-view-mode"              : "vertical", // "paged" or "horizontal" or "vertical" ("paged" is for flipping, "horizontal" and "vertical" are for scrolling)
 "full-breadth-layout-in-scroll" : "no", // "yes" or "no" or "desktop" or "mobile"
 "fix-reader-view-mode"          : "no", // "yes" or "no" or "desktop" or "mobile"
 
@@ -43,7 +43,7 @@ Bibi.preset({
 
 "use-font-size-changer"      : "yes", // "yes" or "no" or "desktop" or "mobile"
 "base-font-size"             : "auto", // Number of pixel or "auto"
-"font-size-scale-per-step"   : 1.25, // Number of scale
+"font-size-scale-per-step"   : 1.75, // Number of scale
 
 "use-loupe"                  : "desktop", // "yes" or "no" or "desktop" or "mobile" (Note: Loupe buttons will not appear in touch-devices even if it is set "yes" or "mobile".)
 "loupe-max-scale"            : 4, // Number of scale (greater than 1)
