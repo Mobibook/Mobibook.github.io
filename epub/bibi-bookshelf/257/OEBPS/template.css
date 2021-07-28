@@ -1,0 +1,26 @@
+@page{margin:.5em}
+tbody,thead,tfoot,tr,td,th{border-style:inherit;border-width:inherit;border-color:inherit}
+.leftFloat{float:left}
+.rightFloat{float:right}
+span.bolditalic{font-weight:700;font-style:italic}
+span.bold{font-weight:700;font-style:normal}
+span.regular{font-weight:400;font-style:normal}
+span.italic{font-weight:400;font-style:italic}
+span.generic{font-weight:400;font-style:normal}
+span.footNmbr{font-weight:400;font-style:normal;vertical-align:super}
+span.regular-1{font-weight:400;font-style:normal}
+span.bold-1{font-weight:700;font-style:normal}
+span.italic-1{font-weight:400;font-style:italic}
+p.ithaf{font-weight:700;font-style:italic;font-size:1.1em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:0;margin:0 0 28px}
+p.Konu-Ba-l---{font-weight:700;font-style:normal;font-size:1.1em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:0;margin:8px 10px 12px}
+p.Dante-Normal{font-weight:400;font-style:normal;font-size:.95em;text-decoration:none;font-variant:normal;text-align:justify;color:#000;text-indent:14px;margin:0 0 3px}
+p.G-vde{font-weight:400;font-style:normal;font-size:1em;text-decoration:none;font-variant:normal;text-align:left;color:#000;text-indent:0;margin:0 10px 8px}
+p.gerericFRC{font-weight:400;font-style:normal;font-size:.9em;text-decoration:none;font-variant:normal;text-align:left;color:#000;text-indent:0;margin:0}
+p.gereric{font-weight:400;font-style:normal;font-size:.9em;text-decoration:none;font-variant:normal;text-align:left;color:#000;text-indent:0;margin:0}
+p.Basic-Paragraph{font-weight:400;font-style:normal;font-size:1em;text-decoration:none;font-variant:normal;text-align:left;color:#000;text-indent:0;margin:0}
+p.Dante-Dipnot{font-weight:400;font-style:normal;font-size:.83em;text-decoration:none;font-variant:normal;text-align:justify;color:#000;text-indent:-14px;margin:0 0 0 14px}
+p.h1{font-weight:700;font-style:normal;font-size:1.2em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:0;margin:80px 0 50px}
+p.Dante-Normal-1{font-weight:400;font-style:normal;font-size:1em;text-decoration:none;font-variant:normal;text-align:justify;color:#000;text-indent:14px;}
+p.para-style-override-1{text-align:center;margin-top:0;margin-bottom:0}
+p.para-style-override-3{margin-top:150px}
+p.para-style-override-4{margin-bottom:50px;margin-top:150px}

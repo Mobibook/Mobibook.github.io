@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Beauvoir, Simone de">Simone de Beauvoir</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:2cf75708-5285-4b8f-b048-5b34b6b0ec5c</dc:identifier>
+    <dc:date>2000-08-17T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+  <dc:title>Bir Genç Kızın Anıları</dc:title>
+<meta name="calibre:title_sort" content="Genç Kızın Anıları, Bir"/>
+<dc:publisher>Payel Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Anı</dc:subject>
+<dc:subject>Biyografi</dc:subject>
+<dc:subject>Feminizm</dc:subject>
+<dc:subject>Felsefe</dc:subject>
+<dc:description>&lt;p&gt;Çağdaş kadın yazarların en büyüğü olarak kabul edilen Simone de Beauvoir, dünyanın her yerinde olduğu gibi ülkemizde de sevilen, çok okunan bir yazar ve düşünürdür. Daha önce yayımladığımız "Kadın" (Le Deuxieme Sexe), "Kadınlığımın Hikayesi" (La Force de l'Age - La Force des Choses) ve ünlü romanı "Konuk Kız"ın (L'Invitee) kısa sürede büyük ilgi görmesi de bunu doğrulamaktadır.Şimdi de Beauvoir'ın en az öteki eserleri kadar seveceğiniz ve yayımlandığı her yerde büyük yankılar bırakmış olan bir başka büyük eserini sunuyoruz. "Bir Genç Kızın Anıları" (Les Memoires d'une jeune fille rangee) genç kızlık çağının tüm sorunlarını en küçük ayrıntılarına kadar olanca çıplaklığı ile ele alan ve bir roman kadar rahat okunan bir eser.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Simone de Beauvoir&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">37839553-fb58-4bb1-bb89-2f4d29e2bd3f</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753880046</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

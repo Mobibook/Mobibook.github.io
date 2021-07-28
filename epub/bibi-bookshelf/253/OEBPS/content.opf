@@ -1,0 +1,138 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>İlk Kitap: Sarı</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Şekerci, Serdar">Serdar Şekerci</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:8a76d825-ced4-4501-b03b-237ec4324940</dc:identifier>
+    <dc:publisher>Ayrıntı Yayınları</dc:publisher>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.79.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en-US</dc:language>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">eb155642-9adf-4247-93bc-29b80045525a</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="calibre:title_sort" content="İlk Kitap: Sarı"/>
+    <meta name="calibre:author_link_map" content="{&quot;Serdar Şekerci&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="x251.jpg"/>
+  </metadata>
+  <manifest>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="7.html" id="x7" media-type="application/xhtml+xml"/>
+    <item href="8.html" id="x8" media-type="application/xhtml+xml"/>
+    <item href="9.html" id="x9" media-type="application/xhtml+xml"/>
+    <item href="10.html" id="x10" media-type="application/xhtml+xml"/>
+    <item href="10-1.html" id="x10-1" media-type="application/xhtml+xml"/>
+    <item href="10-2.html" id="x10-2" media-type="application/xhtml+xml"/>
+    <item href="10-3.html" id="x10-3" media-type="application/xhtml+xml"/>
+    <item href="10-4.html" id="x10-4" media-type="application/xhtml+xml"/>
+    <item href="10-5.html" id="x10-5" media-type="application/xhtml+xml"/>
+    <item href="10-6.html" id="x10-6" media-type="application/xhtml+xml"/>
+    <item href="10-7.html" id="x10-7" media-type="application/xhtml+xml"/>
+    <item href="10-8.html" id="x10-8" media-type="application/xhtml+xml"/>
+    <item href="10-9.html" id="x10-9" media-type="application/xhtml+xml"/>
+    <item href="10-10.html" id="x10-10" media-type="application/xhtml+xml"/>
+    <item href="10-11.html" id="x10-11" media-type="application/xhtml+xml"/>
+    <item href="10-12.html" id="x10-12" media-type="application/xhtml+xml"/>
+    <item href="10-13.html" id="x10-13" media-type="application/xhtml+xml"/>
+    <item href="10-14.html" id="x10-14" media-type="application/xhtml+xml"/>
+    <item href="10-15.html" id="x10-15" media-type="application/xhtml+xml"/>
+    <item href="10-16.html" id="x10-16" media-type="application/xhtml+xml"/>
+    <item href="10-17.html" id="x10-17" media-type="application/xhtml+xml"/>
+    <item href="10-18.html" id="x10-18" media-type="application/xhtml+xml"/>
+    <item href="10-19.html" id="x10-19" media-type="application/xhtml+xml"/>
+    <item href="10-20.html" id="x10-20" media-type="application/xhtml+xml"/>
+    <item href="10-21.html" id="x10-21" media-type="application/xhtml+xml"/>
+    <item href="10-22.html" id="x10-22" media-type="application/xhtml+xml"/>
+    <item href="10-23.html" id="x10-23" media-type="application/xhtml+xml"/>
+    <item href="10-24.html" id="x10-24" media-type="application/xhtml+xml"/>
+    <item href="10-25.html" id="x10-25" media-type="application/xhtml+xml"/>
+    <item href="10-26.html" id="x10-26" media-type="application/xhtml+xml"/>
+    <item href="10-27.html" id="x10-27" media-type="application/xhtml+xml"/>
+    <item href="10-28.html" id="x10-28" media-type="application/xhtml+xml"/>
+    <item href="10-29.html" id="x10-29" media-type="application/xhtml+xml"/>
+    <item href="10-30.html" id="x10-30" media-type="application/xhtml+xml"/>
+    <item href="10-31.html" id="x10-31" media-type="application/xhtml+xml"/>
+    <item href="10-32.html" id="x10-32" media-type="application/xhtml+xml"/>
+    <item href="10-33.html" id="x10-33" media-type="application/xhtml+xml"/>
+    <item href="10-34.html" id="x10-34" media-type="application/xhtml+xml"/>
+    <item href="10-35.html" id="x10-35" media-type="application/xhtml+xml"/>
+    <item href="10-36.html" id="x10-36" media-type="application/xhtml+xml"/>
+    <item href="10-37.html" id="x10-37" media-type="application/xhtml+xml"/>
+    <item href="10-38.html" id="x10-38" media-type="application/xhtml+xml"/>
+    <item href="10-39.html" id="x10-39" media-type="application/xhtml+xml"/>
+    <item href="10-40.html" id="x10-40" media-type="application/xhtml+xml"/>
+    <item href="10-41.html" id="x10-41" media-type="application/xhtml+xml"/>
+    <item href="10-42.html" id="x10-42" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/ayrinti_fmt.jpeg" id="ayrinti_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/ayrinti_fmt1.jpeg" id="ayrinti_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="images/cover.jpg" id="x251.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x7"/>
+    <itemref idref="x8"/>
+    <itemref idref="x9"/>
+    <itemref idref="x10"/>
+    <itemref idref="x10-1"/>
+    <itemref idref="x10-2"/>
+    <itemref idref="x10-3"/>
+    <itemref idref="x10-4"/>
+    <itemref idref="x10-5"/>
+    <itemref idref="x10-6"/>
+    <itemref idref="x10-7"/>
+    <itemref idref="x10-8"/>
+    <itemref idref="x10-9"/>
+    <itemref idref="x10-10"/>
+    <itemref idref="x10-11"/>
+    <itemref idref="x10-12"/>
+    <itemref idref="x10-13"/>
+    <itemref idref="x10-14"/>
+    <itemref idref="x10-15"/>
+    <itemref idref="x10-16"/>
+    <itemref idref="x10-17"/>
+    <itemref idref="x10-18"/>
+    <itemref idref="x10-19"/>
+    <itemref idref="x10-20"/>
+    <itemref idref="x10-21"/>
+    <itemref idref="x10-22"/>
+    <itemref idref="x10-23"/>
+    <itemref idref="x10-24"/>
+    <itemref idref="x10-25"/>
+    <itemref idref="x10-26"/>
+    <itemref idref="x10-27"/>
+    <itemref idref="x10-28"/>
+    <itemref idref="x10-29"/>
+    <itemref idref="x10-30"/>
+    <itemref idref="x10-31"/>
+    <itemref idref="x10-32"/>
+    <itemref idref="x10-33"/>
+    <itemref idref="x10-34"/>
+    <itemref idref="x10-35"/>
+    <itemref idref="x10-36"/>
+    <itemref idref="x10-37"/>
+    <itemref idref="x10-38"/>
+    <itemref idref="x10-39"/>
+    <itemref idref="x10-40"/>
+    <itemref idref="x10-41"/>
+    <itemref idref="x10-42"/>
+  </spine>
+  <guide>
+    <reference href="images/cover.jpg" type="cover"/>
+  </guide>
+</package>

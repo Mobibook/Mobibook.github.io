@@ -1,0 +1,43 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Antabus</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Şahiner, Seray">Seray Şahiner</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d42f28ea-4563-4162-9279-2b154944cccb</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">7c202991-f802-4664-9136-62864e96d124</dc:identifier>
+    <meta name="calibre:timestamp" content="2017-08-25T15:12:05.627000+00:00"/>
+    <meta name="calibre:title_sort" content="Antabus"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Seray Şahiner&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="OEBPS/cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/works.xhtml" id="worksxhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/introduction.xhtml" id="introductionxhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/chapter.xhtml" id="chapterxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="OEBPS/image/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="worksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="introductionxhtml"/>
+    <itemref idref="chapterxhtml"/>
+  </spine>
+  <guide>
+    <reference href="OEBPS/cover.xhtml" type="cover"/>
+  </guide>
+</package>

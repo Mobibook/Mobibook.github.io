@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="3" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>I - VAHDETTİN’İN OYALAMA HÜKÜMETİ: ALİ RIZA PAŞA KABİNESİ  (2 EKİM 1919 - 8 MART 1920)</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-1"/>
+			<navPoint id="navpoint2" playOrder="2">
+				<navLabel>
+					<text>1.  Hükümetin Kurulması ve Ulusçu- Meşrutiyetçi Hareketle İlk Temaslar</text>
+				</navLabel>
+				<content src="Text/6-1.html#toc_marker-1-1"/>
+				<navPoint id="navpoint3" playOrder="3">
+					<navLabel>
+						<text>1. Yeni Hükümet</text>
+					</navLabel>
+					<content src="Text/6-1.html#toc_marker-1-1-1"/>
+				</navPoint>
+				<navPoint id="navpoint4" playOrder="4">
+					<navLabel>
+						<text>2. Anadolu ile İlk Temaslar</text>
+					</navLabel>
+					<content src="Text/6-2.html#toc_marker-1-1-2"/>
+				</navPoint>
+				<navPoint id="navpoint5" playOrder="5">
+					<navLabel>
+						<text>3. Karşılıklı Beyannameler</text>
+					</navLabel>
+					<content src="Text/6-3.html#toc_marker-1-1-3"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint6" playOrder="6">
+				<navLabel>
+					<text>2. Ali Rıza Paşa Hükümetine Karşı İlk Tepkiler</text>
+				</navLabel>
+				<content src="Text/6-4.html#toc_marker-1-2"/>
+				<navPoint id="navpoint7" playOrder="7">
+					<navLabel>
+						<text>4. İç Tepkiler</text>
+					</navLabel>
+					<content src="Text/6-4.html#toc_marker-1-2-1"/>
+				</navPoint>
+				<navPoint id="navpoint8" playOrder="8">
+					<navLabel>
+						<text>5. İngilizlerin Tepkileri</text>
+					</navLabel>
+					<content src="Text/6-5.html#toc_marker-1-2-2"/>
+				</navPoint>
+				<navPoint id="navpoint9" playOrder="9">
+					<navLabel>
+						<text>6. Fransızların Tepkileri</text>
+					</navLabel>
+					<content src="Text/6-6.html#toc_marker-1-2-3"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint10" playOrder="10">
+				<navLabel>
+					<text>3. Amasya Görüşmesi</text>
+				</navLabel>
+				<content src="Text/6-7.html#toc_marker-1-3"/>
+				<navPoint id="navpoint11" playOrder="11">
+					<navLabel>
+						<text>7. Ön Hazırlıklar</text>
+					</navLabel>
+					<content src="Text/6-7.html#toc_marker-1-3-1"/>
+				</navPoint>
+				<navPoint id="navpoint12" playOrder="12">
+					<navLabel>
+						<text>8. Amasya Protokolleri</text>
+					</navLabel>
+					<content src="Text/6-8.html#toc_marker-1-3-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint13" playOrder="13">
+				<navLabel>
+					<text>4. Meclis’in Nerede Toplanacağı Sorunu</text>
+				</navLabel>
+				<content src="Text/6-9.html#toc_marker-1-4"/>
+				<navPoint id="navpoint14" playOrder="14">
+					<navLabel>
+						<text>9. İstanbul Kuva-yı Milliyesi’yle Yazışmalar</text>
+					</navLabel>
+					<content src="Text/6-10.html#toc_marker-1-4-1"/>
+				</navPoint>
+				<navPoint id="navpoint15" playOrder="15">
+					<navLabel>
+						<text>10. Komutanlarla Yapılan Toplantılar</text>
+					</navLabel>
+					<content src="Text/6-11.html#toc_marker-1-4-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint16" playOrder="16">
+				<navLabel>
+					<text>5. Müdafaa-i Hukuk Örgütünde Gelişmeler</text>
+				</navLabel>
+				<content src="Text/6-12.html#toc_marker-1-5"/>
+				<navPoint id="navpoint17" playOrder="17">
+					<navLabel>
+						<text>11. Örgütün Genişletilmesi ve Rakipsiz Hale Getirilmesi</text>
+					</navLabel>
+					<content src="Text/6-12.html#toc_marker-1-5-1"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint18" playOrder="18">
+				<navLabel>
+					<text>6. Vahdettin’in Demokratik-Ulusçu Hareket Karşısında Durumu</text>
+				</navLabel>
+				<content src="Text/6-13.html#toc_marker-1-6"/>
+				<navPoint id="navpoint19" playOrder="19">
+					<navLabel>
+						<text>12. Saray’ın Tavrını Açıklayan Bazı Davranışlar</text>
+					</navLabel>
+					<content src="Text/6-13.html#toc_marker-1-6-1"/>
+				</navPoint>
+				<navPoint id="navpoint20" playOrder="20">
+					<navLabel>
+						<text>13. Saray ile Cemiyet’in İdeolojik Düzeyde Mücadelesi</text>
+					</navLabel>
+					<content src="Text/6-14.html#toc_marker-1-6-2"/>
+				</navPoint>
+				<navPoint id="navpoint21" playOrder="21">
+					<navLabel>
+						<text>14. Abdülmecit Etkeni Bertaraf Ediliyor</text>
+					</navLabel>
+					<content src="Text/6-15.html#toc_marker-1-6-3"/>
+				</navPoint>
+				<navPoint id="navpoint22" playOrder="22">
+					<navLabel>
+						<text>15. Milli Mücadele Aleyhtarları Yeniden Fitne Faaliyetinde</text>
+					</navLabel>
+					<content src="Text/6-16.html#toc_marker-1-6-4"/>
+				</navPoint>
+				<navPoint id="navpoint23" playOrder="23">
+					<navLabel>
+						<text>16. Ekim Ayında Çıkarılan Olaylar ve İsyanlar</text>
+					</navLabel>
+					<content src="Text/6-17.html#toc_marker-1-6-5"/>
+				</navPoint>
+				<navPoint id="navpoint24" playOrder="24">
+					<navLabel>
+						<text>16-a. Kürt Ayrılıkçılığı</text>
+					</navLabel>
+					<content src="Text/6-18.html#toc_marker-1-6-6"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint25" playOrder="25">
+				<navLabel>
+					<text>7. Ali Rıza Paşa Hükümetine Almaşık Arayışlar</text>
+				</navLabel>
+				<content src="Text/6-19.html#toc_marker-1-7"/>
+			</navPoint>
+			<navPoint id="navpoint26" playOrder="26">
+				<navLabel>
+					<text>8. Ordunun Durumu</text>
+				</navLabel>
+				<content src="Text/6-20.html#toc_marker-1-8"/>
+				<navPoint id="navpoint27" playOrder="27">
+					<navLabel>
+						<text>17. Orduda Atamalar ve Örgütlenme Sorunları</text>
+					</navLabel>
+					<content src="Text/6-20.html#toc_marker-1-8-1"/>
+				</navPoint>
+				<navPoint id="navpoint28" playOrder="28">
+					<navLabel>
+						<text>18. Nigehbancı Hareket</text>
+					</navLabel>
+					<content src="Text/6-21.html#toc_marker-1-8-2"/>
+				</navPoint>
+				<navPoint id="navpoint29" playOrder="29">
+					<navLabel>
+						<text>19. Kuva-yı Milliye Sorunu</text>
+					</navLabel>
+					<content src="Text/6-22.html#toc_marker-1-8-3"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint30" playOrder="30">
+				<navLabel>
+					<text>9. İdarenin Durumu</text>
+				</navLabel>
+				<content src="Text/6-23.html#toc_marker-1-9"/>
+			</navPoint>
+			<navPoint id="navpoint31" playOrder="31">
+				<navLabel>
+					<text>10. Ekim Ayının İç Siyaset Gelişmeleri</text>
+				</navLabel>
+				<content src="Text/6-24.html#toc_marker-1-10"/>
+				<navPoint id="navpoint32" playOrder="32">
+					<navLabel>
+						<text>20. Seçimlerle İlgili Olaylar</text>
+					</navLabel>
+					<content src="Text/6-24.html#toc_marker-1-10-1"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint33" playOrder="33">
+				<navLabel>
+					<text>11. Kasım Ayının İç Siyaset Gelişmeleri</text>
+				</navLabel>
+				<content src="Text/6-25.html#toc_marker-1-11"/>
+				<navPoint id="navpoint34" playOrder="34">
+					<navLabel>
+						<text>21. Teftiş Heyetleri</text>
+					</navLabel>
+					<content src="Text/6-25.html#toc_marker-1-11-1"/>
+				</navPoint>
+				<navPoint id="navpoint35" playOrder="35">
+					<navLabel>
+						<text>22. Seçimler ve İlgili Gelişmeler</text>
+					</navLabel>
+					<content src="Text/6-26.html#toc_marker-1-11-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint36" playOrder="36">
+				<navLabel>
+					<text>12. Azınlıkların Durumu</text>
+				</navLabel>
+				<content src="Text/6-27.html#toc_marker-1-12"/>
+			</navPoint>
+			<navPoint id="navpoint37" playOrder="37">
+				<navLabel>
+					<text>13. Aralık ve Ocağın İlk Yarısında İç Siyaset Gelişmeleri</text>
+				</navLabel>
+				<content src="Text/6-28.html#toc_marker-1-13"/>
+				<navPoint id="navpoint38" playOrder="38">
+					<navLabel>
+						<text>23. Heyet-i Temsiliye Ankara’ya Taşınıyor (27 Aralık)</text>
+					</navLabel>
+					<content src="Text/6-28.html#toc_marker-1-13-1"/>
+				</navPoint>
+				<navPoint id="navpoint39" playOrder="39">
+					<navLabel>
+						<text>24. Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti’nin Örgütlenme Sorunları (Yahya Kaptan Olayı)</text>
+					</navLabel>
+					<content src="Text/6-29.html#toc_marker-1-13-2"/>
+				</navPoint>
+				<navPoint id="navpoint40" playOrder="40">
+					<navLabel>
+						<text>25. Teftiş Heyetleri</text>
+					</navLabel>
+					<content src="Text/6-30.html#toc_marker-1-13-3"/>
+				</navPoint>
+				<navPoint id="navpoint41" playOrder="41">
+					<navLabel>
+						<text>26. İstanbul Seçimleri (18 Aralık)</text>
+					</navLabel>
+					<content src="Text/6-31.html#toc_marker-1-13-4"/>
+				</navPoint>
+				<navPoint id="navpoint42" playOrder="42">
+					<navLabel>
+						<text>27. Saray ve Muhalefet Cephesinde Gelişmeler</text>
+					</navLabel>
+					<content src="Text/6-32.html#toc_marker-1-13-5"/>
+				</navPoint>
+				<navPoint id="navpoint43" playOrder="43">
+					<navLabel>
+						<text>28. Meclis-i Mebusan’ın Açılması (12 Ocak)</text>
+					</navLabel>
+					<content src="Text/6-33.html#toc_marker-1-13-6"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint44" playOrder="44">
+				<navLabel>
+					<text>14. Meclis’in Açılmasına Değin Dış İlişkiler</text>
+				</navLabel>
+				<content src="Text/6-34.html#toc_marker-1-14"/>
+				<navPoint id="navpoint45" playOrder="45">
+					<navLabel>
+						<text>29. Çukurova Bölgesi ve Fransa ile İlişkiler</text>
+					</navLabel>
+					<content src="Text/6-35.html#toc_marker-1-14-1"/>
+				</navPoint>
+				<navPoint id="navpoint46" playOrder="46">
+					<navLabel>
+						<text>30. Ege Sorunu ve Yunanistan</text>
+					</navLabel>
+					<content src="Text/6-36.html#toc_marker-1-14-2"/>
+				</navPoint>
+				<navPoint id="navpoint47" playOrder="47">
+					<navLabel>
+						<text>31. İstanbul’un Kaderi Gündeme Geliyor</text>
+					</navLabel>
+					<content src="Text/6-37.html#toc_marker-1-14-3"/>
+				</navPoint>
+				<navPoint id="navpoint48" playOrder="48">
+					<navLabel>
+						<text>32. Barış Koşullarını Belirleyecek İngiliz-Fransız Görüşmeleri</text>
+					</navLabel>
+					<content src="Text/6-38.html#toc_marker-1-14-4"/>
+				</navPoint>
+				<navPoint id="navpoint49" playOrder="49">
+					<navLabel>
+						<text>33. Osmanlı Kamuoyunda Yankılar</text>
+					</navLabel>
+					<content src="Text/6-39.html#toc_marker-1-14-5"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint50" playOrder="50">
+			<navLabel>
+				<text>II - MECLİS’İN AÇILMASINDAN SALİH PAŞA HÜKÜMETİNİN KURULMASINA KADAR OLUP BİTENLER</text>
+			</navLabel>
+			<content src="Text/6-40.html#toc_marker-2"/>
+			<navPoint id="navpoint51" playOrder="51">
+				<navLabel>
+					<text>1. İtilaf Devletlerine Karşı Tepkiler ve Onların Karşı Tepkileri</text>
+				</navLabel>
+				<content src="Text/6-41.html#toc_marker-2-1"/>
+				<navPoint id="navpoint52" playOrder="52">
+					<navLabel>
+						<text>34. İstanbul Mitingi (13 Ocak)</text>
+					</navLabel>
+					<content src="Text/6-41.html#toc_marker-2-1-1"/>
+				</navPoint>
+				<navPoint id="navpoint53" playOrder="53">
+					<navLabel>
+						<text>35. İngilizlere Karşı Amerikancı ve Fransızcı Tutumlar</text>
+					</navLabel>
+					<content src="Text/6-42.html#toc_marker-2-1-2"/>
+				</navPoint>
+				<navPoint id="navpoint54" playOrder="54">
+					<navLabel>
+						<text>36. İtilaf Devletlerine Karşı Yöneltilen Tehditler</text>
+					</navLabel>
+					<content src="Text/6-43.html#toc_marker-2-1-3"/>
+				</navPoint>
+				<navPoint id="navpoint55" playOrder="55">
+					<navLabel>
+						<text>37. Saray’da İki Toplantı</text>
+					</navLabel>
+					<content src="Text/6-44.html#toc_marker-2-1-4"/>
+				</navPoint>
+				<navPoint id="navpoint56" playOrder="56">
+					<navLabel>
+						<text>38. Araplarla İşbirliği</text>
+					</navLabel>
+					<content src="Text/6-45.html#toc_marker-2-1-5"/>
+				</navPoint>
+				<navPoint id="navpoint57" playOrder="57">
+					<navLabel>
+						<text>39. İtilaf’a Karşı Savaş Tehdidi</text>
+					</navLabel>
+					<content src="Text/6-46.html#toc_marker-2-1-6"/>
+				</navPoint>
+				<navPoint id="navpoint58" playOrder="58">
+					<navLabel>
+						<text>40. “Blöf” Sorunu</text>
+					</navLabel>
+					<content src="Text/6-47.html#toc_marker-2-1-7"/>
+				</navPoint>
+				<navPoint id="navpoint59" playOrder="59">
+					<navLabel>
+						<text>41. Meclis’in Çalışmaları (1)</text>
+					</navLabel>
+					<content src="Text/6-48.html#toc_marker-2-1-8"/>
+				</navPoint>
+				<navPoint id="navpoint60" playOrder="60">
+					<navLabel>
+						<text>42. Cemal ve Cevat Paşaların İstifa Ettirilmesi (21 Ocak)</text>
+					</navLabel>
+					<content src="Text/6-49.html#toc_marker-2-1-9"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint61" playOrder="61">
+				<navLabel>
+					<text>2. Paşalar Sorununa Mustafa Kemal’in Büyük Tepkisi ve Sonraki Gelişmeler</text>
+				</navLabel>
+				<content src="Text/6-50.html#toc_marker-2-2"/>
+				<navPoint id="navpoint62" playOrder="62">
+					<navLabel>
+						<text>43. Mustafa Kemal’in 22 Ocak Telleri</text>
+					</navLabel>
+					<content src="Text/6-50.html#toc_marker-2-2-1"/>
+				</navPoint>
+				<navPoint id="navpoint63" playOrder="63">
+					<navLabel>
+						<text>44. Mustafa Kemal Başka Cephelerde (Çukurova, 25 Ocak ve Akbaş, 26 Ocak) Harekete Geçiyor</text>
+					</navLabel>
+					<content src="Text/6-51.html#toc_marker-2-2-2"/>
+				</navPoint>
+				<navPoint id="navpoint64" playOrder="64">
+					<navLabel>
+						<text>45. Meclis’in Çalışmaları (2)</text>
+					</navLabel>
+					<content src="Text/6-52.html#toc_marker-2-2-3"/>
+				</navPoint>
+				<navPoint id="navpoint65" playOrder="65">
+					<navLabel>
+						<text>46. Misak-ı Milli ve Grup Kurma Çalışmaları</text>
+					</navLabel>
+					<content src="Text/6-53.html#toc_marker-2-2-4"/>
+				</navPoint>
+				<navPoint id="navpoint66" playOrder="66">
+					<navLabel>
+						<text>47. Hükümet ve Güvenoyu Sorunu</text>
+					</navLabel>
+					<content src="Text/6-54.html#toc_marker-2-2-5"/>
+				</navPoint>
+				<navPoint id="navpoint67" playOrder="67">
+					<navLabel>
+						<text>48. Mustafa Kemal’in Siyasal Önderliği Sorunu</text>
+					</navLabel>
+					<content src="Text/6-55.html#toc_marker-2-2-6"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint68" playOrder="68">
+				<navLabel>
+					<text>3. Bulutlar Kararmaya Başlıyor</text>
+				</navLabel>
+				<content src="Text/6-56.html#toc_marker-2-3"/>
+				<navPoint id="navpoint69" playOrder="69">
+					<navLabel>
+						<text>49. Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti’nin Dağıtılması İsteniyor</text>
+					</navLabel>
+					<content src="Text/6-56.html#toc_marker-2-3-1"/>
+				</navPoint>
+				<navPoint id="navpoint70" playOrder="70">
+					<navLabel>
+						<text>50. Maraş ve İstanbul ile İlgili Gelişmeler</text>
+					</navLabel>
+					<content src="Text/6-57.html#toc_marker-2-3-2"/>
+				</navPoint>
+				<navPoint id="navpoint71" playOrder="71">
+					<navLabel>
+						<text>51. Meclis’in Çalışmaları (3)</text>
+					</navLabel>
+					<content src="Text/6-58.html#toc_marker-2-3-3"/>
+				</navPoint>
+				<navPoint id="navpoint72" playOrder="72">
+					<navLabel>
+						<text>52. Saray ve Muhalefet Cephesinde Olup Bitenler</text>
+					</navLabel>
+					<content src="Text/6-59.html#toc_marker-2-3-4"/>
+				</navPoint>
+				<navPoint id="navpoint73" playOrder="73">
+					<navLabel>
+						<text>53. İkinci Anzavur İsyanının Başlatılması (8 Mart’a kadar)</text>
+					</navLabel>
+					<content src="Text/6-60.html#toc_marker-2-3-5"/>
+				</navPoint>
+				<navPoint id="navpoint74" playOrder="74">
+					<navLabel>
+						<text>54. Ali Rıza Hükümetinin İstifası (3 Mart)</text>
+					</navLabel>
+					<content src="Text/6-61.html#toc_marker-2-3-6"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint75" playOrder="75">
+			<navLabel>
+				<text>III - SALİH PAŞA HÜKÜMETİ (8 MART - 4 NİSAN 1920)</text>
+			</navLabel>
+			<content src="Text/6-62.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint76" playOrder="76">
+			<navLabel>
+				<text>IV - SONUÇ</text>
+			</navLabel>
+			<content src="Text/6-76.html#toc_marker-4"/>
+		</navPoint>
+	</navMap>
+</ncx>

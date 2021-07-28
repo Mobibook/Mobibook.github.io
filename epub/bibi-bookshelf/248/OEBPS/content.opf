@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Demirci, Senai">Senai Demirci</dc:creator>
+<dc:identifier id="bookid">978-975-263-720-7</dc:identifier>
+    <dc:publisher>Timaş Basım</dc:publisher>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="_kapak.png"/>
+    <meta content="Dua Defterim" name="calibre:title_sort"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Senai Demirci&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf">2014-06-19T21:00:00+00:00</dc:date>
+  <dc:title>Dua Defterim</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>İnanç</dc:subject>
+<dc:description>&lt;p&gt;“Dua sözün sözden öte konuşmasıdır.
+Dua sözün kıblesi, kalbin haccıdır. 
+Dua sözün miracıdır.”&lt;/p&gt;</dc:description>
+<dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">3b57ba1b-2fb2-4c12-8237-a7b2c910f722</dc:identifier>
+<dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">2789785912989</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="added1" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="added" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="added2" media-type="application/x-font-ttf"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Text/duadefterim-epub.html" id="duadefterim-epub" media-type="application/xhtml+xml"/>
+    <item href="Text/duadefterim-epub-1.html" id="duadefterim-epub-1" media-type="application/xhtml+xml"/>
+    <item href="Text/duadefterim-epub-2.html" id="duadefterim-epub-2" media-type="application/xhtml+xml"/>
+    <item href="Text/duadefterim-epub-3.html" id="duadefterim-epub-3" media-type="application/xhtml+xml"/>
+    <item href="Text/duadefterim-epub-4.html" id="duadefterim-epub-4" media-type="application/xhtml+xml"/>
+    <item href="Images/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/3_fmt.jpeg" id="x3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/duadefterim-dis.jpg" id="duadefterim-dis.jpg" media-type="image/jpeg"/>
+    <item href="Images/_kapak.png" id="_kapak.png" media-type="image/png"/>
+    <item href="Images/gorselhadis_fmt.jpeg" id="gorselhadis_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/isiginkaranligiparcala_fmt.jpeg" id="isiginkaranligiparcala_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/nasreddinhoca_fmt.jpeg" id="nasreddinhoca_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/nokta_fmt.png" id="nokta_fmt.png" media-type="image/png"/>
+    <item href="Images/nokta_fmt1.png" id="nokta_fmt1.png" media-type="image/png"/>
+    <item href="Images/nokta_fmt2.png" id="nokta_fmt2.png" media-type="image/png"/>
+    <item href="Images/nokta_fmt3.png" id="nokta_fmt3.png" media-type="image/png"/>
+    <item href="Images/timaslogo_fmt.jpeg" id="timaslogo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="duadefterim-epub"/>
+    <itemref idref="duadefterim-epub-1"/>
+    <itemref idref="duadefterim-epub-2"/>
+    <itemref idref="duadefterim-epub-3"/>
+    <itemref idref="duadefterim-epub-4"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

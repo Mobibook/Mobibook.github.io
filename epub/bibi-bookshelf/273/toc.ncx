@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr-TR">
+<head><meta name="uid" content="{F29FF938-DEE9-4AAD-B43B-4D1258416BF7}"/></head>
+<docTitle><text>Sezgin Kaymaz - Kun e</text></docTitle>
+<navMap>
+<navPoint playOrder="1" id="{88D363DC-FC16-429C-BADD-3071724A3B18}"><navLabel><text>Kün</text></navLabel><content src="main.xhtml#caption1"/></navPoint>
+<navPoint playOrder="2" id="{7AF021E5-FAE1-44FE-8438-8D2AD5F01E0D}"><navLabel><text>“Bi daha da beni uyandırdığını görmeyim.”</text></navLabel><content src="main-1.xhtml"/></navPoint>
+<navPoint playOrder="3" id="{72060523-ABF2-419D-8D83-946AC546BD82}"><navLabel><text>Hadi sen şimdi Hüdai Ağa ol da, Çeto’yu yanın sıra</text></navLabel><content src="main-2.xhtml"/></navPoint>
+<navPoint playOrder="4" id="{BF4FA0E2-A882-4BD2-8A65-E065519B722A}"><navLabel><text>Çeto yirmi sekiz sene yaşamıştı... En az...</text></navLabel><content src="main-3.xhtml"/></navPoint>
+<navPoint playOrder="5" id="{C80591EE-9405-47A5-BE30-4EE975AC76F1}"><navLabel><text>Bu olmuş geminin en sağlam demi.</text></navLabel><content src="main-4.xhtml"/></navPoint>
+<navPoint playOrder="6" id="{84E69CC9-7D46-40F1-90FE-D6B9BB35216E}"><navLabel><text>“Ankara’ya.” dedi Hüdai Ağa.</text></navLabel><content src="main-5.xhtml"/></navPoint>
+<navPoint playOrder="7" id="{D3360D17-C314-4C9F-9E05-7B7C4F983C5B}"><navLabel><text>O esnâda, Menderes ve Doğan Feridiye Karakolunun a</text></navLabel><content src="main-6.xhtml"/></navPoint>
+</navMap></ncx>

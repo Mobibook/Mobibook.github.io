@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Freud, Sigmund">Sigmund Freud</dc:creator>
+<dc:description>&lt;p&gt;Psikanalizin kurucusu Sigmund Freud psikanalizin toplumsal olayları, uygarlığın gelişimini ve sonuçlarını açıklamakta da elverişli bir kuram olduğunu Uygarlığın Huzursuzluğu, Totem ve Tabu, Grup Psikolojisi gibi eserlerinde göstermiştir. Freud'un psikanalizin bulgularının sosyal hayat için ne anlama geldiğini dile getirdiği başlıca eseri olduğu için, Uygarlığın Huzursuzluğu yirminci yüzyıl boyunca birçok düşünürü etkilemiş, birçoklarına ilham vermiş ve kendisiyle hesaplaşmak zorunda bırakmıştır. Freud'a göre hayvani dürtülerle güdülenen insanın aynı zamanda uygar bir varlık olmaya çalışması trajik bir durumdur. Bununla beraber Freud insanın uygarlıktan vazgeçemeyeceğini de kabul eder. Sonuç uygarlığın kaçınılmaz huzursuzluğudur.Ötekini Dinlemek uzmanlaşmış bir dizi. Ama dizide yer alacak bütün kitaplar doğrudan insana dair. Hayatlarımıza, kendi kişisel deneyim alanımıza, ana babalarımıza, onlarla ilişkilerimize, zor büyüme yıllarımıza dair bir bilgi... Kendimiz ve diğer insanlarla ilgili sezgilerimizi geliştirmemize yardımcı olacak, yeni kavrayış imkânları verecek ve kuşkusuz öğrenirken herkesin kendi deneyimleriyle sınayacağı türden bir bilgi... Psikiyatri ve psikanaliz alanında yüzyıl boyunca yazılmış temel yapıtları bir kütüphane oluşturacak kapsamda bir araya getirirken bunu amaçladık.&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid">{05A287E1-2BF1-49A6-B690-9D5E67FE6CD5}</dc:identifier>
+    <dc:date>2010-08-04T21:00:00+00:00</dc:date>
+    <dc:publisher>Metis Yayımcılık</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-08-05</dc:date>
+    <meta name="cover" content="id1"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Uygarlığın Huzursuzluğu" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{&quot;Sigmund Freud&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  <dc:title>Uygarlığın Huzursuzluğu</dc:title>
+<dc:subject>İnsan ve Toplum</dc:subject>
+<dc:subject>Psikiyatri</dc:subject>
+<dc:subject>Psikanaliz</dc:subject>
+<dc:subject>Psikoloji</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">ff4effb3-e777-44fd-be3b-0b17eafba897</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753422062</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id10" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id9" media-type="text/css"/>
+    <item href="Images/main-1.jpg" id="id1" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id10">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id0"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

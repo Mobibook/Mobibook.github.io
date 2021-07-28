@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:9bea1a5b-4e54-41fa-8833-f6db03ad085b" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Bölüm 1-Cenk</text>
+      </navLabel>
+      <content src="Text/BirAsosyalinDeiimi.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Bölüm 2-Twitter</text>
+      </navLabel>
+      <content src="Text/BirAsosyalinDeiimi.html#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Bölüm 3-Akıllı Telefon</text>
+      </navLabel>
+      <content src="Text/BirAsosyalinDeiimi.html#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Bölüm 4-Taha</text>
+      </navLabel>
+      <content src="Text/BirAsosyalinDeiimi.html#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Bölüm 5-Ankara Gezisi</text>
+      </navLabel>
+      <content src="Text/BirAsosyalinDeiimi.html#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Bölüm 6-Tuğçe</text>
+      </navLabel>
+      <content src="Text/BirAsosyalinDeiimi.html#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Bölüm 7-Hafta Sonu Cezası</text>
+      </navLabel>
+      <content src="Text/BirAsosyalinDeiimi.html#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Bölüm 8-İntihar</text>
+      </navLabel>
+      <content src="Text/BirAsosyalinDeiimi.html#sigil_toc_id_7"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Bölüm 9- Pilav Günü</text>
+      </navLabel>
+      <content src="Text/Section0001.html#sigil_toc_id_8"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Bölüm 10-Değişim Planları</text>
+      </navLabel>
+      <content src="Text/Section0001.html#sigil_toc_id_9"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Bölüm 11-Serdar</text>
+      </navLabel>
+      <content src="Text/Section0001.html#sigil_toc_id_10"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Bölüm 12-Okullar Açılıyor</text>
+      </navLabel>
+      <content src="Text/Section0001.html#sigil_toc_id_11"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Bölüm 13-Halı Saha Maçı</text>
+      </navLabel>
+      <content src="Text/Section0001.html#sigil_toc_id_12"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Bölüm 14-Hamile</text>
+      </navLabel>
+      <content src="Text/Section0001.html#sigil_toc_id_13"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Bölüm 15-Emre'nin Planı</text>
+      </navLabel>
+      <content src="Text/Section0001.html#sigil_toc_id_14"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Bölüm 16-Tuğçe'nin Öfkesi</text>
+      </navLabel>
+      <content src="Text/Section0001.html#sigil_toc_id_15"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Bölüm 17-Son</text>
+      </navLabel>
+      <content src="Text/Section0001.html#sigil_toc_id_16"/>
+    </navPoint>
+  </navMap>
+</ncx>

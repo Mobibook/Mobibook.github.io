@@ -1,0 +1,18 @@
+h3 {font-size: 1.5em; text-align: center; font-weight: bold;}
+
+h4 {font-size: 1em; text-align: center; font-weight: bold;}
+h2 {font-size: 1.5em; text-align: center; font-weight: bold; margin-top: 1.5em; margin-bottom: 1.5em; }
+
+.ana_baslik {margin-top: 0em;}
+.kunye {text-align: left; font-size: 0.6em; margin-top: 2em; margin-bottom: 0em;}
+.yazar_adi {text-align: center; margin-top: 0em; font-size: 1.5em; font-weight: normal; }
+.kitap_adi {text-align: center; font-size: 2em; font-weight: bold; }
+.yazar_bilgi {text-align: justify; font-size: 1em; text-indent: 1.3em;}
+.logo {position: absolute; bottom: 0; text-align: center;}
+.inceleme { text-indent: 1.3em; font-size: 1em; font-weight: italic; text-align: justify;}
+
+.ara_isareti {text-align: center; }
+
+p {text-indent: 1.3em; font-size: 1em; text-align: justify; }
+
+.kapak_resmi {text-align: center; }

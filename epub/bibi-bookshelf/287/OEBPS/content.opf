@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Freud, Sigmund">Sigmund Freud</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">3a1f6da9-197c-4178-9b25-8eb6855f6409</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>1980-08-13T21:00:00+00:00</dc:date>
+    <meta content="Totem ve Tabu I" name="calibre:title_sort"/>
+    <meta content="2014-01-15T14:13:21.670000+00:00" name="calibre:timestamp"/>
+    <meta content="0.8.2" name="Sigil version"/>
+    <dc:publisher>Cumhuriyet Dünya Klasikleri</dc:publisher>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:description>&lt;p&gt;Sigmund Freud (1856-1939) yaratıcısı olduğu psikanaliz metodu ve bıraktığı anıtsal eserler topluluğu ile çağdaş düşünceyi derinden etkilemiş bir bilim adamı ve düşünürdür. Onu, bu ünlü eserinde, psikanalizi toplum bilimleri alanına yayar ve uygularken görüyoruz. Freud'ün, günümüz nevrozlularıyla ilkel insanlar arasında kurduğu analoji abartmalı bulunsa bile, ilgi uyandırmaktan geri kalmaz. Ayrıca, bu eser, psikanalizin sentez ve yorum gücünü gösteren güzel bir örnektir.&lt;/p&gt;</dc:description>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Sigmund Freud&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date opf:event="modification">2015-07-10</dc:date>
+  <dc:title>Totem ve Tabu I</dc:title>
+<dc:subject>Psikoloji</dc:subject>
+<dc:subject>Psikanaliz</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">c699bc4f-cf38-4ba1-b69e-65d8e1fd18eb</dc:identifier>
+<dc:identifier opf:scheme="ISBN">2001973103918</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/ill_pg_013.png" id="ill_pg_013.png" media-type="image/png"/>
+    <item href="Text/3.html" id="x3.html" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Text/1.html" id="x1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5.html" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6.html" media-type="application/xhtml+xml"/>
+    <item href="Text/7.html" id="x7.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1.html"/>
+    <itemref idref="x2.html"/>
+    <itemref idref="x3.html"/>
+    <itemref idref="x4.html"/>
+    <itemref idref="x5.html"/>
+    <itemref idref="x6.html"/>
+    <itemref idref="x7.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

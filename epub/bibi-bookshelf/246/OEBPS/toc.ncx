@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="50b9c06e-5148-4dcc-a0e3-8e2a58673ae8" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.8.10)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yazar Olabilir miyim?</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="2ec3c3bd-7198-4019-8936-4ea8b13e7ea4" playOrder="1">
+      <navLabel>
+        <text>Yaratıcı Yazarlık Öğrenilebilir mi?   (Önsöz)</text>
+      </navLabel>
+      <content src="Text/SG-YARATICI%20sayfa%204_split_005.html"/>
+    </navPoint>
+    <navPoint id="a065610a-ab6d-4dec-b104-ce8fa1c3aeca" playOrder="1">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/SG-YARATICI%20sayfa%204_split_000.html"/>
+      <navPoint id="cafb33c0-9870-4aab-890e-1f1374832bc2" playOrder="2">
+        <navLabel>
+          <text>Yaratıcı Yazının Yolları, Yordamları</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_006.html"/>
+      </navPoint>
+      <navPoint id="55805b2f-e5e0-42fd-a679-34fd5967323c" playOrder="3">
+        <navLabel>
+          <text>İlk Adım ve Ne Yazmalıyım?</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_007.html"/>
+      </navPoint>
+      <navPoint id="85cd3919-b814-45ea-909c-f028ecec54ac" playOrder="4">
+        <navLabel>
+          <text>Yazarlığın Çekim Gücü</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_008.html"/>
+      </navPoint>
+      <navPoint id="76777f93-3f68-4dba-a48a-07a0c2a05448" playOrder="5">
+        <navLabel>
+          <text>Nasıl Yazmalıyım?</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_009.html"/>
+      </navPoint>
+      <navPoint id="9b23d12b-6dd4-442b-9750-fbb6d2958017" playOrder="6">
+        <navLabel>
+          <text>Gerçeklik ve Kurmaca</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_010.html"/>
+      </navPoint>
+      <navPoint id="f4fad57b-2bf8-4d40-a480-700bc8a94b57" playOrder="7">
+        <navLabel>
+          <text>Gerçek, Düş, Kurmaca</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_011.html"/>
+      </navPoint>
+      <navPoint id="05ae44c2-96bc-463b-b095-6c1688fb354f" playOrder="8">
+        <navLabel>
+          <text>Dört Aşamalı Okuma Önerisi</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_014.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="fc11e55b-3e58-42f9-8e92-343bab730dab" playOrder="9">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/SG-YARATICI%20sayfa%204_split_000.html"/>
+      <navPoint id="a0a06fb3-6ad8-4c74-936b-2c3734b4f0fc" playOrder="9">
+        <navLabel>
+          <text>Kurmacanın Bazı Öğeleri</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_018.html"/>
+      </navPoint>
+      <navPoint id="5373e2e2-b24e-4dc7-b021-c64aeabd4969" playOrder="10">
+        <navLabel>
+          <text>Yazınsal Metin ve Hikâyesi</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_019.html"/>
+      </navPoint>
+      <navPoint id="94ccde72-f9db-49a9-b075-c5dacfb63f31" playOrder="11">
+        <navLabel>
+          <text>Yazınsal Kişileri Yaratma Biçimi</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_020.html"/>
+      </navPoint>
+      <navPoint id="7fce9692-ee8a-4d54-be92-b2f5b9286b73" playOrder="12">
+        <navLabel>
+          <text>Metin Nasıl Başlar, Nasıl Biter?</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_023.html"/>
+      </navPoint>
+      <navPoint id="fceab28f-0973-4ecc-b0ee-45a16f393f9e" playOrder="13">
+        <navLabel>
+          <text>Bir Anlatım Sorunu: Birinci Kişi Anlatımı</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_024.html"/>
+      </navPoint>
+      <navPoint id="77777d14-0a54-4555-973c-fc3edebb4087" playOrder="14">
+        <navLabel>
+          <text>Yoğunluğun Sırrı</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_025.html"/>
+      </navPoint>
+      <navPoint id="5b334184-e614-439e-ad23-6cc1d2eaaf79" playOrder="15">
+        <navLabel>
+          <text>Olay Örgüsü ve Düğümleri Bağlamak</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_026.html"/>
+      </navPoint>
+      <navPoint id="0e58380b-2461-46c3-90bb-9cd9f7bf4fe6" playOrder="16">
+        <navLabel>
+          <text>Yazınsal Metinlerin Vazgeçilmezleri: Mekân ve Nesneler</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_027.html"/>
+      </navPoint>
+      <navPoint id="182c6e21-4de1-47f9-9df4-3e9ca9aa1f7f" playOrder="17">
+        <navLabel>
+          <text>Düzyazının Olanakları</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_028.html"/>
+      </navPoint>
+      <navPoint id="3fcd0989-3d96-4145-b3de-43d9654257e3" playOrder="18">
+        <navLabel>
+          <text>Bir Anlatı Olarak Kısa Öykü</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_031.html"/>
+      </navPoint>
+      <navPoint id="76977cb1-814e-4cd1-ad0e-01a000c118e2" playOrder="19">
+        <navLabel>
+          <text>Yalınlığın Zorluğu ve Olanakları</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_034.html"/>
+      </navPoint>
+      <navPoint id="3e8416ac-df78-40e7-9fcc-ddebd9efc36e" playOrder="20">
+        <navLabel>
+          <text>Yalınlıktan Karmaşıklığa Geçiş</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_035.html"/>
+      </navPoint>
+      <navPoint id="f43c95ea-e4c9-4af5-a620-f10305275e6f" playOrder="21">
+        <navLabel>
+          <text>Romancının Deneyimi</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_036.html"/>
+      </navPoint>
+      <navPoint id="36a8e8a5-321d-4322-8ea1-4467e6457ed6" playOrder="22">
+        <navLabel>
+          <text>İnsanın Yazıdaki Yeri</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_037.html"/>
+      </navPoint>
+      <navPoint id="b287febb-333b-43e4-b257-ef30e0121df0" playOrder="23">
+        <navLabel>
+          <text>Yazar, Nasıl Yazar?</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_038.html"/>
+      </navPoint>
+      <navPoint id="76c08042-ca53-4130-8921-ac305ce6b717" playOrder="24">
+        <navLabel>
+          <text>Yaratıcı Yazının İçinde Yaşamak</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_039.html"/>
+      </navPoint>
+      <navPoint id="6be3cfb8-e500-4af4-805e-cd70e4659a2a" playOrder="25">
+        <navLabel>
+          <text>Nasıl Yayımlayabilirim?</text>
+        </navLabel>
+        <content src="Text/SG-YARATICI%20sayfa%204_split_040.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="a1560898-2cb5-40ee-adb2-2ccf61576539" playOrder="26">
+      <navLabel>
+        <text>Yaratıcı Yazının Yolunu Açmak İçin   (Sonsöz)</text>
+      </navLabel>
+      <content src="Text/SG-YARATICI%20sayfa%204_split_041.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

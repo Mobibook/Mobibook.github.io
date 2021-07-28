@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="391658cb-15a0-4885-a2a8-b1ce18133002" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.20)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Sessiz Bir Ölüm</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="f1de14a9-d314-4304-b66a-0855a3c107c3" playOrder="0">
+      <navLabel>
+        <text>��</text>
+      </navLabel>
+      <content src="index_split_000.html#1"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,215 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Akşin, Sina">Sina Akşin</dc:creator>
+<meta content="Adobe InDesign" name="generator"/>
+    <dc:description>&lt;p class="description"&gt;&lt;span style="text-align: start; text-indent: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none; "&gt;Kitap Sina Akşin'in beş yıllık çalışması sonucunda ortaya çıkan ve bu alanda temel başvuru kaynağı olan bir yapıttır. İki ciltten oluşan İstanbul Hükümetleri ve Milli Mücadele kitabının ilk cildi olan "Mutlakıyete Dönüş"te, 1918-1919 yılları arasında İstanbul Hükümetlerinin karşılaştığı ana siyasal olaylar anlatılmakta ve bu olaylara verilen tepkiler ayrıntılı olarak incelenmektedir. İkinci cilt "Son Meşrutiyet"te ise Damat Ferit Paşa hükümetinin 1919'da çekilmesi ile 1920'de yeniden iktidar olması sürecinde yaşanan siyasi olay ve gelişmeler ele alınmaktadır.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/p&gt;</dc:description>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:date>2013-06-25T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:6ED26CD2-6F32-4F28-A2E5-B1AF709DACCA</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-04-19</dc:date>
+  <dc:title>İstanbul Hükümetleri ve Milli Mücadele 2</dc:title>
+<meta name="calibre:title_sort" content="İstanbul Hükümetleri ve Milli Mücadele 2"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Tarih</dc:subject>
+<dc:subject>Siyasi</dc:subject>
+<dc:subject>Askeri</dc:subject>
+<dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.33.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Sina Akşin&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">baa4c847-f565-4b63-a223-fe3e5d2ef03c</dc:identifier>
+<dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9789754581249</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="Text/6-1.html" id="x6-1" media-type="application/xhtml+xml"/>
+    <item href="Text/6-2.html" id="x6-2" media-type="application/xhtml+xml"/>
+    <item href="Text/6-3.html" id="x6-3" media-type="application/xhtml+xml"/>
+    <item href="Text/6-4.html" id="x6-4" media-type="application/xhtml+xml"/>
+    <item href="Text/6-5.html" id="x6-5" media-type="application/xhtml+xml"/>
+    <item href="Text/6-6.html" id="x6-6" media-type="application/xhtml+xml"/>
+    <item href="Text/6-7.html" id="x6-7" media-type="application/xhtml+xml"/>
+    <item href="Text/6-8.html" id="x6-8" media-type="application/xhtml+xml"/>
+    <item href="Text/6-9.html" id="x6-9" media-type="application/xhtml+xml"/>
+    <item href="Text/6-10.html" id="x6-10" media-type="application/xhtml+xml"/>
+    <item href="Text/6-11.html" id="x6-11" media-type="application/xhtml+xml"/>
+    <item href="Text/6-12.html" id="x6-12" media-type="application/xhtml+xml"/>
+    <item href="Text/6-13.html" id="x6-13" media-type="application/xhtml+xml"/>
+    <item href="Text/6-14.html" id="x6-14" media-type="application/xhtml+xml"/>
+    <item href="Text/6-15.html" id="x6-15" media-type="application/xhtml+xml"/>
+    <item href="Text/6-16.html" id="x6-16" media-type="application/xhtml+xml"/>
+    <item href="Text/6-17.html" id="x6-17" media-type="application/xhtml+xml"/>
+    <item href="Text/6-18.html" id="x6-18" media-type="application/xhtml+xml"/>
+    <item href="Text/6-19.html" id="x6-19" media-type="application/xhtml+xml"/>
+    <item href="Text/6-20.html" id="x6-20" media-type="application/xhtml+xml"/>
+    <item href="Text/6-21.html" id="x6-21" media-type="application/xhtml+xml"/>
+    <item href="Text/6-22.html" id="x6-22" media-type="application/xhtml+xml"/>
+    <item href="Text/6-23.html" id="x6-23" media-type="application/xhtml+xml"/>
+    <item href="Text/6-24.html" id="x6-24" media-type="application/xhtml+xml"/>
+    <item href="Text/6-25.html" id="x6-25" media-type="application/xhtml+xml"/>
+    <item href="Text/6-26.html" id="x6-26" media-type="application/xhtml+xml"/>
+    <item href="Text/6-27.html" id="x6-27" media-type="application/xhtml+xml"/>
+    <item href="Text/6-28.html" id="x6-28" media-type="application/xhtml+xml"/>
+    <item href="Text/6-29.html" id="x6-29" media-type="application/xhtml+xml"/>
+    <item href="Text/6-30.html" id="x6-30" media-type="application/xhtml+xml"/>
+    <item href="Text/6-31.html" id="x6-31" media-type="application/xhtml+xml"/>
+    <item href="Text/6-32.html" id="x6-32" media-type="application/xhtml+xml"/>
+    <item href="Text/6-33.html" id="x6-33" media-type="application/xhtml+xml"/>
+    <item href="Text/6-34.html" id="x6-34" media-type="application/xhtml+xml"/>
+    <item href="Text/6-35.html" id="x6-35" media-type="application/xhtml+xml"/>
+    <item href="Text/6-36.html" id="x6-36" media-type="application/xhtml+xml"/>
+    <item href="Text/6-37.html" id="x6-37" media-type="application/xhtml+xml"/>
+    <item href="Text/6-38.html" id="x6-38" media-type="application/xhtml+xml"/>
+    <item href="Text/6-39.html" id="x6-39" media-type="application/xhtml+xml"/>
+    <item href="Text/6-40.html" id="x6-40" media-type="application/xhtml+xml"/>
+    <item href="Text/6-41.html" id="x6-41" media-type="application/xhtml+xml"/>
+    <item href="Text/6-42.html" id="x6-42" media-type="application/xhtml+xml"/>
+    <item href="Text/6-43.html" id="x6-43" media-type="application/xhtml+xml"/>
+    <item href="Text/6-44.html" id="x6-44" media-type="application/xhtml+xml"/>
+    <item href="Text/6-45.html" id="x6-45" media-type="application/xhtml+xml"/>
+    <item href="Text/6-46.html" id="x6-46" media-type="application/xhtml+xml"/>
+    <item href="Text/6-47.html" id="x6-47" media-type="application/xhtml+xml"/>
+    <item href="Text/6-48.html" id="x6-48" media-type="application/xhtml+xml"/>
+    <item href="Text/6-49.html" id="x6-49" media-type="application/xhtml+xml"/>
+    <item href="Text/6-50.html" id="x6-50" media-type="application/xhtml+xml"/>
+    <item href="Text/6-51.html" id="x6-51" media-type="application/xhtml+xml"/>
+    <item href="Text/6-52.html" id="x6-52" media-type="application/xhtml+xml"/>
+    <item href="Text/6-53.html" id="x6-53" media-type="application/xhtml+xml"/>
+    <item href="Text/6-54.html" id="x6-54" media-type="application/xhtml+xml"/>
+    <item href="Text/6-55.html" id="x6-55" media-type="application/xhtml+xml"/>
+    <item href="Text/6-56.html" id="x6-56" media-type="application/xhtml+xml"/>
+    <item href="Text/6-57.html" id="x6-57" media-type="application/xhtml+xml"/>
+    <item href="Text/6-58.html" id="x6-58" media-type="application/xhtml+xml"/>
+    <item href="Text/6-59.html" id="x6-59" media-type="application/xhtml+xml"/>
+    <item href="Text/6-60.html" id="x6-60" media-type="application/xhtml+xml"/>
+    <item href="Text/6-61.html" id="x6-61" media-type="application/xhtml+xml"/>
+    <item href="Text/6-62.html" id="x6-62" media-type="application/xhtml+xml"/>
+    <item href="Text/6-63.html" id="x6-63" media-type="application/xhtml+xml"/>
+    <item href="Text/6-64.html" id="x6-64" media-type="application/xhtml+xml"/>
+    <item href="Text/6-65.html" id="x6-65" media-type="application/xhtml+xml"/>
+    <item href="Text/6-66.html" id="x6-66" media-type="application/xhtml+xml"/>
+    <item href="Text/6-67.html" id="x6-67" media-type="application/xhtml+xml"/>
+    <item href="Text/6-68.html" id="x6-68" media-type="application/xhtml+xml"/>
+    <item href="Text/6-69.html" id="x6-69" media-type="application/xhtml+xml"/>
+    <item href="Text/6-70.html" id="x6-70" media-type="application/xhtml+xml"/>
+    <item href="Text/6-71.html" id="x6-71" media-type="application/xhtml+xml"/>
+    <item href="Text/6-72.html" id="x6-72" media-type="application/xhtml+xml"/>
+    <item href="Text/6-73.html" id="x6-73" media-type="application/xhtml+xml"/>
+    <item href="Text/6-74.html" id="x6-74" media-type="application/xhtml+xml"/>
+    <item href="Text/6-75.html" id="x6-75" media-type="application/xhtml+xml"/>
+    <item href="Text/6-76.html" id="x6-76" media-type="application/xhtml+xml"/>
+    <item href="Text/6-77.html" id="x6-77" media-type="application/xhtml+xml"/>
+    <item href="Text/6-78.html" id="x6-78" media-type="application/xhtml+xml"/>
+    <item href="Text/6-79.html" id="x6-79" media-type="application/xhtml+xml"/>
+    <item href="Text/6-80.html" id="x6-80" media-type="application/xhtml+xml"/>
+    <item href="Text/6-81.html" id="x6-81" media-type="application/xhtml+xml"/>
+    <item href="Text/6-82.html" id="x6-82" media-type="application/xhtml+xml"/>
+    <item href="Images/isbankasi_fmt.png" id="isbankasi_fmt.png" media-type="image/png"/>
+    <item href="Images/isyuvarlak_fmt.png" id="isyuvarlak_fmt.png" media-type="image/png"/>
+    <item href="Images/kapak_fmt.png" id="kapak_fmt.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x6-1"/>
+    <itemref idref="x6-2"/>
+    <itemref idref="x6-3"/>
+    <itemref idref="x6-4"/>
+    <itemref idref="x6-5"/>
+    <itemref idref="x6-6"/>
+    <itemref idref="x6-7"/>
+    <itemref idref="x6-8"/>
+    <itemref idref="x6-9"/>
+    <itemref idref="x6-10"/>
+    <itemref idref="x6-11"/>
+    <itemref idref="x6-12"/>
+    <itemref idref="x6-13"/>
+    <itemref idref="x6-14"/>
+    <itemref idref="x6-15"/>
+    <itemref idref="x6-16"/>
+    <itemref idref="x6-17"/>
+    <itemref idref="x6-18"/>
+    <itemref idref="x6-19"/>
+    <itemref idref="x6-20"/>
+    <itemref idref="x6-21"/>
+    <itemref idref="x6-22"/>
+    <itemref idref="x6-23"/>
+    <itemref idref="x6-24"/>
+    <itemref idref="x6-25"/>
+    <itemref idref="x6-26"/>
+    <itemref idref="x6-27"/>
+    <itemref idref="x6-28"/>
+    <itemref idref="x6-29"/>
+    <itemref idref="x6-30"/>
+    <itemref idref="x6-31"/>
+    <itemref idref="x6-32"/>
+    <itemref idref="x6-33"/>
+    <itemref idref="x6-34"/>
+    <itemref idref="x6-35"/>
+    <itemref idref="x6-36"/>
+    <itemref idref="x6-37"/>
+    <itemref idref="x6-38"/>
+    <itemref idref="x6-39"/>
+    <itemref idref="x6-40"/>
+    <itemref idref="x6-41"/>
+    <itemref idref="x6-42"/>
+    <itemref idref="x6-43"/>
+    <itemref idref="x6-44"/>
+    <itemref idref="x6-45"/>
+    <itemref idref="x6-46"/>
+    <itemref idref="x6-47"/>
+    <itemref idref="x6-48"/>
+    <itemref idref="x6-49"/>
+    <itemref idref="x6-50"/>
+    <itemref idref="x6-51"/>
+    <itemref idref="x6-52"/>
+    <itemref idref="x6-53"/>
+    <itemref idref="x6-54"/>
+    <itemref idref="x6-55"/>
+    <itemref idref="x6-56"/>
+    <itemref idref="x6-57"/>
+    <itemref idref="x6-58"/>
+    <itemref idref="x6-59"/>
+    <itemref idref="x6-60"/>
+    <itemref idref="x6-61"/>
+    <itemref idref="x6-62"/>
+    <itemref idref="x6-63"/>
+    <itemref idref="x6-64"/>
+    <itemref idref="x6-65"/>
+    <itemref idref="x6-66"/>
+    <itemref idref="x6-67"/>
+    <itemref idref="x6-68"/>
+    <itemref idref="x6-69"/>
+    <itemref idref="x6-70"/>
+    <itemref idref="x6-71"/>
+    <itemref idref="x6-72"/>
+    <itemref idref="x6-73"/>
+    <itemref idref="x6-74"/>
+    <itemref idref="x6-75"/>
+    <itemref idref="x6-76"/>
+    <itemref idref="x6-77"/>
+    <itemref idref="x6-78"/>
+    <itemref idref="x6-79"/>
+    <itemref idref="x6-80"/>
+    <itemref idref="x6-81"/>
+    <itemref idref="x6-82"/>
+  </spine>
+</package>

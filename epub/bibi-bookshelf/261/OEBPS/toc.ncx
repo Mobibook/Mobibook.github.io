@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="9781927893197 (ePub), 9781927893203 (mobi)" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yanlış Cumhuriyet</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>Sunuş</text>
+      </navLabel>
+      <content src="Text/section3.html"/>
+    </navPoint>
+    <navPoint id="navpoint-2" playOrder="2">
+      <navLabel>
+        <text>SORU 1 - Kemal Atatürk, dünyada eşi olmayan bir siyasi anlayışın temsilcisi midir?</text>
+      </navLabel>
+      <content src="Text/section4.html"/>
+    </navPoint>
+    <navPoint id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>SORU 2 - Kemalist rejimin kalıcılığı, eşi olmayan niteliklerinin eseri midir?</text>
+      </navLabel>
+      <content src="Text/section5.html"/>
+    </navPoint>
+    <navPoint id="navpoint-4" playOrder="4">
+      <navLabel>
+        <text>Demokrasi ve Cumhuriyet</text>
+      </navLabel>
+      <content src="Text/section6.html"/>
+    </navPoint>
+    <navPoint id="navpoint-5" playOrder="5">
+      <navLabel>
+        <text>SORU 3 - Kemal Atatürk’ün kurduğu rejim demokrasi midir?</text>
+      </navLabel>
+      <content src="Text/section7.html"/>
+    </navPoint>
+    <navPoint id="navpoint-6" playOrder="6">
+      <navLabel>
+        <text>SORU 4 - 1920’ler Türkiye’si demokrasinin nesnel koşullarına sahip miydi?</text>
+      </navLabel>
+      <content src="Text/section8.html"/>
+    </navPoint>
+    <navPoint id="navpoint-7" playOrder="7">
+      <navLabel>
+        <text>SORU 5 - “Milli egemenlik” ilkesi, demokratik bir niyetin ifadesi midir?</text>
+      </navLabel>
+      <content src="Text/section9.html"/>
+    </navPoint>
+    <navPoint id="navpoint-8" playOrder="8">
+      <navLabel>
+        <text>SORU 6 - Demokrasi, Atatürk’ün ileriye dönük hedefi miydi?</text>
+      </navLabel>
+      <content src="Text/section10.html"/>
+    </navPoint>
+    <navPoint id="navpoint-9" playOrder="9">
+      <navLabel>
+        <text>SORU 7 - Kadınlara oy hakkı verilmesi, Tek Parti rejiminin demokratik niteliğini gösterir mi?</text>
+      </navLabel>
+      <content src="Text/section11.html"/>
+    </navPoint>
+    <navPoint id="navpoint-10" playOrder="10">
+      <navLabel>
+        <text>SORU 8 - Birinci Meclisteki muhalifler, gerici, İslamcı ve Osmanlıcı bir anlayışın temsilcileri miydi?</text>
+      </navLabel>
+      <content src="Text/section12.html"/>
+    </navPoint>
+    <navPoint id="navpoint-11" playOrder="11">
+      <navLabel>
+        <text>SORU 9 - Terakkiperver Fırka, gerici, İslamcı ve Osmanlıcı bir anlayışın temsilcisi miydi?</text>
+      </navLabel>
+      <content src="Text/section13.html"/>
+    </navPoint>
+    <navPoint id="navpoint-12" playOrder="12">
+      <navLabel>
+        <text>SORU 10 - Atatürk’ün hükümdar olmayı reddetmesi, demokratik inançlarının göstergesi midir?</text>
+      </navLabel>
+      <content src="Text/section14.html"/>
+    </navPoint>
+    <navPoint id="navpoint-13" playOrder="13">
+      <navLabel>
+        <text>SORU 11 - Cumhuriyet, demokrasinin vazgeçilmez koşulu mudur?</text>
+      </navLabel>
+      <content src="Text/section15.html"/>
+    </navPoint>
+    <navPoint id="navpoint-14" playOrder="14">
+      <navLabel>
+        <text>SORU 12 - Türkiye’de saltanatın kaldırılması, demokrasinin vazgeçilmez koşulu muydu?</text>
+      </navLabel>
+      <content src="Text/section16.html"/>
+    </navPoint>
+    <navPoint id="navpoint-15" playOrder="15">
+      <navLabel>
+        <text>SORU 13 - Halifelik, “Ortaçağ zihniyetinin” eseri miydi? Kaldırılması, modern devletin bir koşulu muydu?</text>
+      </navLabel>
+      <content src="Text/section17.html"/>
+    </navPoint>
+    <navPoint id="navpoint-16" playOrder="16">
+      <navLabel>
+        <text>Kul Kültürü</text>
+      </navLabel>
+      <content src="Text/section18.html"/>
+    </navPoint>
+    <navPoint id="navpoint-17" playOrder="17">
+      <navLabel>
+        <text>SORU 14 - Kemalist rejim, Türkiye’de “kul kültürünün” giderilmesine yardımcı olmuş mudur?</text>
+      </navLabel>
+      <content src="Text/section19.html"/>
+    </navPoint>
+    <navPoint id="navpoint-18" playOrder="18">
+      <navLabel>
+        <text>SORU 15 - Türkiye’de kişiye tapma geleneği, Atatürk’e rağmen ortaya çıkmış bir olgu mudur?</text>
+      </navLabel>
+      <content src="Text/section20.html"/>
+    </navPoint>
+    <navPoint id="navpoint-19" playOrder="19">
+      <navLabel>
+        <text>SORU 16 - Kişiye tapma, bir Osmanlı geleneği midir?</text>
+      </navLabel>
+      <content src="Text/section21.html"/>
+    </navPoint>
+    <navPoint id="navpoint-20" playOrder="20">
+      <navLabel>
+        <text>SORU 17 - Kemalist rejim, Türkiye’de hukuk devletinin ön koşullarını hazırlamış mıdır?</text>
+      </navLabel>
+      <content src="Text/section22.html"/>
+    </navPoint>
+    <navPoint id="navpoint-21" playOrder="21">
+      <navLabel>
+        <text>SORU 18 - Türkiye’de demokratik hukuk devleti davası Kemalist anlayışla bağdaşır mı?</text>
+      </navLabel>
+      <content src="Text/section23.html"/>
+    </navPoint>
+    <navPoint id="navpoint-22" playOrder="22">
+      <navLabel>
+        <text>İnkılaplar</text>
+      </navLabel>
+      <content src="Text/section24.html"/>
+    </navPoint>
+    <navPoint id="navpoint-23" playOrder="23">
+      <navLabel>
+        <text>SORU 19 - Harf devrimi, Türkiye’de okuryazarlığın yaygınlaşmasını sağlamış mıdır?</text>
+      </navLabel>
+      <content src="Text/section25.html"/>
+    </navPoint>
+    <navPoint id="navpoint-24" playOrder="24">
+      <navLabel>
+        <text>SORU 20 - Harf devrimi, Türkiye’nin Batı kültürüne açılmasını sağlamış mıdır?</text>
+      </navLabel>
+      <content src="Text/section26.html"/>
+    </navPoint>
+    <navPoint id="navpoint-25" playOrder="25">
+      <navLabel>
+        <text>SORU 21 - Dil devriminin amacı, Türkçe yazı dilini konuşma diline uyarlamak mıdır? </text>
+      </navLabel>
+      <content src="Text/section27.html"/>
+    </navPoint>
+    <navPoint id="navpoint-26" playOrder="26">
+      <navLabel>
+        <text>SORU 22 - Dil devrimi, Türk dilini geliştirmiş veya zenginleştirmiş midir? </text>
+      </navLabel>
+      <content src="Text/section28.html"/>
+    </navPoint>
+    <navPoint id="navpoint-27" playOrder="27">
+      <navLabel>
+        <text>SORU 23 - Türk Dil ve Tarih Tezleri Türkiye’de bilimsel düşünce tarzının gelişmesine katkıda bulunmuş mudur?</text>
+      </navLabel>
+      <content src="Text/section29.html"/>
+    </navPoint>
+    <navPoint id="navpoint-28" playOrder="28">
+      <navLabel>
+        <text>SORU 24 - Atatürk devrimleri, Türkiye’de üniversitenin gelişimini sağlamış mıdır?</text>
+      </navLabel>
+      <content src="Text/section30.html"/>
+    </navPoint>
+    <navPoint id="navpoint-29" playOrder="29">
+      <navLabel>
+        <text>SORU 25 - Tek Parti rejimi, ilk ve orta öğretim alanında bir atılım sağlamış mıdır?</text>
+      </navLabel>
+      <content src="Text/section31.html"/>
+    </navPoint>
+    <navPoint id="navpoint-30" playOrder="30">
+      <navLabel>
+        <text>SORU 26 - Atatürk reformları, Türk kadınını kölelikten kurtarmış mıdır?</text>
+      </navLabel>
+      <content src="Text/section32.html"/>
+    </navPoint>
+    <navPoint id="navpoint-31" playOrder="31">
+      <navLabel>
+        <text>SORU 27 - Atatürk devrimleri, toplumsal refahta bir artış sağlamış mıdır?</text>
+      </navLabel>
+      <content src="Text/section33.html"/>
+    </navPoint>
+    <navPoint id="navpoint-32" playOrder="32">
+      <navLabel>
+        <text>Batılılaşma</text>
+      </navLabel>
+      <content src="Text/section34.html"/>
+    </navPoint>
+    <navPoint id="navpoint-33" playOrder="33">
+      <navLabel>
+        <text>SORU 28 - Türkiye’nin bazı açılardan diğer İslam ülkelerinden ileri oluşu, Atatürk devrimlerinin eseri midir?</text>
+      </navLabel>
+      <content src="Text/section35.html"/>
+    </navPoint>
+    <navPoint id="navpoint-34" playOrder="34">
+      <navLabel>
+        <text>SORU 29 - Batı uygarlığı, tek dişi kalmış bir canavar mıdır?</text>
+      </navLabel>
+      <content src="Text/section36.html"/>
+    </navPoint>
+    <navPoint id="navpoint-35" playOrder="35">
+      <navLabel>
+        <text>SORU 30 - Türkiye’nin Batılılaşması, Atatürk devrimlerinin eseri midir?</text>
+      </navLabel>
+      <content src="Text/section37.html"/>
+    </navPoint>
+    <navPoint id="navpoint-36" playOrder="36">
+      <navLabel>
+        <text>SORU 31 - Milli Mücadelenin ideolojik çerçevesi, Batılılaşma düşüncesiyle bağdaşır mı?</text>
+      </navLabel>
+      <content src="Text/section38.html"/>
+    </navPoint>
+    <navPoint id="navpoint-37" playOrder="37">
+      <navLabel>
+        <text>SORU 32 - Tek Parti Cumhuriyeti, Batılılaşmayı hedeflemiş midir? </text>
+      </navLabel>
+      <content src="Text/section39.html"/>
+    </navPoint>
+    <navPoint id="navpoint-38" playOrder="38">
+      <navLabel>
+        <text>SORU 33 - Matbaanın gecikmesi, Osmanlı devletinin Batılılaşmaya karşı tutumunun göstergesi midir?</text>
+      </navLabel>
+      <content src="Text/section40.html"/>
+    </navPoint>
+    <navPoint id="navpoint-39" playOrder="39">
+      <navLabel>
+        <text>SORU 34 - Jön Türk ve Cumhuriyet kadroları, son dönem Osmanlı elitinden daha “Batılı” bir zümre miydi?</text>
+      </navLabel>
+      <content src="Text/section41.html"/>
+    </navPoint>
+    <navPoint id="navpoint-40" playOrder="40">
+      <navLabel>
+        <text>Laiklik</text>
+      </navLabel>
+      <content src="Text/section42.html"/>
+    </navPoint>
+    <navPoint id="navpoint-41" playOrder="41">
+      <navLabel>
+        <text>SORU 35 - Resmi devlet dininin olmayışı, demokratik hukuk devletinin vazgeçilmez özelliği midir?</text>
+      </navLabel>
+      <content src="Text/section43.html"/>
+    </navPoint>
+    <navPoint id="navpoint-42" playOrder="42">
+      <navLabel>
+        <text>SORU 36 - Türkiye Cumhuriyeti laik midir?</text>
+      </navLabel>
+      <content src="Text/section44.html"/>
+    </navPoint>
+    <navPoint id="navpoint-43" playOrder="43">
+      <navLabel>
+        <text>SORU 37 - Osmanlı imparatorluğu, teokratik bir devlet midir?</text>
+      </navLabel>
+      <content src="Text/section45.html"/>
+    </navPoint>
+    <navPoint id="navpoint-44" playOrder="44">
+      <navLabel>
+        <text>SORU 38 - Osmanlı devletinde din, bir baskı ve istibdat unsuru muydu?</text>
+      </navLabel>
+      <content src="Text/section46.html"/>
+    </navPoint>
+    <navPoint id="navpoint-45" playOrder="45">
+      <navLabel>
+        <text>Ulusçuluk</text>
+      </navLabel>
+      <content src="Text/section47.html"/>
+    </navPoint>
+    <navPoint id="navpoint-46" playOrder="46">
+      <navLabel>
+        <text>SORU 39 - Osmanlı devletinde Türkler aşağılanır mıydı?</text>
+      </navLabel>
+      <content src="Text/section48.html"/>
+    </navPoint>
+    <navPoint id="navpoint-47" playOrder="47">
+      <navLabel>
+        <text>SORU 40 - Atatürk milliyetçiliği, vatandaşlığa dayalı bir ulusal kimlik öngörür mü? </text>
+      </navLabel>
+      <content src="Text/section49.html"/>
+    </navPoint>
+    <navPoint id="navpoint-48" playOrder="48">
+      <navLabel>
+        <text>SORU 41 - Atatürk milliyetçiliği, din, dil ve ırk unsurlarını dışlar mı?</text>
+      </navLabel>
+      <content src="Text/section50.html"/>
+    </navPoint>
+    <navPoint id="navpoint-49" playOrder="49">
+      <navLabel>
+        <text>SORU 42 - Orta Asya ırkçılığı, Atatürk milliyetçiliğinden sapma mıdır? </text>
+      </navLabel>
+      <content src="Text/section51.html"/>
+    </navPoint>
+    <navPoint id="navpoint-50" playOrder="50">
+      <navLabel>
+        <text>SORU 43 - Türkler Orta Asya’dan mı geldi?</text>
+      </navLabel>
+      <content src="Text/section52.html"/>
+    </navPoint>
+    <navPoint id="navpoint-51" playOrder="51">
+      <navLabel>
+        <text>Milli Mücadele</text>
+      </navLabel>
+      <content src="Text/section53.html"/>
+    </navPoint>
+    <navPoint id="navpoint-52" playOrder="52">
+      <navLabel>
+        <text>SORU 44 - Milli Mücadelede Türk ordusu, dünyanın en güçlü ordularıyla savaşmış mıdır?</text>
+      </navLabel>
+      <content src="Text/section54.html"/>
+    </navPoint>
+    <navPoint id="navpoint-53" playOrder="53">
+      <navLabel>
+        <text>SORU 45 - Emperyalist devletlerin değişmez emeli, Türkiye’yi bölmek, paylaşmak veya işgal etmek midir?</text>
+      </navLabel>
+      <content src="Text/section55.html"/>
+    </navPoint>
+    <navPoint id="navpoint-54" playOrder="54">
+      <navLabel>
+        <text>SORU 46 - Emperyalist devletlerin Birinci Dünya Savaşının sonunda emeli Türkiye’yi bölmek, paylaşmak veya işgal etmek miydi?</text>
+      </navLabel>
+      <content src="Text/section56.html"/>
+    </navPoint>
+    <navPoint id="navpoint-55" playOrder="55">
+      <navLabel>
+        <text>SORU 47 - Milli Mücadeleye karşı çıkanlar, vatan hainleri miydi?</text>
+      </navLabel>
+      <content src="Text/section57.html"/>
+    </navPoint>
+    <navPoint id="navpoint-56" playOrder="56">
+      <navLabel>
+        <text>SORU 48 - Milli Mücadele olmasa, Türkiye bağımsızlığını kaybeder miydi?</text>
+      </navLabel>
+      <content src="Text/section58.html"/>
+    </navPoint>
+    <navPoint id="navpoint-57" playOrder="57">
+      <navLabel>
+        <text>SORU 49 - Milli Mücadele olmasa, Sèvres antlaşması uygulanır mıydı?</text>
+      </navLabel>
+      <content src="Text/section59.html"/>
+    </navPoint>
+    <navPoint id="navpoint-58" playOrder="58">
+      <navLabel>
+        <text>SORU 50 - Milli Mücadele olmasa, Anadolu’da Ermenistan kurulur muydu?</text>
+      </navLabel>
+      <content src="Text/section60.html"/>
+    </navPoint>
+    <navPoint id="navpoint-59" playOrder="59">
+      <navLabel>
+        <text>SORU 51 - Milli Mücadele olmasa, Türkiye’de Amerikan mandası kurulur muydu?</text>
+      </navLabel>
+      <content src="Text/section61.html"/>
+    </navPoint>
+    <navPoint id="navpoint-60" playOrder="60">
+      <navLabel>
+        <text>Sonsöz</text>
+      </navLabel>
+      <content src="Text/section62.html"/>
+    </navPoint>
+    <navPoint id="navpoint-61" playOrder="61">
+      <navLabel>
+        <text>Endnotes</text>
+      </navLabel>
+      <content src="Text/endnotes.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

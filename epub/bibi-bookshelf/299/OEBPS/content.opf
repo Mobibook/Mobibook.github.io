@@ -1,0 +1,183 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+	<metadata>
+		<dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Akşin, Sina">Sina Akşin</dc:creator>
+<meta content="Adobe InDesign" name="generator"/>
+		<meta name="cover" content="x186.jpg"/>
+		<dc:description>&lt;p class="description"&gt;&lt;span style="text-align: start; text-indent: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none; "&gt;Kitap Sina Akşin'in beş yıllık çalışması sonucunda ortaya çıkan ve bu alanda temel başvuru kaynağı olan bir yapıttır. İki ciltten oluşan İstanbul Hükümetleri ve Milli Mücadele kitabının ilk cildi olan "Mutlakıyete Dönüş"te, 1918-1919 yılları arasında İstanbul Hükümetlerinin karşılaştığı ana siyasal olaylar anlatılmakta ve bu olaylara verilen tepkiler ayrıntılı olarak incelenmektedir. İkinci cilt "Son Meşrutiyet"te ise Damat Ferit Paşa hükümetinin 1919'da çekilmesi ile 1920'de yeniden iktidar olması sürecinde yaşanan siyasi olay ve gelişmeler ele alınmaktadır.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/p&gt;</dc:description>
+		<dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+		<dc:date>2013-06-23T21:00:00+00:00</dc:date>
+		<dc:source/>
+		<dc:relation/>
+		<dc:coverage/>
+		<dc:rights/>
+		<dc:identifier id="bookid"/>
+		<dc:identifier>urn:uuid:74D5A95D-54DB-45B0-8445-E14F6353626A</dc:identifier>
+	<dc:title>İstanbul Hükümetleri ve Milli Mücadele 1</dc:title>
+<meta name="calibre:title_sort" content="İstanbul Hükümetleri ve Milli Mücadele 1"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Tarih</dc:subject>
+<dc:subject>Siyasi</dc:subject>
+<dc:subject>Askeri</dc:subject>
+<dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.33.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Sina Akşin&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">7586760f-45c3-4b64-ba23-dbff825fa186</dc:identifier>
+<dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9789754581256</dc:identifier>
+</metadata>
+	<manifest>
+		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+		<item href="template.css" id="css" media-type="text/css"/>
+		<item href="kapak.html" id="kapak" media-type="application/xhtml+xml"/>
+		<item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+		<item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+		<item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+		<item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+		<item href="5.html" id="x5" media-type="application/xhtml+xml"/>
+		<item href="5-1.html" id="x5-1" media-type="application/xhtml+xml"/>
+		<item href="5-2.html" id="x5-2" media-type="application/xhtml+xml"/>
+		<item href="5-3.html" id="x5-3" media-type="application/xhtml+xml"/>
+		<item href="5-4.html" id="x5-4" media-type="application/xhtml+xml"/>
+		<item href="5-5.html" id="x5-5" media-type="application/xhtml+xml"/>
+		<item href="5-6.html" id="x5-6" media-type="application/xhtml+xml"/>
+		<item href="5-7.html" id="x5-7" media-type="application/xhtml+xml"/>
+		<item href="5-8.html" id="x5-8" media-type="application/xhtml+xml"/>
+		<item href="5-9.html" id="x5-9" media-type="application/xhtml+xml"/>
+		<item href="6.html" id="x6" media-type="application/xhtml+xml"/>
+		<item href="6-1.html" id="x6-1" media-type="application/xhtml+xml"/>
+		<item href="6-2.html" id="x6-2" media-type="application/xhtml+xml"/>
+		<item href="6-3.html" id="x6-3" media-type="application/xhtml+xml"/>
+		<item href="6-4.html" id="x6-4" media-type="application/xhtml+xml"/>
+		<item href="6-5.html" id="x6-5" media-type="application/xhtml+xml"/>
+		<item href="7.html" id="x7" media-type="application/xhtml+xml"/>
+		<item href="7-1.html" id="x7-1" media-type="application/xhtml+xml"/>
+		<item href="7-2.html" id="x7-2" media-type="application/xhtml+xml"/>
+		<item href="7-3.html" id="x7-3" media-type="application/xhtml+xml"/>
+		<item href="7-4.html" id="x7-4" media-type="application/xhtml+xml"/>
+		<item href="7-5.html" id="x7-5" media-type="application/xhtml+xml"/>
+		<item href="7-6.html" id="x7-6" media-type="application/xhtml+xml"/>
+		<item href="8.html" id="x8" media-type="application/xhtml+xml"/>
+		<item href="8-1.html" id="x8-1" media-type="application/xhtml+xml"/>
+		<item href="8-2.html" id="x8-2" media-type="application/xhtml+xml"/>
+		<item href="8-3.html" id="x8-3" media-type="application/xhtml+xml"/>
+		<item href="8-4.html" id="x8-4" media-type="application/xhtml+xml"/>
+		<item href="8-5.html" id="x8-5" media-type="application/xhtml+xml"/>
+		<item href="8-6.html" id="x8-6" media-type="application/xhtml+xml"/>
+		<item href="8-7.html" id="x8-7" media-type="application/xhtml+xml"/>
+		<item href="8-8.html" id="x8-8" media-type="application/xhtml+xml"/>
+		<item href="8-9.html" id="x8-9" media-type="application/xhtml+xml"/>
+		<item href="8-10.html" id="x8-10" media-type="application/xhtml+xml"/>
+		<item href="8-11.html" id="x8-11" media-type="application/xhtml+xml"/>
+		<item href="9.html" id="x9" media-type="application/xhtml+xml"/>
+		<item href="9-1.html" id="x9-1" media-type="application/xhtml+xml"/>
+		<item href="9-2.html" id="x9-2" media-type="application/xhtml+xml"/>
+		<item href="9-3.html" id="x9-3" media-type="application/xhtml+xml"/>
+		<item href="9-4.html" id="x9-4" media-type="application/xhtml+xml"/>
+		<item href="9-5.html" id="x9-5" media-type="application/xhtml+xml"/>
+		<item href="9-6.html" id="x9-6" media-type="application/xhtml+xml"/>
+		<item href="9-7.html" id="x9-7" media-type="application/xhtml+xml"/>
+		<item href="9-8.html" id="x9-8" media-type="application/xhtml+xml"/>
+		<item href="9-9.html" id="x9-9" media-type="application/xhtml+xml"/>
+		<item href="10.html" id="x10" media-type="application/xhtml+xml"/>
+		<item href="10-1.html" id="x10-1" media-type="application/xhtml+xml"/>
+		<item href="10-2.html" id="x10-2" media-type="application/xhtml+xml"/>
+		<item href="10-3.html" id="x10-3" media-type="application/xhtml+xml"/>
+		<item href="10-4.html" id="x10-4" media-type="application/xhtml+xml"/>
+		<item href="10-5.html" id="x10-5" media-type="application/xhtml+xml"/>
+		<item href="10-6.html" id="x10-6" media-type="application/xhtml+xml"/>
+		<item href="10-7.html" id="x10-7" media-type="application/xhtml+xml"/>
+		<item href="10-8.html" id="x10-8" media-type="application/xhtml+xml"/>
+		<item href="10-9.html" id="x10-9" media-type="application/xhtml+xml"/>
+		<item href="10-10.html" id="x10-10" media-type="application/xhtml+xml"/>
+		<item href="10-11.html" id="x10-11" media-type="application/xhtml+xml"/>
+		<item href="11.html" id="x11" media-type="application/xhtml+xml"/>
+		<item href="11-1.html" id="x11-1" media-type="application/xhtml+xml"/>
+		<item href="11-2.html" id="x11-2" media-type="application/xhtml+xml"/>
+		<item href="11-3.html" id="x11-3" media-type="application/xhtml+xml"/>
+		<item href="11-4.html" id="x11-4" media-type="application/xhtml+xml"/>
+		<item href="11-5.html" id="x11-5" media-type="application/xhtml+xml"/>
+		<item href="11-6.html" id="x11-6" media-type="application/xhtml+xml"/>
+		<item href="11-7.html" id="x11-7" media-type="application/xhtml+xml"/>
+		<item href="12.html" id="x12" media-type="application/xhtml+xml"/>
+		<item href="13.html" id="x13" media-type="application/xhtml+xml"/>
+		<item href="images/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+		<item href="images/is_kultur_buyuk_logo_fmt.jpeg" id="is_kultur_buyuk_logo_fmt.jpeg" media-type="image/jpeg"/>
+		<item href="images/is_kultur_kucuk_yuvarl_fmt.jpeg" id="is_kultur_kucuk_yuvarl_fmt.jpeg" media-type="image/jpeg"/>
+		<item href="images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="kapak"/>
+		<itemref idref="x1"/>
+		<itemref idref="x2"/>
+		<itemref idref="x3"/>
+		<itemref idref="x4"/>
+		<itemref idref="x5"/>
+		<itemref idref="x5-1"/>
+		<itemref idref="x5-2"/>
+		<itemref idref="x5-3"/>
+		<itemref idref="x5-4"/>
+		<itemref idref="x5-5"/>
+		<itemref idref="x5-6"/>
+		<itemref idref="x5-7"/>
+		<itemref idref="x5-8"/>
+		<itemref idref="x5-9"/>
+		<itemref idref="x6"/>
+		<itemref idref="x6-1"/>
+		<itemref idref="x6-2"/>
+		<itemref idref="x6-3"/>
+		<itemref idref="x6-4"/>
+		<itemref idref="x6-5"/>
+		<itemref idref="x7"/>
+		<itemref idref="x7-1"/>
+		<itemref idref="x7-2"/>
+		<itemref idref="x7-3"/>
+		<itemref idref="x7-4"/>
+		<itemref idref="x7-5"/>
+		<itemref idref="x7-6"/>
+		<itemref idref="x8"/>
+		<itemref idref="x8-1"/>
+		<itemref idref="x8-2"/>
+		<itemref idref="x8-3"/>
+		<itemref idref="x8-4"/>
+		<itemref idref="x8-5"/>
+		<itemref idref="x8-6"/>
+		<itemref idref="x8-7"/>
+		<itemref idref="x8-8"/>
+		<itemref idref="x8-9"/>
+		<itemref idref="x8-10"/>
+		<itemref idref="x8-11"/>
+		<itemref idref="x9"/>
+		<itemref idref="x9-1"/>
+		<itemref idref="x9-2"/>
+		<itemref idref="x9-3"/>
+		<itemref idref="x9-4"/>
+		<itemref idref="x9-5"/>
+		<itemref idref="x9-6"/>
+		<itemref idref="x9-7"/>
+		<itemref idref="x9-8"/>
+		<itemref idref="x9-9"/>
+		<itemref idref="x10"/>
+		<itemref idref="x10-1"/>
+		<itemref idref="x10-2"/>
+		<itemref idref="x10-3"/>
+		<itemref idref="x10-4"/>
+		<itemref idref="x10-5"/>
+		<itemref idref="x10-6"/>
+		<itemref idref="x10-7"/>
+		<itemref idref="x10-8"/>
+		<itemref idref="x10-9"/>
+		<itemref idref="x10-10"/>
+		<itemref idref="x10-11"/>
+		<itemref idref="x11"/>
+		<itemref idref="x11-1"/>
+		<itemref idref="x11-2"/>
+		<itemref idref="x11-3"/>
+		<itemref idref="x11-4"/>
+		<itemref idref="x11-5"/>
+		<itemref idref="x11-6"/>
+		<itemref idref="x11-7"/>
+		<itemref idref="x12"/>
+		<itemref idref="x13"/>
+	</spine>
+</package>

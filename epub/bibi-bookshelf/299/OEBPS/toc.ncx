@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content=""/>
+		<meta name="dtb:depth" content="3"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Önsöz</text>
+			</navLabel>
+			<content src="4.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>I - İTTİHAT VE TERAKKİ’NİN “ARTÇI” KABİNESİ: İZZET PAŞA HÜKÜMETİ</text>
+			</navLabel>
+			<content src="5.html#toc_marker-2"/>
+			<navPoint id="navpoint3" playOrder="3">
+				<navLabel>
+					<text>1. Giriş: Mütarekeye Gidiş</text>
+				</navLabel>
+				<content src="5-1.html#toc_marker-2-1"/>
+			</navPoint>
+			<navPoint id="navpoint4" playOrder="4">
+				<navLabel>
+					<text>2. Avrupa’nın ve Özellikle İngiltere’nin Osmanlı Devleti Karşısındaki Genel Tutumu</text>
+				</navLabel>
+				<content src="5-2.html#toc_marker-2-2"/>
+			</navPoint>
+			<navPoint id="navpoint5" playOrder="5">
+				<navLabel>
+					<text>3. Kabinenin Kuruluşu ve Genel Tutumu</text>
+				</navLabel>
+				<content src="5-3.html#toc_marker-2-3"/>
+			</navPoint>
+			<navPoint id="navpoint6" playOrder="6">
+				<navLabel>
+					<text>4. Fırkalar</text>
+				</navLabel>
+				<content src="5-4.html#toc_marker-2-4"/>
+			</navPoint>
+			<navPoint id="navpoint7" playOrder="7">
+				<navLabel>
+					<text>5. Saray</text>
+				</navLabel>
+				<content src="5-5.html#toc_marker-2-5"/>
+			</navPoint>
+			<navPoint id="navpoint8" playOrder="8">
+				<navLabel>
+					<text>6. Mebusan Meclisi’nde Olup Bitenler</text>
+				</navLabel>
+				<content src="5-6.html#toc_marker-2-6"/>
+			</navPoint>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>7. Mondros Mütarekesi</text>
+				</navLabel>
+				<content src="5-7.html#toc_marker-2-7"/>
+			</navPoint>
+			<navPoint id="navpoint10" playOrder="10">
+				<navLabel>
+					<text>8. İtilaf Devletleri İstanbul’da: Vahdettin Onlara Göre Kabine İstiyor</text>
+				</navLabel>
+				<content src="5-8.html#toc_marker-2-8"/>
+			</navPoint>
+			<navPoint id="navpoint11" playOrder="11">
+				<navLabel>
+					<text>9. Mustafa Kemal ve Arkadaşları</text>
+				</navLabel>
+				<content src="5-9.html#toc_marker-2-9"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint12" playOrder="12">
+			<navLabel>
+				<text>II - SARAY’IN ILIMLI ADAMININ İLK KABİNESİ: TEVFİK PAŞA HÜKÜMETİ</text>
+			</navLabel>
+			<content src="6.html#toc_marker-3"/>
+			<navPoint id="navpoint13" playOrder="13">
+				<navLabel>
+					<text>1. Kabinenin Kuruluşu ve Güvenoyu Alması</text>
+				</navLabel>
+				<content src="6-1.html#toc_marker-3-1"/>
+				<navPoint id="navpoint14" playOrder="14">
+					<navLabel>
+						<text>Kabine ve Saray</text>
+					</navLabel>
+					<content src="6-1.html#toc_marker-3-1-1"/>
+				</navPoint>
+				<navPoint id="navpoint15" playOrder="15">
+					<navLabel>
+						<text>İtilaf Devletlerinin Davranışları</text>
+					</navLabel>
+					<content src="6-1.html#toc_marker-3-1-2"/>
+				</navPoint>
+				<navPoint id="navpoint16" playOrder="16">
+					<navLabel>
+						<text>Mustafa Kemal ve Arkadaşları</text>
+					</navLabel>
+					<content src="6-1.html#toc_marker-3-1-3"/>
+				</navPoint>
+				<navPoint id="navpoint17" playOrder="17">
+					<navLabel>
+						<text>Mebusan’ın Güvenoyu Vermesi</text>
+					</navLabel>
+					<content src="6-1.html#toc_marker-3-1-4"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint18" playOrder="18">
+				<navLabel>
+					<text>2. Türkiye Açısından Uluslararası Durum ve İngiliz Siyaseti</text>
+				</navLabel>
+				<content src="6-2.html#toc_marker-3-2"/>
+			</navPoint>
+			<navPoint id="navpoint19" playOrder="19">
+				<navLabel>
+					<text>3. Müttefikler’in İstanbul’da Yönetime Yer Yer El Koymaları</text>
+				</navLabel>
+				<content src="6-3.html#toc_marker-3-3"/>
+			</navPoint>
+			<navPoint id="navpoint20" playOrder="20">
+				<navLabel>
+					<text>4. Meclis’in Feshine Değin Olup Bitenler</text>
+				</navLabel>
+				<content src="6-4.html#toc_marker-3-4"/>
+				<navPoint id="navpoint21" playOrder="21">
+					<navLabel>
+						<text>Mustafa Kemal Saray’da</text>
+					</navLabel>
+					<content src="6-4.html#toc_marker-3-4-1"/>
+				</navPoint>
+				<navPoint id="navpoint22" playOrder="22">
+					<navLabel>
+						<text>Sansürün Geri Gelmesi</text>
+					</navLabel>
+					<content src="6-4.html#toc_marker-3-4-2"/>
+				</navPoint>
+				<navPoint id="navpoint23" playOrder="23">
+					<navLabel>
+						<text>Wilson Prensipleri Cemiyeti</text>
+					</navLabel>
+					<content src="6-4.html#toc_marker-3-4-3"/>
+				</navPoint>
+				<navPoint id="navpoint24" playOrder="24">
+					<navLabel>
+						<text>Âyan’da Olaylar</text>
+					</navLabel>
+					<content src="6-4.html#toc_marker-3-4-4"/>
+				</navPoint>
+				<navPoint id="navpoint25" playOrder="25">
+					<navLabel>
+						<text>Mustafa Kemal Grubunun Temasları</text>
+					</navLabel>
+					<content src="6-4.html#toc_marker-3-4-5"/>
+				</navPoint>
+				<navPoint id="navpoint26" playOrder="26">
+					<navLabel>
+						<text>Meclis’in Dağıtılması</text>
+					</navLabel>
+					<content src="6-4.html#toc_marker-3-4-6"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint27" playOrder="27">
+				<navLabel>
+					<text>5. Meclis’in Feshinden Sonra Olaylar, Hükümetin Bazı Siyasal Tutumları</text>
+				</navLabel>
+				<content src="6-5.html#toc_marker-3-5"/>
+				<navPoint id="navpoint28" playOrder="28">
+					<navLabel>
+						<text>Siyasal Af</text>
+					</navLabel>
+					<content src="6-5.html#toc_marker-3-5-1"/>
+				</navPoint>
+				<navPoint id="navpoint29" playOrder="29">
+					<navLabel>
+						<text>Hükümetin Azınlık Siyaseti</text>
+					</navLabel>
+					<content src="6-5.html#toc_marker-3-5-2"/>
+				</navPoint>
+				<navPoint id="navpoint30" playOrder="30">
+					<navLabel>
+						<text>Hükümetin İktisadi Bazı Konularda Tutumu</text>
+					</navLabel>
+					<content src="6-5.html#toc_marker-3-5-3"/>
+				</navPoint>
+				<navPoint id="navpoint31" playOrder="31">
+					<navLabel>
+						<text>Osmanlı-İngiliz İlişkileri ve Yalvaran Bir Padişah</text>
+					</navLabel>
+					<content src="6-5.html#toc_marker-3-5-4"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint32" playOrder="32">
+			<navLabel>
+				<text>III - TEVFİK PAŞA’NIN SİYASETİ SERTLEŞİYOR: İKİNCİ TEVFİK PAŞA HÜKÜMETİ</text>
+			</navLabel>
+			<content src="7.html#toc_marker-4"/>
+			<navPoint id="navpoint33" playOrder="33">
+				<navLabel>
+					<text>1. Kabinenin Kuruluşu ve Karşılaştığı Bazı Sorunlar</text>
+				</navLabel>
+				<content src="7-1.html#toc_marker-4-1"/>
+				<navPoint id="navpoint34" playOrder="34">
+					<navLabel>
+						<text>Tutuklamalar</text>
+					</navLabel>
+					<content src="7-1.html#toc_marker-4-1-1"/>
+				</navPoint>
+				<navPoint id="navpoint35" playOrder="35">
+					<navLabel>
+						<text>İngilizlerin Kendilerine Teslimini İstedikleri Kişiler</text>
+					</navLabel>
+					<content src="7-1.html#toc_marker-4-1-2"/>
+				</navPoint>
+				<navPoint id="navpoint36" playOrder="36">
+					<navLabel>
+						<text>Fransız-İngiliz Yarışı ve Çekişmesi</text>
+					</navLabel>
+					<content src="7-1.html#toc_marker-4-1-3"/>
+				</navPoint>
+				<navPoint id="navpoint37" playOrder="37">
+					<navLabel>
+						<text>Osmanlı Devleti’nin Bağımlılaşma Süreci</text>
+					</navLabel>
+					<content src="7-1.html#toc_marker-4-1-4"/>
+				</navPoint>
+				<navPoint id="navpoint38" playOrder="38">
+					<navLabel>
+						<text>Azınlık Siyaseti</text>
+					</navLabel>
+					<content src="7-1.html#toc_marker-4-1-5"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint39" playOrder="39">
+				<navLabel>
+					<text>2. İngiliz Siyaseti ve Osmanlı Dış İlişkileri</text>
+				</navLabel>
+				<content src="7-2.html#toc_marker-4-2"/>
+				<navPoint id="navpoint40" playOrder="40">
+					<navLabel>
+						<text>İngiliz Siyaseti</text>
+					</navLabel>
+					<content src="7-2.html#toc_marker-4-2-1"/>
+				</navPoint>
+				<navPoint id="navpoint41" playOrder="41">
+					<navLabel>
+						<text>Osmanlı Dış İlişkileri</text>
+					</navLabel>
+					<content src="7-2.html#toc_marker-4-2-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint42" playOrder="42">
+				<navLabel>
+					<text>3. Kabinenin Bunalımları, Sonu</text>
+				</navLabel>
+				<content src="7-3.html#toc_marker-4-3"/>
+				<navPoint id="navpoint43" playOrder="43">
+					<navLabel>
+						<text>Muhalefetin Baskısı</text>
+					</navLabel>
+					<content src="7-3.html#toc_marker-4-3-1"/>
+				</navPoint>
+				<navPoint id="navpoint44" playOrder="44">
+					<navLabel>
+						<text>Fransız Baskısı ve Kabinenin Sonu</text>
+					</navLabel>
+					<content src="7-3.html#toc_marker-4-3-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint45" playOrder="45">
+				<navLabel>
+					<text>4. Hürriyet ve İtilaf ile Muhalif Fırkalar</text>
+				</navLabel>
+				<content src="7-4.html#toc_marker-4-4"/>
+			</navPoint>
+			<navPoint id="navpoint46" playOrder="46">
+				<navLabel>
+					<text>5. Ahmet Rıza’nın Girişimleri</text>
+				</navLabel>
+				<content src="7-5.html#toc_marker-4-5"/>
+			</navPoint>
+			<navPoint id="navpoint47" playOrder="47">
+				<navLabel>
+					<text>6. Mustafa Kemal Grubu Kendisine Yeni Bir Yol Arıyor</text>
+				</navLabel>
+				<content src="7-6.html#toc_marker-4-6"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint48" playOrder="48">
+			<navLabel>
+				<text>IV - HÜRRİYET VE İTİLAFÇILARDAN OLUŞAN BİR HÜKÜMET: BİRİNCİ DAMAT FERİT PAŞA HÜKÜMETİ</text>
+			</navLabel>
+			<content src="8.html#toc_marker-5"/>
+			<navPoint id="navpoint49" playOrder="49">
+				<navLabel>
+					<text>1. Kabinenin Kuruluşu</text>
+				</navLabel>
+				<content src="8-1.html#toc_marker-5-1"/>
+			</navPoint>
+			<navPoint id="navpoint50" playOrder="50">
+				<navLabel>
+					<text>2. Tutuklamalar ve Kovuşturmalar</text>
+				</navLabel>
+				<content src="8-2.html#toc_marker-5-2"/>
+				<navPoint id="navpoint51" playOrder="51">
+					<navLabel>
+						<text>Kemal Bey’in İdamı</text>
+					</navLabel>
+					<content src="8-2.html#toc_marker-5-2-1"/>
+				</navPoint>
+				<navPoint id="navpoint52" playOrder="52">
+					<navLabel>
+						<text>Teceddüt ve Hürriyetperver Avam Fırkalarının Kapatılması</text>
+					</navLabel>
+					<content src="8-2.html#toc_marker-5-2-2"/>
+				</navPoint>
+				<navPoint id="navpoint53" playOrder="53">
+					<navLabel>
+						<text>Osmanlı Hanedanının Eski Bazı Hesapları da Açılıyor</text>
+					</navLabel>
+					<content src="8-2.html#toc_marker-5-2-3"/>
+				</navPoint>
+				<navPoint id="navpoint54" playOrder="54">
+					<navLabel>
+						<text>Ahmet Rıza’nın Hükümete Karşı Koyması</text>
+					</navLabel>
+					<content src="8-2.html#toc_marker-5-2-4"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint55" playOrder="55">
+				<navLabel>
+					<text>3. Hükümet ile Hürriyet ve İtilaf</text>
+				</navLabel>
+				<content src="8-3.html#toc_marker-5-3"/>
+				<navPoint id="navpoint56" playOrder="56">
+					<navLabel>
+						<text>Dahiliye Nazırı Cemal Bey’in İstifası Olayı</text>
+					</navLabel>
+					<content src="8-3.html#toc_marker-5-3-1"/>
+				</navPoint>
+				<navPoint id="navpoint57" playOrder="57">
+					<navLabel>
+						<text>Sabahattin Bey ve Ülke Dışındaki Muhalifler</text>
+					</navLabel>
+					<content src="8-3.html#toc_marker-5-3-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint58" playOrder="58">
+				<navLabel>
+					<text>4. Mondros’tan Beri Ordunun Durumu</text>
+				</navLabel>
+				<content src="8-4.html#toc_marker-5-4"/>
+				<navPoint id="navpoint59" playOrder="59">
+					<navLabel>
+						<text>Eski Orduyu İhya Etme Girişimleri</text>
+					</navLabel>
+					<content src="8-4.html#toc_marker-5-4-1"/>
+				</navPoint>
+				<navPoint id="navpoint60" playOrder="60">
+					<navLabel>
+						<text>Savaş Sonrası Ordusunun Genel Durumu</text>
+					</navLabel>
+					<content src="8-4.html#toc_marker-5-4-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint61" playOrder="61">
+				<navLabel>
+					<text>5. İngiliz Siyaseti</text>
+				</navLabel>
+				<content src="8-5.html#toc_marker-5-5"/>
+				<navPoint id="navpoint62" playOrder="62">
+					<navLabel>
+						<text>Bazı Veriler ve Sonuçları</text>
+					</navLabel>
+					<content src="8-5.html#toc_marker-5-5-1"/>
+				</navPoint>
+				<navPoint id="navpoint63" playOrder="63">
+					<navLabel>
+						<text>İngiliz Dış Siyaset İlkeleri</text>
+					</navLabel>
+					<content src="8-5.html#toc_marker-5-5-2"/>
+				</navPoint>
+				<navPoint id="navpoint64" playOrder="64">
+					<navLabel>
+						<text>Lloyd George ve İngiliz Siyasetindeki Yeri</text>
+					</navLabel>
+					<content src="8-5.html#toc_marker-5-5-3"/>
+				</navPoint>
+				<navPoint id="navpoint65" playOrder="65">
+					<navLabel>
+						<text>Sonuç</text>
+					</navLabel>
+					<content src="8-5.html#toc_marker-5-5-4"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint66" playOrder="66">
+				<navLabel>
+					<text>6. Osmanlı-İngiliz İlişkileri</text>
+				</navLabel>
+				<content src="8-6.html#toc_marker-5-6"/>
+				<navPoint id="navpoint67" playOrder="67">
+					<navLabel>
+						<text>Fransızlara “Siyasal Cilve” </text>
+					</navLabel>
+					<content src="8-6.html#toc_marker-5-6-1"/>
+				</navPoint>
+				<navPoint id="navpoint68" playOrder="68">
+					<navLabel>
+						<text>İngilizlere Bağlanmak İçin Bir Girişim Daha</text>
+					</navLabel>
+					<content src="8-6.html#toc_marker-5-6-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint69" playOrder="69">
+				<navLabel>
+					<text>7. Genel Olarak Dış İlişkiler</text>
+				</navLabel>
+				<content src="8-7.html#toc_marker-5-7"/>
+				<navPoint id="navpoint70" playOrder="70">
+					<navLabel>
+						<text>Babıâli’nin Barış Konferansı’nda Hazır Bulunma Dileği</text>
+					</navLabel>
+					<content src="8-7.html#toc_marker-5-7-1"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint71" playOrder="71">
+				<navLabel>
+					<text>8. İzmir’in İşgali Arifesinde İç Durum</text>
+				</navLabel>
+				<content src="8-8.html#toc_marker-5-8"/>
+				<navPoint id="navpoint72" playOrder="72">
+					<navLabel>
+						<text>Doğu Anadolu’da, Özellikle Trabzon Vilayetinde Durum</text>
+					</navLabel>
+					<content src="8-8.html#toc_marker-5-8-1"/>
+				</navPoint>
+				<navPoint id="navpoint73" playOrder="73">
+					<navLabel>
+						<text>Batı Anadolu ve İstanbul’da Durum</text>
+					</navLabel>
+					<content src="8-8.html#toc_marker-5-8-2"/>
+				</navPoint>
+				<navPoint id="navpoint74" playOrder="74">
+					<navLabel>
+						<text>Hükümetin Tedbirleri - Jandarmayı Çoğaltmak</text>
+					</navLabel>
+					<content src="8-8.html#toc_marker-5-8-3"/>
+				</navPoint>
+				<navPoint id="navpoint75" playOrder="75">
+					<navLabel>
+						<text>Hükümetin Tedbirleri - Silahsızlandırma</text>
+					</navLabel>
+					<content src="8-8.html#toc_marker-5-8-4"/>
+				</navPoint>
+				<navPoint id="navpoint76" playOrder="76">
+					<navLabel>
+						<text>Hükümetin Tedbirleri - Heyet-i Nâsıhalar ve Islahat</text>
+					</navLabel>
+					<content src="8-8.html#toc_marker-5-8-5"/>
+				</navPoint>
+				<navPoint id="navpoint77" playOrder="77">
+					<navLabel>
+						<text>Hükümetin Tedbirleri - Bazı Atamalar</text>
+					</navLabel>
+					<content src="8-8.html#toc_marker-5-8-6"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint78" playOrder="78">
+				<navLabel>
+					<text>9. İzmir’in İşgali Arifesinde Dış Olaylar</text>
+				</navLabel>
+				<content src="8-9.html#toc_marker-5-9"/>
+				<navPoint id="navpoint79" playOrder="79">
+					<navLabel>
+						<text>İngiltere’de Türk Aleyhtarı Kampanya</text>
+					</navLabel>
+					<content src="8-9.html#toc_marker-5-9-1"/>
+				</navPoint>
+				<navPoint id="navpoint80" playOrder="80">
+					<navLabel>
+						<text>İtalya’nın Anadolu’da Emelleri ve Faaliyeti</text>
+					</navLabel>
+					<content src="8-9.html#toc_marker-5-9-2"/>
+				</navPoint>
+				<navPoint id="navpoint81" playOrder="81">
+					<navLabel>
+						<text>İtalya’nın Davranışları Karşısında İngiliz ve Osmanlı Tepkisi</text>
+					</navLabel>
+					<content src="8-9.html#toc_marker-5-9-3"/>
+				</navPoint>
+				<navPoint id="navpoint82" playOrder="82">
+					<navLabel>
+						<text>Bazı Amerikan Tavırları</text>
+					</navLabel>
+					<content src="8-9.html#toc_marker-5-9-4"/>
+				</navPoint>
+				<navPoint id="navpoint83" playOrder="83">
+					<navLabel>
+						<text>Webb’in Bir Tahmini</text>
+					</navLabel>
+					<content src="8-9.html#toc_marker-5-9-5"/>
+				</navPoint>
+				<navPoint id="navpoint84" playOrder="84">
+					<navLabel>
+						<text>Venizelos’un Görüşleri ve Curzon’un Mütalaası</text>
+					</navLabel>
+					<content src="8-9.html#toc_marker-5-9-6"/>
+				</navPoint>
+				<navPoint id="navpoint85" playOrder="85">
+					<navLabel>
+						<text>İzmir’e Yunanlıları Çıkartma Kararı</text>
+					</navLabel>
+					<content src="8-9.html#toc_marker-5-9-7"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint86" playOrder="86">
+				<navLabel>
+					<text>10. İzmir’in İşgali</text>
+				</navLabel>
+				<content src="8-10.html#toc_marker-5-10"/>
+				<navPoint id="navpoint87" playOrder="87">
+					<navLabel>
+						<text>İşgale Tepkiler</text>
+					</navLabel>
+					<content src="8-10.html#toc_marker-5-10-1"/>
+				</navPoint>
+				<navPoint id="navpoint88" playOrder="88">
+					<navLabel>
+						<text>İzmir’in İşgalinin Önemi</text>
+					</navLabel>
+					<content src="8-10.html#toc_marker-5-10-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint89" playOrder="89">
+				<navLabel>
+					<text>11. Mustafa Kemal ve Arkadaşları - Mustafa Kemal’in Anadolu’ya Gönderilmesi</text>
+				</navLabel>
+				<content src="8-11.html#toc_marker-5-11"/>
+				<navPoint id="navpoint90" playOrder="90">
+					<navLabel>
+						<text>Mustafa Kemal ve Arkadaşları</text>
+					</navLabel>
+					<content src="8-11.html#toc_marker-5-11-1"/>
+				</navPoint>
+				<navPoint id="navpoint91" playOrder="91">
+					<navLabel>
+						<text>Kâzım Karabekir ve Ali Fuat’ın Anadolu’ya Gitmeleri</text>
+					</navLabel>
+					<content src="8-11.html#toc_marker-5-11-2"/>
+				</navPoint>
+				<navPoint id="navpoint92" playOrder="92">
+					<navLabel>
+						<text>Mustafa Kemal’in Anadolu’ya Gitmesi</text>
+					</navLabel>
+					<content src="8-11.html#toc_marker-5-11-3"/>
+				</navPoint>
+				<navPoint id="navpoint93" playOrder="93">
+					<navLabel>
+						<text> Neden Bu Göreve Mustafa Kemal Seçildi?</text>
+					</navLabel>
+					<content src="8-11.html#toc_marker-5-11-4"/>
+				</navPoint>
+				<navPoint id="navpoint94" playOrder="94">
+					<navLabel>
+						<text>Mustafa Kemal’in Vahdettin’e Damat Olması Sorunu</text>
+					</navLabel>
+					<content src="8-11.html#toc_marker-5-11-5"/>
+				</navPoint>
+				<navPoint id="navpoint95" playOrder="95">
+					<navLabel>
+						<text>Vahdettincilerin Bir Tezi</text>
+					</navLabel>
+					<content src="8-11.html#toc_marker-5-11-6"/>
+				</navPoint>
+				<navPoint id="navpoint96" playOrder="96">
+					<navLabel>
+						<text>Mustafa Kemal’in Anadolu’ya Giderken Tasavvurları</text>
+					</navLabel>
+					<content src="8-11.html#toc_marker-5-11-7"/>
+				</navPoint>
+				<navPoint id="navpoint97" playOrder="97">
+					<navLabel>
+						<text>Rauf Bey’in Anadolu’ya Gitmesi</text>
+					</navLabel>
+					<content src="8-11.html#toc_marker-5-11-8"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint98" playOrder="98">
+			<navLabel>
+				<text>V - ULUSAL KARMA HÜKÜMET GÖRÜNÜŞLÜ BİR VÜKELA HEYETİ: İKİNCİ DAMAT FERİT KABİNESİ</text>
+			</navLabel>
+			<content src="9.html#toc_marker-6"/>
+			<navPoint id="navpoint99" playOrder="99">
+				<navLabel>
+					<text>1. Hükümetin Kuruluşu ve İlk Tepkileri</text>
+				</navLabel>
+				<content src="9-1.html#toc_marker-6-1"/>
+				<navPoint id="navpoint100" playOrder="100">
+					<navLabel>
+						<text>Hürriyet ve İtilaf’ın Hükümet Karşısında Tutumu</text>
+					</navLabel>
+					<content src="9-1.html#toc_marker-6-1-1"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint101" playOrder="101">
+				<navLabel>
+					<text>2. Yunan İşgaline Tepkiler</text>
+				</navLabel>
+				<content src="9-2.html#toc_marker-6-2"/>
+				<navPoint id="navpoint102" playOrder="102">
+					<navLabel>
+						<text>Kamuoyunda Tepkiler</text>
+					</navLabel>
+					<content src="9-2.html#toc_marker-6-2-1"/>
+				</navPoint>
+				<navPoint id="navpoint103" playOrder="103">
+					<navLabel>
+						<text>Hükümet Katında Tepkiler</text>
+					</navLabel>
+					<content src="9-2.html#toc_marker-6-2-2"/>
+				</navPoint>
+				<navPoint id="navpoint104" playOrder="104">
+					<navLabel>
+						<text>Hükümetin Tepkilere Karşı Tepkisi</text>
+					</navLabel>
+					<content src="9-2.html#toc_marker-6-2-3"/>
+				</navPoint>
+				<navPoint id="navpoint105" playOrder="105">
+					<navLabel>
+						<text>67 Tutuklunun İngilizlerce Götürülmesi</text>
+					</navLabel>
+					<content src="9-2.html#toc_marker-6-2-4"/>
+				</navPoint>
+				<navPoint id="navpoint106" playOrder="106">
+					<navLabel>
+						<text>Başka Tür Tepki - Daha da İngilizci Olmak</text>
+					</navLabel>
+					<content src="9-2.html#toc_marker-6-2-5"/>
+				</navPoint>
+				<navPoint id="navpoint107" playOrder="107">
+					<navLabel>
+						<text>Daha da Amerikancı Olma Tepkisi</text>
+					</navLabel>
+					<content src="9-2.html#toc_marker-6-2-6"/>
+				</navPoint>
+				<navPoint id="navpoint108" playOrder="108">
+					<navLabel>
+						<text>Dinsel Tutuculuk Tepkisi</text>
+					</navLabel>
+					<content src="9-2.html#toc_marker-6-2-7"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint109" playOrder="109">
+				<navLabel>
+					<text>3. Şûra-yı Saltanat ve Seçimler Sorunu</text>
+				</navLabel>
+				<content src="9-3.html#toc_marker-6-3"/>
+				<navPoint id="navpoint110" playOrder="110">
+					<navLabel>
+						<text>Şûra-yı Saltanat</text>
+					</navLabel>
+					<content src="9-3.html#toc_marker-6-3-1"/>
+				</navPoint>
+				<navPoint id="navpoint111" playOrder="111">
+					<navLabel>
+						<text>Seçimler ve Milli Bir Meclis Sorunu</text>
+					</navLabel>
+					<content src="9-3.html#toc_marker-6-3-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint112" playOrder="112">
+				<navLabel>
+					<text>4. Mustafa Kemal ile Babıâli Arasındaki İlişkiler</text>
+				</navLabel>
+				<content src="9-4.html#toc_marker-6-4"/>
+				<navPoint id="navpoint113" playOrder="113">
+					<navLabel>
+						<text>Mustafa Kemal-Babıâli İşbirliği ve Bunun Bozulması</text>
+					</navLabel>
+					<content src="9-4.html#toc_marker-6-4-1"/>
+				</navPoint>
+				<navPoint id="navpoint114" playOrder="114">
+					<navLabel>
+						<text>İngilizler Mustafa Kemal’e Karşı Harekete Geçiyorlar</text>
+					</navLabel>
+					<content src="9-4.html#toc_marker-6-4-2"/>
+				</navPoint>
+				<navPoint id="navpoint115" playOrder="115">
+					<navLabel>
+						<text>Mustafa Kemal’in Askerlikten İstifasına Değin Merkez ile İlişkileri</text>
+					</navLabel>
+					<content src="9-4.html#toc_marker-6-4-3"/>
+				</navPoint>
+				<navPoint id="navpoint116" playOrder="116">
+					<navLabel>
+						<text>Ani Azlin Nedenleri: Samsun’da Olup Bitenler ve “Meclis-i Milli” Haberi</text>
+					</navLabel>
+					<content src="9-4.html#toc_marker-6-4-4"/>
+				</navPoint>
+				<navPoint id="navpoint117" playOrder="117">
+					<navLabel>
+						<text>The Times’a Göre Ulusal Direniş ve Mustafa Kemal</text>
+					</navLabel>
+					<content src="9-4.html#toc_marker-6-4-5"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint118" playOrder="118">
+				<navLabel>
+					<text>5. Hükümetin Siyasetinde Yalpalamalar: Yeni Bir Fransız Siyaseti Denemesi</text>
+				</navLabel>
+				<content src="9-5.html#toc_marker-6-5"/>
+				<navPoint id="navpoint119" playOrder="119">
+					<navLabel>
+						<text>Fransızlar Daha Faal Bir Siyasete Yöneliyorlar</text>
+					</navLabel>
+					<content src="9-5.html#toc_marker-6-5-1"/>
+				</navPoint>
+				<navPoint id="navpoint120" playOrder="120">
+					<navLabel>
+						<text>Abdülmecit’in Tutumu</text>
+					</navLabel>
+					<content src="9-5.html#toc_marker-6-5-2"/>
+				</navPoint>
+				<navPoint id="navpoint121" playOrder="121">
+					<navLabel>
+						<text>Paris’e Gidecek Murahhaslar Sorunu</text>
+					</navLabel>
+					<content src="9-5.html#toc_marker-6-5-3"/>
+				</navPoint>
+				<navPoint id="navpoint122" playOrder="122">
+					<navLabel>
+						<text>Hükümetin “Mavi Boncuk” Siyaseti</text>
+					</navLabel>
+					<content src="9-5.html#toc_marker-6-5-4"/>
+				</navPoint>
+				<navPoint id="navpoint123" playOrder="123">
+					<navLabel>
+						<text>Damat Ferit’in Fransızcı Demeci ve Hürriyet ve İtilaf’ın Büyük Tepkisi</text>
+					</navLabel>
+					<content src="9-5.html#toc_marker-6-5-5"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint124" playOrder="124">
+				<navLabel>
+					<text>6. Hükümetin Siyasetinde Yalpalamalar: Ulusal Direniş Karşısında Değişen Tavır</text>
+				</navLabel>
+				<content src="9-6.html#toc_marker-6-6"/>
+				<navPoint id="navpoint125" playOrder="125">
+					<navLabel>
+						<text>Hükümetin Ulusal Direnişe Elverişli Tavrı</text>
+					</navLabel>
+					<content src="9-6.html#toc_marker-6-6-1"/>
+				</navPoint>
+				<navPoint id="navpoint126" playOrder="126">
+					<navLabel>
+						<text>Bölgelere Göre Değişen Siyaset</text>
+					</navLabel>
+					<content src="9-6.html#toc_marker-6-6-2"/>
+				</navPoint>
+				<navPoint id="navpoint127" playOrder="127">
+					<navLabel>
+						<text>Hükümetin Tavrı Değişiyor</text>
+					</navLabel>
+					<content src="9-6.html#toc_marker-6-6-3"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint128" playOrder="128">
+				<navLabel>
+					<text>7. Barış Konferansı’nda Osmanlı Heyeti</text>
+				</navLabel>
+				<content src="9-7.html#toc_marker-6-7"/>
+				<navPoint id="navpoint129" playOrder="129">
+					<navLabel>
+						<text>17 Haziran Muhtırası</text>
+					</navLabel>
+					<content src="9-7.html#toc_marker-6-7-1"/>
+				</navPoint>
+				<navPoint id="navpoint130" playOrder="130">
+					<navLabel>
+						<text>23 Haziran Muhtırası</text>
+					</navLabel>
+					<content src="9-7.html#toc_marker-6-7-2"/>
+				</navPoint>
+				<navPoint id="navpoint131" playOrder="131">
+					<navLabel>
+						<text>Konferans’ın Cevabı ve Damat Ferit’in Son Girişimleri</text>
+					</navLabel>
+					<content src="9-7.html#toc_marker-6-7-3"/>
+				</navPoint>
+				<navPoint id="navpoint132" playOrder="132">
+					<navLabel>
+						<text>Konferans’a Çağırma Olayının İçyüzü ve Fransızcı Siyasetin Sonucu</text>
+					</navLabel>
+					<content src="9-7.html#toc_marker-6-7-4"/>
+				</navPoint>
+				<navPoint id="navpoint133" playOrder="133">
+					<navLabel>
+						<text>Osmanlı Heyetinin Tutumunun Değerlendirilmesi</text>
+					</navLabel>
+					<content src="9-7.html#toc_marker-6-7-5"/>
+				</navPoint>
+				<navPoint id="navpoint134" playOrder="134">
+					<navLabel>
+						<text>Rıza Tevfik’e Göre Gerçekçi Osmanlı Önerileri</text>
+					</navLabel>
+					<content src="9-7.html#toc_marker-6-7-6"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint135" playOrder="135">
+				<navLabel>
+					<text>8. Vahdettin’in Durumu</text>
+				</navLabel>
+				<content src="9-8.html#toc_marker-6-8"/>
+				<navPoint id="navpoint136" playOrder="136">
+					<navLabel>
+						<text>Vahdettin’in Durumu ve Yıldız Yangını</text>
+					</navLabel>
+					<content src="9-8.html#toc_marker-6-8-1"/>
+				</navPoint>
+				<navPoint id="navpoint137" playOrder="137">
+					<navLabel>
+						<text>Vahdettin İngilizlere Yeniden Başvurmak Zorunluluğunu Duyuyor</text>
+					</navLabel>
+					<content src="9-8.html#toc_marker-6-8-2"/>
+				</navPoint>
+				<navPoint id="navpoint138" playOrder="138">
+					<navLabel>
+						<text>Abdülmecit’in 16 Temmuz Layihası</text>
+					</navLabel>
+					<content src="9-8.html#toc_marker-6-8-3"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint139" playOrder="139">
+				<navLabel>
+					<text>9. Mustafa Kemal Hareketinin Mahiyeti</text>
+				</navLabel>
+				<content src="9-9.html#toc_marker-6-9"/>
+				<navPoint id="navpoint140" playOrder="140">
+					<navLabel>
+						<text>10 Haziran Tamimine Değin Mustafa Kemal’in Anadolu’daki Faaliyeti</text>
+					</navLabel>
+					<content src="9-9.html#toc_marker-6-9-1"/>
+				</navPoint>
+				<navPoint id="navpoint141" playOrder="141">
+					<navLabel>
+						<text>Bu Sırada Mustafa Kemal’in Bir Durum Muhakemesi</text>
+					</navLabel>
+					<content src="9-9.html#toc_marker-6-9-2"/>
+				</navPoint>
+				<navPoint id="navpoint142" playOrder="142">
+					<navLabel>
+						<text>Mustafa Kemal’in Geri Çağrılması Üzerine Çıkan Durum</text>
+					</navLabel>
+					<content src="9-9.html#toc_marker-6-9-3"/>
+				</navPoint>
+				<navPoint id="navpoint143" playOrder="143">
+					<navLabel>
+						<text>Amasya Toplantısı ve Kararları</text>
+					</navLabel>
+					<content src="9-9.html#toc_marker-6-9-4"/>
+				</navPoint>
+				<navPoint id="navpoint144" playOrder="144">
+					<navLabel>
+						<text>Amasya Kararları’nın Şerefi ve Mustafa Kemal’in Önderliği Sorunu</text>
+					</navLabel>
+					<content src="9-9.html#toc_marker-6-9-5"/>
+				</navPoint>
+				<navPoint id="navpoint145" playOrder="145">
+					<navLabel>
+						<text>Ali Fuat ve Kâzım Karabekir’in Ali Kemal’in 26 Haziran Genelgesine Tepkileri</text>
+					</navLabel>
+					<content src="9-9.html#toc_marker-6-9-6"/>
+				</navPoint>
+				<navPoint id="navpoint146" playOrder="146">
+					<navLabel>
+						<text>Kâzım Karabekir’in Bazı Görüşleri</text>
+					</navLabel>
+					<content src="9-9.html#toc_marker-6-9-7"/>
+				</navPoint>
+				<navPoint id="navpoint147" playOrder="147">
+					<navLabel>
+						<text>Mustafa Kemal Erzurum’da</text>
+					</navLabel>
+					<content src="9-9.html#toc_marker-6-9-8"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint148" playOrder="148">
+			<navLabel>
+				<text>VI - PARTİLER ÜSTÜ BİR HÜKÜMET: ÜÇÜNCÜ DAMAT FERİT KABİNESİ</text>
+			</navLabel>
+			<content src="10.html#toc_marker-7"/>
+			<navPoint id="navpoint149" playOrder="149">
+				<navLabel>
+					<text>1. Hükümetin Kuruluşu ve Seçim Girişimi</text>
+				</navLabel>
+				<content src="10-1.html#toc_marker-7-1"/>
+				<navPoint id="navpoint150" playOrder="150">
+					<navLabel>
+						<text>Hürriyet ve İtilaf’ın Tepkisi</text>
+					</navLabel>
+					<content src="10-1.html#toc_marker-7-1-1"/>
+				</navPoint>
+				<navPoint id="navpoint151" playOrder="151">
+					<navLabel>
+						<text>Hürriyet ve İtilaf’a Rakip Bir Fırka</text>
+					</navLabel>
+					<content src="10-1.html#toc_marker-7-1-2"/>
+				</navPoint>
+				<navPoint id="navpoint152" playOrder="152">
+					<navLabel>
+						<text>Seçimlere Gitme Kararı</text>
+					</navLabel>
+					<content src="10-1.html#toc_marker-7-1-3"/>
+				</navPoint>
+				<navPoint id="navpoint153" playOrder="153">
+					<navLabel>
+						<text>İngiliz Kaynaklarından Seçim Sorunu</text>
+					</navLabel>
+					<content src="10-1.html#toc_marker-7-1-4"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint154" playOrder="154">
+				<navLabel>
+					<text>2. Mülkiye Örgütünde Atamalar ve Tahkik Heyetleri</text>
+				</navLabel>
+				<content src="10-2.html#toc_marker-7-2"/>
+				<navPoint id="navpoint155" playOrder="155">
+					<navLabel>
+						<text>Mülkiye Örgütünde Atamalar</text>
+					</navLabel>
+					<content src="10-2.html#toc_marker-7-2-1"/>
+				</navPoint>
+				<navPoint id="navpoint156" playOrder="156">
+					<navLabel>
+						<text>Tahkik Heyetleri</text>
+					</navLabel>
+					<content src="10-2.html#toc_marker-7-2-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint157" playOrder="157">
+				<navLabel>
+					<text>3. Ordunun Durumu ve Orduyu “Hizaya Getirme” Girişimleri</text>
+				</navLabel>
+				<content src="10-3.html#toc_marker-7-3"/>
+				<navPoint id="navpoint158" playOrder="158">
+					<navLabel>
+						<text>Şûra-yı Askeri</text>
+					</navLabel>
+					<content src="10-3.html#toc_marker-7-3-1"/>
+				</navPoint>
+				<navPoint id="navpoint159" playOrder="159">
+					<navLabel>
+						<text>İtilaf Devletlerinin Karışmaları</text>
+					</navLabel>
+					<content src="10-3.html#toc_marker-7-3-2"/>
+				</navPoint>
+				<navPoint id="navpoint160" playOrder="160">
+					<navLabel>
+						<text>Eski Orduyu İhya Etme Süreci</text>
+					</navLabel>
+					<content src="10-3.html#toc_marker-7-3-3"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint161" playOrder="161">
+				<navLabel>
+					<text>4. Yunan İşgalinin Sınırlandırılması Sorunu</text>
+				</navLabel>
+				<content src="10-4.html#toc_marker-7-4"/>
+				<navPoint id="navpoint162" playOrder="162">
+					<navLabel>
+						<text>Konferans Yunan İşgalinin Sınırlarıyla İlgilenmeye Başlıyor</text>
+					</navLabel>
+					<content src="10-4.html#toc_marker-7-4-1"/>
+				</navPoint>
+				<navPoint id="navpoint163" playOrder="163">
+					<navLabel>
+						<text>Yunan İşgalinin İkinci Kez Sınırlandırılması</text>
+					</navLabel>
+					<content src="10-4.html#toc_marker-7-4-2"/>
+				</navPoint>
+				<navPoint id="navpoint164" playOrder="164">
+					<navLabel>
+						<text>Fransızcı Siyaset Denemesinin Ufak Bir Meyvesi</text>
+					</navLabel>
+					<content src="10-4.html#toc_marker-7-4-3"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint165" playOrder="165">
+				<navLabel>
+					<text>5. Erzurum Kongresi ve Bu Sıradaki Gelişmeler</text>
+				</navLabel>
+				<content src="10-5.html#toc_marker-7-5"/>
+				<navPoint id="navpoint166" playOrder="166">
+					<navLabel>
+						<text>Mustafa Kemal ile Arkadaşlarının Davranışları</text>
+					</navLabel>
+					<content src="10-5.html#toc_marker-7-5-1"/>
+				</navPoint>
+				<navPoint id="navpoint167" playOrder="167">
+					<navLabel>
+						<text>Erzurum Kongresi</text>
+					</navLabel>
+					<content src="10-5.html#toc_marker-7-5-2"/>
+				</navPoint>
+				<navPoint id="navpoint168" playOrder="168">
+					<navLabel>
+						<text>İstanbul ile Ulusçu Akım Arasında İlişkiler</text>
+					</navLabel>
+					<content src="10-5.html#toc_marker-7-5-3"/>
+				</navPoint>
+				<navPoint id="navpoint169" playOrder="169">
+					<navLabel>
+						<text>Erzurum Kongresi’nin Kararları</text>
+					</navLabel>
+					<content src="10-5.html#toc_marker-7-5-4"/>
+				</navPoint>
+				<navPoint id="navpoint170" playOrder="170">
+					<navLabel>
+						<text>İstanbul’da Olup Bitenler</text>
+					</navLabel>
+					<content src="10-5.html#toc_marker-7-5-5"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint171" playOrder="171">
+				<navLabel>
+					<text>6. Erzurum Kongresi’nden Sonra İstanbul-Anadolu İlişkileri</text>
+				</navLabel>
+				<content src="10-6.html#toc_marker-7-6"/>
+				<navPoint id="navpoint172" playOrder="172">
+					<navLabel>
+						<text>Kuva-yı Milliye’nin Dağıtılması Buyruğu</text>
+					</navLabel>
+					<content src="10-6.html#toc_marker-7-6-1"/>
+				</navPoint>
+				<navPoint id="navpoint173" playOrder="173">
+					<navLabel>
+						<text>Telgraf Haberleşmesine Engeller Konulması</text>
+					</navLabel>
+					<content src="10-6.html#toc_marker-7-6-2"/>
+				</navPoint>
+				<navPoint id="navpoint174" playOrder="174">
+					<navLabel>
+						<text>Ulusal Hareketin Bütünleşmesini Önleme Girişimi - Batı Anadolu Kuva-yı Milliyesi Benimseniyor</text>
+					</navLabel>
+					<content src="10-6.html#toc_marker-7-6-3"/>
+				</navPoint>
+				<navPoint id="navpoint175" playOrder="175">
+					<navLabel>
+						<text>İstanbul’un Komutan Atamaları</text>
+					</navLabel>
+					<content src="10-6.html#toc_marker-7-6-4"/>
+				</navPoint>
+				<navPoint id="navpoint176" playOrder="176">
+					<navLabel>
+						<text>Tahkik Heyetleri</text>
+					</navLabel>
+					<content src="10-6.html#toc_marker-7-6-5"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint177" playOrder="177">
+				<navLabel>
+					<text>7. Erzurum Kongresi’nden Sonra İstanbul’da Olup Bitenler</text>
+				</navLabel>
+				<content src="10-7.html#toc_marker-7-7"/>
+				<navPoint id="navpoint178" playOrder="178">
+					<navLabel>
+						<text>Dış İlişkiler</text>
+					</navLabel>
+					<content src="10-7.html#toc_marker-7-7-1"/>
+				</navPoint>
+				<navPoint id="navpoint179" playOrder="179">
+					<navLabel>
+						<text>Tevfik Paşa’nın Damat Ferit’in Siyasetine Karşı Çıkması</text>
+					</navLabel>
+					<content src="10-7.html#toc_marker-7-7-2"/>
+				</navPoint>
+				<navPoint id="navpoint180" playOrder="180">
+					<navLabel>
+						<text>Hürriyet ve İtilaf’ta Olup Bitenler</text>
+					</navLabel>
+					<content src="10-7.html#toc_marker-7-7-3"/>
+				</navPoint>
+				<navPoint id="navpoint181" playOrder="181">
+					<navLabel>
+						<text>Damat Ferit’in ve İngilizlerin İyimserliği</text>
+					</navLabel>
+					<content src="10-7.html#toc_marker-7-7-4"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint182" playOrder="182">
+				<navLabel>
+					<text>8. Erzurum’dan Sivas’a</text>
+				</navLabel>
+				<content src="10-8.html#toc_marker-7-8"/>
+			</navPoint>
+			<navPoint id="navpoint183" playOrder="183">
+				<navLabel>
+					<text>9. Sivas Kongresi</text>
+				</navLabel>
+				<content src="10-9.html#toc_marker-7-9"/>
+				<navPoint id="navpoint184" playOrder="184">
+					<navLabel>
+						<text>Sivas Kongresi’nin Toplanması</text>
+					</navLabel>
+					<content src="10-9.html#toc_marker-7-9-1"/>
+				</navPoint>
+				<navPoint id="navpoint185" playOrder="185">
+					<navLabel>
+						<text>Erzurum ile Sivas Kongreleri Arasında Bazı Nitelik Farkları</text>
+					</navLabel>
+					<content src="10-9.html#toc_marker-7-9-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint186" playOrder="186">
+				<navLabel>
+					<text>10. Manda Sorunu</text>
+				</navLabel>
+				<content src="10-10.html#toc_marker-7-10"/>
+				<navPoint id="navpoint187" playOrder="187">
+					<navLabel>
+						<text>ABD Mandası Hareketinin Kökeni</text>
+					</navLabel>
+					<content src="10-10.html#toc_marker-7-10-1"/>
+				</navPoint>
+				<navPoint id="navpoint188" playOrder="188">
+					<navLabel>
+						<text>İngiliz Mandacıları</text>
+					</navLabel>
+					<content src="10-10.html#toc_marker-7-10-2"/>
+				</navPoint>
+				<navPoint id="navpoint189" playOrder="189">
+					<navLabel>
+						<text>Doğu Anadolu İçin Usher Tasarısı</text>
+					</navLabel>
+					<content src="10-10.html#toc_marker-7-10-3"/>
+				</navPoint>
+				<navPoint id="navpoint190" playOrder="190">
+					<navLabel>
+						<text>Erzurum Kongresi’nde ve Sonra ABD Mandası</text>
+					</navLabel>
+					<content src="10-10.html#toc_marker-7-10-4"/>
+				</navPoint>
+				<navPoint id="navpoint191" playOrder="191">
+					<navLabel>
+						<text>Sivas’ta ABD Mandası</text>
+					</navLabel>
+					<content src="10-10.html#toc_marker-7-10-5"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint192" playOrder="192">
+				<navLabel>
+					<text>11. Sivas Kongresi Sırasında ve Sonra Ulusçularla Damat Ferit Arasında Mücadele</text>
+				</navLabel>
+				<content src="10-11.html#toc_marker-7-11"/>
+				<navPoint id="navpoint193" playOrder="193">
+					<navLabel>
+						<text>İngilizlerin Kürt Siyaseti</text>
+					</navLabel>
+					<content src="10-11.html#toc_marker-7-11-1"/>
+				</navPoint>
+				<navPoint id="navpoint194" playOrder="194">
+					<navLabel>
+						<text>İstanbul’da Kürtlerle İlgili İngiliz Faaliyeti</text>
+					</navLabel>
+					<content src="10-11.html#toc_marker-7-11-2"/>
+				</navPoint>
+				<navPoint id="navpoint195" playOrder="195">
+					<navLabel>
+						<text>Ali Galip’in Sivas’ı Basmaya Kalkışması</text>
+					</navLabel>
+					<content src="10-11.html#toc_marker-7-11-3"/>
+				</navPoint>
+				<navPoint id="navpoint196" playOrder="196">
+					<navLabel>
+						<text>Ulusçulara Karşı Damat Ferit’le İngilizlerin Ortak Taarruzu ve Ulusçuların Karşı Taarruzu</text>
+					</navLabel>
+					<content src="10-11.html#toc_marker-7-11-4"/>
+				</navPoint>
+				<navPoint id="navpoint197" playOrder="197">
+					<navLabel>
+						<text>İstanbul’un Orduya Egemen Olma Çabaları</text>
+					</navLabel>
+					<content src="10-11.html#toc_marker-7-11-5"/>
+				</navPoint>
+				<navPoint id="navpoint198" playOrder="198">
+					<navLabel>
+						<text>Mustafa Kemal Hareketinin İçinde Tereddütler, Gevşeme ve Kopmalar Sorunu</text>
+					</navLabel>
+					<content src="10-11.html#toc_marker-7-11-6"/>
+				</navPoint>
+				<navPoint id="navpoint199" playOrder="199">
+					<navLabel>
+						<text>Saray’ın İngilizlerle Yaptığı Gizli Anlaşma</text>
+					</navLabel>
+					<content src="10-11.html#toc_marker-7-11-7"/>
+				</navPoint>
+				<navPoint id="navpoint200" playOrder="200">
+					<navLabel>
+						<text>Damat Ferit’in İngiliz Yüksek Komiserliği ile Temasları</text>
+					</navLabel>
+					<content src="10-11.html#toc_marker-7-11-8"/>
+				</navPoint>
+				<navPoint id="navpoint201" playOrder="201">
+					<navLabel>
+						<text>Padişah Müdahale Etmek Zorunda Kalıyor</text>
+					</navLabel>
+					<content src="10-11.html#toc_marker-7-11-9"/>
+				</navPoint>
+				<navPoint id="navpoint202" playOrder="202">
+					<navLabel>
+						<text>Mücadelenin Son Perdesi</text>
+					</navLabel>
+					<content src="10-11.html#toc_marker-7-11-10"/>
+				</navPoint>
+				<navPoint id="navpoint203" playOrder="203">
+					<navLabel>
+						<text>Damat Ferit’in İstifasıyla Saray Mücadeleye Son Vermiş Değildi</text>
+					</navLabel>
+					<content src="10-11.html#toc_marker-7-11-11"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint204" playOrder="204">
+			<navLabel>
+				<text>VII - ANA SONUÇLAR</text>
+			</navLabel>
+			<content src="11.html#toc_marker-8"/>
+			<navPoint id="navpoint205" playOrder="205">
+				<navLabel>
+					<text>1. Siyasal Rejim Sorunu: Padişah’ın Mutlakıyetçi Karşı-İhtilali</text>
+				</navLabel>
+				<content src="11-1.html#toc_marker-8-1"/>
+			</navPoint>
+			<navPoint id="navpoint206" playOrder="206">
+				<navLabel>
+					<text>2. Mondros Mütarekesi Koşullarında Mutlak Doğu Monarşisinin Siyasal Tutumu</text>
+				</navLabel>
+				<content src="11-2.html#toc_marker-8-2"/>
+				<navPoint id="navpoint207" playOrder="207">
+					<navLabel>
+						<text>Hilafetin “Papalaşması” Süreci</text>
+					</navLabel>
+					<content src="11-2.html#toc_marker-8-2-1"/>
+				</navPoint>
+				<navPoint id="navpoint208" playOrder="208">
+					<navLabel>
+						<text>Vahdettin’in Feodal ya da Patrimonyal Toprak Tutkusu</text>
+					</navLabel>
+					<content src="11-2.html#toc_marker-8-2-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint209" playOrder="209">
+				<navLabel>
+					<text>3. Mondros Mütarekesi Koşullarında Ulusçu-Meşrutiyetçi Akımın Siyasal Tutumu</text>
+				</navLabel>
+				<content src="11-3.html#toc_marker-8-3"/>
+			</navPoint>
+			<navPoint id="navpoint210" playOrder="210">
+				<navLabel>
+					<text>4. Mutlak Doğu Monarşisi Karşısında Ulusçu Meşrutiyet: Vahdettin’in Ulusçularla İlişkileri</text>
+				</navLabel>
+				<content src="11-4.html#toc_marker-8-4"/>
+			</navPoint>
+			<navPoint id="navpoint211" playOrder="211">
+				<navLabel>
+					<text>5. Mutlak Doğu Monarşisinin İç Dinamikleri: Vahdettin İktidarının Özellikleri</text>
+				</navLabel>
+				<content src="11-5.html#toc_marker-8-5"/>
+			</navPoint>
+			<navPoint id="navpoint212" playOrder="212">
+				<navLabel>
+					<text>6. Mutlak Doğu Monarşisinin Bağımlılaşma Süreci: Vahdettin’in Dış Siyaseti</text>
+				</navLabel>
+				<content src="11-6.html#toc_marker-8-6"/>
+				<navPoint id="navpoint213" playOrder="213">
+					<navLabel>
+						<text>Fransız Siyaseti Denemesi</text>
+					</navLabel>
+					<content src="11-6.html#toc_marker-8-6-1"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint214" playOrder="214">
+				<navLabel>
+					<text>7. Ulusçu-Meşrutiyetçi Akımın Siyasal Anatomisi</text>
+				</navLabel>
+				<content src="11-7.html#toc_marker-8-7"/>
+				<navPoint id="navpoint215" playOrder="215">
+					<navLabel>
+						<text>Mektepli Genç Subayların Önderliği</text>
+					</navLabel>
+					<content src="11-7.html#toc_marker-8-7-1"/>
+				</navPoint>
+				<navPoint id="navpoint216" playOrder="216">
+					<navLabel>
+						<text>Üçüncü Meşrutiyet</text>
+					</navLabel>
+					<content src="11-7.html#toc_marker-8-7-2"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint217" playOrder="217">
+			<navLabel>
+				<text>KAYNAKÇA</text>
+			</navLabel>
+			<content src="12.html#toc_marker-9"/>
+		</navPoint>
+		<navPoint id="navpoint218" playOrder="218">
+			<navLabel>
+				<text>DİZİN</text>
+			</navLabel>
+			<content src="13.html#toc_marker-10"/>
+		</navPoint>
+	</navMap>
+</ncx>

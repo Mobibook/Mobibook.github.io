@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Soysal, Sevgi">Sevgi Soysal</dc:creator>
+<dc:identifier id="uuid">{DC8B249F-20DD-4EBD-9D85-AA14F3753D24}</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>2003-08-15T21:00:00+00:00</dc:date>
+    <meta name="cover" content="B9789750501364.jpg"/>
+  <dc:title>Şafak</dc:title>
+<meta name="calibre:title_sort" content="Şafak"/>
+<dc:publisher>İletişim Yayıncılık</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Roman</dc:subject>
+<dc:description>&lt;p&gt;Sevgi Soysal, hayatında yol açtığı derin sarsıntılara rağmen sadece bir seyircisi olduğunu söylediği 12 Mart’ta sanık sandalyesine oturtulmuş bir tanıktı. Şafak, bu tanıklığın, gerçekçi olduğu kadar şiirsel bir hikâyesidir. Baskınlara, sorgu ve işkenceye karşı insanın sesini duyurduğu için bir kuşağa Sevgi Soysal’ı sevdiren bu roman, hem bir döneme tanıklık eden hem de bireysel tepkileri tüm karmaşıklığıyla yansıtan bir edebiyat başyapıtı olarak hâlâ güncelliğini korumaktadır.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Sevgi Soysal&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">b99b5ef0-cb36-4f4a-8710-cd844a7e4ee7</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750501364</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/bolum2.xhtml" id="bolum2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/main-1.jpg" id="id1" media-type="image/jpeg"/>
+    <item href="Styles/main.css" id="id5" media-type="text/css"/>
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/ana_baslik.xhtml" id="ana_baslik.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic_baslik.xhtml" id="ic_baslik.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar_bilgi.xhtml" id="yazar_bilgi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/inceleme.xhtml" id="inceleme.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum1.xhtml" id="bolum1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/iletişim.jpg" id="iletişim.jpg" media-type="image/jpeg"/>
+    <item href="Text/bolum3.xhtml" id="bolum3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/B9789750501364.jpg" id="B9789750501364.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ana_baslik.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ic_baslik.xhtml"/>
+    <itemref idref="yazar_bilgi.xhtml"/>
+    <itemref idref="inceleme.xhtml"/>
+    <itemref idref="bolum1.xhtml"/>
+    <itemref idref="bolum2.xhtml"/>
+    <itemref idref="bolum3.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

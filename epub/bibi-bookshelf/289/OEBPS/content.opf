@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Uygarlığa Dair Hoşnutsuzluğumuz</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Freud, Sigmund">Sigmund Freud</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>KAFKA, Epsilon Yayıncılık Hizmetleri Tic. ve San. Ltd. Şti.’nin tescilli alt markasıdır.</dc:publisher>
+    <dc:date>2016-06-27</dc:date>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2016-06-28</dc:date>
+    <dc:identifier id="bookid">urn:uuid:1a21ad13-33b4-4edc-8715-f565eea170b1</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">a369b01f-66db-4496-b3fb-e5a6e08c9548</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="uygarligado.jpg"/>
+    <meta content="0.9.0" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Uygarlığa Dair Hoşnutsuzluğumuz"/>
+    <meta name="calibre:author_link_map" content="{&quot;Sigmund Freud&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="Text/uygarligadair1.xhtml" id="uygarligadair1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uygarligadair2.xhtml" id="uygarligadair2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uygarligadair3.xhtml" id="uygarligadair3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uygarligadair4.xhtml" id="uygarligadair4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uygarligadair5.xhtml" id="uygarligadair5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uygarligadair6.xhtml" id="uygarligadair6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uygarligadair7.xhtml" id="uygarligadair7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uygarligadair8.xhtml" id="uygarligadair8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uygarligadair9.xhtml" id="uygarligadair9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uygarligadair10.xhtml" id="uygarligadair10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uygarligadair11.xhtml" id="uygarligadair11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uygarligadair12.xhtml" id="uygarligadair12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/uygarligadogru.css" id="uygarligadogru.css" media-type="text/css"/>
+    <item href="Images/14266.png" id="x14266.png" media-type="image/png"/>
+    <item href="Images/uygarligado.jpg" id="uygarligado.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverImage"/>
+    <itemref idref="uygarligadair1.xhtml"/>
+    <itemref idref="uygarligadair2.xhtml"/>
+    <itemref idref="uygarligadair3.xhtml"/>
+    <itemref idref="uygarligadair4.xhtml"/>
+    <itemref idref="uygarligadair5.xhtml"/>
+    <itemref idref="uygarligadair6.xhtml"/>
+    <itemref idref="uygarligadair7.xhtml"/>
+    <itemref idref="uygarligadair8.xhtml"/>
+    <itemref idref="uygarligadair9.xhtml"/>
+    <itemref idref="uygarligadair10.xhtml"/>
+    <itemref idref="uygarligadair11.xhtml"/>
+    <itemref idref="uygarligadair12.xhtml"/>
+  </spine>
+  <guide>
+    </guide>
+</package>

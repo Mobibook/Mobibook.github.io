@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{199938D5-3E52-4D65-8BE5-195F64AC985C}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Sevgi Soysal - Tante Rosa</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>SUNUŞ</text>
+      </navLabel>
+      <content src="Text/sunu1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>TANTE ROSA'DAN SEVGİ SOYSAL'A YOLCULUK</text>
+      </navLabel>
+      <content src="Text/sunu2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>tante rosa at cambazı olamadı</text>
+      </navLabel>
+      <content src="Text/b1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>tante rosa'nın hayvanları</text>
+      </navLabel>
+      <content src="Text/b3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>tante rosa aforoz ediliyor</text>
+      </navLabel>
+      <content src="Text/b4.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>tante rosa mezarlıkta üretici oluyor</text>
+      </navLabel>
+      <content src="Text/b5.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>tante rosa soluk kır çiçeklerine geri dönüyor</text>
+      </navLabel>
+      <content src="Text/b6.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>tante rosa bütün rüzgârlara açık</text>
+      </navLabel>
+      <content src="Text/b7.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>tante rosa yaşamakta ısrar ediyor</text>
+      </navLabel>
+      <content src="Text/b8.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>tante rosa i love you</text>
+      </navLabel>
+      <content src="Text/b9.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>tante tosa grand düşes ş.m.</text>
+      </navLabel>
+      <content src="Text/b10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>tante rosa'nın papağanı</text>
+      </navLabel>
+      <content src="Text/b11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>tante rosa'nın düşü</text>
+      </navLabel>
+      <content src="Text/b12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>tante rosa'nın yolculuğu</text>
+      </navLabel>
+      <content src="Text/b13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>the end tante rosa</text>
+      </navLabel>
+      <content src="Text/b14.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
