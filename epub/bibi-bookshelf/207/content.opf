@@ -1,0 +1,121 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Boulle, Pierre">Pierre Boulle</dc:creator>
+<dc:identifier id="uuid">{40773C2D-1544-4725-9956-1EACBAF1214F}</dc:identifier>
+    <dc:date>2005-03-01T22:00:00+00:00</dc:date>
+    <meta name="calibre:title_sort" content="Maymunlar Gezegeni"/>
+    <meta name="calibre:author_link_map" content="{&quot;Pierre Boulle&quot;: &quot;&quot;}"/>
+    <meta name="calibre:series_index" content="7.0"/>
+    <meta name="cover" content="id4"/>
+  <dc:title>Maymunlar Gezegeni</dc:title>
+<dc:publisher>Okat Yayınevi</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Bilim Kurgu</dc:subject>
+<dc:subject>Distopya</dc:subject>
+<dc:description>&lt;p&gt;Bu isimle anlıan gezegenin neresi olduğunu artık aşağı 
+yukarı biliyoruz...
+
+1968 tarihli film versiyonunda devrik özgürlük heykeline 
+bakakalan Chariton Heston da biliyordu.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">2e5ba6a3-aeb5-4838-a9cc-a6e409f31e20</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789757270317</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="kapak.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="kunye.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="1-01.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="1-02.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="1-03.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="1-04.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="1-05.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="1-06.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="1-07.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="1-08.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="1-09.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="1-10.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="1-11.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="1-12.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="1-13.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="1-14.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="1-15.xhtml" id="id25" media-type="application/xhtml+xml"/>
+    <item href="1-16.xhtml" id="id26" media-type="application/xhtml+xml"/>
+    <item href="1-17.xhtml" id="id27" media-type="application/xhtml+xml"/>
+    <item href="2-01.xhtml" id="id29" media-type="application/xhtml+xml"/>
+    <item href="2-02.xhtml" id="id30" media-type="application/xhtml+xml"/>
+    <item href="2-03.xhtml" id="id31" media-type="application/xhtml+xml"/>
+    <item href="2-04.xhtml" id="id32" media-type="application/xhtml+xml"/>
+    <item href="2-05.xhtml" id="id33" media-type="application/xhtml+xml"/>
+    <item href="2-06.xhtml" id="id34" media-type="application/xhtml+xml"/>
+    <item href="2-07.xhtml" id="id35" media-type="application/xhtml+xml"/>
+    <item href="2-08.xhtml" id="id36" media-type="application/xhtml+xml"/>
+    <item href="2-09.xhtml" id="id37" media-type="application/xhtml+xml"/>
+    <item href="3-01.xhtml" id="id39" media-type="application/xhtml+xml"/>
+    <item href="3-02.xhtml" id="id40" media-type="application/xhtml+xml"/>
+    <item href="3-03.xhtml" id="id41" media-type="application/xhtml+xml"/>
+    <item href="3-04.xhtml" id="id42" media-type="application/xhtml+xml"/>
+    <item href="3-05.xhtml" id="id43" media-type="application/xhtml+xml"/>
+    <item href="3-06.xhtml" id="id44" media-type="application/xhtml+xml"/>
+    <item href="3-07.xhtml" id="id45" media-type="application/xhtml+xml"/>
+    <item href="3-08.xhtml" id="id46" media-type="application/xhtml+xml"/>
+    <item href="3-09.xhtml" id="id47" media-type="application/xhtml+xml"/>
+    <item href="3-10.xhtml" id="id48" media-type="application/xhtml+xml"/>
+    <item href="3-11.xhtml" id="id49" media-type="application/xhtml+xml"/>
+    <item href="3-12.xhtml" id="id50" media-type="application/xhtml+xml"/>
+    <item href="arka_kapak.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id8" media-type="application/x-dtbncx+xml"/>
+    <item href="main.css" id="id7" media-type="text/css"/>
+    <item href="arka.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="cover.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="pierre.jpg" id="id3" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id8">
+    <itemref idref="id"/>
+    <itemref idref="id9"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id36"/>
+    <itemref idref="id37"/>
+    <itemref idref="id39"/>
+    <itemref idref="id40"/>
+    <itemref idref="id41"/>
+    <itemref idref="id42"/>
+    <itemref idref="id43"/>
+    <itemref idref="id44"/>
+    <itemref idref="id45"/>
+    <itemref idref="id46"/>
+    <itemref idref="id47"/>
+    <itemref idref="id48"/>
+    <itemref idref="id49"/>
+    <itemref idref="id50"/>
+    <itemref idref="id2"/>
+  </spine>
+  <guide>
+    <reference href="kapak.xhtml" type="cover"/>
+  </guide>
+</package>

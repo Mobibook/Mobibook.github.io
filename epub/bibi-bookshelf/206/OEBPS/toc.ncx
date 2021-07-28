@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+<head>
+<meta content="awp2012-02-12T14:08:59Z" name="dtb:uid"/>
+<meta content="2" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>SUFiZM</text>
+</docTitle>
+<navMap>
+
+<navPoint id="navpoint-2" playOrder="2">
+<navLabel>
+<text>SUFiZM</text>
+</navLabel>
+<content src="Text/002.html"/>
+</navPoint>
+<navPoint id="navpoint-3" playOrder="3">
+<navLabel>
+<text>içindekiler</text>
+</navLabel>
+<content src="Text/003.html"/>
+</navPoint>
+<navPoint id="navpoint-4" playOrder="4">
+<navLabel>
+<text>Sunum</text>
+</navLabel>
+<content src="Text/004.html"/>
+</navPoint>
+<navPoint id="navpoint-5" playOrder="5">
+<navLabel>
+<text>Önsöz</text>
+</navLabel>
+<content src="Text/005.html"/>
+</navPoint>
+<navPoint id="navpoint-6" playOrder="6">
+<navLabel>
+<text>Giris</text>
+</navLabel>
+<content src="Text/006.html"/>
+</navPoint>
+<navPoint id="navpoint-7" playOrder="7">
+<navLabel>
+<text>1-MUTLULUK</text>
+</navLabel>
+<content src="Text/007.html"/>
+<navPoint id="navpoint-8" playOrder="8">
+<navLabel>
+<text>Ruhun Doğal Evresi</text>
+</navLabel>
+<content src="Text/007.html#ncx238"/>
+</navPoint>
+<navPoint id="navpoint-9" playOrder="9">
+<navLabel>
+<text>Tanrı'nın Varlığı</text>
+</navLabel>
+<content src="Text/007.html#ncx261"/>
+</navPoint>
+<navPoint id="navpoint-10" playOrder="10">
+<navLabel>
+<text>Egzersiz-1: Nefes Dengeleme</text>
+</navLabel>
+<content src="Text/007.html#ncx269"/>
+</navPoint>
+<navPoint id="navpoint-11" playOrder="11">
+<navLabel>
+<text>Topluluğun Önemi</text>
+</navLabel>
+<content src="Text/007.html#ncx280"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-12" playOrder="12">
+<navLabel>
+<text>2-SADAKAT</text>
+</navLabel>
+<content src="Text/008.html"/>
+<navPoint id="navpoint-13" playOrder="13">
+<navLabel>
+<text>Sadakat İhtiyacı</text>
+</navLabel>
+<content src="Text/008.html#ncx307"/>
+</navPoint>
+<navPoint id="navpoint-14" playOrder="14">
+<navLabel>
+<text>Ömür Boyu Süren Yemin</text>
+</navLabel>
+<content src="Text/008.html#ncx313"/>
+</navPoint>
+<navPoint id="navpoint-15" playOrder="15">
+<navLabel>
+<text>Yeni Tanrı'ya Doğru</text>
+</navLabel>
+<content src="Text/008.html#ncx323"/>
+</navPoint>
+<navPoint id="navpoint-16" playOrder="16">
+<navLabel>
+<text>Egzersiz-2:Efendiyi Hayal Etmek</text>
+</navLabel>
+<content src="Text/008.html#ncx332"/>
+</navPoint>
+<navPoint id="navpoint-17" playOrder="17">
+<navLabel>
+<text>Ayrılığın Var olmayışı</text>
+</navLabel>
+<content src="Text/008.html#ncx340"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-18" playOrder="18">
+<navLabel>
+<text>3-KiSiSEL SORUNLAR</text>
+</navLabel>
+<content src="Text/009.html"/>
+<navPoint id="navpoint-19" playOrder="19">
+<navLabel>
+<text>Kişisel Sorunlar ve En İçerideki Potansiyelimiz</text>
+</navLabel>
+<content src="Text/009.html#ncx356"/>
+</navPoint>
+<navPoint id="navpoint-20" playOrder="20">
+<navLabel>
+<text>Sorun Hep Sizindi</text>
+</navLabel>
+<content src="Text/009.html#ncx361"/>
+</navPoint>
+<navPoint id="navpoint-21" playOrder="21">
+<navLabel>
+<text>Egzersiz-3:Şahit</text>
+</navLabel>
+<content src="Text/009.html#ncx366"/>
+</navPoint>
+<navPoint id="navpoint-22" playOrder="22">
+<navLabel>
+<text>Michael</text>
+</navLabel>
+<content src="Text/009.html#ncx368"/>
+</navPoint>
+<navPoint id="navpoint-23" playOrder="23">
+<navLabel>
+<text>Hocanın Rolü</text>
+</navLabel>
+<content src="Text/009.html#ncx376"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-24" playOrder="24">
+<navLabel>
+<text>4-BÜYÜK DÜSÜNÜN ÇOK DAHA BÜYÜK!</text>
+</navLabel>
+<content src="Text/010.html"/>
+<navPoint id="navpoint-25" playOrder="25">
+<navLabel>
+<text>Kendi Gerçeğiniz</text>
+</navLabel>
+<content src="Text/010.html#ncx395"/>
+</navPoint>
+<navPoint id="navpoint-26" playOrder="26">
+<navLabel>
+<text>Egzersiz-4:Nefese Dikkat Etmek</text>
+</navLabel>
+<content src="Text/010.html#ncx401"/>
+</navPoint>
+<navPoint id="navpoint-27" playOrder="27">
+<navLabel>
+<text>Sadece Hayır De</text>
+</navLabel>
+<content src="Text/010.html#ncx404"/>
+</navPoint>
+<navPoint id="navpoint-28" playOrder="28">
+<navLabel>
+<text>Yoldaki Yerini Yanlış Değerlendirmek</text>
+</navLabel>
+<content src="Text/010.html#ncx412"/>
+</navPoint>
+<navPoint id="navpoint-29" playOrder="29">
+<navLabel>
+<text>Egzersiz-5:Büyük Varlığın Yerine Geçmek</text>
+</navLabel>
+<content src="Text/010.html#ncx419"/>
+</navPoint>
+<navPoint id="navpoint-30" playOrder="30">
+<navLabel>
+<text>Daha Yüksek Standart</text>
+</navLabel>
+<content src="Text/012.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-31" playOrder="31">
+<navLabel>
+<text>5-TESLiMiYET</text>
+</navLabel>
+<content src="Text/013.html"/>
+<navPoint id="navpoint-32" playOrder="32">
+<navLabel>
+<text>Vahdet-i Vücut: Sufizm'in İkili Varoluş Evresi</text>
+</navLabel>
+<content src="Text/013.html#ncx451"/>
+</navPoint>
+<navPoint id="navpoint-33" playOrder="33">
+<navLabel>
+<text>Vahdet-i Vücut</text>
+</navLabel>
+<content src="Text/013.html#ncx453"/>
+</navPoint>
+<navPoint id="navpoint-34" playOrder="34">
+<navLabel>
+<text>Tüm bunların teslimiyetle ne ilgisi var?</text>
+</navLabel>
+<content src="Text/013.html#ncx457"/>
+</navPoint>
+<navPoint id="navpoint-35" playOrder="35">
+<navLabel>
+<text>Bağımlılığı Aşkla Değiştirmek</text>
+</navLabel>
+<content src="Text/013.html#ncx459"/>
+</navPoint>
+<navPoint id="navpoint-36" playOrder="36">
+<navLabel>
+<text>Egzersiz-6:Diz Çökme Ve Teslim Olma</text>
+</navLabel>
+<content src="Text/013.html#ncx468"/>
+</navPoint>
+<navPoint id="navpoint-37" playOrder="37">
+<navLabel>
+<text>Egzersiz-7:Nurdan Bir Varlıksınız</text>
+</navLabel>
+<content src="Text/013.html#ncx479"/>
+</navPoint>
+<navPoint id="navpoint-38" playOrder="38">
+<navLabel>
+<text>Egzersiz-8:Nur Enerjisini Dönüştürmek</text>
+</navLabel>
+<content src="Text/013.html#ncx484"/>
+</navPoint>
+<navPoint id="navpoint-39" playOrder="39">
+<navLabel>
+<text>Ayrı Olmama Korkusu</text>
+</navLabel>
+<content src="Text/013.html#ncx489"/>
+</navPoint>
+<navPoint id="navpoint-40" playOrder="40">
+<navLabel>
+<text>Özlem Dönüşümü</text>
+</navLabel>
+<content src="Text/013.html#ncx497"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-41" playOrder="41">
+<navLabel>
+<text>6-YOLA ÇIKMAK</text>
+</navLabel>
+<content src="Text/014.html"/>
+<navPoint id="navpoint-42" playOrder="42">
+<navLabel>
+<text>Hafıza ve Süreklilik</text>
+</navLabel>
+<content src="Text/014.html#ncx531"/>
+</navPoint>
+<navPoint id="navpoint-43" playOrder="43">
+<navLabel>
+<text>Çağrı Geldiğinde</text>
+</navLabel>
+<content src="Text/014.html#ncx542"/>
+</navPoint>
+<navPoint id="navpoint-44" playOrder="44">
+<navLabel>
+<text>Aşk ve Hizmet Yolları</text>
+</navLabel>
+<content src="Text/014.html#ncx566"/>
+</navPoint>
+<navPoint id="navpoint-45" playOrder="45">
+<navLabel>
+<text>Aktarım İhtiyacı</text>
+</navLabel>
+<content src="Text/014.html#ncx570"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-46" playOrder="46">
+<navLabel>
+<text>7-GELECEGE DÖNÜS</text>
+</navLabel>
+<content src="Text/015.html"/>
+<navPoint id="navpoint-47" playOrder="47">
+<navLabel>
+<text>Zaman Oku</text>
+</navLabel>
+<content src="Text/015.html#ncx590"/>
+</navPoint>
+<navPoint id="navpoint-48" playOrder="48">
+<navLabel>
+<text>Önsezinin Tehlikeleri</text>
+</navLabel>
+<content src="Text/015.html#ncx596"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-49" playOrder="49">
+<navLabel>
+<text>8-DOGRULUK VE UYANIKLIK</text>
+</navLabel>
+<content src="Text/016.html"/>
+<navPoint id="navpoint-50" playOrder="50">
+<navLabel>
+<text>Vazgeçmekten Sakınmak</text>
+</navLabel>
+<content src="Text/016.html#ncx622"/>
+</navPoint>
+<navPoint id="navpoint-51" playOrder="51">
+<navLabel>
+<text>Gerçek Benliği Kabul etmek</text>
+</navLabel>
+<content src="Text/016.html#ncx635"/>
+</navPoint>
+<navPoint id="navpoint-52" playOrder="52">
+<navLabel>
+<text>Egzersiz-9:Dedikodudan Kaçınmak</text>
+</navLabel>
+<content src="Text/016.html#ncx650"/>
+</navPoint>
+<navPoint id="navpoint-53" playOrder="53">
+<navLabel>
+<text>Kalbin Kapısı</text>
+</navLabel>
+<content src="Text/016.html#ncx652"/>
+</navPoint>
+<navPoint id="navpoint-54" playOrder="54">
+<navLabel>
+<text>Deneyimin Önemsizliği</text>
+</navLabel>
+<content src="Text/016.html#ncx660"/>
+</navPoint>
+<navPoint id="navpoint-55" playOrder="55">
+<navLabel>
+<text>Amaçsızlık: Hiçbir Şey Beklememek</text>
+</navLabel>
+<content src="Text/016.html#ncx667"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-56" playOrder="56">
+<navLabel>
+<text>9-YARATICILIK:BiR KRAL GiBi YÜRÜ</text>
+</navLabel>
+<content src="Text/017.html"/>
+<navPoint id="navpoint-57" playOrder="57">
+<navLabel>
+<text>Üç Çeşit Ruhanî Yaratıcılık</text>
+</navLabel>
+<content src="Text/017.html#ncx687"/>
+</navPoint>
+<navPoint id="navpoint-58" playOrder="58">
+<navLabel>
+<text>Egzersiz-10:Bir Kral Gibi Yürü</text>
+</navLabel>
+<content src="Text/017.html#ncx695"/>
+</navPoint>
+<navPoint id="navpoint-59" playOrder="59">
+<navLabel>
+<text>Kişiliği Yeniden Programlamak</text>
+</navLabel>
+<content src="Text/017.html#ncx701"/>
+</navPoint>
+<navPoint id="navpoint-60" playOrder="60">
+<navLabel>
+<text>Egzersiz-11:Fena-Fi:Başkasının Varlığı İçinde Erimek</text>
+</navLabel>
+<content src="Text/017.html#ncx707"/>
+</navPoint>
+<navPoint id="navpoint-61" playOrder="61">
+<navLabel>
+<text>Sorumluluk</text>
+</navLabel>
+<content src="Text/017.html#ncx713"/>
+</navPoint>
+<navPoint id="navpoint-62" playOrder="62">
+<navLabel>
+<text>Egzersiz-12:Mistik Olan Sensin</text>
+</navLabel>
+<content src="Text/017.html#ncx719"/>
+</navPoint>
+<navPoint id="navpoint-63" playOrder="63">
+<navLabel>
+<text>Tanrı idraki</text>
+</navLabel>
+<content src="Text/017.html#ncx724"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-64" playOrder="64">
+<navLabel>
+<text>10-iNZiVA</text>
+</navLabel>
+<content src="Text/018.html"/>
+</navPoint>
+<navPoint id="navpoint-65" playOrder="65">
+<navLabel>
+<text>11-ULASILMAZ OLANA TUTKU</text>
+</navLabel>
+<content src="Text/019.html"/>
+<navPoint id="navpoint-66" playOrder="66">
+<navLabel>
+<text>Mülkün Kısıtlamaları</text>
+</navLabel>
+<content src="Text/019.html#ncx806"/>
+</navPoint>
+<navPoint id="navpoint-67" playOrder="67">
+<navLabel>
+<text>Ayrı Olmayı Reddeden Kafeterya</text>
+</navLabel>
+<content src="Text/019.html#ncx810"/>
+</navPoint>
+<navPoint id="navpoint-68" playOrder="68">
+<navLabel>
+<text>Ulaşılmaz Olana Arzunun Tükenmeyişi</text>
+</navLabel>
+<content src="Text/019.html#ncx820"/>
+</navPoint>
+<navPoint id="navpoint-69" playOrder="69">
+<navLabel>
+<text>Egzersiz-13:Daha Büyük Olmak</text>
+</navLabel>
+<content src="Text/019.html#ncx826"/>
+</navPoint>
+<navPoint id="navpoint-70" playOrder="70">
+<navLabel>
+<text>Yeni Âlemlerin Açığa Çıkması</text>
+</navLabel>
+<content src="Text/019.html#ncx838"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-71" playOrder="71">
+<navLabel>
+<text>12-ASK</text>
+</navLabel>
+<content src="Text/020.html"/>
+<navPoint id="navpoint-72" playOrder="72">
+<navLabel>
+<text>Savunmasızlığın Değeri</text>
+</navLabel>
+<content src="Text/020.html#ncx852"/>
+</navPoint>
+<navPoint id="navpoint-73" playOrder="73">
+<navLabel>
+<text>Egzersiz-14:Başkasının Ruhuna Girmek</text>
+</navLabel>
+<content src="Text/020.html#ncx864"/>
+</navPoint>
+<navPoint id="navpoint-74" playOrder="74">
+<navLabel>
+<text>Vedud: Kâinatı Yaratan Duygu</text>
+</navLabel>
+<content src="Text/020.html#ncx876"/>
+</navPoint>
+<navPoint id="navpoint-75" playOrder="75">
+<navLabel>
+<text>Aşk: Tanrısal Özlem</text>
+</navLabel>
+<content src="Text/020.html#ncx881"/>
+</navPoint>
+<navPoint id="navpoint-76" playOrder="76">
+<navLabel>
+<text>Egzersiz-15:Kartalın Uçuşu</text>
+</navLabel>
+<content src="Text/020.html#ncx890"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-77" playOrder="77">
+<navLabel>
+<text>13-SÖVALYELiGiN RUHU</text>
+</navLabel>
+<content src="Text/021.html"/>
+<navPoint id="navpoint-78" playOrder="78">
+<navLabel>
+<text>Zat: Bütün Varoluşun Dayanağı</text>
+</navLabel>
+<content src="Text/021.html#ncx913"/>
+</navPoint>
+<navPoint id="navpoint-79" playOrder="79">
+<navLabel>
+<text>Nur'dan Gelen: Tanrı'nın 99 Adı</text>
+</navLabel>
+<content src="Text/021.html#ncx919"/>
+</navPoint>
+<navPoint id="navpoint-80" playOrder="80">
+<navLabel>
+<text>Egzersiz-16:Şövalyeyi Hayal Etmek</text>
+</navLabel>
+<content src="Text/021.html#ncx930"/>
+</navPoint>
+<navPoint id="navpoint-81" playOrder="81">
+<navLabel>
+<text>Egzersiz-17:Rahatlama Sanatı</text>
+</navLabel>
+<content src="Text/021.html#ncx940"/>
+</navPoint>
+<navPoint id="navpoint-82" playOrder="82">
+<navLabel>
+<text>Egzersiz-18:Nur'dan Bir Varlıksın</text>
+</navLabel>
+<content src="Text/021.html#ncx951"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-83" playOrder="83">
+<navLabel>
+<text>14-FEDA</text>
+</navLabel>
+<content src="Text/022.html"/>
+<navPoint id="navpoint-84" playOrder="84">
+<navLabel>
+<text>Son Ders</text>
+</navLabel>
+<content src="Text/022.html#ncx970"/>
+</navPoint>
+<navPoint id="navpoint-85" playOrder="85">
+<navLabel>
+<text>Öz Değişim ve İlişkilerin Değişimi</text>
+</navLabel>
+<content src="Text/022.html#ncx975"/>
+</navPoint>
+<navPoint id="navpoint-86" playOrder="86">
+<navLabel>
+<text>Şükranın Varlığı</text>
+</navLabel>
+<content src="Text/022.html#ncx985"/>
+</navPoint>
+<navPoint id="navpoint-87" playOrder="87">
+<navLabel>
+<text>Haz Gerçektir ve Depresyon Kaçınılmaz Değildir</text>
+</navLabel>
+<content src="Text/022.html#ncx993"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-88" playOrder="88">
+<navLabel>
+<text>15-ÖLÜM</text>
+</navLabel>
+<content src="Text/023.html"/>
+<navPoint id="navpoint-89" playOrder="89">
+<navLabel>
+<text>Doğu'da ve Batı'da Ölüm</text>
+</navLabel>
+<content src="Text/023.html#ncx1018"/>
+</navPoint>
+<navPoint id="navpoint-90" playOrder="90">
+<navLabel>
+<text>Hayatta Ölüm</text>
+</navLabel>
+<content src="Text/023.html#ncx1028"/>
+</navPoint>
+<navPoint id="navpoint-91" playOrder="91">
+<navLabel>
+<text>Michael'in Ölümü</text>
+</navLabel>
+<content src="Text/023.html#ncx1040"/>
+</navPoint>
+</navPoint>
+</navMap>
+</ncx>

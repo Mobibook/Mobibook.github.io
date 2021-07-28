@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Attila</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Safa, Peyami">Peyami Safa</dc:creator>
+    <dc:publisher>Ötüken Neşriyat</dc:publisher>
+    <dc:date>2009-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:0aaeb5e1-9ab8-4fc1-833c-3c47305c3398</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (3.0.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">45df6932-10a3-472c-9514-965c94e51e32</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="attila.xhtml" id="attila" media-type="application/xhtml+xml"/>
+    <item href="attila-1.xhtml" id="attila-1" media-type="application/xhtml+xml"/>
+    <item href="attila-2.xhtml" id="attila-2" media-type="application/xhtml+xml"/>
+    <item href="attila-3.xhtml" id="attila-3" media-type="application/xhtml+xml"/>
+    <item href="attila-4.xhtml" id="attila-4" media-type="application/xhtml+xml"/>
+    <item href="attila-5.xhtml" id="attila-5" media-type="application/xhtml+xml"/>
+    <item href="attila-6.xhtml" id="attila-6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/attila_idstyles.css" id="attila_idstyles.css" media-type="text/css"/>
+    <item href="image/Attila.jpg" id="Attila.jpg" media-type="image/jpeg"/>
+    <item href="image/logo01_fmt.png" id="logo01_fmt.png" media-type="image/png"/>
+    <item href="OEBPS/cover.jpg" id="uKIsAxSlU44FYlwhY3hNLy8" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/vnd.ms-truetype"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/vnd.ms-truetype"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/vnd.ms-truetype"/>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="LiberationSerif-Regular.ttf" media-type="application/vnd.ms-truetype"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="attila"/>
+    <itemref idref="attila-1"/>
+    <itemref idref="attila-2"/>
+    <itemref idref="attila-3"/>
+    <itemref idref="attila-4"/>
+    <itemref idref="attila-5"/>
+    <itemref idref="attila-6"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

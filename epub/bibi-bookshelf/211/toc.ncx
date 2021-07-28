@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="a480701a-3b48-4679-a36e-b3a72eaf8398" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.49)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Devlet</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="d91fbfcc-bb73-4cd7-bd7b-c712913cc66c" playOrder="1">
+      <navLabel>
+        <text>GİRİŞ</text>
+      </navLabel>
+      <content src="001-672Devlet_split_004.html"/>
+    </navPoint>
+    <navPoint id="ddfcd1f2-89b2-4f50-8c42-012c55a31874" playOrder="2">
+      <navLabel>
+        <text>DEVLET</text>
+      </navLabel>
+      <content src="001-672Devlet_split_006.html"/>
+    </navPoint>
+    <navPoint id="8f34ac70-7875-49d3-a2b7-351a58b397a2" playOrder="3">
+      <navLabel>
+        <text>BİRİNCİ KİTAP</text>
+      </navLabel>
+      <content src="001-672Devlet_split_007.html"/>
+    </navPoint>
+    <navPoint id="19416cf7-9594-4d9d-ab22-f4300524b671" playOrder="4">
+      <navLabel>
+        <text>İKİNCİ KİTAP</text>
+      </navLabel>
+      <content src="001-672Devlet_split_008.html"/>
+    </navPoint>
+    <navPoint id="6a9ef9b2-09d2-46f5-94e3-ef86cb5f023e" playOrder="5">
+      <navLabel>
+        <text>ÜÇÜNCÜ KİTAP</text>
+      </navLabel>
+      <content src="001-672Devlet_split_009.html"/>
+    </navPoint>
+    <navPoint id="ef5e94f5-0bd1-463b-8fa6-594c145fc43d" playOrder="6">
+      <navLabel>
+        <text>DÖRDÜNCÜ KİTAP</text>
+      </navLabel>
+      <content src="001-672Devlet_split_010.html"/>
+    </navPoint>
+    <navPoint id="f0b4022f-7880-4b03-8470-45e637118c4e" playOrder="7">
+      <navLabel>
+        <text>BEŞİNCİ KİTAP</text>
+      </navLabel>
+      <content src="001-672Devlet_split_011.html"/>
+    </navPoint>
+    <navPoint id="042e0f34-b88a-422c-8e7c-9d9b16399387" playOrder="8">
+      <navLabel>
+        <text>ALTINCI KİTAP</text>
+      </navLabel>
+      <content src="001-672Devlet_split_012.html"/>
+    </navPoint>
+    <navPoint id="c93e47d5-2e3c-4a3e-8826-41afffd85dc4" playOrder="9">
+      <navLabel>
+        <text>YEDİNCİ KİTAP</text>
+      </navLabel>
+      <content src="001-672Devlet_split_013.html"/>
+    </navPoint>
+    <navPoint id="788ac5b4-2033-4c6c-a313-e62ce53ce122" playOrder="10">
+      <navLabel>
+        <text>SEKİZİNCİ KİTAP</text>
+      </navLabel>
+      <content src="001-672Devlet_split_014.html"/>
+    </navPoint>
+    <navPoint id="cb6a6d40-062f-4002-b853-64d4801a2789" playOrder="11">
+      <navLabel>
+        <text>DOKUZUNCU KİTAP</text>
+      </navLabel>
+      <content src="001-672Devlet_split_015.html"/>
+    </navPoint>
+    <navPoint id="99d420ba-0e4d-4f8e-8357-0b7ed3412ab8" playOrder="12">
+      <navLabel>
+        <text>ONUNCU KİTAP</text>
+      </navLabel>
+      <content src="001-672Devlet_split_016.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

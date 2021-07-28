@@ -1,0 +1,93 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Gowins, Phillip">Phillip Gowins</dc:creator>
+<dc:date>2009-02-11T22:00:00+00:00</dc:date>
+    <dc:identifier id="BookId">awp2012-02-12T14:08:59Z</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-08-13</dc:date>
+    <meta name="cover" content="img1"/>
+  <dc:title>Sufizm</dc:title>
+<meta name="calibre:title_sort" content="Sufizm"/>
+<dc:publisher>Şira Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>İslam</dc:subject>
+<dc:subject>Tasavvuf</dc:subject>
+<dc:description>&lt;p&gt;GERÇEK AŞKI BULMAK İÇİN SUFİZM
+
+
+SUFİZM'İN GİZEM VE GÜZELLİKLERLE DOLU 
+KAPISI YENİDEN ARALANIYOR...
+
+
+Sufizm'in kapısı, içsel olana ve derinliğe açılır. Bu yol bize, kabuktan ve şekilsellikten çok daha fazlasını vadeder. Bu kapıyı açıp içeri girebilene ve yürümeye başlayana da bu derinliktekisonsuz güzellikleri sunar. Hem de hiçbir ayrım gözetmeden... 
+
+Sufizm, İslam'ın mistik kalbidir ve batıni yüzünü ifade eder. Mevlana, Yunus Emre, Hacı Bektaş-ı Veli ve daha niceleri bu ekolün temsilcileridir. Her biri eserleriyle ve yaşam biçimleriyle insanlığa ışık tutmuş kişilerdir. 
+
+Elinizdeki kitabın amacı, işte bu kapıyı aralayan bir kişinin gördüklerini sizlerle paylaşmasından ibarettir. Ancak kitabın belki de en önemli tarafı, konuyu teorik olarak ele almaktan çok, pratik uygulamaları aktarıyor olmasıdır. 
+
+Tamamen yaşanmış bir sürecin öyküsü olan kitap, sufi hocaların, bu gün kendisi de bir Sufi hocası olan yazara özel olarak aktardığı 15 konu ve 18 ayrı teknikle, Sufizm'i merak eden ve bu yolda yürüyen herkese ışık kaynağı olacaktır.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Phillip Gowins&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">df60b693-fdc6-426f-8df9-2fc4cb0c52d7</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786054182084</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="Text/014.html" id="id014" media-type="application/xhtml+xml"/>
+    <item href="Text/015.html" id="id015" media-type="application/xhtml+xml"/>
+    <item href="Text/016.html" id="id016" media-type="application/xhtml+xml"/>
+    <item href="Text/017.html" id="id017" media-type="application/xhtml+xml"/>
+    <item href="Text/018.html" id="id018" media-type="application/xhtml+xml"/>
+    <item href="Text/019.html" id="id019" media-type="application/xhtml+xml"/>
+    <item href="Text/020.html" id="id020" media-type="application/xhtml+xml"/>
+    <item href="Text/021.html" id="id021" media-type="application/xhtml+xml"/>
+    <item href="Text/022.html" id="id022" media-type="application/xhtml+xml"/>
+    <item href="Text/023.html" id="id023" media-type="application/xhtml+xml"/>
+    <item href="Images/img1.jpg" id="img1" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+    <itemref idref="id017"/>
+    <itemref idref="id018"/>
+    <itemref idref="id019"/>
+    <itemref idref="id020"/>
+    <itemref idref="id021"/>
+    <itemref idref="id022"/>
+    <itemref idref="id023"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,13 @@
+@page{margin:.2cm}
+body{margin:0}
+p{text-indent:.8em;text-align:justify;orphans:2;widows:2;hyphens:auto;font-size:100%;margin:.35em 0}
+a:link{color:inherit;text-decoration:inherit;cursor:default}
+a[href]{color:blue;text-decoration:underline;cursor:pointer}
+h1{text-indent:0;text-align:justify;page-break-after:avoid;font-size:200%;font-weight:400;margin:.75em 0}
+h2{margin-top:.75em;margin-bottom:4em}
+.araver{margin-top:1.5em}
+.kunye{text-indent:.8em;margin-left:1em;text-align:center;text-indent:0;margin-top:.1em;margin-bottom:.1em;font-size:.9em}
+.sayfaortala{margin-top:40%;margin-bottom:40%;text-align:center;font-weight:700}
+.sagayakin{margin-left:35%;margin-right:5%;text-align:justify}
+.dipnotara{margin-top:3em;margin-bottom:1.5em}
+.iceridentek{text-indent:0;margin-left:10%;margin-top:2em;margin-bottom:2em;font-style:italic}

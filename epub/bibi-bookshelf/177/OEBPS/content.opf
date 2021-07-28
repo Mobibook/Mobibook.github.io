@@ -1,0 +1,216 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>İlk Işık</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Ackroyd, Peter">Peter Ackroyd</dc:creator>
+    <dc:identifier id="uuid">{1A229D01-9BA5-4555-8333-345D02741145}</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.76.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">0ca9674c-84eb-443c-ad1b-f4463cc5ef34</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="PAII_Cov.jpg"/>
+    <meta name="calibre:title_sort" content="İlk Işık"/>
+    <meta name="calibre:author_link_map" content="{&quot;Peter Ackroyd&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yazar.xhtml" id="Yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YKYdekiKitaplari.xhtml" id="YKYdekiKitaplari.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/IcKapak_1.xhtml" id="IcKapak_1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Kunye.xhtml" id="Kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/AraKapak.xhtml" id="AraKapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Part_1.xhtml" id="Part_1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S001.xhtml" id="S001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S002.xhtml" id="S002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S003.xhtml" id="S003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S004.xhtml" id="S004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S005.xhtml" id="S005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S006.xhtml" id="S006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S007.xhtml" id="S007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S008.xhtml" id="S008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S009.xhtml" id="S009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S010.xhtml" id="S010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S011.xhtml" id="S011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S012.xhtml" id="S012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S013.xhtml" id="S013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S014.xhtml" id="S014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S015.xhtml" id="S015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S016.xhtml" id="S016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Part_2.xhtml" id="Part_2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S017.xhtml" id="S017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S018.xhtml" id="S018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S019.xhtml" id="S019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S020.xhtml" id="S020.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S021.xhtml" id="S021.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S022.xhtml" id="S022.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S023.xhtml" id="S023.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S024.xhtml" id="S024.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S025.xhtml" id="S025.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S026.xhtml" id="S026.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S027.xhtml" id="S027.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S028.xhtml" id="S028.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S029.xhtml" id="S029.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Part_3.xhtml" id="Part_3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S030.xhtml" id="S030.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S031.xhtml" id="S031.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S032.xhtml" id="S032.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S033.xhtml" id="S033.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S034.xhtml" id="S034.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S035.xhtml" id="S035.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S036.xhtml" id="S036.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S037.xhtml" id="S037.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S038.xhtml" id="S038.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S039.xhtml" id="S039.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S040.xhtml" id="S040.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S041.xhtml" id="S041.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S042.xhtml" id="S042.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S043.xhtml" id="S043.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S044.xhtml" id="S044.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S045.xhtml" id="S045.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Part_4.xhtml" id="Part_4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S046.xhtml" id="S046.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S047.xhtml" id="S047.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S048.xhtml" id="S048.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S049.xhtml" id="S049.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S050.xhtml" id="S050.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S051.xhtml" id="S051.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S052.xhtml" id="S052.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S053.xhtml" id="S053.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Part_5.xhtml" id="Part_5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S054.xhtml" id="S054.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S055.xhtml" id="S055.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S056.xhtml" id="S056.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S057.xhtml" id="S057.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S058.xhtml" id="S058.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S059.xhtml" id="S059.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S060.xhtml" id="S060.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S061.xhtml" id="S061.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S062.xhtml" id="S062.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S063.xhtml" id="S063.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S064.xhtml" id="S064.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S065.xhtml" id="S065.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S066.xhtml" id="S066.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S067.xhtml" id="S067.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S068.xhtml" id="S068.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S069.xhtml" id="S069.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S070.xhtml" id="S070.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S071.xhtml" id="S071.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Part_6.xhtml" id="Part_6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S072.xhtml" id="S072.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S073.xhtml" id="S073.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S074.xhtml" id="S074.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S075.xhtml" id="S075.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S076.xhtml" id="S076.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S077.xhtml" id="S077.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S078.xhtml" id="S078.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S079.xhtml" id="S079.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S080.xhtml" id="S080.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id9" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id8" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="PAII_Cov.jpg" media-type="image/jpeg"/>
+    <item href="Images/YKY_Logo.jpg" id="YKY_Logo.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id9">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Yazar.xhtml"/>
+    <itemref idref="YKYdekiKitaplari.xhtml"/>
+    <itemref idref="IcKapak_1.xhtml"/>
+    <itemref idref="Kunye.xhtml"/>
+    <itemref idref="AraKapak.xhtml"/>
+    <itemref idref="Part_1.xhtml"/>
+    <itemref idref="S001.xhtml"/>
+    <itemref idref="S002.xhtml"/>
+    <itemref idref="S003.xhtml"/>
+    <itemref idref="S004.xhtml"/>
+    <itemref idref="S005.xhtml"/>
+    <itemref idref="S006.xhtml"/>
+    <itemref idref="S007.xhtml"/>
+    <itemref idref="S008.xhtml"/>
+    <itemref idref="S009.xhtml"/>
+    <itemref idref="S010.xhtml"/>
+    <itemref idref="S011.xhtml"/>
+    <itemref idref="S012.xhtml"/>
+    <itemref idref="S013.xhtml"/>
+    <itemref idref="S014.xhtml"/>
+    <itemref idref="S015.xhtml"/>
+    <itemref idref="S016.xhtml"/>
+    <itemref idref="Part_2.xhtml"/>
+    <itemref idref="S017.xhtml"/>
+    <itemref idref="S018.xhtml"/>
+    <itemref idref="S019.xhtml"/>
+    <itemref idref="S020.xhtml"/>
+    <itemref idref="S021.xhtml"/>
+    <itemref idref="S022.xhtml"/>
+    <itemref idref="S023.xhtml"/>
+    <itemref idref="S024.xhtml"/>
+    <itemref idref="S025.xhtml"/>
+    <itemref idref="S026.xhtml"/>
+    <itemref idref="S027.xhtml"/>
+    <itemref idref="S028.xhtml"/>
+    <itemref idref="S029.xhtml"/>
+    <itemref idref="Part_3.xhtml"/>
+    <itemref idref="S030.xhtml"/>
+    <itemref idref="S031.xhtml"/>
+    <itemref idref="S032.xhtml"/>
+    <itemref idref="S033.xhtml"/>
+    <itemref idref="S034.xhtml"/>
+    <itemref idref="S035.xhtml"/>
+    <itemref idref="S036.xhtml"/>
+    <itemref idref="S037.xhtml"/>
+    <itemref idref="S038.xhtml"/>
+    <itemref idref="S039.xhtml"/>
+    <itemref idref="S040.xhtml"/>
+    <itemref idref="S041.xhtml"/>
+    <itemref idref="S042.xhtml"/>
+    <itemref idref="S043.xhtml"/>
+    <itemref idref="S044.xhtml"/>
+    <itemref idref="S045.xhtml"/>
+    <itemref idref="Part_4.xhtml"/>
+    <itemref idref="S046.xhtml"/>
+    <itemref idref="S047.xhtml"/>
+    <itemref idref="S048.xhtml"/>
+    <itemref idref="S049.xhtml"/>
+    <itemref idref="S050.xhtml"/>
+    <itemref idref="S051.xhtml"/>
+    <itemref idref="S052.xhtml"/>
+    <itemref idref="S053.xhtml"/>
+    <itemref idref="Part_5.xhtml"/>
+    <itemref idref="S054.xhtml"/>
+    <itemref idref="S055.xhtml"/>
+    <itemref idref="S056.xhtml"/>
+    <itemref idref="S057.xhtml"/>
+    <itemref idref="S058.xhtml"/>
+    <itemref idref="S059.xhtml"/>
+    <itemref idref="S060.xhtml"/>
+    <itemref idref="S061.xhtml"/>
+    <itemref idref="S062.xhtml"/>
+    <itemref idref="S063.xhtml"/>
+    <itemref idref="S064.xhtml"/>
+    <itemref idref="S065.xhtml"/>
+    <itemref idref="S066.xhtml"/>
+    <itemref idref="S067.xhtml"/>
+    <itemref idref="S068.xhtml"/>
+    <itemref idref="S069.xhtml"/>
+    <itemref idref="S070.xhtml"/>
+    <itemref idref="S071.xhtml"/>
+    <itemref idref="Part_6.xhtml"/>
+    <itemref idref="S072.xhtml"/>
+    <itemref idref="S073.xhtml"/>
+    <itemref idref="S074.xhtml"/>
+    <itemref idref="S075.xhtml"/>
+    <itemref idref="S076.xhtml"/>
+    <itemref idref="S077.xhtml"/>
+    <itemref idref="S078.xhtml"/>
+    <itemref idref="S079.xhtml"/>
+    <itemref idref="S080.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+  </guide>
+</package>

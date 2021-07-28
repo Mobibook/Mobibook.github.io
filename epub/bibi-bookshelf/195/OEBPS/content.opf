@@ -1,0 +1,71 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Simulakra</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Dick, Philip K.">Philip K. Dick</dc:creator>
+    <dc:identifier id="uuid">{1C205EF1-23ED-4667-93E4-C801FEEA5C51}</dc:identifier>
+    <dc:contributor opf:role="trl">M. Kamil Utku</dc:contributor>
+    <dc:publisher>Altıkırkbeş Yayınları</dc:publisher>
+    <dc:type>Bilimkurgu</dc:type>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.29.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">81a29ab2-348a-4083-8e6d-2e28db78785d</dc:identifier>
+    <meta content="0.9.3" name="Sigil version"/>
+    <meta name="cover" content="cover1.jpg"/>
+    <meta name="calibre:title_sort" content="Simulakra"/>
+    <meta name="calibre:author_link_map" content="{&quot;Philip K. Dick&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Kunye.xhtml" id="Kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Philip_K_Dick.xhtml" id="Philip_K_Dick.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic_kapak.xhtml" id="ic_kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-000.xhtml" id="B-000.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-001.xhtml" id="B-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-002.xhtml" id="B-002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-003.xhtml" id="B-003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-004.xhtml" id="B-004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-005.xhtml" id="B-005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-006.xhtml" id="B-006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-007.xhtml" id="B-007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-008.xhtml" id="B-008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-009.xhtml" id="B-009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-010.xhtml" id="B-010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-011.xhtml" id="B-011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-012.xhtml" id="B-012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-013.xhtml" id="B-013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-014.xhtml" id="B-014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-015.xhtml" id="B-015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/DiPNOTLAR.xhtml" id="DiPNOTLAR.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/BiNCOL.css" id="BiNCOL.css" media-type="text/css"/>
+    <item href="Images/PKDSMLKR4cee_1024x1024.jpg" id="cover1.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Kunye.xhtml"/>
+    <itemref idref="Philip_K_Dick.xhtml"/>
+    <itemref idref="ic_kapak.xhtml"/>
+    <itemref idref="B-000.xhtml"/>
+    <itemref idref="B-001.xhtml"/>
+    <itemref idref="B-002.xhtml"/>
+    <itemref idref="B-003.xhtml"/>
+    <itemref idref="B-004.xhtml"/>
+    <itemref idref="B-005.xhtml"/>
+    <itemref idref="B-006.xhtml"/>
+    <itemref idref="B-007.xhtml"/>
+    <itemref idref="B-008.xhtml"/>
+    <itemref idref="B-009.xhtml"/>
+    <itemref idref="B-010.xhtml"/>
+    <itemref idref="B-011.xhtml"/>
+    <itemref idref="B-012.xhtml"/>
+    <itemref idref="B-013.xhtml"/>
+    <itemref idref="B-014.xhtml"/>
+    <itemref idref="B-015.xhtml"/>
+    <itemref idref="DiPNOTLAR.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

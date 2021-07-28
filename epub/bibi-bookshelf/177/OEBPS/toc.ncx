@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="{1A229D01-9BA5-4555-8333-345D02741145}" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>İlk Işık</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Part_1.xhtml" />
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Belirsizlik İlkesi</text>
+        </navLabel>
+        <content src="Text/S001.xhtml#sigil_toc_id_1" />
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Yangından Sonra</text>
+        </navLabel>
+        <content src="Text/S002.xhtml#sigil_toc_id_2" />
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Höyüğün Üzerinde</text>
+        </navLabel>
+        <content src="Text/S003.xhtml#sigil_toc_id_3" />
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Vadi</text>
+        </navLabel>
+        <content src="Text/S004.xhtml#sigil_toc_id_4" />
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Bazı Vadililer</text>
+        </navLabel>
+        <content src="Text/S005.xhtml#sigil_toc_id_5" />
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Londra Leylağı</text>
+        </navLabel>
+        <content src="Text/S006.xhtml#sigil_toc_id_6" />
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Bekleyiş</text>
+        </navLabel>
+        <content src="Text/S007.xhtml#sigil_toc_id_7" />
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Daha Öncesi</text>
+        </navLabel>
+        <content src="Text/S008.xhtml#sigil_toc_id_8" />
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Bir Çocuk</text>
+        </navLabel>
+        <content src="Text/S009.xhtml#sigil_toc_id_9" />
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Kazı Yerinde</text>
+        </navLabel>
+        <content src="Text/S010.xhtml#sigil_toc_id_10" />
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Alan Gezisi</text>
+        </navLabel>
+        <content src="Text/S011.xhtml#sigil_toc_id_11" />
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Bir Tartışma</text>
+        </navLabel>
+        <content src="Text/S012.xhtml#sigil_toc_id_12" />
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Bir Görüş</text>
+        </navLabel>
+        <content src="Text/S013.xhtml#sigil_toc_id_13" />
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Görüş Siliniyor</text>
+        </navLabel>
+        <content src="Text/S014.xhtml#sigil_toc_id_14" />
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Kazı</text>
+        </navLabel>
+        <content src="Text/S015.xhtml#sigil_toc_id_15" />
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Ziyaretçiler</text>
+        </navLabel>
+        <content src="Text/S016.xhtml#sigil_toc_id_16" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Part_2.xhtml" />
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Kumsalda</text>
+        </navLabel>
+        <content src="Text/S017.xhtml#sigil_toc_id_17" />
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Ünlü Adam</text>
+        </navLabel>
+        <content src="Text/S018.xhtml#sigil_toc_id_18" />
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Granny'nin Dişleri</text>
+        </navLabel>
+        <content src="Text/S019.xhtml#sigil_toc_id_19" />
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Alacakaranlıkta</text>
+        </navLabel>
+        <content src="Text/S020.xhtml#sigil_toc_id_20" />
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Daha Derine İnerken</text>
+        </navLabel>
+        <content src="Text/S021.xhtml#sigil_toc_id_21" />
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Saldırganlar</text>
+        </navLabel>
+        <content src="Text/S022.xhtml#sigil_toc_id_22" />
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>İki Hanım</text>
+        </navLabel>
+        <content src="Text/S023.xhtml#sigil_toc_id_23" />
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Hanımlar Ziyarette</text>
+        </navLabel>
+        <content src="Text/S024.xhtml#sigil_toc_id_24" />
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Beyaz Yüzler</text>
+        </navLabel>
+        <content src="Text/S025.xhtml#sigil_toc_id_25" />
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Konuşma</text>
+        </navLabel>
+        <content src="Text/S026.xhtml#sigil_toc_id_26" />
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Mavi Köpek</text>
+        </navLabel>
+        <content src="Text/S027.xhtml#sigil_toc_id_27" />
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Bir Toplantı</text>
+        </navLabel>
+        <content src="Text/S028.xhtml#sigil_toc_id_28" />
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Bir Hikâye</text>
+        </navLabel>
+        <content src="Text/S029.xhtml#sigil_toc_id_29" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Part_3.xhtml" />
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Özel Dünyalar</text>
+        </navLabel>
+        <content src="Text/S030.xhtml#sigil_toc_id_30" />
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Gece Fotoğrafı</text>
+        </navLabel>
+        <content src="Text/S031.xhtml#sigil_toc_id_31" />
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Çöküşten Sonra</text>
+        </navLabel>
+        <content src="Text/S032.xhtml#sigil_toc_id_32" />
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Turbalıkta</text>
+        </navLabel>
+        <content src="Text/S033.xhtml#sigil_toc_id_33" />
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Açık Kubbe</text>
+        </navLabel>
+        <content src="Text/S034.xhtml#sigil_toc_id_34" />
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Giriş</text>
+        </navLabel>
+        <content src="Text/S035.xhtml#sigil_toc_id_35" />
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Şifrenin Çözülmesi</text>
+        </navLabel>
+        <content src="Text/S036.xhtml#sigil_toc_id_36" />
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Koruyucu Melekler</text>
+        </navLabel>
+        <content src="Text/S037.xhtml#sigil_toc_id_37" />
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Gösteri</text>
+        </navLabel>
+        <content src="Text/S038.xhtml#sigil_toc_id_38" />
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Karanlık</text>
+        </navLabel>
+        <content src="Text/S039.xhtml#sigil_toc_id_39" />
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Atlar ve Balıklar</text>
+        </navLabel>
+        <content src="Text/S040.xhtml#sigil_toc_id_40" />
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Taşlardaki Öğütler</text>
+        </navLabel>
+        <content src="Text/S041.xhtml#sigil_toc_id_41" />
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Aşağıya İnersen.</text>
+        </navLabel>
+        <content src="Text/S042.xhtml#sigil_toc_id_42" />
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Herbert ile Samuel</text>
+        </navLabel>
+        <content src="Text/S043.xhtml#sigil_toc_id_43" />
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Hepsi Bir Tek Günde</text>
+        </navLabel>
+        <content src="Text/S044.xhtml#sigil_toc_id_44" />
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Damian'dan Bir Mektup</text>
+        </navLabel>
+        <content src="Text/S045.xhtml#sigil_toc_id_45" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>DÖRDÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Part_4.xhtml" />
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Meşale Işığı</text>
+        </navLabel>
+        <content src="Text/S046.xhtml#sigil_toc_id_46" />
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Geçidin İçinde</text>
+        </navLabel>
+        <content src="Text/S047.xhtml#sigil_toc_id_47" />
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Deniz Lalesi</text>
+        </navLabel>
+        <content src="Text/S048.xhtml#sigil_toc_id_48" />
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Duvarın Arkası</text>
+        </navLabel>
+        <content src="Text/S049.xhtml#sigil_toc_id_49" />
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Asılmış Adam</text>
+        </navLabel>
+        <content src="Text/S050.xhtml#sigil_toc_id_50" />
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Orman</text>
+        </navLabel>
+        <content src="Text/S051.xhtml#sigil_toc_id_51" />
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Orman Adamı</text>
+        </navLabel>
+        <content src="Text/S052.xhtml#sigil_toc_id_52" />
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Swithin'in Sütunu</text>
+        </navLabel>
+        <content src="Text/S053.xhtml#sigil_toc_id_53" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>BEŞİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Part_5.xhtml" />
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Corona</text>
+        </navLabel>
+        <content src="Text/S054.xhtml#sigil_toc_id_54" />
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Gezginler</text>
+        </navLabel>
+        <content src="Text/S055.xhtml#sigil_toc_id_55" />
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Çay Saati</text>
+        </navLabel>
+        <content src="Text/S056.xhtml#sigil_toc_id_56" />
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Toplantı</text>
+        </navLabel>
+        <content src="Text/S057.xhtml#sigil_toc_id_57" />
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Mauve'ın Barınağı</text>
+        </navLabel>
+        <content src="Text/S058.xhtml#sigil_toc_id_58" />
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Fare Kral</text>
+        </navLabel>
+        <content src="Text/S059.xhtml#sigil_toc_id_59" />
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Ruhun Gece Yarısı</text>
+        </navLabel>
+        <content src="Text/S060.xhtml#sigil_toc_id_60" />
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Mahzen</text>
+        </navLabel>
+        <content src="Text/S061.xhtml#sigil_toc_id_61" />
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Saat Sekiz</text>
+        </navLabel>
+        <content src="Text/S062.xhtml#sigil_toc_id_62" />
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Tilki</text>
+        </navLabel>
+        <content src="Text/S063.xhtml#sigil_toc_id_63" />
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Lud Mouth</text>
+        </navLabel>
+        <content src="Text/S064.xhtml#sigil_toc_id_64" />
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Bağlantılar</text>
+        </navLabel>
+        <content src="Text/S065.xhtml#sigil_toc_id_65" />
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Harfler</text>
+        </navLabel>
+        <content src="Text/S066.xhtml#sigil_toc_id_66" />
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>Asla Bilemezsin</text>
+        </navLabel>
+        <content src="Text/S067.xhtml#sigil_toc_id_67" />
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Telefonda</text>
+        </navLabel>
+        <content src="Text/S068.xhtml#sigil_toc_id_68" />
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Akşam Yemeği</text>
+        </navLabel>
+        <content src="Text/S069.xhtml#sigil_toc_id_69" />
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>Ortada</text>
+        </navLabel>
+        <content src="Text/S070.xhtml#sigil_toc_id_70" />
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>Siluet</text>
+        </navLabel>
+        <content src="Text/S071.xhtml#sigil_toc_id_71" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-77" playOrder="77">
+      <navLabel>
+        <text>ALTINCI BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Part_6.xhtml" />
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>Aldebaran</text>
+        </navLabel>
+        <content src="Text/S072.xhtml#sigil_toc_id_72" />
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>Yeniden Dirilticiler</text>
+        </navLabel>
+        <content src="Text/S073.xhtml#sigil_toc_id_73" />
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>Benim İhtiyarım</text>
+        </navLabel>
+        <content src="Text/S074.xhtml#sigil_toc_id_74" />
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>Yeşil Parmaklar</text>
+        </navLabel>
+        <content src="Text/S075.xhtml#sigil_toc_id_75" />
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>İyi Düşün</text>
+        </navLabel>
+        <content src="Text/S076.xhtml#sigil_toc_id_76" />
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>Deniz Kabuğu</text>
+        </navLabel>
+        <content src="Text/S077.xhtml#sigil_toc_id_77" />
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>Sonunda</text>
+        </navLabel>
+        <content src="Text/S078.xhtml#sigil_toc_id_78" />
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>Işık</text>
+        </navLabel>
+        <content src="Text/S079.xhtml#sigil_toc_id_79" />
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>Belirsizlik İlkesi</text>
+        </navLabel>
+        <content src="Text/S080.xhtml#sigil_toc_id_80" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

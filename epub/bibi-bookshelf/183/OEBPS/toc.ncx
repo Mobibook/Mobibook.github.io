@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="978-605-155-096-1" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>Matmazel Noraliya'nın Koltuğu</text>
+	</docTitle>
+	<docAuthor>
+		<text>Peyami Safa</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Matmazel Noraliya’nın Koltuğu</text>
+			</navLabel>
+			<content src="Text/matmazel_noraliyanin_koltugu.xhtml#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>BİRİNCİ BÖLÜM</text>
+			</navLabel>
+			<content src="Text/matmazel_noraliyanin_koltugu-3.xhtml#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>İKİNCİ BÖLÜM</text>
+			</navLabel>
+			<content src="Text/matmazel_noraliyanin_koltugu-4.xhtml#toc_marker-3"/>
+		</navPoint>
+	</navMap>
+</ncx>
