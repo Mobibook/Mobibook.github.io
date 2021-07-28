@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta name="calibre:timestamp" content="2019-11-20T08:08:34.251000+00:00"/>
+    <dc:contributor opf:role="bkp">calibre (3.40.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">32212fc6-4144-4634-9225-c64b0632979a</dc:identifier>
+    <dc:identifier opf:scheme="calibre">32212fc6-4144-4634-9225-c64b0632979a</dc:identifier>
+    <meta name="calibre:title_sort" content="Yeşilçamı Benden Sorun"/>
+    <dc:title>Yeşilçamı Benden Sorun</dc:title>
+    <dc:date>2019-11-19T21:00:00+00:00</dc:date>
+    <meta name="cover" content="cover"/>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;"Yeşilçam Sokağı, eskiden geceleri kaçamak çiş ettiğimiz garaj bozuntusu yerde (Ermeni Vakfı’nındı, şimdiki Bab Kafeterya), rahmetli büyük prodüktör rejisör Nevzat Pesen’in firması Pesen Film şirketinin bulunduğu bina arasında, 68 adımlık küçük bir sokaktır aslında... İşte 1950’lerde yeni sinema anlayışının başladığı, adını Türk sinemasına veren Yeşilçam Sokağı... Bütün hayatımı adadığım, anılarımın kaynağı, hayallaerimi yeşerten, her yıl karısını, kocasını, okulunu, işyerini bırakakarak artist olmak için Anadolu'dan gelenlerin uğrak yeri Yeşilçam Sokağı...&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;Kimler geçmedi ki bu sokaktan? Sırası geldikçe adını edeceğim nice ünlüler... Rahmetli Suphi Kaner, rahmetli Hasan Ceylan, Fikret Hakan, rahmetli Sami Hazinses, rahmetli Danyal Topatan, Reha Yurdakul, Eşref Kolçak, Fatma Girik ve annesi, Bülent Ufuk, rahmetli Şinasi Özonuk, rahmetli Ahmet Tarık Tekçe, rahmetli Muazzez Arçay, Vanlı Niyazi... ve nice adı sanı bilinmeyen insan. Ne ocaklar söndü bu artist olmak merakı yüzünden, ne civanmert gençler alkolik, esrarkeş oldu, hırsız oldu. Ve de gül gibi kızlarımız harcandı gitti, bozuk para gibi.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:creator opf:file-as="Serengil, Öztürk" opf:role="aut">Öztürk Serengil</dc:creator>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/main-1.png" id="id1" media-type="image/png"/>
+    <item href="OEBPS/Images/main-10.jpg" id="id10" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/main-11.jpg" id="id11" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/main-12.jpg" id="id12" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/main-13.jpg" id="id13" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/main-14.jpg" id="id14" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/main-15.jpg" id="id15" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/main-2.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/main-3.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/main-4.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/main-5.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/main-6.jpg" id="id6" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/main-7.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/main-8.jpg" id="id8" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/main-9.jpg" id="id9" media-type="image/jpeg"/>
+    <item href="OEBPS/Text/album.xhtml" id="album.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin1.xhtml" id="anametin1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin10.xhtml" id="anametin10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin11.xhtml" id="anametin11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin12.xhtml" id="anametin12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin13.xhtml" id="anametin13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin14.xhtml" id="anametin14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin15.xhtml" id="anametin15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin16.xhtml" id="anametin16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin17.xhtml" id="anametin17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin18.xhtml" id="anametin18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin19.xhtml" id="anametin19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin2.xhtml" id="anametin2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin20.xhtml" id="anametin20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin21.xhtml" id="anametin21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin22.xhtml" id="anametin22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin23.xhtml" id="anametin23.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin24.xhtml" id="anametin24.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin25.xhtml" id="anametin25.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin26.xhtml" id="anametin26.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin27.xhtml" id="anametin27.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin28.xhtml" id="anametin28.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin3.xhtml" id="anametin3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin4.xhtml" id="anametin4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin5.xhtml" id="anametin5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin6.xhtml" id="anametin6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin7.xhtml" id="anametin7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin8.xhtml" id="anametin8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin9.xhtml" id="anametin9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/ickapak2.xhtml" id="ickapak2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/ithaf.xhtml" id="ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="ickapak2.xhtml"/>
+    <itemref idref="anametin1.xhtml"/>
+    <itemref idref="anametin2.xhtml"/>
+    <itemref idref="anametin3.xhtml"/>
+    <itemref idref="anametin4.xhtml"/>
+    <itemref idref="anametin5.xhtml"/>
+    <itemref idref="anametin6.xhtml"/>
+    <itemref idref="anametin7.xhtml"/>
+    <itemref idref="anametin8.xhtml"/>
+    <itemref idref="anametin9.xhtml"/>
+    <itemref idref="anametin10.xhtml"/>
+    <itemref idref="anametin11.xhtml"/>
+    <itemref idref="anametin12.xhtml"/>
+    <itemref idref="anametin13.xhtml"/>
+    <itemref idref="anametin14.xhtml"/>
+    <itemref idref="anametin15.xhtml"/>
+    <itemref idref="anametin16.xhtml"/>
+    <itemref idref="anametin17.xhtml"/>
+    <itemref idref="anametin18.xhtml"/>
+    <itemref idref="anametin19.xhtml"/>
+    <itemref idref="anametin20.xhtml"/>
+    <itemref idref="anametin21.xhtml"/>
+    <itemref idref="anametin22.xhtml"/>
+    <itemref idref="anametin23.xhtml"/>
+    <itemref idref="anametin24.xhtml"/>
+    <itemref idref="anametin25.xhtml"/>
+    <itemref idref="anametin26.xhtml"/>
+    <itemref idref="anametin27.xhtml"/>
+    <itemref idref="anametin28.xhtml"/>
+    <itemref idref="album.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

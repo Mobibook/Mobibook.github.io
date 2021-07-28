@@ -1,0 +1,260 @@
+/*COVER*/
+.cover-container {
+  margin: 0 auto;
+  max-width: 500px;
+  page-break-inside: avoid;
+}
+.cover-container img {
+  width: 100%;
+}
+/*COPYRIGHT-PAGE*/
+.press {
+  margin-bottom: 1em;
+}
+.copyright-page .copy {
+  margin-top: 1em;
+}
+.copyright-page .publisher {
+  margin-top: 2em;
+}
+.copyright-page span {
+  font-size: 0.75em;
+  display: block;
+}
+/*TITLEPAGE*/
+.title {
+  text-align: center;
+}
+.aut {
+  margin-top: 1.5em;
+  text-align: center;
+}
+.bfl {
+  font-size: 1.2em;
+}
+.work {
+  margin-top: 0.5em;
+}
+.seri {
+  font-size: 0.92em;
+  margin-top: 3em;
+}
+.trans {
+  margin-top: 2em;
+  font-size: 0.83em;
+}
+.trans span {
+  display: block;
+  font-size: 1.2em;
+  padding-top: 0.2em;
+}
+.logo {
+  margin-top: 3em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  text-align: center;
+}
+/*--WORKS--*/
+.works p {
+  margin-top: 4em;
+  font-size: 0.83em;
+  text-indent: 0;
+}
+.works ul {
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+}
+.works ul li {
+  font-size: 0.83em;
+  padding-bottom: 0.3em;
+  padding-left: 1em;
+  text-indent: -1em;
+}
+/*BIOGRAPHY*/
+.biography p {
+  font-size: 0.75em;
+  line-height: 1.4em;
+  text-indent: 0;
+}
+.biography p:last-child {
+  margin-top: 2em;
+}
+/*--PART--*/
+.part h1 {
+  text-align: center;
+}
+/*--CHAPTER--*/
+.container {
+  margin-top: 5em;
+}
+.chapter h2 {
+  font-size: 1.25em;
+  line-height: 1.3em;
+  font-weight: normal;
+  text-align: center;
+  margin: 1.5em 0 0;
+}
+h2 + p {
+  margin-top: 2em;
+}
+.chapter h3 {
+  text-align: center;
+  font-size: 1em;
+  line-height: 1.3em;
+  margin-top: 2em;
+}
+p {
+  font-size: 0.875em;
+  margin: 1.2em 0 0;
+  line-height: 1.3em;
+}
+.dgt {
+  padding-right: 0.25em;
+}
+blockquote, .news {
+  margin: 1em 0;
+}
+blockquote p {
+  font-style: italic;
+  text-indent: 2em;
+  margin-top: 0;
+}
+blockquote p:first-child, .news p:first-child {
+  text-indent: 0 !important;
+}
+.news p {
+  text-indent: 2em;
+  margin-top: 0;
+}
+.chapter h3 + p {
+  text-indent: 0;
+}
+.news ol {
+  margin: 0;
+  padding-left: 1.7em;
+  list-style: none;
+  counter-reset: item;
+  margin-left: 0.2em;
+  margin-top: 0.2em;
+}
+.news li {
+  font-size: 0.875em;
+  line-height: 1.3em;
+  counter-increment: item;
+  text-indent: -1.1em;
+}
+.news li:before {
+  content: counter(item) ". ";
+  width: 1em;
+  text-align: left;
+  display: inline-block;
+}
+.chapter cite {
+  display: block;
+  text-align: right;
+  font-style: normal;
+  font-size: 0.875em;
+  line-height: 1.3em;
+  margin-top: 1em;
+}
+/*--ALBUM--*/
+.img-container {
+  margin: 2em auto 0;
+  max-width: 500px;
+  page-break-inside: avoid;
+  text-align: center;
+}
+.vertical {
+  max-width: 300px !important;
+  page-break-before: always;
+}
+.vertical2 {
+  max-width: 200px !important;
+}
+.vertical3 {
+  max-width: 350px !important;
+  page-break-before: always;
+}
+.img-container img {
+  width: 100%;
+}
+.figtext {
+  text-align: left;
+  margin-top: 0.3em;
+  text-align: left !important;
+}
+.figtext span {
+  padding-right: 0.3em;
+  font-size: 1.2em;
+}
+.float-con {
+  max-width: 500px;
+  margin: 0 auto;
+  margin-top: 0.3em;
+  page-break-inside: avoid;
+}
+.float-con .img-container {
+  width: 49%;
+  margin-top: 0;
+  page-break-before: avoid;
+  text-align: center;
+}
+.float-con .img-container:first-child {
+  float: left;
+}
+.float-con .img-container:last-child {
+  float: right;
+}
+/*--LOI--*/
+.loi h1 {
+  margin: 0;
+}
+.loi ol {
+  margin: 2em 0 0;
+  padding-left: 1.5em;
+}
+.loi li {
+  margin-top: 0.2em;
+}
+.loi a {
+  text-decoration: none;
+  color: #aaa;
+}
+.loi p {
+  margin: 2em 0 0;
+  text-indent: 0;
+  text-indent: 0;
+}
+/*FOOTNOTES*/
+.si-noteref {
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: 0.75em;
+  vertical-align: super;
+  padding-left: 0.1em;
+  line-height: 1em;
+}
+.si-footnotes {
+  margin: 4em 0 1em;
+}
+.si-backref {
+  font-weight: bold;
+  text-decoration: none;
+  color: #000;
+  font-size: 1.1em;
+}
+.si-footnote {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.75em;
+  margin-bottom: 0.25em;
+}
+.si-footnote p {
+  font-size: 1em;
+  margin-top: 0.2em;
+}
+.clear {
+  clear: both;
+}

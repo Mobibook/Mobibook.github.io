@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta name="calibre:title_sort" content="Cam Hucre"/>
+    <meta name="calibre:timestamp" content="2015-11-11T16:08:42.246000+00:00"/>
+    <dc:creator opf:file-as="Highsmith, Patricia" opf:role="aut">Patricia Highsmith</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (2.40.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:title>Cam Hucre</dc:title>
+    <dc:language>tr</dc:language>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">94663c6f-44f9-4937-a011-10fb572c074a</dc:identifier>
+    <dc:identifier opf:scheme="calibre">94663c6f-44f9-4937-a011-10fb572c074a</dc:identifier>
+    <dc:publisher>Ayrıntı</dc:publisher>
+    <dc:description>&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Philip Carter, iyi bir adam; iyi bir işi, derin bir aşkla sevdiği iyi bir karısı var."Tüm felaketlerin sadece başkalarının başına geleceğini sanarak yaşayan binlerce insandan biri. Ruhunun labirentinde, kendi zayıflıklarının peşinde koşarken bir tür "kadar nevrozu" girdabında dönüp duran bir insan.Ta ki, haksız suçlamalar, cezaevi, morfin, işkence, ihanet ve sonunda kapısını çalan ve cinayet bütün yaşamını kuşatıncaya kadar... Cezaevindeki taş hücresinden camdan görüşme kabinine, cam morfin şırıngasından herkesi görebildiği ve herkes tarafından görülebildiği yaşamın "cam hücre"sine uzanan bir serüven...Patricia Highsmith, işlemediği bir suçtan altı yıl cezaevinde kalan, başarılı mühendis, Fransız edebiyatına meraklı, klasik müzikten hoşlanan, tüm dünya bir cezaevidir, cezaevleri ise dünyanın abartılı biçimleridir diye düşünen "iyi aile babası" Philip Carter'ın hayatındaki "kara ayrıntılar"ın giderek çoğalmasının soluk kesici hikâyesini anlatıyor "Cam Hücre"de&lt;/span&gt;&lt;/font&gt;</dc:description>
+    <meta name="cover" content="cover"/>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.png" id="id1" media-type="image/png"/>
+    <item href="main-1.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="main-2.png" id="id2" media-type="image/png"/>
+    <item href="main-2.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,39 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Baragan'ın Dikenleri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Istrati, Panait">Panait Istrati</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:d1deeb77-9f91-4e73-9b58-612bdbca1cb7</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2017-05-12</dc:date>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">4c17f73b-5240-4510-9284-460cd8eb8e97</dc:identifier>
+    <meta content="0.7.3" name="Sigil version"/>
+    <meta content="Baragan'ın Dikenleri" name="calibre:title_sort"/>
+    <meta content="{&quot;Panait Istrati&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="baragan.jpg"/>
+  </metadata>
+  <manifest>
+    <item href="Text/Section0000.xhtml" id="Section0000.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0000.css" id="Style0000.css" media-type="text/css"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/baragan.jpg" id="baragan.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Section0000.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/Section0000.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

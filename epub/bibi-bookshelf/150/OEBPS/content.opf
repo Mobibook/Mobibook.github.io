@@ -1,0 +1,79 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Smith, Patti">Patti Smith</dc:creator>
+<dc:description>&lt;p&gt;"Bu kitapta yer alan her şey gerçek; aynen olduğu gibi yazıldı. Onu yazmak ölü toprağını üzerimden çekip aldı; umarım bir ölçüde okurun da içini nedensiz bir neşeyle doldurmayı başarır." 
+Patti Smith
+
+Çoluk Çocuk ile gönülleri fetheden Patti Smith, bu küçük, adeta ışık saçan anı kitabında çocukluk yıllarına dönüyor ve yaşamının ilk kutsal deneyimlerini yeniden ziyaret ediyor. Anıları o denli canlı, o denli renkli, o denli parlak ki, çoğu kez gerçeküstünün eşiğinde dolanıyor. Hayalperestler, küçük bir kız çocuğunun hayalperestliğin anlamını ve uçuşan düşünceleri yakalayıp kurtarmanın sırrını keşfederek kendini bulma öyküsü. Çoluk Çocuk hiç bitmeseydi diyenler için...
+
+"Çocukken ne mutluyuzdur. Işık, mantığın sesiyle nasıl da körelir. Bu hayatta taşı düşmüş yüzükler gibi dolanıyoruz." 
+Hayalperestler syf.75&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2012-04-05T21:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e0486246-7f1b-4cbf-b54b-49669c850d0c</dc:identifier>
+    <dc:date opf:event="modification">2015-04-05</dc:date>
+    <dc:publisher>Domingo Yayınevi</dc:publisher>
+    <meta name="cover" content="cover"/>
+    <meta content="2015-03-29T12:14:45.969000+00:00" name="calibre:timestamp"/>
+    <meta content="Hayalperestler" name="calibre:title_sort"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Patti Smith&quot;: &quot;&quot;}"/>
+  <dc:title>Hayalperestler</dc:title>
+<dc:subject>Anı</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">e22749ce-a684-4751-baaf-2d7c6a8dc715</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786056260452</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/main-1.png" id="id1" media-type="image/png"/>
+    <item href="Images/main-10.png" id="id10" media-type="image/png"/>
+    <item href="Images/main-11.png" id="id11" media-type="image/png"/>
+    <item href="Images/main-12.png" id="id12" media-type="image/png"/>
+    <item href="Images/main-13.png" id="id13" media-type="image/png"/>
+    <item href="Images/main-14.png" id="id14" media-type="image/png"/>
+    <item href="Images/main-15.png" id="id15" media-type="image/png"/>
+    <item href="Images/main-16.png" id="id16" media-type="image/png"/>
+    <item href="Images/main-17.png" id="id17" media-type="image/png"/>
+    <item href="Images/main-18.png" id="id18" media-type="image/png"/>
+    <item href="Images/main-19.png" id="id19" media-type="image/png"/>
+    <item href="Images/main-2.png" id="id2" media-type="image/png"/>
+    <item href="Images/main-20.png" id="id20" media-type="image/png"/>
+    <item href="Images/main-21.png" id="id21" media-type="image/png"/>
+    <item href="Images/main-22.png" id="id22" media-type="image/png"/>
+    <item href="Images/main-3.png" id="id3" media-type="image/png"/>
+    <item href="Images/main-4.png" id="id4" media-type="image/png"/>
+    <item href="Images/main-5.png" id="id5" media-type="image/png"/>
+    <item href="Images/main-6.png" id="id6" media-type="image/png"/>
+    <item href="Images/main-7.png" id="id7" media-type="image/png"/>
+    <item href="Images/main-8.png" id="id8" media-type="image/png"/>
+    <item href="Images/main-9.png" id="id9" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

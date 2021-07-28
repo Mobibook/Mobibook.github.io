@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="tr-TR" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{51184DE2-7BB7-4B36-ABDB-A7C188C034B2}" name="uid"/>
+  </head>
+  <docTitle>
+    <text>Patrick de Witt - Sisters Kardeşler</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="{0D6924C8-C60E-4D86-86FC-971CA7F968CB}" playOrder="1">
+      <navLabel>
+        <text>ommodore nn malikânesinin ününde oturmn</text>
+      </navLabel>
+      <content src="Text/Commodere.xhtml"/>
+    </navPoint>
+    <navPoint id="{AAC76448-2845-43A4-BA26-C61FA18F9F2F}" playOrder="2">
+      <navLabel>
+        <text>abalı kalktığınla yaptır yajjıyorııtı - yolları çamurlu</text>
+      </navLabel>
+      <content src="Text/Sabah.xhtml"/>
+    </navPoint>
+    <navPoint id="{44A1B913-A44E-47CF-91F0-25007CCD8E07}" playOrder="3">
+      <navLabel>
+        <text>[nceıenmıze aaııp sessizce at surauK. Liıarııe</text>
+      </navLabel>
+      <content src="Text/Kendi.xhtml"/>
+    </navPoint>
+    <navPoint id="{1E3B09B8-2FA4-437D-9B60-EE73AF8334CD}" playOrder="4">
+      <navLabel>
+        <text>ısa, kış-sonn günlen, ve geceyi geçirmek üzere kuru</text>
+      </navLabel>
+      <content src="Text/kIsa.xhtml"/>
+    </navPoint>
+    <navPoint id="{0E1820A8-0702-4F05-BAB9-55B58141F779}" playOrder="5">
+      <navLabel>
+        <text>e™ watts m hikâyesi her türden başarısızlık ve</text>
+      </navLabel>
+      <content src="Text/Reginald.xhtml"/>
+    </navPoint>
+    <navPoint id="{260CD0E3-9B13-4E1C-A274-B85475A1F269}" playOrder="6">
+      <navLabel>
+        <text>:M kararıncaya kadar at sürdük, ben eyerden</text>
+      </navLabel>
+      <content src="Text/Hava.xhtml"/>
+    </navPoint>
+    <navPoint id="{32C9D237-010C-49DB-9136-9FAE7663434E}" playOrder="7">
+      <navLabel>
+        <text>Mİeyın yerde uyandım ve İmarım yanımda delildi</text>
+      </navLabel>
+      <content src="Text/Sabahleyin.xhtml"/>
+    </navPoint>
+    <navPoint id="{C001E42E-C917-4692-9932-7E0D14C986E8}" playOrder="8">
+      <navLabel>
+        <text>ıı fakat imin kaçaklı ve mnhtemelen kıs nykusnndaıı</text>
+      </navLabel>
+      <content src="Text/iri.xhtml"/>
+    </navPoint>
+    <navPoint id="{D877D744-1D43-4946-BB7E-9F92DCB29C36}" playOrder="9">
+      <navLabel>
+        <text>MüDeye mm Lanetli ya aa negıı, umrııeye naDerıen</text>
+      </navLabel>
+      <content src="Text/Kulubeye.xhtml"/>
+    </navPoint>
+    <navPoint id="{5E6F47F0-696F-4C2C-BE72-E05513C9CF1B}" playOrder="10">
+      <navLabel>
+        <text>eıiKien snrunereK ciKiım ve ime o n ayının yanına</text>
+      </navLabel>
+      <content src="Text/Delikten.xhtml"/>
+    </navPoint>
+    <navPoint id="{E263EC95-0F8E-4157-A615-8FED74F6A4CD}" playOrder="11">
+      <navLabel>
+        <text>ozıerı KizariK ve şiştiler, om DaKiyonaroı</text>
+      </navLabel>
+      <content src="Text/Tub.xhtml"/>
+    </navPoint>
+    <navPoint id="{192C4BED-CDEB-42ED-A30C-D3BEEDE8B595}" playOrder="12">
+      <navLabel>
+        <text>ır sonraki kasabaya vardığımızda hava kararım</text>
+      </navLabel>
+      <content src="Text/sonraki.xhtml"/>
+    </navPoint>
+    <navPoint id="{663A4B68-46B4-4CB7-B3FC-9FB6A655E441}" playOrder="13">
+      <navLabel>
+        <text>asaknın en ûm\û esintili ve effi tir etele</text>
+      </navLabel>
+      <content src="Text/Kasaban.xhtml"/>
+    </navPoint>
+    <navPoint id="{D71BBF5A-6FE0-4A18-ADF1-F8F4C4C59EE7}" playOrder="14">
+      <navLabel>
+        <text>atak sökerken baş ağrısıyla uyandım, akşamdan</text>
+      </navLabel>
+      <content src="Text/Safak.xhtml"/>
+    </navPoint>
+    <navPoint id="{1F92FF2D-433F-4A91-8110-16268ED81F79}" playOrder="15">
+      <navLabel>
+        <text>iımeceK oır yerim ydkiü ve Kimsenin nznnmmn ıarn</text>
+      </navLabel>
+      <content src="Text/Gidecek.xhtml"/>
+    </navPoint>
+    <navPoint id="{7644F1B1-1D10-4AF9-8D5F-94D3B1A0609E}" playOrder="16">
+      <navLabel>
+        <text>Tahayyül etmeye zamanım oluş olsaydı, ki olmalı</text>
+      </navLabel>
+      <content src="Text/Tahayyul.xhtml"/>
+    </navPoint>
+    <navPoint id="{BFFB5418-608D-4163-8F2A-3C922BFD009B}" playOrder="17">
+      <navLabel>
+        <text>şek sonrayı Charlie den uzak geçirdim. Akşam</text>
+      </navLabel>
+      <content src="Text/O.xhtml"/>
+    </navPoint>
+    <navPoint id="{14D633A4-7687-444D-B80D-6785C48268F5}" playOrder="18">
+      <navLabel>
+        <text>ı gereken işler vardı ve ben yola çıkmak</text>
+      </navLabel>
+      <content src="Text/kIzIn.xhtml"/>
+    </navPoint>
+    <navPoint id="{66F86DE7-0C51-4228-935C-7D288C1A25CC}" playOrder="19">
+      <navLabel>
+        <text>rmm uruna esıyoran, Kişin son ıırıınası, ıaKa</text>
+      </navLabel>
+      <content src="Text/Arkamizda.xhtml"/>
+    </navPoint>
+    <navPoint id="{E1F21E59-67E5-4150-BE47-D8CF6C704DE4}" playOrder="20">
+      <navLabel>
+        <text>acksonville'e vardığımızda Charliemn dışarıda ya</text>
+      </navLabel>
+      <content src="Text/Jacksonville.xhtml"/>
+    </navPoint>
+    <navPoint id="{92D5389A-EECA-4FB3-9FDC-D8D0BC676119}" playOrder="21">
+      <navLabel>
+        <text>aktıleyin [Menin dnrnmnna taktığımda onu hasta</text>
+      </navLabel>
+      <content src="Text/Sabahley.xhtml"/>
+    </navPoint>
+    <navPoint id="{8D88B18E-F108-4BFD-AA9C-BC0E0F81A05C}" playOrder="22">
+      <navLabel>
+        <text>n son serüven nnarııevı canlanmıştı -aarenaım</text>
+      </navLabel>
+      <content src="Text/Bu.xhtml"/>
+    </navPoint>
+    <navPoint id="{23E04515-016B-45D4-8A63-BC1D2B869F39}" playOrder="23">
+      <navLabel>
+        <text>jflan yakındaki kalas yığınının altına kir at gizlediğini</text>
+      </navLabel>
+      <content src="Text/Oglan.xhtml"/>
+    </navPoint>
+    <navPoint id="{701CBC60-33E7-463C-8BBB-C64B766C8926}" playOrder="24">
+      <navLabel>
+        <text>anı neme nrıauiK, ımıereK Keneme eını</text>
+      </navLabel>
+      <content src="Text/Oglani.xhtml"/>
+    </navPoint>
+    <navPoint id="{1D05A671-7D81-46F1-ACC6-5AA19B91A200}" playOrder="25">
+      <navLabel>
+        <text>«ye üogrn suım «enir Kıyısı mm ıam serili,</text>
+      </navLabel>
+      <content src="Text/Guneye.xhtml"/>
+    </navPoint>
+    <navPoint id="{D59246F8-2E69-449D-B68A-C7B0169A3E70}" playOrder="26">
+      <navLabel>
+        <text>mimde tiay Mayneittin Mayııeitt KasaDasmaa tur</text>
+      </navLabel>
+      <content src="Text/Omrumde.xhtml"/>
+    </navPoint>
+    <navPoint id="{9E84BD7F-C7C5-4976-9CBE-638AB50AB2FA}" playOrder="27">
+      <navLabel>
+        <text>’ıarlie ile bardak kendi içmişti ve Yüzünde antal tir</text>
+      </navLabel>
+      <content src="Text/Charlieuc.xhtml"/>
+    </navPoint>
+    <navPoint id="{169EADB4-6D21-4920-AFD6-1FC5E9037341}" playOrder="28">
+      <navLabel>
+        <text>jiineşlı bir sabana nyaıım, açıl pencereden yüzüme</text>
+      </navLabel>
+      <content src="Text/Gunesli.xhtml"/>
+    </navPoint>
+    <navPoint id="{9C1DC789-3035-46E6-A278-500A758771AB}" playOrder="29">
+      <navLabel>
+        <text>ad çamurdan ve derin sn çukurlarından necılmıırdn</text>
+      </navLabel>
+      <content src="Text/Cadde.xhtml"/>
+    </navPoint>
+    <navPoint id="{3B34CE17-93DA-4B98-89D8-2E105B0AD06F}" playOrder="30">
+      <navLabel>
+        <text>ıayîieM salonunun onunaen geçerKen içen Dır goz</text>
+      </navLabel>
+      <content src="Text/Mayfield.xhtml"/>
+    </navPoint>
+    <navPoint id="{55FF32F3-3910-4C8D-AF40-279D2F88F1D5}" playOrder="31">
+      <navLabel>
+        <text>damın Denceresmden cıkm Kaldırım Doyunca</text>
+      </navLabel>
+      <content src="Text/Odamin.xhtml"/>
+    </navPoint>
+    <navPoint id="{BF9B6663-61D5-4E94-A978-C8972F07021E}" playOrder="32">
+      <navLabel>
+        <text>bakıcısının ışını bitirdikten sonra Maytıeld m</text>
+      </navLabel>
+      <content src="Text/Atbakicisi.xhtml"/>
+    </navPoint>
+    <navPoint id="{E507D13E-C058-4D03-BE4F-71C648544E7B}" playOrder="33">
+      <navLabel>
+        <text>asaoaaan ayrına natırın sı verıermae at suraıiK</text>
+      </navLabel>
+      <content src="Text/Kasabadan.xhtml"/>
+    </navPoint>
+    <navPoint id="{472CB39D-D636-41A4-94D8-5FEB2EA6F5D9}" playOrder="34">
+      <navLabel>
+        <text>orlezı ilk mmım kavrayamadım, y kadar cok</text>
+      </navLabel>
+      <content src="Text/Korfezi.xhtml"/>
+    </navPoint>
+    <navPoint id="{C05A99F2-7A02-4C64-9F06-BA09A40F7D62}" playOrder="35">
+      <navLabel>
+        <text>otel odasının kanısını çaldık fakat cevan</text>
+      </navLabel>
+      <content src="Text/Morris.xhtml"/>
+    </navPoint>
+    <navPoint id="{47A6D0D4-BAF8-47A3-A2A1-7B40C4AC683E}" playOrder="36">
+      <navLabel>
+        <text>name ne oturun m Keııme di e eımen d</text>
+      </navLabel>
+      <content src="Text/Charlieile.xhtml"/>
+    </navPoint>
+    <navPoint id="{29F2BCA5-458A-450E-AF7F-2F9761313247}" playOrder="37">
+      <navLabel>
+        <text>..ack ûknll aynı Morris m pnnıpıe betimlediği</text>
+      </navLabel>
+      <content src="Text/Black.xhtml"/>
+    </navPoint>
+    <navPoint id="{24199F98-9F8B-4CA3-8420-DB3A6D0130E8}" playOrder="38">
+      <navLabel>
+        <text>tııra girdiğimde kambnrn çıkış, çarpıl bacaklı, çilli</text>
+      </navLabel>
+      <content src="Text/AhIra.xhtml"/>
+    </navPoint>
+    <navPoint id="{6E6093EF-A1EC-4A39-875E-5A940F0F39DF}" playOrder="39">
+      <navLabel>
+        <text>tın inci ajır dofûo mıeyıe nonatımıştı</text>
+      </navLabel>
+      <content src="Text/AltIn.xhtml"/>
+    </navPoint>
+    <navPoint id="{1EF9111E-8E14-424D-A8F2-4566D1D02541}" playOrder="40">
+      <navLabel>
+        <text>erikt ön kısmında atların, koyanların, ineklerin</text>
+      </navLabel>
+      <content src="Text/Feribot.xhtml"/>
+    </navPoint>
+    <navPoint id="{079A5A75-FE97-40A3-893D-9E114B2069CC}" playOrder="41">
+      <navLabel>
+        <text>arım ocajfını tınlamadan lıava karartı ve meşe</text>
+      </navLabel>
+      <content src="Text/Warm.xhtml"/>
+    </navPoint>
+    <navPoint id="{7C6A1FE3-EEAB-4D0B-A0FF-99FAF671F3E9}" playOrder="42">
+      <navLabel>
+        <text>nsamnrn Barajının pneyıiMi Kamp tam Dır</text>
+      </navLabel>
+      <content src="Text/Susamuru.xhtml"/>
+    </navPoint>
+    <navPoint id="{CA78804E-C2FB-4C12-A7F5-D91AFFCA5F8B}" playOrder="43">
+      <navLabel>
+        <text>Morris ile ıratın kamnı ıkı mm. flık ve ormanlık</text>
+      </navLabel>
+      <content src="Text/Morrisile.xhtml"/>
+    </navPoint>
+    <navPoint id="{EA5A8A0F-A1AA-4F9B-BA5C-4118D8C7A6EA}" playOrder="44">
+      <navLabel>
+        <text>öndüfümüzde fi bıraktığımız yerde değildi, O kadar</text>
+      </navLabel>
+      <content src="Text/Dondugumuzde.xhtml"/>
+    </navPoint>
+    <navPoint id="{692347A7-2E7D-4A99-9DD6-167C5A4B51D4}" playOrder="45">
+      <navLabel>
+        <text>arın ııe Morris m Kanına dairesel oır</text>
+      </navLabel>
+      <content src="Text/WarmileMorris.xhtml"/>
+    </navPoint>
+    <navPoint id="{61B999E7-0334-4AC2-8326-93D3F4638902}" playOrder="46">
+      <navLabel>
+        <text>leşi canlandırdık ve oturup ortaklığımızı konuştuk,</text>
+      </navLabel>
+      <content src="Text/Atesi.xhtml"/>
+    </navPoint>
+    <navPoint id="{3D4F7EFB-B740-4C82-A55A-866539227F30}" playOrder="47">
+      <navLabel>
+        <text>mmm ımnes mmt nenrın sesi mannmıı</text>
+      </navLabel>
+      <content src="Text/Uyandigimda.xhtml"/>
+    </navPoint>
+    <navPoint id="{E6428CF5-0A87-4E57-B149-AFE2C8AB7501}" playOrder="48">
+      <navLabel>
+        <text>aksam kendimi Warm ile kirlikte ateşin karsısında</text>
+      </navLabel>
+      <content src="Text/Oaksam.xhtml"/>
+    </navPoint>
+    <navPoint id="{F00F9BCF-452A-4E2F-ACB3-3F2E1AD5B119}" playOrder="49">
+      <navLabel>
+        <text>ört ak faca nehir kenarında aynı anda pantolonlarımızı</text>
+      </navLabel>
+      <content src="Text/Dort.xhtml"/>
+    </navPoint>
+    <navPoint id="{41347C17-B191-4A0E-8C30-7DC0699AA55D}" playOrder="50">
+      <navLabel>
+        <text>ı gerçeklerin ve rakamların statik dünyasında altın</text>
+      </navLabel>
+      <content src="Text/KatI.xhtml"/>
+    </navPoint>
+    <navPoint id="{09FA6455-C656-4E4D-8327-6E4A218584E7}" playOrder="51">
+      <navLabel>
+        <text>’iaraıian dönerken Morris yanlış kir adım attı v</text>
+      </navLabel>
+      <content src="Text/Barajdan.xhtml"/>
+    </navPoint>
+    <navPoint id="{7F88A315-0027-48B7-B1F3-5B15F066A0C6}" playOrder="52">
+      <navLabel>
+        <text>Morris salak sökerken olan ve ona kıyına öırakı</text>
+      </navLabel>
+      <content src="Text/Morrissafak.xhtml"/>
+    </navPoint>
+    <navPoint id="{72EFEDCB-B266-4DC5-9393-A2F35679EEC9}" playOrder="53">
+      <navLabel>
+        <text>çıkardığımız bütün altını bir araya ffetırdık</text>
+      </navLabel>
+      <content src="Text/Nehirden.xhtml"/>
+    </navPoint>
+    <navPoint id="{CBFF7737-6AF8-48EA-AA81-686223698C90}" playOrder="54">
+      <navLabel>
+        <text>da şuydu; yarım düzine kadar Kızılderili kampta</text>
+      </navLabel>
+      <content src="Text/Oda.xhtml"/>
+    </navPoint>
+    <navPoint id="{192ECB08-C899-4387-812E-80D2E2836F2D}" playOrder="55">
+      <navLabel>
+        <text>abahleym Warmıı piMünı, hazır olmasına rafmen</text>
+      </navLabel>
+      <content src="Text/sabahleyi.xhtml"/>
+    </navPoint>
+    <navPoint id="{FFB252E4-CD8B-42E8-A341-8C5C6CF5716A}" playOrder="56">
+      <navLabel>
+        <text>name, «soımıra ır aoKiora eıını mim acisi</text>
+      </navLabel>
+      <content src="Text/CharlieJacksonville.xhtml"/>
+    </navPoint>
+    <navPoint id="{9C33B47B-7FB5-461E-A98C-AC1EBCB705B4}" playOrder="57">
+      <navLabel>
+        <text>rep ütynın nişimi ıramıza varaıpmızaa saa</text>
+      </navLabel>
+      <content src="Text/OregonCitynin.xhtml"/>
+    </navPoint>
+    <navPoint id="{E58139B5-B445-4555-8DAA-02CEC28595E8}" playOrder="58">
+      <navLabel>
+        <text>atam öiriiKte ortaiiK pmnş rengine dimiu, ağır</text>
+      </navLabel>
+      <content src="Text/Sonsoz.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

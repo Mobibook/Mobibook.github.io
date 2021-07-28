@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="37cc79e4-e32f-4308-8ba1-ad371605beb2" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Çoluk Çocuk</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="3dd857f5-bf8d-419d-b026-0f3547ff39af" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/ColukCocuk-PattiSmith_split_004.html"/>
+    </navPoint>
+    <navPoint id="f447c067-7399-44b6-b2c0-74bb310cc1f7" playOrder="2">
+      <navLabel>
+        <text>Pazartesi Çocukları</text>
+      </navLabel>
+      <content src="Text/ColukCocuk-PattiSmith_split_005.html"/>
+    </navPoint>
+    <navPoint id="31dfe856-1d48-436e-9775-98cfaa1d4efc" playOrder="3">
+      <navLabel>
+        <text>Çoluk Çocuk</text>
+      </navLabel>
+      <content src="Text/ColukCocuk-PattiSmith_split_008.html"/>
+    </navPoint>
+    <navPoint id="750e02d4-9a72-4edd-a5ee-e5afe1fa0102" playOrder="4">
+      <navLabel>
+        <text>Chelsea Otel</text>
+      </navLabel>
+      <content src="Text/ColukCocuk-PattiSmith_split_011.html"/>
+    </navPoint>
+    <navPoint id="6b992dc5-6431-47e1-8cb7-5a1110943507" playOrder="5">
+      <navLabel>
+        <text>Birlikte Ayrı Yollar</text>
+      </navLabel>
+      <content src="Text/ColukCocuk-PattiSmith_split_016.html"/>
+    </navPoint>
+    <navPoint id="19b0f0ab-ec10-4a2b-bb08-850fabd0638f" playOrder="6">
+      <navLabel>
+        <text>Tanrı’yla El Ele</text>
+      </navLabel>
+      <content src="Text/ColukCocuk-PattiSmith_split_020.html"/>
+    </navPoint>
+    <navPoint id="85dfbfc5-2825-4158-b2e8-0d2725b1a239" playOrder="7">
+      <navLabel>
+        <text>Teşekkür</text>
+      </navLabel>
+      <content src="Text/ColukCocuk-PattiSmith_split_026.html"/>
+    </navPoint>
+    <navPoint id="95785e71-d4a1-4e4d-b94d-1342b73a2f4a" playOrder="8">
+      <navLabel>
+        <text>Okura bir not</text>
+      </navLabel>
+      <content src="Text/ColukCocuk-PattiSmith_split_027.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

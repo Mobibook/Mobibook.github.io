@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="{DD71A623-CCCE-46D5-8E07-9F9D6820A574}" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (2.16.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Patrick McGrath - Hayalet Şehir</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Patrick McGrath</text>
+      </navLabel>
+      <content src="Text/main.xhtml#ucabfd0c5-7ee9-4a45-801c-f01b4c4a8ad0"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Öyküler</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml#u1eeed8e3-c53a-4663-924f-94edfa4c6130"/>
+      <navPoint id="num_3" playOrder="3">
+        <navLabel>
+          <text>Darağacının Kurulduğu Yıl</text>
+        </navLabel>
+        <content src="Text/main-2.xhtml#u1eeed8e3-c53a-4663-924f-94edfa4c6130"/>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>Julius</text>
+        </navLabel>
+        <content src="Text/main-2.xhtml#u68939d2c-3199-42a9-bd82-760f308699a5"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>Yıkıntı Alanı</text>
+        </navLabel>
+        <content src="Text/main-4.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

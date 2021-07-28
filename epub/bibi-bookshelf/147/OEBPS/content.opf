@@ -1,0 +1,40 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Süskind, Patrick">Patrick Süskind</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">ae726920-712a-458d-be62-1deb0b7403c5</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;Koku adlı romanı çoktan kült bir eser haline gelen Patrick Süskind, bu defa notaların dünyasına girmiş: Bir kontrbasçının öyküsünü, ses tonu giderek yükselen bir monolog biçiminde anlatıyor.&lt;br&gt;&lt;br&gt;Kontrbas, cüssesiyle doğru orantılı olarak, müzisyenin evinde ve yaşamında büyük bir yer işgal ediyor. Kontrbas, müzisyenimizin hem dostu hem düşmanı; ondan kopamıyor ama onunla da olmuyor. Bu iri, hantal aletin altında eziliyor adeta. Önceleri, kontrbassız bir orkestranın düşünülemeyeceğini belirterek onu yüceltirken, monolog ilerledikçe, kontrbasa duyduğu nefret açığa çıkıyor. Ona göre bu enstrüman hep arka planda kalmaya mahkûm, bu nedenle çalanı da arka planda bırakıyor. &lt;br&gt;&lt;br&gt;Süskind'in, sanatsal yaratıcılık ile memuriyet kalıpları arasındaki çelişki, hayatı cehenneme çeviren “ne onunla ne onsuz” sevgililer gibi konuları incelikle işlediği Kontrbas, ironik, sürükleyici bir kitap.&lt;br&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2009-05-16T21:00:00+00:00</dc:date>
+    <meta content="Kontrbas" name="calibre:title_sort"/>
+    <meta content="2015-05-14T12:02:00.960000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Patrick Süskind&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Kontrbas</dc:title>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Oyun</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">0be0f35a-914e-48ae-8ee4-40464c163a16</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750711213</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0001.htm" id="Section0001.htm" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Misc/themedata.thmx" id="added2" media-type="application/octet-stream"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/kont.htm" id="kont.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kont.htm"/>
+    <itemref idref="Section0001.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

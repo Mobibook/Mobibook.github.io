@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="cfd857dd-45fd-4b37-9daf-f6c64909edb2" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.49)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kaşağı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="81bf7c77-6c3b-4ca7-9694-411a38b67abb" playOrder="1">
+      <navLabel>
+        <text>KAŞAĞI</text>
+      </navLabel>
+      <content src="Text/kasagi_split_002.html"/>
+    </navPoint>
+    <navPoint id="64f11320-6a92-4665-90a9-cb045d33b375" playOrder="2">
+      <navLabel>
+        <text>İLK NAMAZ</text>
+      </navLabel>
+      <content src="Text/kasagi_split_003.html"/>
+    </navPoint>
+    <navPoint id="2aeebaf5-99a5-445c-ab7a-74ac1daec8da" playOrder="3">
+      <navLabel>
+        <text>İLK CİNAYET</text>
+      </navLabel>
+      <content src="Text/kasagi_split_004.html"/>
+    </navPoint>
+    <navPoint id="649de2b4-7a9d-493f-a46a-2c28ff0fb2a9" playOrder="4">
+      <navLabel>
+        <text>ANT</text>
+      </navLabel>
+      <content src="Text/kasagi_split_005.html"/>
+    </navPoint>
+    <navPoint id="e3a820a4-6730-4da7-8bcf-005a66ff159c" playOrder="5">
+      <navLabel>
+        <text>PRİMO TÜRK ÇOCUĞU NASIL DOĞDU?</text>
+      </navLabel>
+      <content src="Text/kasagi_split_006.html"/>
+    </navPoint>
+    <navPoint id="82b1cf12-0a34-464a-b56d-a8737055b674" playOrder="6">
+      <navLabel>
+        <text>PRİMO TÜRK ÇOCUĞU NASIL ÖLDÜ?</text>
+      </navLabel>
+      <content src="Text/kasagi_split_007.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

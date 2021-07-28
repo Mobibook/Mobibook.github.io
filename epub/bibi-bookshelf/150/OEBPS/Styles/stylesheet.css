@@ -1,0 +1,137 @@
+.calibre {
+    display: block;
+    font-family: "LiberationSerif", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre2 {
+    font-style: italic
+    }
+.calibre3 {
+    font-style: italic;
+    font-weight: bold
+    }
+.calibre4 {
+    display: block
+    }
+.calibre5 {
+    height: 415pt;
+    width: 263pt
+    }
+.calibre6 {
+    height: 362pt;
+    width: 223pt
+    }
+.calibre7 {
+    height: 235pt;
+    width: 170pt
+    }
+.calibre8 {
+    height: 319pt;
+    width: 478pt
+    }
+.calibre9 {
+    height: 322pt;
+    width: 207pt
+    }
+.calibre10 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre11 {
+    height: 231pt;
+    width: 180pt
+    }
+.calibre12 {
+    height: 252pt;
+    width: 195pt
+    }
+.calibre13 {
+    height: 290pt;
+    width: 186pt
+    }
+.calibre14 {
+    height: 228pt;
+    width: 187pt
+    }
+.calibre15 {
+    height: 11pt;
+    width: 69pt
+    }
+.calibre16 {
+    height: 265pt;
+    width: 198pt
+    }
+.calibre17 {
+    height: 248pt;
+    width: 193pt
+    }
+.calibre18 {
+    height: 265pt;
+    width: 202pt
+    }
+.calibre19 {
+    height: 263pt;
+    width: 210pt
+    }
+.calibre20 {
+    height: 262pt;
+    width: 195pt
+    }
+.calibre21 {
+    height: 11pt;
+    width: 29pt
+    }
+.calibre22 {
+    height: 347pt;
+    width: 222pt
+    }
+.calibre23 {
+    height: 226pt;
+    width: 210pt
+    }
+.calibre24 {
+    height: 150pt;
+    width: 216pt
+    }
+.calibre25 {
+    height: 214pt;
+    width: 166pt
+    }
+.calibre26 {
+    height: 260pt;
+    width: 211pt
+    }
+.calibre27 {
+    height: 257pt;
+    width: 201pt
+    }
+.calibre28 {
+    font-weight: bold
+    }
+img {
+max-width: 100%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+h1
+{
+margin-top:3em;
+margin-bottom:3em;
+text-align:center;
+Font-size:1.5em;
+}
+p{
+text-align:justify;
+text-indent:1em;
+margin-top:0.3em;
+margin-bottom:0.3em;
+}

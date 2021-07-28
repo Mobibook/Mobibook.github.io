@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="cc21d3aa-d6f0-44f2-b0a8-fbb4bb484f4c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.49)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kira Kiralina</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="7c78f56a-1e88-4c48-b37b-45c686134679" playOrder="1">
+      <navLabel>
+        <text>ROMAİN ROLLAND'IN ÖNSÖZÜ</text>
+      </navLabel>
+      <content src="kirakiralina_split_003.html"/>
+    </navPoint>
+    <navPoint id="b14503ef-3b81-4914-a6fe-a5c6ea8e03bb" playOrder="2">
+      <navLabel>
+        <text>YAZARIN ÖNSÖZÜ</text>
+      </navLabel>
+      <content src="kirakiralina_split_004.html"/>
+    </navPoint>
+    <navPoint id="389e2fe1-32f6-470f-b822-c1f82791055e" playOrder="3">
+      <navLabel>
+        <text>I STAVRO</text>
+      </navLabel>
+      <content src="kirakiralina_split_005.html"/>
+    </navPoint>
+    <navPoint id="a1aba008-5157-430e-a4af-665a9bfd3c0f" playOrder="4">
+      <navLabel>
+        <text>II KİRA KİRALİNA</text>
+      </navLabel>
+      <content src="kirakiralina_split_006.html"/>
+    </navPoint>
+    <navPoint id="dac59d76-1f61-4e39-b9fb-b9e3c60947dc" playOrder="5">
+      <navLabel>
+        <text>III DRAGOMİR</text>
+      </navLabel>
+      <content src="kirakiralina_split_007.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

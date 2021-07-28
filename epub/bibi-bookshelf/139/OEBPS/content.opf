@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="McGrath, Patrick">Patrick McGrath</dc:creator>
+<dc:identifier id="uuid">{DD71A623-CCCE-46D5-8E07-9F9D6820A574}</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.8.1" name="Sigil version"/>
+    <dc:date>2008-01-15T22:00:00+00:00</dc:date>
+  <dc:title>Hayalet Şehir</dc:title>
+<meta name="calibre:title_sort" content="Hayalet Şehir"/>
+<dc:publisher>Can Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Kısa Öykü</dc:subject>
+<dc:subject>Kurgu</dc:subject>
+<dc:description>&lt;p&gt;Aslında hiçbir şehir bugün gördüğümüz şehir değildir. Her şehrin, tüm yaşanmışlıklarıyla, geçmişinden bugününe uzanan bir ruhu vardır. Ünlü Amerikalı romancı Patrick McGrath, üç anlatıdan oluşan Hayalet Şehir'de, New York'a ruhunu veren üç dönemden birer öykü anlatıyor.
+“Darağacının Kurulduğu Yıl”da, Amerikan Bağımsızlık Savaşı'nda New York'u kuşatan İngilizlere başkaldırdığı için idam edilen bir annenin öyküsü oğlunun gözünden dile getirilir. “Julius” adlı öykü, ticaretin baş döndürücü bir hızla geliştiği 19. yüzyıl New York'unda geçer. Acımasız bir tüccarın oğlunun, babasının kente akın eden göçmenlere karşı önyargıları yüzünden, tutkuyla sevdiği kıza kavuşamayışının hikâyesi anlatılır. “Yıkıntı Alanı” ise bir 11 Eylül öyküsüdür. Dünya Ticaret Merkezi'nin yerle bir edilişinin yarattığı derin travma, bir psikiyatrist ile bir hastayı yüz yüze getirir.
+Hayalet Şehir'de, usta yazar McGrath üç afallatıcı hikâyesiyle, New York'un karmaşık tarihinin gözle görülmeyen katmanlarını açığa çıkarıyor.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Patrick McGrath&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">d50ffefe-e33c-48cd-a21e-c9279c92d1de</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750709951</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/main-2.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="id3" media-type="text/css"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main-title.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id6" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="id6"/>
+    <itemref idref="id5"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

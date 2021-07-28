@@ -1,0 +1,164 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>İç Dünyamdan Notlar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Auster, Paul">Paul Auster</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:a12af3ad-d1a3-4f2a-b001-dbb2a5e2461b</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">d3d84a7e-d8c1-45d9-a5eb-ef2a0f51fab2</dc:identifier>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="Sigil version" content="0.3.2"/>
+    <meta name="calibre:title_sort" content="İç Dünyamdan Notlar"/>
+    <meta name="calibre:author_link_map" content="{&quot;Paul Auster&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="toc.xhtml" href="Text/toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="copyright-page.xhtml" href="Text/copyright-page.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titlepage.xhtml" href="Text/titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="works.xhtml" href="Text/works.xhtml" media-type="application/xhtml+xml"/>
+    <item id="biography.xhtml" href="Text/biography.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part1.xhtml" href="Text/part1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter1.xhtml" href="Text/chapter1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part2.xhtml" href="Text/part2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter2-1.xhtml" href="Text/chapter2-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter2-2.xhtml" href="Text/chapter2-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part3.xhtml" href="Text/part3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3.xhtml" href="Text/chapter3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part4.xhtml" href="Text/part4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4.xhtml" href="Text/chapter4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="loi.xhtml" href="Text/loi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="image001.jpg" href="Images/image001.jpg" media-type="image/jpeg"/>
+    <item id="image002.jpg" href="Images/image002.jpg" media-type="image/jpeg"/>
+    <item id="image003.jpg" href="Images/image003.jpg" media-type="image/jpeg"/>
+    <item id="image004.jpg" href="Images/image004.jpg" media-type="image/jpeg"/>
+    <item id="image005.jpg" href="Images/image005.jpg" media-type="image/jpeg"/>
+    <item id="image006.jpg" href="Images/image006.jpg" media-type="image/jpeg"/>
+    <item id="image007.jpg" href="Images/image007.jpg" media-type="image/jpeg"/>
+    <item id="image008.jpg" href="Images/image008.jpg" media-type="image/jpeg"/>
+    <item id="image009.jpg" href="Images/image009.jpg" media-type="image/jpeg"/>
+    <item id="image010.jpg" href="Images/image010.jpg" media-type="image/jpeg"/>
+    <item id="image011.jpg" href="Images/image011.jpg" media-type="image/jpeg"/>
+    <item id="image012.jpg" href="Images/image012.jpg" media-type="image/jpeg"/>
+    <item id="image013.jpg" href="Images/image013.jpg" media-type="image/jpeg"/>
+    <item id="image014.jpg" href="Images/image014.jpg" media-type="image/jpeg"/>
+    <item id="image015.jpg" href="Images/image015.jpg" media-type="image/jpeg"/>
+    <item id="image016.jpg" href="Images/image016.jpg" media-type="image/jpeg"/>
+    <item id="image017.jpg" href="Images/image017.jpg" media-type="image/jpeg"/>
+    <item id="image018.jpg" href="Images/image018.jpg" media-type="image/jpeg"/>
+    <item id="image019.jpg" href="Images/image019.jpg" media-type="image/jpeg"/>
+    <item id="image020.jpg" href="Images/image020.jpg" media-type="image/jpeg"/>
+    <item id="image021.jpg" href="Images/image021.jpg" media-type="image/jpeg"/>
+    <item id="image022.jpg" href="Images/image022.jpg" media-type="image/jpeg"/>
+    <item id="image023.jpg" href="Images/image023.jpg" media-type="image/jpeg"/>
+    <item id="image024.jpg" href="Images/image024.jpg" media-type="image/jpeg"/>
+    <item id="image025.jpg" href="Images/image025.jpg" media-type="image/jpeg"/>
+    <item id="image026.jpg" href="Images/image026.jpg" media-type="image/jpeg"/>
+    <item id="image027.jpg" href="Images/image027.jpg" media-type="image/jpeg"/>
+    <item id="image028.jpg" href="Images/image028.jpg" media-type="image/jpeg"/>
+    <item id="image029.jpg" href="Images/image029.jpg" media-type="image/jpeg"/>
+    <item id="image030.jpg" href="Images/image030.jpg" media-type="image/jpeg"/>
+    <item id="image031.jpg" href="Images/image031.jpg" media-type="image/jpeg"/>
+    <item id="image032.jpg" href="Images/image032.jpg" media-type="image/jpeg"/>
+    <item id="image033.jpg" href="Images/image033.jpg" media-type="image/jpeg"/>
+    <item id="image034.jpg" href="Images/image034.jpg" media-type="image/jpeg"/>
+    <item id="image035.jpg" href="Images/image035.jpg" media-type="image/jpeg"/>
+    <item id="image036.jpg" href="Images/image036.jpg" media-type="image/jpeg"/>
+    <item id="image037.jpg" href="Images/image037.jpg" media-type="image/jpeg"/>
+    <item id="image038.jpg" href="Images/image038.jpg" media-type="image/jpeg"/>
+    <item id="image039.jpg" href="Images/image039.jpg" media-type="image/jpeg"/>
+    <item id="image040.jpg" href="Images/image040.jpg" media-type="image/jpeg"/>
+    <item id="image041.jpg" href="Images/image041.jpg" media-type="image/jpeg"/>
+    <item id="image042.jpg" href="Images/image042.jpg" media-type="image/jpeg"/>
+    <item id="image043.jpg" href="Images/image043.jpg" media-type="image/jpeg"/>
+    <item id="image044.jpg" href="Images/image044.jpg" media-type="image/jpeg"/>
+    <item id="image045.jpg" href="Images/image045.jpg" media-type="image/jpeg"/>
+    <item id="image046.jpg" href="Images/image046.jpg" media-type="image/jpeg"/>
+    <item id="image047.jpg" href="Images/image047.jpg" media-type="image/jpeg"/>
+    <item id="image048.jpg" href="Images/image048.jpg" media-type="image/jpeg"/>
+    <item id="image049.jpg" href="Images/image049.jpg" media-type="image/jpeg"/>
+    <item id="image050.jpg" href="Images/image050.jpg" media-type="image/jpeg"/>
+    <item id="image051.jpg" href="Images/image051.jpg" media-type="image/jpeg"/>
+    <item id="image052.jpg" href="Images/image052.jpg" media-type="image/jpeg"/>
+    <item id="image053.jpg" href="Images/image053.jpg" media-type="image/jpeg"/>
+    <item id="image054.jpg" href="Images/image054.jpg" media-type="image/jpeg"/>
+    <item id="image055.jpg" href="Images/image055.jpg" media-type="image/jpeg"/>
+    <item id="image056.jpg" href="Images/image056.jpg" media-type="image/jpeg"/>
+    <item id="image057.jpg" href="Images/image057.jpg" media-type="image/jpeg"/>
+    <item id="image058.jpg" href="Images/image058.jpg" media-type="image/jpeg"/>
+    <item id="image059.jpg" href="Images/image059.jpg" media-type="image/jpeg"/>
+    <item id="image060.jpg" href="Images/image060.jpg" media-type="image/jpeg"/>
+    <item id="image061.jpg" href="Images/image061.jpg" media-type="image/jpeg"/>
+    <item id="image062.jpg" href="Images/image062.jpg" media-type="image/jpeg"/>
+    <item id="image063.jpg" href="Images/image063.jpg" media-type="image/jpeg"/>
+    <item id="image064.jpg" href="Images/image064.jpg" media-type="image/jpeg"/>
+    <item id="image065.jpg" href="Images/image065.jpg" media-type="image/jpeg"/>
+    <item id="image066.jpg" href="Images/image066.jpg" media-type="image/jpeg"/>
+    <item id="image067.jpg" href="Images/image067.jpg" media-type="image/jpeg"/>
+    <item id="image068.jpg" href="Images/image068.jpg" media-type="image/jpeg"/>
+    <item id="image069.jpg" href="Images/image069.jpg" media-type="image/jpeg"/>
+    <item id="image070.jpg" href="Images/image070.jpg" media-type="image/jpeg"/>
+    <item id="image071.jpg" href="Images/image071.jpg" media-type="image/jpeg"/>
+    <item id="image072.jpg" href="Images/image072.jpg" media-type="image/jpeg"/>
+    <item id="image073.jpg" href="Images/image073.jpg" media-type="image/jpeg"/>
+    <item id="image074.jpg" href="Images/image074.jpg" media-type="image/jpeg"/>
+    <item id="image075.jpg" href="Images/image075.jpg" media-type="image/jpeg"/>
+    <item id="image076.jpg" href="Images/image076.jpg" media-type="image/jpeg"/>
+    <item id="image077.jpg" href="Images/image077.jpg" media-type="image/jpeg"/>
+    <item id="image078.jpg" href="Images/image078.jpg" media-type="image/jpeg"/>
+    <item id="image079.jpg" href="Images/image079.jpg" media-type="image/jpeg"/>
+    <item id="image080.jpg" href="Images/image080.jpg" media-type="image/jpeg"/>
+    <item id="image081.jpg" href="Images/image081.jpg" media-type="image/jpeg"/>
+    <item id="image082.jpg" href="Images/image082.jpg" media-type="image/jpeg"/>
+    <item id="image083.jpg" href="Images/image083.jpg" media-type="image/jpeg"/>
+    <item id="image084.jpg" href="Images/image084.jpg" media-type="image/jpeg"/>
+    <item id="image085.jpg" href="Images/image085.jpg" media-type="image/jpeg"/>
+    <item id="image086.jpg" href="Images/image086.jpg" media-type="image/jpeg"/>
+    <item id="image087.jpg" href="Images/image087.jpg" media-type="image/jpeg"/>
+    <item id="image088.jpg" href="Images/image088.jpg" media-type="image/jpeg"/>
+    <item id="image089.jpg" href="Images/image089.jpg" media-type="image/jpeg"/>
+    <item id="image090.jpg" href="Images/image090.jpg" media-type="image/jpeg"/>
+    <item id="image091.jpg" href="Images/image091.jpg" media-type="image/jpeg"/>
+    <item id="image092.jpg" href="Images/image092.jpg" media-type="image/jpeg"/>
+    <item id="image093.jpg" href="Images/image093.jpg" media-type="image/jpeg"/>
+    <item id="image094.jpg" href="Images/image094.jpg" media-type="image/jpeg"/>
+    <item id="image095.jpg" href="Images/image095.jpg" media-type="image/jpeg"/>
+    <item id="image096.jpg" href="Images/image096.jpg" media-type="image/jpeg"/>
+    <item id="image097.jpg" href="Images/image097.jpg" media-type="image/jpeg"/>
+    <item id="image098.jpg" href="Images/image098.jpg" media-type="image/jpeg"/>
+    <item id="image099.jpg" href="Images/image099.jpg" media-type="image/jpeg"/>
+    <item id="image100.jpg" href="Images/image100.jpg" media-type="image/jpeg"/>
+    <item id="image101.jpg" href="Images/image101.jpg" media-type="image/jpeg"/>
+    <item id="image102.jpg" href="Images/image102.jpg" media-type="image/jpeg"/>
+    <item id="image103.jpg" href="Images/image103.jpg" media-type="image/jpeg"/>
+    <item id="image104.jpg" href="Images/image104.jpg" media-type="image/jpeg"/>
+    <item id="image105.jpg" href="Images/image105.jpg" media-type="image/jpeg"/>
+    <item id="image106.jpg" href="Images/image106.jpg" media-type="image/jpeg"/>
+    <item id="image107.jpg" href="Images/image107.jpg" media-type="image/jpeg"/>
+    <item id="logo.jpg" href="Images/logo.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="toc.xhtml"/>
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="copyright-page.xhtml"/>
+    <itemref idref="titlepage.xhtml"/>
+    <itemref idref="works.xhtml"/>
+    <itemref idref="biography.xhtml"/>
+    <itemref idref="part1.xhtml"/>
+    <itemref idref="chapter1.xhtml"/>
+    <itemref idref="part2.xhtml"/>
+    <itemref idref="chapter2-1.xhtml"/>
+    <itemref idref="chapter2-2.xhtml"/>
+    <itemref idref="part3.xhtml"/>
+    <itemref idref="chapter3.xhtml"/>
+    <itemref idref="part4.xhtml"/>
+    <itemref idref="chapter4.xhtml"/>
+    <itemref idref="loi.xhtml"/>
+  </spine>
+</package>

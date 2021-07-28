@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="a12af3ad-d1a3-4f2a-b001-dbb2a5e2461b"/>
+        <meta name="dtb:depth" content="2"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>İç Dünyamdan Notlar</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>İçindekiler</text>
+            </navLabel>
+            <content src="Text/toc.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>İÇ DÜNYAMDAN NOTLAR</text>
+            </navLabel>
+            <content src="Text/part1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>BEYNİMİ SARSAN İKİ DARBE</text>
+            </navLabel>
+            <content src="Text/part2.xhtml"/>
+            <navPoint id="navPoint-4" playOrder="4">
+                <navLabel>
+                    <text>1</text>
+                </navLabel>
+                <content src="Text/chapter2-1.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-5" playOrder="5">
+                <navLabel>
+                    <text>2</text>
+                </navLabel>
+                <content src="Text/chapter2-2.xhtml"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>ZAMAN TÜNELİ</text>
+            </navLabel>
+            <content src="Text/part3.xhtml"/>
+            <navPoint id="navPoint-7" playOrder="7">
+                <navLabel>
+                    <text>PARİS</text>
+                </navLabel>
+                <content src="Text/chapter3.xhtml#heading_id_2"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>ALBÜM</text>
+            </navLabel>
+            <content src="Text/part4.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>FOTOĞRAFLAR</text>
+            </navLabel>
+            <content src="Text/loi.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>

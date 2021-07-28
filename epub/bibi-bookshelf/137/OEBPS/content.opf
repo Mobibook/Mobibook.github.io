@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="uuid">{A48FC201-138D-47D0-B237-F837209150B6}</dc:identifier>
+    <meta content="0.9.10" name="Sigil version" />
+    <meta name="cover" content="x00.jpg" />
+    <dc:title>Patrick de Witt - Sisters Kardeşler</dc:title>
+    <dc:creator opf:role="aut">Patrick de Witt</dc:creator>
+    <dc:language>tr-TR</dc:language>
+    <dc:date opf:event="modification">2018-11-25</dc:date>
+    <dc:publisher>Domingo</dc:publisher>
+    <dc:description>Hermann Kermit ölecek. Commodore emri verdi, Eli ve Charlie Sisters kardeşler gerekeni yapacak.
+
+Altına hücum Amerikası'nın şöhretli tetikçileri onlar. Öldürmek Charlie'nin doğasında var; sevdiği işi yapıyor. Eli ise fazla geveze bir vicdana sahip bir katil için. "Belki başka türlü bir hayat mümkündür?" Bu soru dönüp duruyor Eli'ın zihninde, Kermit'in izinde Kaliforniya'daki altın madenlerine doğru yolculukları boyunca. Artık emin, bu onun son işi olacak. Hermann Kermit herhangi bir iş olsaydı keşke.
+
+Eleştirmenler tarafından geçtiğimiz yılın en iyi kitaplarından biri kabul edilen Sisters Kardeşler, tam Coen Kardeşler’in yazacağı türden bir Western; garip, haşin, çıplak, komik, üzücü –insan doğasını süslemeden, saklamadan, olduğu gibi sergiliyor. Patrick deWitt, birbirlerine kan, şiddet ve sevgiyle bağlı iki kardeşin öyküsünü muhteşem bir üslupla aktarıyor.
+
+“...Gerçekten, bir çift psikopata böylesine tutulduğumu hatırlamıyorum.” David Wroblewski, yazar
+
+“deWitt, tıpkı Tarantino gibi kanı komik kılmayı biliyor ve tıpkı Mark Twain gibi okurun iyi bir anlatıcının kişisel arızalarını gözardı etmeye hazır olduğunun farkında.” Esquire
+
+“Başta Sisters Kardeşler'i böylesine farklı yapanın ne olduğunu isimlendiremedim. Ta ki kendimi aynada gülümserken yakalayana dek.” Big Issue
+
+“Bir ziyafet... Her şeyiyle özgün ve ilahi bir biçimde eğlenceli. Sisters Kardeşler ilk sayfasından sizi bağlayıp, günün battığını farkettirmeyen kitaplardan.” Boston Globe
+
+“Patrick deWitt'in anlatıcısı - vicdan sahibi, melankolik bir kiralık katil. D?hiyane ve unutulmayacak bir karakter.” Tom Perrotta, yazar
+
+“Tuhaf bir şekilde komik, insanı sarsan türden vahşetli ve geri planda hep bir hüzün … Tüm bunları başaran ise öyküyü biraz melankoli, biraz efkârla anlatan Eli Sisters; Sisters Kardeşler onun sayesinde elinizden düşüremeyeceğiniz bir esere dönüşüyor… mucizevi güzellikteki alacakaranlık sahnesi afallatıyor.” Washington Post</dc:description>
+    <dc:rights>Patrick De Witt</dc:rights>
+    <dc:subject>Edebiyat - Roman (çeviri)</dc:subject>
+  </metadata>
+  <manifest>
+    <item id="bir.xhtml" href="Text/bir.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Charlie.xhtml" href="Text/Charlie.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sabah.xhtml" href="Text/Sabah.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kendi.xhtml" href="Text/Kendi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kIsa.xhtml" href="Text/kIsa.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Reginald.xhtml" href="Text/Reginald.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Hava.xhtml" href="Text/Hava.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sabahleyin.xhtml" href="Text/Sabahleyin.xhtml" media-type="application/xhtml+xml"/>
+    <item id="iri.xhtml" href="Text/iri.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kulubeye.xhtml" href="Text/Kulubeye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Delikten.xhtml" href="Text/Delikten.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Tub.xhtml" href="Text/Tub.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sonraki.xhtml" href="Text/sonraki.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kasaban.xhtml" href="Text/Kasaban.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Safak.xhtml" href="Text/Safak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Gidecek.xhtml" href="Text/Gidecek.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Tahayyul.xhtml" href="Text/Tahayyul.xhtml" media-type="application/xhtml+xml"/>
+    <item id="O.xhtml" href="Text/O.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kIzIn.xhtml" href="Text/kIzIn.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Arkamizda.xhtml" href="Text/Arkamizda.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Jacksonville.xhtml" href="Text/Jacksonville.xhtml" media-type="application/xhtml+xml"/>
+    <item id="YagIz.xhtml" href="Text/YagIz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Bu.xhtml" href="Text/Bu.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Oglan.xhtml" href="Text/Oglan.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Oglani.xhtml" href="Text/Oglani.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Guneye.xhtml" href="Text/Guneye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Omrumde.xhtml" href="Text/Omrumde.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Charlieuc.xhtml" href="Text/Charlieuc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Gunesli.xhtml" href="Text/Gunesli.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Yedi.xhtml" href="Text/Yedi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Mayfield.xhtml" href="Text/Mayfield.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Odamin.xhtml" href="Text/Odamin.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Atbakicisi.xhtml" href="Text/Atbakicisi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Uc.xhtml" href="Text/Uc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Korfezi.xhtml" href="Text/Korfezi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Morris.xhtml" href="Text/Morris.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Charlieile.xhtml" href="Text/Charlieile.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Black.xhtml" href="Text/Black.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AhIra.xhtml" href="Text/AhIra.xhtml" media-type="application/xhtml+xml"/>
+    <item id="At.xhtml" href="Text/At.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Feribot.xhtml" href="Text/Feribot.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Warm.xhtml" href="Text/Warm.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Susamuru.xhtml" href="Text/Susamuru.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Morrisile.xhtml" href="Text/Morrisile.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Dondugumuzde.xhtml" href="Text/Dondugumuzde.xhtml" media-type="application/xhtml+xml"/>
+    <item id="WarmileMorris.xhtml" href="Text/WarmileMorris.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Atesi.xhtml" href="Text/Atesi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Uyandigimda.xhtml" href="Text/Uyandigimda.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Oaksam.xhtml" href="Text/Oaksam.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Dort.xhtml" href="Text/Dort.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KatI.xhtml" href="Text/KatI.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Barajdan.xhtml" href="Text/Barajdan.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Morrissafak.xhtml" href="Text/Morrissafak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Nehirden.xhtml" href="Text/Nehirden.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Oda.xhtml" href="Text/Oda.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Yariolu.xhtml" href="Text/Yariolu.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CharlieJacksonville.xhtml" href="Text/CharlieJacksonville.xhtml" media-type="application/xhtml+xml"/>
+    <item id="OregonCitynin.xhtml" href="Text/OregonCitynin.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Tesekkurler.xhtml" href="Text/Tesekkurler.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id59" href="Styles/main.css" media-type="text/css"/>
+    <item id="id60" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="ithaf.xhtml" href="Text/ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitaplogo.jpg" href="Images/kitaplogo.jpg" media-type="image/jpeg"/>
+    <item id="x00.jpg" href="Images/00.jpg" media-type="image/jpeg"/>
+    <item id="x00cover.xhtml" href="Text/00cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kucuk.jpg" href="Images/kucuk.jpg" media-type="image/jpeg"/>
+    <item id="x1851.xhtml" href="Text/1851.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Commodere.xhtml" href="Text/Commodere.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sabahley.xhtml" href="Text/Sabahley.xhtml" media-type="application/xhtml+xml"/>
+    <item id="iki.xhtml" href="Text/iki.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cadde.xhtml" href="Text/Cadde.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara.jpg" href="Images/ara.jpg" media-type="image/jpeg"/>
+    <item id="Ara.xhtml" href="Text/Ara.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kasabadan.xhtml" href="Text/Kasabadan.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AltIn.xhtml" href="Text/AltIn.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sabahleyi.xhtml" href="Text/sabahleyi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara2.jpg" href="Images/ara2.jpg" media-type="image/jpeg"/>
+    <item id="IkinciAra.xhtml" href="Text/IkinciAra.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sonsoz.xhtml" href="Text/Sonsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Arkakapak.xhtml" href="Text/Arkakapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="arkakapak.jpg" href="Images/arkakapak.jpg" media-type="image/jpeg"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dewitt.jpg" href="Images/dewitt.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id60">
+    <itemref idref="x00cover.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="x1851.xhtml"/>
+    <itemref idref="bir.xhtml"/>
+    <itemref idref="Commodere.xhtml"/>
+    <itemref idref="Charlie.xhtml"/>
+    <itemref idref="Sabah.xhtml"/>
+    <itemref idref="Kendi.xhtml"/>
+    <itemref idref="kIsa.xhtml"/>
+    <itemref idref="Reginald.xhtml"/>
+    <itemref idref="Hava.xhtml"/>
+    <itemref idref="Sabahleyin.xhtml"/>
+    <itemref idref="iri.xhtml"/>
+    <itemref idref="Kulubeye.xhtml"/>
+    <itemref idref="Delikten.xhtml"/>
+    <itemref idref="Tub.xhtml"/>
+    <itemref idref="sonraki.xhtml"/>
+    <itemref idref="Kasaban.xhtml"/>
+    <itemref idref="Safak.xhtml"/>
+    <itemref idref="Gidecek.xhtml"/>
+    <itemref idref="Tahayyul.xhtml"/>
+    <itemref idref="O.xhtml"/>
+    <itemref idref="kIzIn.xhtml"/>
+    <itemref idref="Arkamizda.xhtml"/>
+    <itemref idref="Jacksonville.xhtml"/>
+    <itemref idref="Sabahley.xhtml"/>
+    <itemref idref="YagIz.xhtml"/>
+    <itemref idref="Bu.xhtml"/>
+    <itemref idref="iki.xhtml"/>
+    <itemref idref="Oglan.xhtml"/>
+    <itemref idref="Oglani.xhtml"/>
+    <itemref idref="Guneye.xhtml"/>
+    <itemref idref="Omrumde.xhtml"/>
+    <itemref idref="Charlieuc.xhtml"/>
+    <itemref idref="Gunesli.xhtml"/>
+    <itemref idref="Cadde.xhtml"/>
+    <itemref idref="Ara.xhtml"/>
+    <itemref idref="Yedi.xhtml"/>
+    <itemref idref="Mayfield.xhtml"/>
+    <itemref idref="Odamin.xhtml"/>
+    <itemref idref="Atbakicisi.xhtml"/>
+    <itemref idref="Kasabadan.xhtml"/>
+    <itemref idref="Uc.xhtml"/>
+    <itemref idref="Korfezi.xhtml"/>
+    <itemref idref="Morris.xhtml"/>
+    <itemref idref="Charlieile.xhtml"/>
+    <itemref idref="Black.xhtml"/>
+    <itemref idref="AhIra.xhtml"/>
+    <itemref idref="AltIn.xhtml"/>
+    <itemref idref="At.xhtml"/>
+    <itemref idref="Feribot.xhtml"/>
+    <itemref idref="Warm.xhtml"/>
+    <itemref idref="Susamuru.xhtml"/>
+    <itemref idref="Morrisile.xhtml"/>
+    <itemref idref="Dondugumuzde.xhtml"/>
+    <itemref idref="WarmileMorris.xhtml"/>
+    <itemref idref="Atesi.xhtml"/>
+    <itemref idref="Uyandigimda.xhtml"/>
+    <itemref idref="Oaksam.xhtml"/>
+    <itemref idref="Dort.xhtml"/>
+    <itemref idref="KatI.xhtml"/>
+    <itemref idref="Barajdan.xhtml"/>
+    <itemref idref="Morrissafak.xhtml"/>
+    <itemref idref="Nehirden.xhtml"/>
+    <itemref idref="Oda.xhtml"/>
+    <itemref idref="sabahleyi.xhtml"/>
+    <itemref idref="IkinciAra.xhtml"/>
+    <itemref idref="Yariolu.xhtml"/>
+    <itemref idref="CharlieJacksonville.xhtml"/>
+    <itemref idref="OregonCitynin.xhtml"/>
+    <itemref idref="Sonsoz.xhtml"/>
+    <itemref idref="Tesekkurler.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="Arkakapak.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/00cover.xhtml"/>
+  </guide>
+</package>

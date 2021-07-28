@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Christopher, Paul">Paul Christopher</dc:creator>
+<meta content="Michelangelonun Defteri" name="calibre:title_sort"/>
+    <meta content="2014-03-17T12:02:28.338000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2010-11-19T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8763ec54-3ddb-4d6c-aff7-74a56ee5615f</dc:identifier>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Paul Christopher&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-08-13</dc:date>
+  <dc:title>Michelangelonun Defteri</dc:title>
+<dc:publisher>Koridor Yayıncılık</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Polisiye</dc:subject>
+<dc:subject>Macera</dc:subject>
+<dc:description>&lt;p&gt;Paul Christopher bu nefes kesici romanında son derece masum bir kadın iki kıtaya yayılan ve elli yıldan fazla bir süredir devam eden ölümcül bir komplonun içine düşüyor...
+New York Üniversitesi’nde tarih eğitimi gören Finn Ryan bir gün rastlantı sonucu Michelangelo tarafından çizilmiş, ölü insan bedenlerini inceleme sonuçlarını kaydettiği efsanevi defterden bir sayfa bulur.
+Ancak o gece biri Finn'in dairesine girerek erkek arkadaşını öldürür ve kızın Michelangelo çiziminden aklında kalanları karaladığı not defterini çalar.
+Yaşamının tehlikede olduğunu gören Finn annesinin ancak olağanüstü durumlarda aramasını tembih ettiği telefon numarası sayesinde eski kitap alım satımıyla uğraşan Michael Valentine'e ulaşır. Birlikte tüm şehri ve tarihin derinliklerini kapsayan uzun bir yolculuğa çıkarak gizemi çözmeye çalışırlar. Bir yandan da öldürülmemeye.. Tüm amaç İkinci Dünya Savaşının son günlerindeki olayın gizeminin açığa çıkartılmasını
+sağlamaktır.
+Öyle bir gizem ki bu yanıtlar ancak Vatikan'ın karanlık labirentlerinin içinde bulunabilir&lt;/p&gt;</dc:description>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">2883bc53-f95d-4788-b1da-ccad081b2d74</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9750039718</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Michelangelonun_Defteri_split_000.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/Michelangelonun_Defteri_split_001.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/Michelangelonun_Defteri_split_002.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/Michelangelonun_Defteri_split_003.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/Michelangelonun_Defteri_split_004.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/Michelangelonun_Defteri_split_005.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

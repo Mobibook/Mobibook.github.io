@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="e5dc118c-fe18-4c5b-a328-d3b88db0d64b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.49)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Lizbon'a Gece Treni</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="4b8104a5-5ddf-4418-b082-1ca95d8aba49" playOrder="1">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM Yola Çıkış</text>
+      </navLabel>
+      <content src="gecetreni_split_005.html"/>
+    </navPoint>
+    <navPoint id="01abcc0f-b8eb-4988-ab9e-8bafd514161e" playOrder="2">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM Karşılaşma</text>
+      </navLabel>
+      <content src="gecetreni_split_007.html"/>
+    </navPoint>
+    <navPoint id="3d350924-561b-4373-bb9a-07cefe92eccf" playOrder="3">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM Deneme</text>
+      </navLabel>
+      <content src="gecetreni_split_010.html"/>
+    </navPoint>
+    <navPoint id="d250148a-8ef6-4336-ba69-ac7fc3db03fd" playOrder="4">
+      <navLabel>
+        <text>DÖRDÜNCÜ BÖLÜM Geri Dönüş</text>
+      </navLabel>
+      <content src="gecetreni_split_013.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

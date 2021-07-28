@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="e2a1978b-321c-4c55-8192-377307f77315" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.9.18)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>ASAL SAYILARIN YALNIZLIGI</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uc86b8ca4-1fc0-4c3b-80e8-4db762968b54" playOrder="1">
+      <navLabel>
+        <text>Kar Meleği</text>
+      </navLabel>
+      <content src="asalsayilar_split_005.html"/>
+      <navPoint id="u1e70a43c-e805-4f3f-96f4-dde6c23a0338" playOrder="2">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="asalsayilar_split_006.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="u54278bb2-b379-4361-9cd0-8ca89cb8ea99" playOrder="3">
+      <navLabel>
+        <text>Arkhimedes ilkesi</text>
+      </navLabel>
+      <content src="asalsayilar_split_007.html"/>
+      <navPoint id="u6fec2379-9c17-430f-b439-83e359037b53" playOrder="4">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="asalsayilar_split_008.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="u14fdb983-8c13-47dd-bda5-a8fc757359d0" playOrder="5">
+      <navLabel>
+        <text>Derinin yüzeyine ve azıcık altına</text>
+      </navLabel>
+      <content src="asalsayilar_split_009.html"/>
+      <navPoint id="u4223a997-482e-49a2-9abe-cb276e8bf769" playOrder="6">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="asalsayilar_split_010.html"/>
+      </navPoint>
+      <navPoint id="udc0ceb26-3c90-4b82-af62-a202e0d7f96c" playOrder="7">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="asalsayilar_split_011.html"/>
+      </navPoint>
+      <navPoint id="ua1e9e6b3-421c-4025-b181-4e1231bd0241" playOrder="8">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="asalsayilar_split_012.html"/>
+      </navPoint>
+      <navPoint id="ubdaa9029-38db-4f56-bc1c-e54128d0ef5d" playOrder="9">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="asalsayilar_split_013.html"/>
+      </navPoint>
+      <navPoint id="u86734c24-8c7d-41ee-aebf-b324480806f3" playOrder="10">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="asalsayilar_split_014.html"/>
+      </navPoint>
+      <navPoint id="ub90476c0-4338-49f8-96a4-dc3e68de53e2" playOrder="11">
+        <navLabel>
+          <text>8</text>
+        </navLabel>
+        <content src="asalsayilar_split_015.html"/>
+      </navPoint>
+      <navPoint id="ue3bb2cef-6e37-48b1-a6d6-e95bc504a929" playOrder="12">
+        <navLabel>
+          <text>9</text>
+        </navLabel>
+        <content src="asalsayilar_split_016.html"/>
+      </navPoint>
+      <navPoint id="uf7df6c18-462c-43af-9364-df8324dc66ec" playOrder="13">
+        <navLabel>
+          <text>10</text>
+        </navLabel>
+        <content src="asalsayilar_split_017.html"/>
+      </navPoint>
+      <navPoint id="u150c1eb0-0b20-4801-81b4-b33b77200930" playOrder="14">
+        <navLabel>
+          <text>11</text>
+        </navLabel>
+        <content src="asalsayilar_split_018.html"/>
+      </navPoint>
+      <navPoint id="ud16f8c3b-8a10-4016-80f6-0c34cfd881c2" playOrder="15">
+        <navLabel>
+          <text>12</text>
+        </navLabel>
+        <content src="asalsayilar_split_019.html"/>
+      </navPoint>
+      <navPoint id="u0a405a45-778c-4eac-896c-55130f89d8c9" playOrder="16">
+        <navLabel>
+          <text>13</text>
+        </navLabel>
+        <content src="asalsayilar_split_020.html"/>
+      </navPoint>
+      <navPoint id="ucad51f96-1025-4149-b392-8007b77db8e0" playOrder="17">
+        <navLabel>
+          <text>14</text>
+        </navLabel>
+        <content src="asalsayilar_split_021.html"/>
+      </navPoint>
+      <navPoint id="u4eaf0e24-5fe7-468f-9c6e-c9357c1c7920" playOrder="18">
+        <navLabel>
+          <text>15</text>
+        </navLabel>
+        <content src="asalsayilar_split_022.html"/>
+      </navPoint>
+      <navPoint id="u0990b3db-f5f3-4423-be25-e7afe6077255" playOrder="19">
+        <navLabel>
+          <text>16</text>
+        </navLabel>
+        <content src="asalsayilar_split_023.html"/>
+      </navPoint>
+      <navPoint id="ube8f3a4e-d854-4695-8901-b5e324f9b72d" playOrder="20">
+        <navLabel>
+          <text>17</text>
+        </navLabel>
+        <content src="asalsayilar_split_024.html"/>
+      </navPoint>
+      <navPoint id="u18cad697-34f6-43b4-99ad-525f09fdb740" playOrder="21">
+        <navLabel>
+          <text>18</text>
+        </navLabel>
+        <content src="asalsayilar_split_025.html"/>
+      </navPoint>
+      <navPoint id="u21599897-b8be-4756-a7eb-cf7bec82472f" playOrder="22">
+        <navLabel>
+          <text>19</text>
+        </navLabel>
+        <content src="asalsayilar_split_026.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="u43287054-9c26-4fd6-bada-37736cfa2205" playOrder="23">
+      <navLabel>
+        <text>Öteki oda</text>
+      </navLabel>
+      <content src="asalsayilar_split_027.html"/>
+      <navPoint id="udc061373-5b87-4289-897b-f335d9be853b" playOrder="24">
+        <navLabel>
+          <text>20</text>
+        </navLabel>
+        <content src="asalsayilar_split_028.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="u86c20d7f-460a-40c5-95af-90d795e84d80" playOrder="25">
+      <navLabel>
+        <text>Suyun içinde ve dışında</text>
+      </navLabel>
+      <content src="asalsayilar_split_029.html"/>
+      <navPoint id="ud000599f-ca22-45d8-9de7-90526f7fb40d" playOrder="26">
+        <navLabel>
+          <text>21</text>
+        </navLabel>
+        <content src="asalsayilar_split_030.html"/>
+      </navPoint>
+      <navPoint id="u40bd581c-177e-436c-9c5c-6581958ac00b" playOrder="27">
+        <navLabel>
+          <text>22</text>
+        </navLabel>
+        <content src="asalsayilar_split_031.html"/>
+      </navPoint>
+      <navPoint id="u4c297be9-95b6-41ce-8aec-0fa3432b1083" playOrder="28">
+        <navLabel>
+          <text>23</text>
+        </navLabel>
+        <content src="asalsayilar_split_032.html"/>
+      </navPoint>
+      <navPoint id="uf3b425a9-2d5a-4237-8eb4-16adbe61d42e" playOrder="29">
+        <navLabel>
+          <text>24</text>
+        </navLabel>
+        <content src="asalsayilar_split_033.html"/>
+      </navPoint>
+      <navPoint id="u9f865154-32ed-40b8-8ca3-8fc61ad75e66" playOrder="30">
+        <navLabel>
+          <text>25</text>
+        </navLabel>
+        <content src="asalsayilar_split_034.html"/>
+      </navPoint>
+      <navPoint id="u7a825621-c59c-4796-abe7-7e3cf7adcf57" playOrder="31">
+        <navLabel>
+          <text>26</text>
+        </navLabel>
+        <content src="asalsayilar_split_035.html"/>
+      </navPoint>
+      <navPoint id="u8c2f5c24-4a95-4da9-9fa8-beff9dad3fa6" playOrder="32">
+        <navLabel>
+          <text>27</text>
+        </navLabel>
+        <content src="asalsayilar_split_036.html"/>
+      </navPoint>
+      <navPoint id="ub7142a40-7e5c-4f26-8b8b-9f26eceec886" playOrder="33">
+        <navLabel>
+          <text>28</text>
+        </navLabel>
+        <content src="asalsayilar_split_037.html"/>
+      </navPoint>
+      <navPoint id="ued49b2c3-0bd3-4604-8a0e-f312075fdd0d" playOrder="34">
+        <navLabel>
+          <text>29</text>
+        </navLabel>
+        <content src="asalsayilar_split_038.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="ub5083739-668f-40e4-be59-15464cd83e80" playOrder="35">
+      <navLabel>
+        <text>Odaklanma</text>
+      </navLabel>
+      <content src="asalsayilar_split_039.html"/>
+      <navPoint id="u02c510f8-c266-4366-8305-4b5b66445f8f" playOrder="36">
+        <navLabel>
+          <text>30</text>
+        </navLabel>
+        <content src="asalsayilar_split_040.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="u402f15a2-24dd-4bf2-aea0-a5de2a63ca92" playOrder="37">
+      <navLabel>
+        <text>Geriye kalan</text>
+      </navLabel>
+      <content src="asalsayilar_split_041.html"/>
+      <navPoint id="u756f96f4-b57e-472a-bd69-2e248386655d" playOrder="38">
+        <navLabel>
+          <text>31</text>
+        </navLabel>
+        <content src="asalsayilar_split_042.html"/>
+      </navPoint>
+      <navPoint id="u426196b5-d723-4f68-acf8-5a915d74a851" playOrder="39">
+        <navLabel>
+          <text>32</text>
+        </navLabel>
+        <content src="asalsayilar_split_043.html"/>
+      </navPoint>
+      <navPoint id="ua0d2987b-d00f-492b-a6ff-3588e3e9d380" playOrder="40">
+        <navLabel>
+          <text>33</text>
+        </navLabel>
+        <content src="asalsayilar_split_044.html"/>
+      </navPoint>
+      <navPoint id="ub5905858-629b-46a0-b875-8b2452746c10" playOrder="41">
+        <navLabel>
+          <text>34</text>
+        </navLabel>
+        <content src="asalsayilar_split_045.html"/>
+      </navPoint>
+      <navPoint id="ubad4e613-f1ba-4f81-86db-de75ecaa896d" playOrder="42">
+        <navLabel>
+          <text>35</text>
+        </navLabel>
+        <content src="asalsayilar_split_046.html"/>
+      </navPoint>
+      <navPoint id="u399bcfcc-ef18-4853-8bcf-51a972bfe1da" playOrder="43">
+        <navLabel>
+          <text>36</text>
+        </navLabel>
+        <content src="asalsayilar_split_047.html"/>
+      </navPoint>
+      <navPoint id="ue6dccf6b-adb7-4a95-9244-6ce47970622e" playOrder="44">
+        <navLabel>
+          <text>37</text>
+        </navLabel>
+        <content src="asalsayilar_split_048.html"/>
+      </navPoint>
+      <navPoint id="ub352d963-ce9a-419a-b971-7a805b2d2930" playOrder="45">
+        <navLabel>
+          <text>38</text>
+        </navLabel>
+        <content src="asalsayilar_split_049.html"/>
+      </navPoint>
+      <navPoint id="u9e56e943-c3f1-4fce-9c88-b3b95c981378" playOrder="46">
+        <navLabel>
+          <text>39</text>
+        </navLabel>
+        <content src="asalsayilar_split_050.html"/>
+      </navPoint>
+      <navPoint id="u02920781-87a8-44ad-89f0-f500e559dff0" playOrder="47">
+        <navLabel>
+          <text>40</text>
+        </navLabel>
+        <content src="asalsayilar_split_051.html"/>
+      </navPoint>
+      <navPoint id="ub36effbb-76ea-462c-a59d-984fc17a417c" playOrder="48">
+        <navLabel>
+          <text>41</text>
+        </navLabel>
+        <content src="asalsayilar_split_052.html"/>
+      </navPoint>
+      <navPoint id="ufbf5f6b8-beba-470c-92c3-91d168f1d5c1" playOrder="49">
+        <navLabel>
+          <text>42</text>
+        </navLabel>
+        <content src="asalsayilar_split_053.html"/>
+      </navPoint>
+      <navPoint id="u40990075-c4d3-415c-ad03-109200900cd6" playOrder="50">
+        <navLabel>
+          <text>43</text>
+        </navLabel>
+        <content src="asalsayilar_split_054.html"/>
+      </navPoint>
+      <navPoint id="u9a82a725-d403-400f-a7cc-a7367cfdc052" playOrder="51">
+        <navLabel>
+          <text>44</text>
+        </navLabel>
+        <content src="asalsayilar_split_055.html"/>
+      </navPoint>
+      <navPoint id="u14b07ab2-207d-4c1e-bc19-86f759d841a7" playOrder="52">
+        <navLabel>
+          <text>45</text>
+        </navLabel>
+        <content src="asalsayilar_split_056.html"/>
+      </navPoint>
+      <navPoint id="u02f7462a-67bc-40c8-90c3-cf7cbcdbf898" playOrder="53">
+        <navLabel>
+          <text>46</text>
+        </navLabel>
+        <content src="asalsayilar_split_057.html"/>
+      </navPoint>
+      <navPoint id="u62b3dae5-dcf3-4b71-81fa-6ca84300811a" playOrder="54">
+        <navLabel>
+          <text>47</text>
+        </navLabel>
+        <content src="asalsayilar_split_058.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

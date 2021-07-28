@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="cedf5b74-2848-4687-8fe0-3fe9d783f035" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Turan Devleti</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/Turan_split_000.htm" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>(ARKA KAPAK)</text>
+      </navLabel>
+      <content src="Text/Turan_split_036.htm" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Milletler Birbirleriyle Niçin Harbederler?</text>
+      </navLabel>
+      <content src="Text/Turan_split_002.htm" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Bugünkü Muharebelerin Sebebi</text>
+      </navLabel>
+      <content src="Text/Turan_split_003.htm" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Milletlerin Mefküreleri</text>
+      </navLabel>
+      <content src="Text/Turan_split_004.htm" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Türklerin Mefkûresi</text>
+      </navLabel>
+      <content src="Text/Turan_split_005.htm" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Çin Ve Hind Yolları Türk Mefkûresinin İktisadi Ve Siyasi Cihetleri</text>
+      </navLabel>
+      <content src="Text/Turan_split_006.htm" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Turan Devleti</text>
+      </navLabel>
+      <content src="Text/Turan_split_007.htm" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Türk Mes'elesi</text>
+      </navLabel>
+      <content src="Text/Turan_split_008.htm" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Kırım Savaşı</text>
+      </navLabel>
+      <content src="Text/Turan_split_009.htm" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>2. Aleksandr</text>
+      </navLabel>
+      <content src="Text/Turan_split_010.htm" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Türkistan Parçalanıyor!</text>
+      </navLabel>
+      <content src="Text/Turan_split_011.htm" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Pan Slavizm</text>
+      </navLabel>
+      <content src="Text/Turan_split_012.htm" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Pilevne Destanı</text>
+      </navLabel>
+      <content src="Text/Turan_split_013.htm" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Sonu Gelen Çarlar</text>
+      </navLabel>
+      <content src="Text/Turan_split_014.htm" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Son Çar. 2. Nikola</text>
+      </navLabel>
+      <content src="Text/Turan_split_015.htm" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Türkiye’nin Taksimi</text>
+      </navLabel>
+      <content src="Text/Turan_split_016.htm" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Savaşlar Başlıyor!</text>
+      </navLabel>
+      <content src="Text/Turan_split_017.htm" />
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Rusya’nın İçi</text>
+      </navLabel>
+      <content src="Text/Turan_split_018.htm" />
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Millet Meclisi</text>
+      </navLabel>
+      <content src="Text/Turan_split_019.htm" />
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Kanunlar</text>
+      </navLabel>
+      <content src="Text/Turan_split_020.htm" />
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Halkın Hakları</text>
+      </navLabel>
+      <content src="Text/Turan_split_021.htm" />
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Kilise</text>
+      </navLabel>
+      <content src="Text/Turan_split_022.htm" />
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Aristokratlar</text>
+      </navLabel>
+      <content src="Text/Turan_split_023.htm" />
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Burjuvalar</text>
+      </navLabel>
+      <content src="Text/Turan_split_024.htm" />
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Köylüler</text>
+      </navLabel>
+      <content src="Text/Turan_split_025.htm" />
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Köy İdareleri</text>
+      </navLabel>
+      <content src="Text/Turan_split_026.htm" />
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>İşçiler</text>
+      </navLabel>
+      <content src="Text/Turan_split_027.htm" />
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Genel Meclisler</text>
+      </navLabel>
+      <content src="Text/Turan_split_028.htm" />
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>İhtilâle Doğru!</text>
+      </navLabel>
+      <content src="Text/Turan_split_029.htm" />
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>İhtilâlciler</text>
+      </navLabel>
+      <content src="Text/Turan_split_030.htm" />
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>1905 Ayaklanması</text>
+      </navLabel>
+      <content src="Text/Turan_split_031.htm" />
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Büyük Şehirler</text>
+      </navLabel>
+      <content src="Text/Turan_split_032.htm" />
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Sömürgecilik</text>
+      </navLabel>
+      <content src="Text/Turan_split_033.htm" />
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Son Söz</text>
+      </navLabel>
+      <content src="Text/Turan_split_034.htm" />
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Yaşayan Ülke</text>
+      </navLabel>
+      <content src="Text/Turan_split_035.htm" />
+    </navPoint>
+  </navMap>
+</ncx>

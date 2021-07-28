@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="94663c6f-44f9-4937-a011-10fb572c074a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Cam Hucre</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{140B9A9D-9B7C-40D4-BB0B-7BDAD65C2A91}" playOrder="1">
+      <navLabel>
+        <text>Cezaevi duygularımı kesinlikle köreltti, dedi kend</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{5099F6F9-4203-486D-BEBE-7EA3801ACC74}" playOrder="2">
+      <navLabel>
+        <text>Karanlıkta Hazel’ın sesi, birlikte oldukları o oda</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{C309C841-A565-47FA-9DD2-0E9785A91B19}" playOrder="3">
+      <navLabel>
+        <text>Carter O’Brien'a şöyle bir baktı. O’Brien şu anda</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{AEA434E4-27EC-4D1E-A44C-65CD737D60C3}" playOrder="4">
+      <navLabel>
+        <text>2ıo</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

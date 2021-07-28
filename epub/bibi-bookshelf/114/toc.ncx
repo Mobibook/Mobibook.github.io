@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="32212fc6-4144-4634-9225-c64b0632979a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.40.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yeşilçamı Benden Sorun</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>GÖRÜR GÖRMEZ TUTULMUŞTUM SİNEMAYA</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>BASINLA YILDIZIM BARIŞMADI</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>EN BÜYÜK İDEALİM FİLMLERDE BİR ROL BULMAK</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>ÜNLÜ ÜÇLÜ KURULUYOR</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>ASKERDEN SONRA YENİDEN YEŞİLÇAM’A DOĞRU</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>LÂLE ORALOĞLU HAYATIMI DEĞİŞTİRDİ</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin7.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>TİYATROYLA İLİŞKİM SÜRÜYOR</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin8.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>ŞEHİR TİYATROSU’NDAN KOVULDUM</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin9.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>ALTIN YILLARA DOĞRU</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin11.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>AHMET TARIK TEKÇE EFSANESİ</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin12.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>ADANALI TAYFUR DEVRİ</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin13.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>HATALAR DİZİSİ BAŞLIYOR</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin14.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>YEŞİLÇAM’DA BONO OLAYI</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin15.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>PLÂKÇILIK, KULÜPÇÜLÜK VE İFLAS</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin16.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>VER ELİNİ ALMANYA</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin17.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>İLK ŞOV KULÜP SİNEMASINDA</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin18.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>PARLAK ŞOVLAR DÖNEMİ</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin19.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>SADRI ALIŞIK OLAYI</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin21.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>AYAKLAR BAŞ OLMUŞ</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin22.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>KUMAR BELASI</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin23.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>OTUZUNCU SANAT YILI JÜBİLEM</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin24.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>KOMEDYENLİK VE KOMEDYENLER</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin25.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>REJİSÖRLER</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin26.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>TOPLU DEĞERLENDİRME</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin28.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>ALBÜM</text>
+      </navLabel>
+      <content src="OEBPS/Text/album.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
