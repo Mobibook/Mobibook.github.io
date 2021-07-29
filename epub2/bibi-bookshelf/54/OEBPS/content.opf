@@ -1,0 +1,97 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Feist, Raymond E.">Raymond E. Feist</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:c38e1585-6306-45df-bb82-830f8cab0624</dc:identifier>
+    <dc:date>2016-04-26T21:00:00+00:00</dc:date>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:description>Bir zamanlar Midkemia gezegeninde, bir büyücünün yanına çırak olarak verilmiş Pug, büyü marifetiyle açılan bir gedikten geçerek dünyalarına gelen, savaşçı bir ırk olan Tsuranilere esir düşmüştü. Orada bir köleyken, Tsurani toplumunda büyük saygı gören Yüceler Meclisi'nce gücü fark edilir ve ona yeni bir ad verilir –Milamber. Meclis'in elinde, saklı güçlerini kullanmayı öğrenecek, bir eşi daha olmayan, kudretini iki dünyadan alan bir büyücü olacaktır. İki dünyaya da ait olan Milamber, bir taraftan eski sahipleri Shinzawailerin savaşı sona erdirmek için giriştikleri entrikalara destek çıkacak, bir taraftan da zamanın kendisinden bile eski olan bir düşmanla girişilen mücadelede yerini alacaktır.</dc:description>
+    <meta content="0.8.7" name="Sigil version"/>
+  <dc:title>Büyücü: Usta</dc:title>
+<meta name="calibre:title_sort" content="Büyücü: Usta"/>
+<meta name="calibre:series" content="Gediksavaşları Efsanesi"/>
+<meta name="calibre:series_index" content="2.0"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Fantastik Kurgu</dc:subject>
+<dc:subject>Logolu</dc:subject>
+<dc:contributor opf:role="bkp">calibre (2.54.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:author_link_map" content="{&quot;Raymond E. Feist&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">e950e970-2020-459c-bddd-f476cac5232e</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/usta.xhtml" id="usta.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum-1.xhtml" id="bolum-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum-2.xhtml" id="bolum-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum-3.xhtml" id="bolum-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum-4.xhtml" id="bolum-4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum-5.xhtml" id="bolum-5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum-6.xhtml" id="bolum-6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum-7.xhtml" id="bolum-7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum-8.xhtml" id="bolum-8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum-9.xhtml" id="bolum-9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum-10.xhtml" id="bolum-10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum-11.xhtml" id="bolum-11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum-12.xhtml" id="bolum-12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum-13.xhtml" id="bolum-13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum-14.xhtml" id="bolum-14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum-15.xhtml" id="bolum-15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum-16.xhtml" id="bolum-16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic-kapak.xhtml" id="ic-kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/ayrac.png" id="ayrac.png" media-type="image/png"/>
+    <item href="Images/ithaki.png" id="ithaki.png" media-type="image/png"/>
+    <item href="Images/harita.jpg" id="harita.jpg" media-type="image/jpeg"/>
+    <item href="Styles/era.css" id="era.css" media-type="text/css"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/harita-1.xhtml" id="harita-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/arka-kapak.xhtml" id="arka-kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnot.xhtml" id="dipnot.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/arka-harita.xhtml" id="arka-harita.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Fonts/Roboto-Bold.ttf" id="Roboto-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Roboto-Bold-Italic.ttf" id="Roboto-Bold-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Roboto-Italic.ttf" id="Roboto-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Roboto-Regular.ttf" id="Roboto-Regular.ttf" media-type="application/x-font-ttf"/>
+    <item href="Text/harita-2.xhtml" id="harita-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/kelewan.jpg" id="kelewan.jpg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+    <item href="Images/midkemia-triagia.jpg" id="midkemia-triagia.jpg" media-type="image/jpeg"/>
+    <item href="Images/usta-back.jpg" id="usta-back.jpg" media-type="image/jpeg"/>
+    <item href="Text/ekdg-logo.xhtml" id="ekdg-logo.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ekdg-logo.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ic-kapak.xhtml"/>
+    <itemref idref="harita-1.xhtml"/>
+    <itemref idref="harita-2.xhtml"/>
+    <itemref idref="usta.xhtml"/>
+    <itemref idref="bolum-1.xhtml"/>
+    <itemref idref="bolum-2.xhtml"/>
+    <itemref idref="bolum-3.xhtml"/>
+    <itemref idref="bolum-4.xhtml"/>
+    <itemref idref="bolum-5.xhtml"/>
+    <itemref idref="bolum-6.xhtml"/>
+    <itemref idref="bolum-7.xhtml"/>
+    <itemref idref="bolum-8.xhtml"/>
+    <itemref idref="bolum-9.xhtml"/>
+    <itemref idref="bolum-10.xhtml"/>
+    <itemref idref="bolum-11.xhtml"/>
+    <itemref idref="bolum-12.xhtml"/>
+    <itemref idref="bolum-13.xhtml"/>
+    <itemref idref="bolum-14.xhtml"/>
+    <itemref idref="bolum-15.xhtml"/>
+    <itemref idref="bolum-16.xhtml"/>
+    <itemref idref="arka-harita.xhtml"/>
+    <itemref idref="arka-kapak.xhtml"/>
+    <itemref idref="dipnot.xhtml"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

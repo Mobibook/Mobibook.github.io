@@ -1,0 +1,165 @@
+@font-face {
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: normal;
+	src : url("../Fonts/Roboto-Regular.ttf");
+}
+@font-face {
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: bold;
+	src : url("../Fonts/Roboto-Bold.ttf");
+}
+@font-face {
+	font-family: "Roboto";
+	font-style: italic;
+	font-weight: normal;
+	src : url("../Fonts/Roboto-Italic.ttf");
+}
+@font-face {
+	font-family: "Roboto";
+	font-style: oblique;
+	font-weight: bold;
+	src : url("../Fonts/Roboto-Bold-Italic.ttf");
+}
+
+.logo {
+  text-align: center;
+  margin: 5em 0 1em;
+}
+
+p {
+	font-family: "Roboto", serif;
+	display: block;
+	text-align: justify;
+	text-indent: 2em;
+	margin: 0;
+	font-size: 1em;
+	padding: 0
+}
+h1 {
+	font-family: "Roboto", serif;
+    display: block;
+	text-align: center;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    font-weight: bold;
+}
+h2 {
+	font-family: "Roboto", serif;
+    display: block;
+	text-align: center;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h3 {
+	font-family: "Roboto", serif;
+    display: block;
+	text-align: center;
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h4 {
+	font-family: "Roboto", serif;
+    display: block;
+	text-align: center;
+    margin-top: 1.33em;
+    margin-bottom: 1.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h5 {
+	font-family: "Roboto", serif;
+    display: block;
+	text-align: center;
+    font-size: .83em;
+    margin-top: 1.67em;
+    margin-bottom: 1.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h6 {
+	font-family: "Roboto", serif;
+    display: block;
+	text-align: center;
+    font-size: .67em;
+    margin-top: 2.33em;
+    margin-bottom: 2.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+.yazarin_notu {
+	font-family: "Roboto", serif;
+	text-align: right;
+	font-size: .8em;
+	text-indent: 0em;
+	margin-bottom: 4em;
+}
+.biyografi {
+	font-family: "Roboto", serif;
+	text-align: left;
+	text-align: justify;
+	font-size: .8em;
+	text-indent: 0em;
+	margin: 1em 10% 0 10%;
+}
+.kunye {
+	font-family: "Roboto", serif;
+	text-align: center;
+	text-indent: 0em;
+	margin-top: 0em;
+	margin-left: 1em;
+	margin-bottom: 0em;
+	font-size: 0.8em;
+}
+.ayrac {
+	display: block;
+	text-align: center;
+	margin: 1em 0;
+	padding: 0
+}
+.bolum_no {
+	font-family: "Roboto", serif;
+	display: block;
+	font-weight: bold;
+	text-align: center;
+	margin: 10pt 0 5pt;
+	padding: 0
+}
+.baslik {
+	font-family: "Roboto", serif;
+	border-bottom-color: black;
+	border-bottom-style: solid;
+	border-left-width: 1.5pt;
+	border-top-color: black;
+	border-top-style: solid;
+	display: block;
+	font-size: 1.3em;
+	font-weight: bold;
+	text-align: center;
+}
+.no-indent{
+	text-indent: 0em;
+}
+.dipnot {
+	text-align:align-left;
+	margin-top:1em;
+	margin-bottom:1em;
+}
+.dipnot1 {
+	font-family: "Roboto", serif;
+	font-size: .65em;
+	vertical-align: super;
+}

@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="687588a5-297a-4dd2-b4cf-195bfac892c1" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Star Wars Darth Vader Yükselişi ve Düşüşü</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="1f694fb4-7ed4-4a97-b7c4-11d44a5419d8" playOrder="1">
+      <navLabel>
+        <text>BAŞLANGIÇ</text>
+      </navLabel>
+      <content src="DarthVader_split_002.html"/>
+    </navPoint>
+    <navPoint id="d68c827c-e1ac-4320-9f7f-6e53fd52ab0e" playOrder="2">
+      <navLabel>
+        <text>Bölüm 1</text>
+      </navLabel>
+      <content src="DarthVader_split_003.html"/>
+    </navPoint>
+    <navPoint id="e69112d8-cc86-4e86-8289-150eb86e74e7" playOrder="3">
+      <navLabel>
+        <text>Bölüm 2</text>
+      </navLabel>
+      <content src="DarthVader_split_004.html"/>
+    </navPoint>
+    <navPoint id="3658f342-f11e-4659-afc2-52c0df9377b1" playOrder="4">
+      <navLabel>
+        <text>Bölüm 3</text>
+      </navLabel>
+      <content src="DarthVader_split_005.html"/>
+    </navPoint>
+    <navPoint id="fdb3bf3a-b737-40d5-9d98-8290b4daf48d" playOrder="5">
+      <navLabel>
+        <text>Bölüm 4</text>
+      </navLabel>
+      <content src="DarthVader_split_006.html"/>
+    </navPoint>
+    <navPoint id="bab2f4f3-c98a-41e6-b421-786e91736fc4" playOrder="6">
+      <navLabel>
+        <text>Bölüm 5</text>
+      </navLabel>
+      <content src="DarthVader_split_007.html"/>
+    </navPoint>
+    <navPoint id="58462fda-d6f7-45fd-8a8e-ccf8fc644e62" playOrder="7">
+      <navLabel>
+        <text>Ara Bölüm</text>
+      </navLabel>
+      <content src="DarthVader_split_008.html"/>
+    </navPoint>
+    <navPoint id="2fa76a80-ff92-4a1d-9ad4-b4c4e0d7ecd5" playOrder="8">
+      <navLabel>
+        <text>Bölüm 6</text>
+      </navLabel>
+      <content src="DarthVader_split_009.html"/>
+    </navPoint>
+    <navPoint id="e2176776-c7a5-4413-8514-bc5193b2d328" playOrder="9">
+      <navLabel>
+        <text>Bölüm 7</text>
+      </navLabel>
+      <content src="DarthVader_split_010.html"/>
+    </navPoint>
+    <navPoint id="6cc75827-f53a-4fc6-8635-90f7b17b3603" playOrder="10">
+      <navLabel>
+        <text>Bölüm 8</text>
+      </navLabel>
+      <content src="DarthVader_split_011.html"/>
+    </navPoint>
+    <navPoint id="f5a0a5d2-0ddf-4d4a-afd7-032b01d8bce9" playOrder="11">
+      <navLabel>
+        <text>Bölüm 9</text>
+      </navLabel>
+      <content src="DarthVader_split_012.html"/>
+    </navPoint>
+    <navPoint id="225a4b10-96ea-41dc-b47d-a98fc8b2dd2b" playOrder="12">
+      <navLabel>
+        <text>Bölüm 10</text>
+      </navLabel>
+      <content src="DarthVader_split_013.html"/>
+    </navPoint>
+    <navPoint id="33632038-9fa8-4097-a106-3732c890bf79" playOrder="13">
+      <navLabel>
+        <text>Bölüm 11</text>
+      </navLabel>
+      <content src="DarthVader_split_014.html"/>
+    </navPoint>
+    <navPoint id="e92546aa-38a2-4a1b-a130-d78d64e4dacb" playOrder="14">
+      <navLabel>
+        <text>Ara Bölüm</text>
+      </navLabel>
+      <content src="DarthVader_split_015.html"/>
+    </navPoint>
+    <navPoint id="316de483-79cd-453c-bd8f-ecd890b01e58" playOrder="15">
+      <navLabel>
+        <text>Bölüm 12</text>
+      </navLabel>
+      <content src="DarthVader_split_016.html"/>
+    </navPoint>
+    <navPoint id="21429e2a-43a8-4863-949a-b132ade62e48" playOrder="16">
+      <navLabel>
+        <text>Bölüm 13</text>
+      </navLabel>
+      <content src="DarthVader_split_017.html"/>
+    </navPoint>
+    <navPoint id="fc93ee71-7cc7-4451-88f1-24b1a11dc4c7" playOrder="17">
+      <navLabel>
+        <text>Bölüm 14</text>
+      </navLabel>
+      <content src="DarthVader_split_018.html"/>
+    </navPoint>
+    <navPoint id="846d969c-9625-47bc-8089-1814f8ab9938" playOrder="18">
+      <navLabel>
+        <text>Bölüm 15</text>
+      </navLabel>
+      <content src="DarthVader_split_019.html"/>
+    </navPoint>
+    <navPoint id="778bbfc9-3fee-493c-93cb-872909ab725f" playOrder="19">
+      <navLabel>
+        <text>Bölüm 16</text>
+      </navLabel>
+      <content src="DarthVader_split_020.html"/>
+    </navPoint>
+    <navPoint id="8b25740b-aa0b-4e22-a76f-85fcd6da1b7f" playOrder="20">
+      <navLabel>
+        <text>Ara Bölüm</text>
+      </navLabel>
+      <content src="DarthVader_split_021.html"/>
+    </navPoint>
+    <navPoint id="e4c5722e-d75e-4f0f-9c1c-d9111752ea73" playOrder="21">
+      <navLabel>
+        <text>Bölüm 17</text>
+      </navLabel>
+      <content src="DarthVader_split_022.html"/>
+    </navPoint>
+    <navPoint id="bd4597d9-ae1f-42dd-9516-b3a62665d7c9" playOrder="22">
+      <navLabel>
+        <text>Bölüm 18</text>
+      </navLabel>
+      <content src="DarthVader_split_023.html"/>
+    </navPoint>
+    <navPoint id="d89f3301-cc15-4076-b17d-5d73dc50007d" playOrder="23">
+      <navLabel>
+        <text>Bölüm 19</text>
+      </navLabel>
+      <content src="DarthVader_split_024.html"/>
+    </navPoint>
+    <navPoint id="1d32410f-1809-4e6e-8cc5-45ad16c6dc9c" playOrder="24">
+      <navLabel>
+        <text>Bölüm 20</text>
+      </navLabel>
+      <content src="DarthVader_split_025.html"/>
+    </navPoint>
+    <navPoint id="459155ed-bfc9-47f8-88a5-c17d760bb1d8" playOrder="25">
+      <navLabel>
+        <text>Ara Bölüm</text>
+      </navLabel>
+      <content src="DarthVader_split_026.html"/>
+    </navPoint>
+    <navPoint id="c21201d1-d8cf-4aed-8936-93e84e0b3e45" playOrder="26">
+      <navLabel>
+        <text>Bölüm 21</text>
+      </navLabel>
+      <content src="DarthVader_split_027.html"/>
+    </navPoint>
+    <navPoint id="14711374-dff4-4b5d-8714-6f1268d20d46" playOrder="27">
+      <navLabel>
+        <text>Bölüm 22</text>
+      </navLabel>
+      <content src="DarthVader_split_028.html"/>
+    </navPoint>
+    <navPoint id="c0801276-3aa2-4d9a-ab8b-b517c2094b66" playOrder="28">
+      <navLabel>
+        <text>Ara Bölüm</text>
+      </navLabel>
+      <content src="DarthVader_split_029.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

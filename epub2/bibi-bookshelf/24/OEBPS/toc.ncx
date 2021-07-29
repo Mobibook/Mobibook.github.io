@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{2F1C0799-55D4-41AC-9DA4-43575776C7D2}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Görülmeyen Adam</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/giris.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Bir</text>
+      </navLabel>
+      <content src="Text/P-001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İki</text>
+      </navLabel>
+      <content src="Text/P-002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Üç</text>
+      </navLabel>
+      <content src="Text/P-003.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Dört</text>
+      </navLabel>
+      <content src="Text/P-004.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Beş</text>
+      </navLabel>
+      <content src="Text/P-005.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Altı</text>
+      </navLabel>
+      <content src="Text/P-006.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Yedi</text>
+      </navLabel>
+      <content src="Text/P-007.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Sekiz</text>
+      </navLabel>
+      <content src="Text/P-008.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Dokuz</text>
+      </navLabel>
+      <content src="Text/P-009.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>On</text>
+      </navLabel>
+      <content src="Text/P-010.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>On Bir</text>
+      </navLabel>
+      <content src="Text/P-011.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>On İki</text>
+      </navLabel>
+      <content src="Text/P-012.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>On Üç</text>
+      </navLabel>
+      <content src="Text/P-013.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>On Dört</text>
+      </navLabel>
+      <content src="Text/P-014.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>On Beş</text>
+      </navLabel>
+      <content src="Text/P-015.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>On Altı</text>
+      </navLabel>
+      <content src="Text/P-016.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>On Yedi</text>
+      </navLabel>
+      <content src="Text/P-017.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>On Sekiz</text>
+      </navLabel>
+      <content src="Text/P-018.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>On Dokuz</text>
+      </navLabel>
+      <content src="Text/P-019.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Yirmi</text>
+      </navLabel>
+      <content src="Text/P-020.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Yirmi Bir</text>
+      </navLabel>
+      <content src="Text/P-021.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Yirmi İki</text>
+      </navLabel>
+      <content src="Text/P-022.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Yirmi Üç</text>
+      </navLabel>
+      <content src="Text/463.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Yirmi Dört</text>
+      </navLabel>
+      <content src="Text/P-024.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Yirmi Beş</text>
+      </navLabel>
+      <content src="Text/P-025.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Son Deyiş</text>
+      </navLabel>
+      <content src="Text/sondeyis.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,124 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    clear: left;
+    display: block;
+    font-size: 1.29167em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    text-indent: 7.52126px;
+    padding: 0;
+    border: currentColor none medium;
+    margin: 15.987401px 0 8.012598px 7.52126px
+    }
+.calibre2 {
+    font-style: normal;
+    line-height: 1.2
+    }
+.calibre3 {
+    font-weight: bold
+    }
+.calibre4 {
+    clear: left;
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.calibre5 {
+    display: list-item
+    }
+.calibre6 {
+    font-style: italic
+    }
+.Standard {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    border: currentColor none medium;
+    margin: 0
+    }
+.Standard1 {
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+    border: currentColor none medium;
+    margin: 0
+    }
+.Standard2 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    border: currentColor none medium;
+    margin: 0
+    }
+.Standard3 {
+    display: block;
+    text-indent: 1.5em;
+    padding: 0;
+    border: currentColor none medium;
+    margin: 0
+    }
+.Standard4 {
+    display: block;
+    text-align: center;
+    padding: 0;
+    border: currentColor none medium;
+    margin: 0
+    }
+.Standard5 {
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    border: currentColor none medium;
+    margin: 0
+    }
+.Standard6 {
+    display: block;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 1.5em;
+    padding: 0;
+    border: currentColor none medium
+    }
+.Standard7 {
+    display: block;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 7.52126px;
+    padding: 0;
+    border: currentColor none medium
+    }
+.Standard8 {
+    display: block;
+    font-style: italic;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 1.5em;
+    padding: 0;
+    border: currentColor none medium
+    }
+.pcalibre:link {
+    color: #000080;
+    text-decoration: underline
+    }

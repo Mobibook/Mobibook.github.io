@@ -1,0 +1,5 @@
+h1.name{font-size:300%!important;font-variant:normal!important}
+h1.title{font-size:250%!important}
+span.drop{font-size:500%!important;margin:.1em .1em -.2em 0 !important}
+span.afterA,span.afterL{margin-left:-1.5em!important}
+p.initial + p{clear:none!important}

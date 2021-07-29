@@ -1,0 +1,20 @@
+@page cover{size:600px 800px;margin:0 -100px}
+@page normal:first{margin:1mm;@top-leftborder-width:0;margin:0;content:normal}
+@page title{margin:1mm;@top-leftborder-width:0;margin:0;content:normal}
+body{page:normal;string-set:booktitle "The Prince and the Pauper";prince-text-replace:" – " — "\A– " — " –\A" —}
+body.cover{page:cover}
+div.title,div.edition{page:title;hyphens:none}
+div.edition{position:fixed;left:0;bottom:0}
+p.logo{position:fixed;right:0;bottom:0;width:20%}
+a{text-decoration:none}
+div.toc a{string-set:chapterpage target-counter(attr(href),page)}
+div.toc br::before{content:leader('. ') string(chapterpage)}
+div.header{string-set:chaptertitle content()}
+h1.name{prince-bookmark-level:none;string-set:chapternum content() ": "}
+h1{prince-page-group:start;prince-bookmark-level:1;prince-bookmark-label:string(chapternum) content();font-weight:400!important}
+h2{prince-bookmark-level:none}
+div.newpage{prince-page-group:start}
+span.drop{font-weight:400!important}
+div.poetry p{padding-left:50%!important;text-indent:-50%!important}
+div.illustration{float:prince-top-if-necessary}
+div.nofloat{float:none}

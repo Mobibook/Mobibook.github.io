@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="030ea8fd-03d3-4a76-bd2f-68deef13dd68" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Star Wars ObiWan Kenobi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="e8c65943-65fd-4e61-b516-86c173265d73" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="obiwan_split_002.html"/>
+    </navPoint>
+    <navPoint id="f469490b-8259-4ed5-af64-a34ca80ba60e" playOrder="2">
+      <navLabel>
+        <text>BÖLÜM BİR</text>
+      </navLabel>
+      <content src="obiwan_split_003.html"/>
+    </navPoint>
+    <navPoint id="6bb5980b-afcd-4c6a-a5f7-0445f2578ebb" playOrder="3">
+      <navLabel>
+        <text>ARA SÖZ</text>
+      </navLabel>
+      <content src="obiwan_split_004.html"/>
+    </navPoint>
+    <navPoint id="55450dae-395f-4194-b304-ca26dfa8c276" playOrder="4">
+      <navLabel>
+        <text>BÖLÜM İKİ</text>
+      </navLabel>
+      <content src="obiwan_split_005.html"/>
+    </navPoint>
+    <navPoint id="7bb48dab-d23b-4b27-b6b5-8dd4a1873e62" playOrder="5">
+      <navLabel>
+        <text>BÖLÜM ÜÇ</text>
+      </navLabel>
+      <content src="obiwan_split_006.html"/>
+    </navPoint>
+    <navPoint id="e9509c18-bbcc-4cb8-8340-d1d84883f0c9" playOrder="6">
+      <navLabel>
+        <text>BÖLÜM DÖRT</text>
+      </navLabel>
+      <content src="obiwan_split_007.html"/>
+    </navPoint>
+    <navPoint id="81227a3c-1d93-45fa-9b49-7dde2c15f0cb" playOrder="7">
+      <navLabel>
+        <text>ARA SÖZ</text>
+      </navLabel>
+      <content src="obiwan_split_008.html"/>
+    </navPoint>
+    <navPoint id="c4662a2f-bdde-409e-998b-2d1d4aa85a77" playOrder="8">
+      <navLabel>
+        <text>BÖLÜM BEŞ</text>
+      </navLabel>
+      <content src="obiwan_split_009.html"/>
+    </navPoint>
+    <navPoint id="c124da70-0958-4e75-8259-5e335c49bed9" playOrder="9">
+      <navLabel>
+        <text>ARA SÖZ</text>
+      </navLabel>
+      <content src="obiwan_split_010.html"/>
+    </navPoint>
+    <navPoint id="968852fd-27ec-44bc-ae70-491da3008582" playOrder="10">
+      <navLabel>
+        <text>BÖLÜM ALTI</text>
+      </navLabel>
+      <content src="obiwan_split_011.html"/>
+    </navPoint>
+    <navPoint id="0fe61c9d-fc47-4ed9-a2a5-35ced600cc31" playOrder="11">
+      <navLabel>
+        <text>BÖLÜM YEDİ</text>
+      </navLabel>
+      <content src="obiwan_split_012.html"/>
+    </navPoint>
+    <navPoint id="4e4212e5-83c4-4675-a259-ef77f75ec56f" playOrder="12">
+      <navLabel>
+        <text>BÖLÜM SEKİZ</text>
+      </navLabel>
+      <content src="obiwan_split_013.html"/>
+    </navPoint>
+    <navPoint id="cbdf876b-859e-4669-a3f6-2fc86a4367ab" playOrder="13">
+      <navLabel>
+        <text>BÖLÜM DOKUZ</text>
+      </navLabel>
+      <content src="obiwan_split_014.html"/>
+    </navPoint>
+    <navPoint id="be6ee06b-9742-45c8-a58e-cd1a0bb5339a" playOrder="14">
+      <navLabel>
+        <text>BÖLÜM ON</text>
+      </navLabel>
+      <content src="obiwan_split_015.html"/>
+    </navPoint>
+    <navPoint id="03fe24b3-a55a-4678-b648-27ca00b52653" playOrder="15">
+      <navLabel>
+        <text>BÖLÜM ON BİR</text>
+      </navLabel>
+      <content src="obiwan_split_016.html"/>
+    </navPoint>
+    <navPoint id="0473911d-9379-4ac2-a996-c1052ab93a38" playOrder="16">
+      <navLabel>
+        <text>ARA SÖZ</text>
+      </navLabel>
+      <content src="obiwan_split_017.html"/>
+    </navPoint>
+    <navPoint id="ae95d4c2-47f8-4872-9198-a2800b44bf19" playOrder="17">
+      <navLabel>
+        <text>BÖLÜM ON İKİ</text>
+      </navLabel>
+      <content src="obiwan_split_018.html"/>
+    </navPoint>
+    <navPoint id="6605fc5a-b235-4634-90f7-7cb0f7623979" playOrder="18">
+      <navLabel>
+        <text>ARA SÖZ</text>
+      </navLabel>
+      <content src="obiwan_split_019.html"/>
+    </navPoint>
+    <navPoint id="d857ad0e-9673-46fe-9f63-d170d4914371" playOrder="19">
+      <navLabel>
+        <text>BÖLÜM ON ÜÇ</text>
+      </navLabel>
+      <content src="obiwan_split_020.html"/>
+    </navPoint>
+    <navPoint id="ea5fbbf0-95dd-4e0f-a897-21caa1728b15" playOrder="20">
+      <navLabel>
+        <text>BÖLÜM ON DÖRT</text>
+      </navLabel>
+      <content src="obiwan_split_021.html"/>
+    </navPoint>
+    <navPoint id="dd87b8d8-b974-4990-b333-63d6955dc1aa" playOrder="21">
+      <navLabel>
+        <text>SON SÖZ</text>
+      </navLabel>
+      <content src="obiwan_split_022.html"/>
+    </navPoint>
+    <navPoint id="fae20018-18d5-4bbf-8813-287cd042b657" playOrder="22">
+      <navLabel>
+        <text>YAZAR HAKKINDA</text>
+      </navLabel>
+      <content src="obiwan_split_023.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

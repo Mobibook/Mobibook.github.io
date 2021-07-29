@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kuyu</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="eb698d6a-d7c4-477a-9899-ef2ae1fd5f1d" playOrder="1">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="Text/kuyu_split_003.html"/>
+    </navPoint>
+    <navPoint id="d06b1c51-b77c-4bbb-9f8f-df5db0e30175" playOrder="2">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="Text/kuyu_split_004.html"/>
+    </navPoint>
+    <navPoint id="e22ce5e1-1d67-4e3f-9250-6491f291183e" playOrder="3">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="Text/kuyu_split_005.html"/>
+    </navPoint>
+    <navPoint id="b4166184-1834-4c53-8ce2-4c2461c08f7a" playOrder="4">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="Text/kuyu_split_006.html"/>
+    </navPoint>
+    <navPoint id="ef048379-6e7a-486f-99b8-af5c7b45b630" playOrder="5">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="Text/kuyu_split_007.html"/>
+    </navPoint>
+    <navPoint id="f836732c-4dec-44bb-abb4-645ab9d5165c" playOrder="6">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="Text/kuyu_split_008.html"/>
+    </navPoint>
+    <navPoint id="530dbf38-19ea-439c-8932-c378b657ea0a" playOrder="7">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="Text/kuyu_split_009.html"/>
+    </navPoint>
+    <navPoint id="0f777966-b0e5-40cc-aa5f-1b581f4ed8f6" playOrder="8">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="Text/kuyu_split_010.html"/>
+    </navPoint>
+    <navPoint id="b92f44d5-4b42-497d-92c3-565a45fa3782" playOrder="9">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="Text/kuyu_split_011.html"/>
+    </navPoint>
+    <navPoint id="fd18ba90-cd59-4749-b2bd-84cb90fae8b7" playOrder="10">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="Text/kuyu_split_012.html"/>
+    </navPoint>
+    <navPoint id="04b02bc5-48e1-4431-b6e8-40980e1d0518" playOrder="11">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="Text/kuyu_split_013.html"/>
+    </navPoint>
+    <navPoint id="37a3ed14-0e5e-4c6b-abf9-a400cf3b65b9" playOrder="12">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="Text/kuyu_split_014.html"/>
+    </navPoint>
+    <navPoint id="de9e9d93-c654-4a85-9800-ce6f7002f76c" playOrder="13">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="Text/kuyu_split_015.html"/>
+    </navPoint>
+    <navPoint id="1fa777d4-00b1-4595-8e95-c081be5c79c9" playOrder="14">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="Text/kuyu_split_016.html"/>
+    </navPoint>
+    <navPoint id="d5b73ee5-020e-443d-acc3-d2cb1993f830" playOrder="15">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="Text/kuyu_split_017.html"/>
+    </navPoint>
+    <navPoint id="24f51d25-560e-4dda-98e4-34f9d9c84640" playOrder="16">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="Text/kuyu_split_018.html"/>
+    </navPoint>
+    <navPoint id="27bffbfe-7aac-41a8-9035-33e49ddd6a4e" playOrder="17">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="Text/kuyu_split_019.html"/>
+    </navPoint>
+    <navPoint id="9bd1a867-cfe0-4569-a749-de28243b9631" playOrder="18">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="Text/kuyu_split_020.html"/>
+    </navPoint>
+    <navPoint id="f461a4c1-a513-417f-a72f-84d1cf0316c1" playOrder="19">
+      <navLabel>
+        <text>19</text>
+      </navLabel>
+      <content src="Text/kuyu_split_021.html"/>
+    </navPoint>
+    <navPoint id="59514333-9fe8-4e4f-98ec-69d01a96e718" playOrder="20">
+      <navLabel>
+        <text>20</text>
+      </navLabel>
+      <content src="Text/kuyu_split_022.html"/>
+    </navPoint>
+    <navPoint id="d7fe27d3-457f-4ccb-8b8f-2aa196706064" playOrder="21">
+      <navLabel>
+        <text>21</text>
+      </navLabel>
+      <content src="Text/kuyu_split_023.html"/>
+    </navPoint>
+    <navPoint id="920601f2-22e7-4352-861f-b35ed47f52dd" playOrder="22">
+      <navLabel>
+        <text>22</text>
+      </navLabel>
+      <content src="Text/kuyu_split_024.html"/>
+    </navPoint>
+    <navPoint id="03438f5e-2063-47a9-9433-9311e1c3b811" playOrder="23">
+      <navLabel>
+        <text>23</text>
+      </navLabel>
+      <content src="Text/kuyu_split_025.html"/>
+    </navPoint>
+    <navPoint id="c752c816-e75e-4c75-83f3-463b945385cf" playOrder="24">
+      <navLabel>
+        <text>24</text>
+      </navLabel>
+      <content src="Text/kuyu_split_026.html"/>
+    </navPoint>
+    <navPoint id="f54872e8-4efb-4dc6-afc7-93429bce307d" playOrder="25">
+      <navLabel>
+        <text>25</text>
+      </navLabel>
+      <content src="Text/kuyu_split_027.html"/>
+    </navPoint>
+    <navPoint id="1f82659a-ac03-45ab-9fd2-d3cf9146f581" playOrder="26">
+      <navLabel>
+        <text>26</text>
+      </navLabel>
+      <content src="Text/kuyu_split_028.html"/>
+    </navPoint>
+    <navPoint id="c531748e-b913-4b6e-b0e7-7acd1e878684" playOrder="27">
+      <navLabel>
+        <text>27</text>
+      </navLabel>
+      <content src="Text/kuyu_split_029.html"/>
+    </navPoint>
+    <navPoint id="7e398921-d203-43ca-91c9-253ab0d3ab00" playOrder="28">
+      <navLabel>
+        <text>28</text>
+      </navLabel>
+      <content src="Text/kuyu_split_030.html"/>
+    </navPoint>
+    <navPoint id="017e92b6-afdf-45be-a306-5dce91cdb986" playOrder="29">
+      <navLabel>
+        <text>29</text>
+      </navLabel>
+      <content src="Text/kuyu_split_031.html"/>
+    </navPoint>
+    <navPoint id="75473694-233d-45f8-b77d-4e3fbac6fd69" playOrder="30">
+      <navLabel>
+        <text>30</text>
+      </navLabel>
+      <content src="Text/kuyu_split_032.html"/>
+    </navPoint>
+    <navPoint id="b60d6e35-c432-482a-a139-52575405ceed" playOrder="31">
+      <navLabel>
+        <text>31</text>
+      </navLabel>
+      <content src="Text/kuyu_split_033.html"/>
+    </navPoint>
+    <navPoint id="5be786a5-cea6-4abe-bd83-f377064e6e22" playOrder="32">
+      <navLabel>
+        <text>32</text>
+      </navLabel>
+      <content src="Text/kuyu_split_034.html"/>
+    </navPoint>
+    <navPoint id="0ce69fab-3867-4260-9d20-a4932b603f07" playOrder="33">
+      <navLabel>
+        <text>33</text>
+      </navLabel>
+      <content src="Text/kuyu_split_035.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

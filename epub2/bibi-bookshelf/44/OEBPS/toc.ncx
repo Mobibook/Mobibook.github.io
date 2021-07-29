@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="ed298aee-0744-4b28-b773-a302d40c1b3c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.28.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Gumus</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Ocak 1999 : ROKET YAZI</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Şubat 1999 : YLLA</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Ağustos 1999 : YAZ GECESİ</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Ağustos 1999 : DÜNYALI ADAM</text>
+      </navLabel>
+      <content src="Text/chapter4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Mart 2000 : YURTTAŞ</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Nisan 2000 : ÜÇÜNCÜ YOLCULUK</text>
+      </navLabel>
+      <content src="Text/chapter6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Haziran 2001: VE AY HÂLÂ PARLAKTI</text>
+      </navLabel>
+      <content src="Text/chapter7.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Ağustos 2001: GÖÇMENLER</text>
+      </navLabel>
+      <content src="Text/chapter8.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Aralık 2001: YEŞİL SABAH</text>
+      </navLabel>
+      <content src="Text/chapter9.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Şubat 2002: ÇEKİRGELER</text>
+      </navLabel>
+      <content src="Text/chapter10.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Ağustos 2002: GECE EĞLENCESİ</text>
+      </navLabel>
+      <content src="Text/chapter11.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Ekim 2002: KIYI</text>
+      </navLabel>
+      <content src="Text/chapter12.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Şubat 2003: ZAMAN</text>
+      </navLabel>
+      <content src="Text/chapter13.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Nisan 2003: ÇALGICILAR</text>
+      </navLabel>
+      <content src="Text/chapter14.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>1 Haziran 2003: HAVANIN ORTASINDAKİ YOL</text>
+      </navLabel>
+      <content src="Text/chapter15.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>2004-05: AD KOYMA</text>
+      </navLabel>
+      <content src="Text/chapter16.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Nisan 2005: USHER II</text>
+      </navLabel>
+      <content src="Text/chapter17.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>AĞUSTOS 2005: YAŞLILAR</text>
+      </navLabel>
+      <content src="Text/chapter18.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>EYLÜL 2005: MARSLI</text>
+      </navLabel>
+      <content src="Text/chapter19.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>KASIM 2005: VALİZCİ</text>
+      </navLabel>
+      <content src="Text/chapter20.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>KASIM 2005: ÖLÜ MEVSİM</text>
+      </navLabel>
+      <content src="Text/chapter21.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>KASIM 2005: SEYİRCİLER</text>
+      </navLabel>
+      <content src="Text/chapter22.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>ARALIK 2005: ISSIZ KASABALAR</text>
+      </navLabel>
+      <content src="Text/chapter23.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>NİSAN 2026: UZUN YILLAR</text>
+      </navLabel>
+      <content src="Text/chapter24.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>AĞUSTOS 2026: İNCE İNCE YAĞMURLAR YAĞACAK</text>
+      </navLabel>
+      <content src="Text/chapter25.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>EKİM 2026: BİR MİLYON YILLIK PİKNİK</text>
+      </navLabel>
+      <content src="Text/chapter26.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

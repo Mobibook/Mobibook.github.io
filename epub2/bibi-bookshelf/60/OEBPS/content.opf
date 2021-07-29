@@ -1,0 +1,60 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Roussel, Raymond">Raymond Roussel</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:f255c846-5617-4592-97ee-af018e9f1f0e</dc:identifier>
+    <dc:date>2010-10-25T21:00:00+00:00</dc:date>
+    <dc:description>Raymond Roussel (1877-1933) çağdaş Fransız yazınının büyük öncüleri arasında sayılır. Gerçeküstücüler, yazının ve gerçeğin sınırlarında bir iç deneyimin ürünü olan şiirlerini ve düzyazılarını göklere çıkarırlar. Breton onu "Lautreamont'la birlikte tüm çağların en büyük büyücüsü" olarak niteler; Dali, bir yangından tek bir kitabı kurtarması gerekse, bu kitabın onun tek romanı "Locus Solus" olacağını söyler, Leiris de ülküsel bir yolcu olarak görür onu. Ama Roussel hayranları gerçeküstücülerle sınırlı değildir. Yüzyılımızın büyük düşünürlerinden Michel Foucault onun üzerine koca bir kitap yazar. "Yeni Roman"ın iki önemli öncüsü, Alain Robbe-Grillet ve Michel Butor onu büyük bir yazı ve kurgu ustası sayarlar, çünkü, "Locus Solus"un da tanıklık ettiği gibi, Raymond Roussel imgelemin sınırlarını öncelikle ayrıntılarda zorlar.</dc:description>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="13.7.14" name="Nakkal"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Locus Solus"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Raymond Roussel&quot;: &quot;&quot;}"/>
+  <dc:title>Locus Solus</dc:title>
+<dc:subject>Fransız Edebiyatı</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">aa53f4a6-c5d3-4fe2-8f0b-4b52484631ba</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753633406</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yayinevibilgi.xhtml" id="yayinevibilgi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.xhtml" id="ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.xhtml" id="giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n01.xhtml" id="n01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n02.xhtml" id="n02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n03.xhtml" id="n03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n04.xhtml" id="n04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n05.xhtml" id="n05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n06.xhtml" id="n06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n07.xhtml" id="n07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/still.css" id="still.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/notalar.jpeg" id="notalar.jpeg" media-type="image/jpeg"/>
+    <item href="Images/notalar2.png" id="notalar2.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="yayinevibilgi.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="n01.xhtml"/>
+    <itemref idref="n02.xhtml"/>
+    <itemref idref="n03.xhtml"/>
+    <itemref idref="n04.xhtml"/>
+    <itemref idref="n05.xhtml"/>
+    <itemref idref="n06.xhtml"/>
+    <itemref idref="n07.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
