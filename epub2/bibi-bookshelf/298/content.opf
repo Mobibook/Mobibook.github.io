@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta name="calibre:title_sort" content="Yeşilçam Dedikleri Türkiye"/>
+    <dc:title>Yeşilçam Dedikleri Türkiye</dc:title>
+    <dc:date>2018-06-30T21:00:00+00:00</dc:date>
+    <dc:description>&lt;font face="Segoe UI, sans-serif" size="2"&gt;En güzel şiir de birlikte olmanın şiiri. Onu yaz yazacaksan! Sevişmek de dayanışma değil mi? Pervin’le dün gece bölüştüklerimizin sürüp gitmesi, bütün bu görünenler. GREV ÇADIRINDA’nda onu anlatmak istiyorum. Nasıl? Bulamadım daha; kolay mı?.. Yalnız onu da anlatmak istemiyorum. O çadıra kapatılmaya başkaldırmak gerek. Sevişmek varsa niye katı sınırlar çizilsin? Birkaç çirkinin yol kesmesiyle yitecek mutluluk, yalanın bir parçası demek... Hem de en kötü parçası... Faizi bile vardır!.. Koy çelik kasaya, sakla!.. İnsana, yakışan verilmeli. Bir de, şunların anlamayacağı dizeler söyleme sakın. Benim anladığımı onlar niye anlamasın? Öyle değil biliyorsun... Güçlük de orada... Bakma sen bu şamataya, onların her şeyi anlayacakları gün epeyi ilerlerde daha. Anlatamayınca böyle söylersiniz. Öyle iyi anlar ki onlar... Bunca toplanmasını bilecekler de doğruları söyleyeceksin, anlamayacaklar!.. Gülüşüp konuşmalarına bak şunların, birbirlerine yemek uzatışlarına... Ellerini çektiler, kaldırım taşına döndü şu duvarların ötesindeki makineler... Kös kös bekliyor hepsi... Salt onların doğruları yeterli olsa.&lt;/font&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:creator opf:file-as="Türkali, Vedat" opf:role="aut">Vedat Türkali</dc:creator>
+    <meta name="calibre:timestamp" content="2018-07-01T19:02:27.180000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <dc:publisher>Cem Yayınevi</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">67ccbf10-18aa-430e-8da5-2405ee22dd27</dc:identifier>
+    <dc:identifier opf:scheme="calibre">67ccbf10-18aa-430e-8da5-2405ee22dd27</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/main-1.png" id="id1" media-type="image/png"/>
+    <item href="OEBPS/Text/anametin1.xhtml" id="anametin1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin10.xhtml" id="anametin10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin11.xhtml" id="anametin11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin12.xhtml" id="anametin12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin13.xhtml" id="anametin13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin14.xhtml" id="anametin14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin15.xhtml" id="anametin15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin16.xhtml" id="anametin16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin17.xhtml" id="anametin17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin18.xhtml" id="anametin18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin19.xhtml" id="anametin19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin2.xhtml" id="anametin2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin20.xhtml" id="anametin20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin21.xhtml" id="anametin21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin22.xhtml" id="anametin22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin23.xhtml" id="anametin23.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin24.xhtml" id="anametin24.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin25.xhtml" id="anametin25.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin26.xhtml" id="anametin26.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin27.xhtml" id="anametin27.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin28.xhtml" id="anametin28.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin29.xhtml" id="anametin29.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin3.xhtml" id="anametin3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin30.xhtml" id="anametin30.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin4.xhtml" id="anametin4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin5.xhtml" id="anametin5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin6.xhtml" id="anametin6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin7.xhtml" id="anametin7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin8.xhtml" id="anametin8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/anametin9.xhtml" id="anametin9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/arkakapak.xhtml" id="arkakapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/ickapak2.xhtml" id="ickapak2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/ithaf.xhtml" id="ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="ickapak2.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="anametin1.xhtml"/>
+    <itemref idref="anametin2.xhtml"/>
+    <itemref idref="anametin3.xhtml"/>
+    <itemref idref="anametin4.xhtml"/>
+    <itemref idref="anametin5.xhtml"/>
+    <itemref idref="anametin6.xhtml"/>
+    <itemref idref="anametin7.xhtml"/>
+    <itemref idref="anametin8.xhtml"/>
+    <itemref idref="anametin9.xhtml"/>
+    <itemref idref="anametin10.xhtml"/>
+    <itemref idref="anametin11.xhtml"/>
+    <itemref idref="anametin12.xhtml"/>
+    <itemref idref="anametin13.xhtml"/>
+    <itemref idref="anametin14.xhtml"/>
+    <itemref idref="anametin15.xhtml"/>
+    <itemref idref="anametin16.xhtml"/>
+    <itemref idref="anametin17.xhtml"/>
+    <itemref idref="anametin18.xhtml"/>
+    <itemref idref="anametin19.xhtml"/>
+    <itemref idref="anametin20.xhtml"/>
+    <itemref idref="anametin21.xhtml"/>
+    <itemref idref="anametin22.xhtml"/>
+    <itemref idref="anametin23.xhtml"/>
+    <itemref idref="anametin24.xhtml"/>
+    <itemref idref="anametin25.xhtml"/>
+    <itemref idref="anametin26.xhtml"/>
+    <itemref idref="anametin27.xhtml"/>
+    <itemref idref="anametin28.xhtml"/>
+    <itemref idref="anametin29.xhtml"/>
+    <itemref idref="anametin30.xhtml"/>
+    <itemref idref="arkakapak.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

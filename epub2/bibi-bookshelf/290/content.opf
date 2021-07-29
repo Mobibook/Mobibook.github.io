@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Zileli, Ümit">Ümit Zileli</dc:creator>
+<dc:publisher>Kaynak Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 14px;"&gt;Cumhuriyet gazetesi yazarı Ümit Zileli askerliğini 1985-86 yıllarında Tunceli'de Jandarma Komando Asteğmen olarak yaptı.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 14px;"&gt;Tanık olduğu acıları, öfkeleri, hüzünleri daha Tunceli'deyken kaleme almaya başladı. Bir belge niteliğindeki bu kitap, üzerinden uzun yıllar geçse de unutulmayacak gözlemleri ve tanıklıkları içeriyor.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 14px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 14px;"&gt;Vur Emri, gelecek için tarihe not düşüyor…Ümit Zileli'nin yürekten dileği ise şu: 'Topun, tüfeğin ve hatta askerliğin olmadığı, bir baştan diğerine sevda türkülerinin söylendiği bir dünya…'&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 14px; "&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:date>2008-06-30T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">614592b5-b4b4-4f99-a8c6-c400d14886d2</dc:identifier>
+    <meta name="calibre:title_sort" content="Vur Emri"/>
+    <meta name="calibre:timestamp" content="2014-07-23T14:52:04+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ümit Zileli&quot;: &quot;&quot;}"/>
+  <dc:title>Vur Emri</dc:title>
+<dc:subject>Anı</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">3a0ece11-7501-499d-aa56-f30b3a27e11c</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789944150743</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.html" id="id210" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="index_split_009.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id210"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

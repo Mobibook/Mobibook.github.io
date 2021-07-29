@@ -1,0 +1,1197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="4c8d0e7c-e93f-4437-8f83-55cdbe4a8272" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Başkasının Günahına Ağlayan Adam</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="4306aade-edaa-4bef-8c9d-446dfd733553" playOrder="1">
+      <navLabel>
+        <text>Başkasının Günahına Ağlayan Adam</text>
+      </navLabel>
+      <content src="NYG0017_split_000.html"/>
+    </navPoint>
+    <navPoint id="d1a99c0f-670d-415c-b6b2-7059e3e39f87" playOrder="2">
+      <navLabel>
+        <text>Jenerik</text>
+      </navLabel>
+      <content src="NYG0017_split_001.html"/>
+    </navPoint>
+    <navPoint id="294aef77-2d8f-4ca4-8dce-165b8b3c0534" playOrder="3">
+      <navLabel>
+        <text>Vehbi Vakkasoğlu</text>
+      </navLabel>
+      <content src="NYG0017_split_002.html"/>
+    </navPoint>
+    <navPoint id="5c2b3c59-7b61-4ad0-8541-07ccabbfe4e1" playOrder="4">
+      <navLabel>
+        <text>Önsöz Yerine</text>
+      </navLabel>
+      <content src="NYG0017_split_003.html"/>
+    </navPoint>
+    <navPoint id="f7685066-852b-49d5-a55d-502f9685c137" playOrder="5">
+      <navLabel>
+        <text>Göz Yaşlarım</text>
+      </navLabel>
+      <content src="NYG0017_split_004.html"/>
+    </navPoint>
+    <navPoint id="8e71378d-5095-4173-a74c-d415de40db7f" playOrder="6">
+      <navLabel>
+        <text>Başkasının Günahına Ağlayan Adam</text>
+      </navLabel>
+      <content src="NYG0017_split_005.html"/>
+    </navPoint>
+    <navPoint id="a9f2f423-5fce-441d-9761-e1e3f95faa57" playOrder="7">
+      <navLabel>
+        <text>Bütün Hayatı İmana Hizmetti</text>
+      </navLabel>
+      <content src="NYG0017_split_006.html"/>
+    </navPoint>
+    <navPoint id="e551f18a-ea2a-4334-b86a-5d19db6c3a4a" playOrder="8">
+      <navLabel>
+        <text>Şefkati Hiç Durdurmadı Onu</text>
+      </navLabel>
+      <content src="NYG0017_split_007.html"/>
+    </navPoint>
+    <navPoint id="f413923f-39f9-4f73-abd9-0987d6da4d79" playOrder="9">
+      <navLabel>
+        <text>Eseriyle Özdeşleşti</text>
+      </navLabel>
+      <content src="NYG0017_split_008.html"/>
+    </navPoint>
+    <navPoint id="5cec01b5-e3ee-4bd9-9a72-483b1b1f8207" playOrder="10">
+      <navLabel>
+        <text>Allah İçin Olmak</text>
+      </navLabel>
+      <content src="NYG0017_split_009.html"/>
+    </navPoint>
+    <navPoint id="8af69ef1-2b5a-4a2c-bea9-28446969de8d" playOrder="11">
+      <navLabel>
+        <text>Kulluğu Sevdirdi</text>
+      </navLabel>
+      <content src="NYG0017_split_010.html"/>
+    </navPoint>
+    <navPoint id="b45414c8-8d69-4b9d-8724-74dcaa21b731" playOrder="12">
+      <navLabel>
+        <text>Aleyhinde Konuşanı da Korur</text>
+      </navLabel>
+      <content src="NYG0017_split_011.html"/>
+    </navPoint>
+    <navPoint id="2a937554-085a-48f4-8c1b-1131db93b422" playOrder="13">
+      <navLabel>
+        <text>Olumsuz Haberleri Dinlemez</text>
+      </navLabel>
+      <content src="NYG0017_split_012.html"/>
+    </navPoint>
+    <navPoint id="376565e3-5784-47cc-a737-8d55d2cae39c" playOrder="14">
+      <navLabel>
+        <text>Sokrat’a da Haksızlık Yaptırmaz</text>
+      </navLabel>
+      <content src="NYG0017_split_013.html"/>
+    </navPoint>
+    <navPoint id="718bee8d-7e73-419c-8322-f4afc0a0b836" playOrder="15">
+      <navLabel>
+        <text>Herkesi Kendi Konumunda Kabul Eder</text>
+      </navLabel>
+      <content src="NYG0017_split_014.html"/>
+    </navPoint>
+    <navPoint id="4bc5a53f-a496-4ac2-869f-51edb5f61249" playOrder="16">
+      <navLabel>
+        <text>Aleyhte Konuşmak Yok</text>
+      </navLabel>
+      <content src="NYG0017_split_015.html"/>
+    </navPoint>
+    <navPoint id="7310ed8d-7f7c-4165-8346-208ffb65a8e9" playOrder="17">
+      <navLabel>
+        <text>Gıybetsiz Bir Ömür</text>
+      </navLabel>
+      <content src="NYG0017_split_016.html"/>
+    </navPoint>
+    <navPoint id="e32ecb2e-54e1-4687-b0a6-fc9aae2cdbc4" playOrder="18">
+      <navLabel>
+        <text>“Menfî Haber İstemem!”</text>
+      </navLabel>
+      <content src="NYG0017_split_017.html"/>
+    </navPoint>
+    <navPoint id="ecc9ef7a-4e19-4a6b-84cb-a48e28d3800a" playOrder="19">
+      <navLabel>
+        <text>Muhabbet Sarsılmasın</text>
+      </navLabel>
+      <content src="NYG0017_split_018.html"/>
+    </navPoint>
+    <navPoint id="3e222dc1-d611-41d4-8442-e26554767a3e" playOrder="20">
+      <navLabel>
+        <text>“İthamlar, Sitemler Bana”</text>
+      </navLabel>
+      <content src="NYG0017_split_019.html"/>
+    </navPoint>
+    <navPoint id="936676ed-4b2c-436d-823c-7be02dfe03fd" playOrder="21">
+      <navLabel>
+        <text>Barıştıran Adam</text>
+      </navLabel>
+      <content src="NYG0017_split_020.html"/>
+    </navPoint>
+    <navPoint id="21fb4924-874b-4873-93dd-3555c25a113a" playOrder="22">
+      <navLabel>
+        <text>Yatıştıran Adam</text>
+      </navLabel>
+      <content src="NYG0017_split_021.html"/>
+    </navPoint>
+    <navPoint id="aed0b4bb-571c-42ac-838e-75ae16dcbbc3" playOrder="23">
+      <navLabel>
+        <text>Toptancı Değil, Perakendeci</text>
+      </navLabel>
+      <content src="NYG0017_split_022.html"/>
+    </navPoint>
+    <navPoint id="85dd5344-f6aa-425e-9557-fb0a9bbbf1fa" playOrder="24">
+      <navLabel>
+        <text>Kötü Yorum Yok</text>
+      </navLabel>
+      <content src="NYG0017_split_023.html"/>
+    </navPoint>
+    <navPoint id="53d5e1a2-c520-46d8-aeca-4e068468a576" playOrder="25">
+      <navLabel>
+        <text>Ebu Bekir (r.a.) Gönüllü İdi</text>
+      </navLabel>
+      <content src="NYG0017_split_024.html"/>
+    </navPoint>
+    <navPoint id="240ff580-e9bf-40c7-afc7-2c8b5f5cbd98" playOrder="26">
+      <navLabel>
+        <text>İman Esaslarını Ulaştırmak Niçin Önemli?</text>
+      </navLabel>
+      <content src="NYG0017_split_025.html"/>
+    </navPoint>
+    <navPoint id="dfe826a4-a5ce-4ad8-b456-ee0320f10183" playOrder="27">
+      <navLabel>
+        <text>Olumlu Konuşan Yabancılara Dua</text>
+      </navLabel>
+      <content src="NYG0017_split_026.html"/>
+    </navPoint>
+    <navPoint id="5a94dd78-1a5d-4cfb-ae18-1d5f5ea1a299" playOrder="28">
+      <navLabel>
+        <text>Hristiyanların Dindar Ruhanîleri</text>
+      </navLabel>
+      <content src="NYG0017_split_027.html"/>
+    </navPoint>
+    <navPoint id="68c590cc-11f6-45fa-8c54-f0bff9d786cd" playOrder="29">
+      <navLabel>
+        <text>Müslüman İsevîler</text>
+      </navLabel>
+      <content src="NYG0017_split_028.html"/>
+    </navPoint>
+    <navPoint id="0f0a8048-0fae-4690-a200-64d11e1f3d43" playOrder="30">
+      <navLabel>
+        <text>Liseli Kızlar</text>
+      </navLabel>
+      <content src="NYG0017_split_029.html"/>
+    </navPoint>
+    <navPoint id="18a22df6-ef08-4213-811a-d36465c587b2" playOrder="31">
+      <navLabel>
+        <text>Hâkim Hesna Hanım</text>
+      </navLabel>
+      <content src="NYG0017_split_030.html"/>
+    </navPoint>
+    <navPoint id="979be21c-b4d3-419d-9fa6-4a5e5938ad7a" playOrder="32">
+      <navLabel>
+        <text>Makam Sahiplerini Zor Durumda Bırakmazdı</text>
+      </navLabel>
+      <content src="NYG0017_split_031.html"/>
+    </navPoint>
+    <navPoint id="89711af4-fa0d-4f40-a553-0dbbdccee2ee" playOrder="33">
+      <navLabel>
+        <text>Şefkatin Doğrusu</text>
+      </navLabel>
+      <content src="NYG0017_split_032.html"/>
+    </navPoint>
+    <navPoint id="05f95d0c-0abd-4c33-996b-76863331190b" playOrder="34">
+      <navLabel>
+        <text>Şefkat, Adam Seçmez</text>
+      </navLabel>
+      <content src="NYG0017_split_033.html"/>
+    </navPoint>
+    <navPoint id="cac47039-6e2e-46fd-984f-12250e1875b9" playOrder="35">
+      <navLabel>
+        <text>İzci Gençler</text>
+      </navLabel>
+      <content src="NYG0017_split_034.html"/>
+    </navPoint>
+    <navPoint id="1bfbb622-df2d-44df-b28f-1e043787947f" playOrder="36">
+      <navLabel>
+        <text>Subay Hanımları</text>
+      </navLabel>
+      <content src="NYG0017_split_035.html"/>
+    </navPoint>
+    <navPoint id="c76f490b-4dfc-4af4-beca-6201f2fea83a" playOrder="37">
+      <navLabel>
+        <text>Azamî Tedbirle Korunmak</text>
+      </navLabel>
+      <content src="NYG0017_split_036.html"/>
+    </navPoint>
+    <navPoint id="04e02e67-98fc-4472-bb5f-1e965b094dc1" playOrder="38">
+      <navLabel>
+        <text>Göz Hakkı</text>
+      </navLabel>
+      <content src="NYG0017_split_037.html"/>
+    </navPoint>
+    <navPoint id="7d9eaf12-1358-4971-88d7-25712f9f276f" playOrder="39">
+      <navLabel>
+        <text>Talebeye Hizmet Eden Hoca</text>
+      </navLabel>
+      <content src="NYG0017_split_038.html"/>
+    </navPoint>
+    <navPoint id="0dd49455-700d-403f-a403-f2d685f851a4" playOrder="40">
+      <navLabel>
+        <text>Kur’an Hizmetkârı</text>
+      </navLabel>
+      <content src="NYG0017_split_039.html"/>
+    </navPoint>
+    <navPoint id="d98866ed-2632-417e-bf24-d5d058ce5fea" playOrder="41">
+      <navLabel>
+        <text>Maaşın Fazlası Tekrar Millete</text>
+      </navLabel>
+      <content src="NYG0017_split_040.html"/>
+    </navPoint>
+    <navPoint id="3ddabbea-37a3-48e0-9151-0d17996942e8" playOrder="42">
+      <navLabel>
+        <text>En Pahalı Külâh</text>
+      </navLabel>
+      <content src="NYG0017_split_041.html"/>
+    </navPoint>
+    <navPoint id="40174fd3-d8e5-4eb7-862b-d00410a290e6" playOrder="43">
+      <navLabel>
+        <text>Deli mi?</text>
+      </navLabel>
+      <content src="NYG0017_split_042.html"/>
+    </navPoint>
+    <navPoint id="1f835643-c3fc-4462-a7b5-5d70210c0558" playOrder="44">
+      <navLabel>
+        <text>Rus Esaretinden Nasıl Kurtuldu?</text>
+      </navLabel>
+      <content src="NYG0017_split_043.html"/>
+    </navPoint>
+    <navPoint id="be8ac816-3b13-48e6-8705-a61e1439758c" playOrder="45">
+      <navLabel>
+        <text>Sahabe Mesleği</text>
+      </navLabel>
+      <content src="NYG0017_split_044.html"/>
+    </navPoint>
+    <navPoint id="7f706a3b-1794-484a-8c76-0d032669961f" playOrder="46">
+      <navLabel>
+        <text>Asıl Fedakârlık</text>
+      </navLabel>
+      <content src="NYG0017_split_045.html"/>
+    </navPoint>
+    <navPoint id="8a68c1f9-66b7-4b9f-bb87-38cd9f41d64a" playOrder="47">
+      <navLabel>
+        <text>Er ve Kumandan</text>
+      </navLabel>
+      <content src="NYG0017_split_046.html"/>
+    </navPoint>
+    <navPoint id="58f2d114-fcd9-418e-b68c-c289a2181eb9" playOrder="48">
+      <navLabel>
+        <text>Ramazan Davulu</text>
+      </navLabel>
+      <content src="NYG0017_split_047.html"/>
+    </navPoint>
+    <navPoint id="2319da64-65f9-4d9d-b860-0131d213d997" playOrder="49">
+      <navLabel>
+        <text>“Şirketiz, Ortağız”</text>
+      </navLabel>
+      <content src="NYG0017_split_048.html"/>
+    </navPoint>
+    <navPoint id="ee1a0ebd-eceb-4e44-b08b-cf279b26747e" playOrder="50">
+      <navLabel>
+        <text>Sünnete Sadakat</text>
+      </navLabel>
+      <content src="NYG0017_split_049.html"/>
+    </navPoint>
+    <navPoint id="5502e8a4-9524-41ad-accd-8eb33afdcec5" playOrder="51">
+      <navLabel>
+        <text>“Herkesin İstifadesi Aynı Olmaz”</text>
+      </navLabel>
+      <content src="NYG0017_split_050.html"/>
+    </navPoint>
+    <navPoint id="cfb5813c-3bc3-4a2e-a557-907edf9869b7" playOrder="52">
+      <navLabel>
+        <text>Niçin Okumalı?</text>
+      </navLabel>
+      <content src="NYG0017_split_051.html"/>
+    </navPoint>
+    <navPoint id="2bd51c40-4613-435d-affb-af8513db1775" playOrder="53">
+      <navLabel>
+        <text>Yirmi Milletvekili</text>
+      </navLabel>
+      <content src="NYG0017_split_052.html"/>
+    </navPoint>
+    <navPoint id="a396ec02-a2db-42c4-9511-1e8466ce3343" playOrder="54">
+      <navLabel>
+        <text>İmana Doğru Bir Adım</text>
+      </navLabel>
+      <content src="NYG0017_split_053.html"/>
+    </navPoint>
+    <navPoint id="8ac3b704-2dcc-426c-a2ca-a41602d9acaa" playOrder="55">
+      <navLabel>
+        <text>“İmansızlık” Konusunda Hüküm Vermek</text>
+      </navLabel>
+      <content src="NYG0017_split_054.html"/>
+    </navPoint>
+    <navPoint id="13448412-94a1-4099-94c1-f21e100212a0" playOrder="56">
+      <navLabel>
+        <text>“Tutumlu Olmak, Kuvvettir”</text>
+      </navLabel>
+      <content src="NYG0017_split_055.html"/>
+    </navPoint>
+    <navPoint id="6e7c201b-ffc5-4db6-9067-aa31fe14382d" playOrder="57">
+      <navLabel>
+        <text>Almayı Öğrenmemiş</text>
+      </navLabel>
+      <content src="NYG0017_split_056.html"/>
+    </navPoint>
+    <navPoint id="7e9a0ed0-a6db-4837-81df-41ec8b32fb13" playOrder="58">
+      <navLabel>
+        <text>Kurtlu Kiraz Cezası</text>
+      </navLabel>
+      <content src="NYG0017_split_057.html"/>
+    </navPoint>
+    <navPoint id="586343bb-434b-4439-b54d-05d0d5a1c82c" playOrder="59">
+      <navLabel>
+        <text>İnsana Vefa</text>
+      </navLabel>
+      <content src="NYG0017_split_058.html"/>
+    </navPoint>
+    <navPoint id="6f8babda-168f-4e37-b447-65b98a1b4129" playOrder="60">
+      <navLabel>
+        <text>Hapishane Arkadaşlarına Vefa</text>
+      </navLabel>
+      <content src="NYG0017_split_059.html"/>
+    </navPoint>
+    <navPoint id="38b1fff1-9bc4-4a12-b096-eea7bfd69afb" playOrder="61">
+      <navLabel>
+        <text>Eşyaya Vefa</text>
+      </navLabel>
+      <content src="NYG0017_split_060.html"/>
+    </navPoint>
+    <navPoint id="069c095f-e873-4c01-94a9-8a6d76fdffa6" playOrder="62">
+      <navLabel>
+        <text>Termosa Acıdı</text>
+      </navLabel>
+      <content src="NYG0017_split_061.html"/>
+    </navPoint>
+    <navPoint id="5f544885-84a6-477f-b41a-122c84b8bc47" playOrder="63">
+      <navLabel>
+        <text>Kaşıktan Dost Olur mu?</text>
+      </navLabel>
+      <content src="NYG0017_split_062.html"/>
+    </navPoint>
+    <navPoint id="c882d1ee-864a-4fd4-b947-855836f91eab" playOrder="64">
+      <navLabel>
+        <text>Çöpten Kurtarılan Dost</text>
+      </navLabel>
+      <content src="NYG0017_split_063.html"/>
+    </navPoint>
+    <navPoint id="c5fbc458-ce7c-4fa2-b83d-168bcf4a2ad6" playOrder="65">
+      <navLabel>
+        <text>Üstaddan Hatıra Dişler</text>
+      </navLabel>
+      <content src="NYG0017_split_064.html"/>
+    </navPoint>
+    <navPoint id="cff5a1c4-9194-45bd-95ca-5331adf4b6ef" playOrder="66">
+      <navLabel>
+        <text>Kim, Kime, Niçin, Nasıl Söylemiş?</text>
+      </navLabel>
+      <content src="NYG0017_split_065.html"/>
+    </navPoint>
+    <navPoint id="76b4910c-2493-4082-b0c6-237c4f9fe71d" playOrder="67">
+      <navLabel>
+        <text>Bediüzzaman’ın Sakalı</text>
+      </navLabel>
+      <content src="NYG0017_split_066.html"/>
+    </navPoint>
+    <navPoint id="f81f5ed6-9a06-4ffc-b98e-9d176d81a635" playOrder="68">
+      <navLabel>
+        <text>Müjdeler Olsun İffetlilere!</text>
+      </navLabel>
+      <content src="NYG0017_split_067.html"/>
+    </navPoint>
+    <navPoint id="1b036039-81c0-480c-aba7-14bee6e5b322" playOrder="69">
+      <navLabel>
+        <text>Zulüm Gören Hristiyanlar</text>
+      </navLabel>
+      <content src="NYG0017_split_068.html"/>
+    </navPoint>
+    <navPoint id="b22e4c10-0a75-46b5-b542-2cf8ce0409c6" playOrder="70">
+      <navLabel>
+        <text>Ermeni Çocuklarını Kurtardı</text>
+      </navLabel>
+      <content src="NYG0017_split_069.html"/>
+    </navPoint>
+    <navPoint id="61d065e0-c740-419a-b0f9-659e4a94fa16" playOrder="71">
+      <navLabel>
+        <text>Ermeni İneği</text>
+      </navLabel>
+      <content src="NYG0017_split_070.html"/>
+    </navPoint>
+    <navPoint id="238500f5-0905-447b-a917-a45fb7b4545e" playOrder="72">
+      <navLabel>
+        <text>“Fırıncılık Yapma!”</text>
+      </navLabel>
+      <content src="NYG0017_split_071.html"/>
+    </navPoint>
+    <navPoint id="e97933f3-3593-4438-bc64-b605de1847a6" playOrder="73">
+      <navLabel>
+        <text>Yeşile Merhamet</text>
+      </navLabel>
+      <content src="NYG0017_split_072.html"/>
+    </navPoint>
+    <navPoint id="bf8e5460-9a84-4b3a-958a-b218bc8a10a3" playOrder="74">
+      <navLabel>
+        <text>Yabanî Elma</text>
+      </navLabel>
+      <content src="NYG0017_split_073.html"/>
+    </navPoint>
+    <navPoint id="e91a1517-7614-4911-a587-7b10e1d9cfe4" playOrder="75">
+      <navLabel>
+        <text>Hayvanın Gıybeti</text>
+      </navLabel>
+      <content src="NYG0017_split_074.html"/>
+    </navPoint>
+    <navPoint id="8bfc54d3-a04c-48a3-82ab-3099537d494b" playOrder="76">
+      <navLabel>
+        <text>“Her Varlık Bin Bir Hikmetle Yaratıldı”</text>
+      </navLabel>
+      <content src="NYG0017_split_075.html"/>
+    </navPoint>
+    <navPoint id="e93556de-2499-4268-8c28-d7b6ecac1315" playOrder="77">
+      <navLabel>
+        <text>Ev Yıkarak Ev Yapılır mı?</text>
+      </navLabel>
+      <content src="NYG0017_split_076.html"/>
+    </navPoint>
+    <navPoint id="dfffb5c0-35a5-4637-8abf-c44e8cb6693a" playOrder="78">
+      <navLabel>
+        <text>Çobanların İbadeti</text>
+      </navLabel>
+      <content src="NYG0017_split_077.html"/>
+    </navPoint>
+    <navPoint id="305c4013-8e39-4c39-afe7-be80a41f7c89" playOrder="79">
+      <navLabel>
+        <text>Öküz Efendi</text>
+      </navLabel>
+      <content src="NYG0017_split_078.html"/>
+    </navPoint>
+    <navPoint id="7735d49d-414d-4874-a59b-ed01f843bfa7" playOrder="80">
+      <navLabel>
+        <text>Uçaklar Ne İfade Ediyor?</text>
+      </navLabel>
+      <content src="NYG0017_split_079.html"/>
+    </navPoint>
+    <navPoint id="60442bd5-89e4-4d52-b054-296cad0c1805" playOrder="81">
+      <navLabel>
+        <text>“Namazlı Çalışma, İbadettir”</text>
+      </navLabel>
+      <content src="NYG0017_split_080.html"/>
+    </navPoint>
+    <navPoint id="6bbfd440-6186-4199-8e0d-a80257ecfa2a" playOrder="82">
+      <navLabel>
+        <text>“Ben Uçağa Bedava Bineceğim”</text>
+      </navLabel>
+      <content src="NYG0017_split_081.html"/>
+    </navPoint>
+    <navPoint id="0f8294ad-6778-43d9-9dcf-edb2c54e6e42" playOrder="83">
+      <navLabel>
+        <text>“Uçaklar İslâm’a Hizmet Edecek”</text>
+      </navLabel>
+      <content src="NYG0017_split_082.html"/>
+    </navPoint>
+    <navPoint id="adc33fae-4a27-45fb-8d8f-562cb9010294" playOrder="84">
+      <navLabel>
+        <text>“İnsanlığa Faydalı Çalışmalar İbadettir”</text>
+      </navLabel>
+      <content src="NYG0017_split_083.html"/>
+    </navPoint>
+    <navPoint id="91a343bd-f0ba-4ea7-8d3e-88d27828f7f3" playOrder="85">
+      <navLabel>
+        <text>“Teknik Gelişmelerin Temelini Peygamberler Atmıştır”</text>
+      </navLabel>
+      <content src="NYG0017_split_084.html"/>
+    </navPoint>
+    <navPoint id="3282374c-27b5-4807-8d09-8b5a9618c201" playOrder="86">
+      <navLabel>
+        <text>Öğretmenler Bambaşka</text>
+      </navLabel>
+      <content src="NYG0017_split_085.html"/>
+    </navPoint>
+    <navPoint id="b352aec0-936f-4fc7-ad9b-a9961db8a461" playOrder="87">
+      <navLabel>
+        <text>Her Yerde Yazmak</text>
+      </navLabel>
+      <content src="NYG0017_split_086.html"/>
+    </navPoint>
+    <navPoint id="5760ba79-4afa-40f7-b824-5850edf4b65e" playOrder="88">
+      <navLabel>
+        <text>Hapishane mi, Eğitim Yeri mi?</text>
+      </navLabel>
+      <content src="NYG0017_split_087.html"/>
+    </navPoint>
+    <navPoint id="ea0d0b8d-4ae9-4737-b720-8d00f253edb8" playOrder="89">
+      <navLabel>
+        <text>Gönül Kazanma Sanatı</text>
+      </navLabel>
+      <content src="NYG0017_split_088.html"/>
+    </navPoint>
+    <navPoint id="a356f40e-511b-4559-b0a5-0ce1d0d3f8b2" playOrder="90">
+      <navLabel>
+        <text>“Hizmette Sinir ve Sınır Yoktur”</text>
+      </navLabel>
+      <content src="NYG0017_split_089.html"/>
+    </navPoint>
+    <navPoint id="7e4506a7-ff93-4f6d-96cf-1fbdda689a9a" playOrder="91">
+      <navLabel>
+        <text>Ömer Nasuhi Bilmen Hoca ve Bediüzzaman</text>
+      </navLabel>
+      <content src="NYG0017_split_090.html"/>
+    </navPoint>
+    <navPoint id="1b3fdd3e-d3e7-4ddc-9c99-013a140c7c03" playOrder="92">
+      <navLabel>
+        <text>Sav Köyü</text>
+      </navLabel>
+      <content src="NYG0017_split_091.html"/>
+    </navPoint>
+    <navPoint id="7165c83e-b397-4876-817a-8350b938273f" playOrder="93">
+      <navLabel>
+        <text>“Ramazan’a Aittir”</text>
+      </navLabel>
+      <content src="NYG0017_split_092.html"/>
+    </navPoint>
+    <navPoint id="5ae99fc8-41a5-4b46-9539-b630f622494a" playOrder="94">
+      <navLabel>
+        <text>Bediüzzaman, Büyük Millet Meclisinde</text>
+      </navLabel>
+      <content src="NYG0017_split_093.html"/>
+    </navPoint>
+    <navPoint id="e0034344-8aaa-486f-803f-287a728e6430" playOrder="95">
+      <navLabel>
+        <text>Dış Çevrelerle İletişimde Metot</text>
+      </navLabel>
+      <content src="NYG0017_split_094.html"/>
+    </navPoint>
+    <navPoint id="8d5744a4-5bfe-48cf-a3d6-8a0f221711e6" playOrder="96">
+      <navLabel>
+        <text>Kâinattan Hiçbir Şeye Kıyamaz</text>
+      </navLabel>
+      <content src="NYG0017_split_095.html"/>
+    </navPoint>
+    <navPoint id="36dd6c2b-9b47-44ed-8a01-600a4b32c6a1" playOrder="97">
+      <navLabel>
+        <text>Tabiat Tesadüfü Yalanlıyor</text>
+      </navLabel>
+      <content src="NYG0017_split_096.html"/>
+    </navPoint>
+    <navPoint id="9f020ba3-7f36-4ecd-b24a-5c363cb7db65" playOrder="98">
+      <navLabel>
+        <text>Şer Görünenden Hayır Yorumu</text>
+      </navLabel>
+      <content src="NYG0017_split_097.html"/>
+    </navPoint>
+    <navPoint id="422dacae-3bd3-4a23-b59d-cf7a6c541dd8" playOrder="99">
+      <navLabel>
+        <text>Şapka</text>
+      </navLabel>
+      <content src="NYG0017_split_098.html"/>
+    </navPoint>
+    <navPoint id="08f26293-9f72-4ad8-9ccd-0fb2e78f5358" playOrder="100">
+      <navLabel>
+        <text>“Halk Partisinin Suçu, Yüzde 5’ine Ait”</text>
+      </navLabel>
+      <content src="NYG0017_split_099.html"/>
+    </navPoint>
+    <navPoint id="c9a8c9b2-b987-4654-8b48-909e3bb7d908" playOrder="101">
+      <navLabel>
+        <text>Ankara “En Kara” mı?</text>
+      </navLabel>
+      <content src="NYG0017_split_100.html"/>
+    </navPoint>
+    <navPoint id="f57c165d-b9ee-4554-a32d-757afbdd6566" playOrder="102">
+      <navLabel>
+        <text>Türkçülük-Arapçılık</text>
+      </navLabel>
+      <content src="NYG0017_split_101.html"/>
+    </navPoint>
+    <navPoint id="7ef7a596-2dc8-4501-9fe8-6828707e24ab" playOrder="103">
+      <navLabel>
+        <text>Kadere Teslim</text>
+      </navLabel>
+      <content src="NYG0017_split_102.html"/>
+    </navPoint>
+    <navPoint id="fb1f0a96-839c-4377-a8ff-f21dc60535b5" playOrder="104">
+      <navLabel>
+        <text>Her İnançsız Aynı Değildir</text>
+      </navLabel>
+      <content src="NYG0017_split_103.html"/>
+    </navPoint>
+    <navPoint id="c9bc716f-e569-4d1e-8083-3f13a841d2cc" playOrder="105">
+      <navLabel>
+        <text>Her İnsan Yüz Kapılı Bir Saraydır</text>
+      </navLabel>
+      <content src="NYG0017_split_104.html"/>
+    </navPoint>
+    <navPoint id="b0df48d3-2948-4dfb-9655-30ea51498a2d" playOrder="106">
+      <navLabel>
+        <text>Haklı da Olsak Ayrılık Yok</text>
+      </navLabel>
+      <content src="NYG0017_split_105.html"/>
+    </navPoint>
+    <navPoint id="04bf78ed-5e4b-4a0d-9ba7-3f6153e1196d" playOrder="107">
+      <navLabel>
+        <text>Sahabe Arasındaki Savaşa Nasıl Bakmalı?</text>
+      </navLabel>
+      <content src="NYG0017_split_106.html"/>
+    </navPoint>
+    <navPoint id="bc74b330-6d66-4dfb-96e4-4b96c7cc9e6d" playOrder="108">
+      <navLabel>
+        <text>Boş Durmayı Öğrenmemiş</text>
+      </navLabel>
+      <content src="NYG0017_split_107.html"/>
+    </navPoint>
+    <navPoint id="5cb5661c-2348-437f-838c-5e7e34cafbcf" playOrder="109">
+      <navLabel>
+        <text>Boş Şeylerle Meşguliyete Fırsat Yok</text>
+      </navLabel>
+      <content src="NYG0017_split_108.html"/>
+    </navPoint>
+    <navPoint id="64b482f5-d34d-4010-970f-6a64cc639644" playOrder="110">
+      <navLabel>
+        <text>Gençlerle Sevgi İletişimi</text>
+      </navLabel>
+      <content src="NYG0017_split_109.html"/>
+    </navPoint>
+    <navPoint id="74e86b2d-195f-48cd-a815-9e74329fe6cd" playOrder="111">
+      <navLabel>
+        <text>Chp Milletvekiline Karşı Tavrı</text>
+      </navLabel>
+      <content src="NYG0017_split_110.html"/>
+    </navPoint>
+    <navPoint id="86849ff6-475e-4444-a426-546b5ab118a5" playOrder="112">
+      <navLabel>
+        <text>Manevî Bataklık</text>
+      </navLabel>
+      <content src="NYG0017_split_111.html"/>
+    </navPoint>
+    <navPoint id="559f32e5-4fa7-40c8-bec8-20a47ae8a79a" playOrder="113">
+      <navLabel>
+        <text>Günahkâra Değil, Günaha Karşıydı</text>
+      </navLabel>
+      <content src="NYG0017_split_112.html"/>
+    </navPoint>
+    <navPoint id="eaf9171d-ce9a-4998-8209-d33c9fda4230" playOrder="114">
+      <navLabel>
+        <text>Alkolik Ev Sahibi</text>
+      </navLabel>
+      <content src="NYG0017_split_113.html"/>
+    </navPoint>
+    <navPoint id="bf7b24dc-9e5b-41b7-96b8-23b6c168c0be" playOrder="115">
+      <navLabel>
+        <text>Kurtulmak İsteyen Sarhoş</text>
+      </navLabel>
+      <content src="NYG0017_split_114.html"/>
+    </navPoint>
+    <navPoint id="3c3b4550-e7fb-4093-b683-c1d76a33d6b2" playOrder="116">
+      <navLabel>
+        <text>Ayyaşın Vicdanı</text>
+      </navLabel>
+      <content src="NYG0017_split_115.html"/>
+    </navPoint>
+    <navPoint id="729a5ecc-d39f-461c-a2b0-4615256f4372" playOrder="117">
+      <navLabel>
+        <text>İçki Satan Adam</text>
+      </navLabel>
+      <content src="NYG0017_split_116.html"/>
+    </navPoint>
+    <navPoint id="0e31e6f9-43d9-4ac2-91cd-2cad158b201b" playOrder="118">
+      <navLabel>
+        <text>Sarhoşla Pazarlık</text>
+      </navLabel>
+      <content src="NYG0017_split_117.html"/>
+    </navPoint>
+    <navPoint id="57a3f432-8aa5-4a0f-845d-9432d23e531d" playOrder="119">
+      <navLabel>
+        <text>“Benim Şefik’im İçmez!”</text>
+      </navLabel>
+      <content src="NYG0017_split_118.html"/>
+    </navPoint>
+    <navPoint id="d8548a97-990f-4040-b520-2d66d2503686" playOrder="120">
+      <navLabel>
+        <text>Adıyamanlı Hüseyin Amca</text>
+      </navLabel>
+      <content src="NYG0017_split_119.html"/>
+    </navPoint>
+    <navPoint id="b71d557c-a55b-4b13-b788-99f81fd19936" playOrder="121">
+      <navLabel>
+        <text>Bediüzzaman ve Abdülhamit Han</text>
+      </navLabel>
+      <content src="NYG0017_split_120.html"/>
+    </navPoint>
+    <navPoint id="c11ba963-da45-4dc2-a121-0ce329af287e" playOrder="122">
+      <navLabel>
+        <text>Bediüzzaman ve Ahmet Hamdi Akseki</text>
+      </navLabel>
+      <content src="NYG0017_split_121.html"/>
+    </navPoint>
+    <navPoint id="524b685e-50bd-4672-a02e-c32ac7eb27bc" playOrder="123">
+      <navLabel>
+        <text>Kitap Düşmanlığı</text>
+      </navLabel>
+      <content src="NYG0017_split_122.html"/>
+    </navPoint>
+    <navPoint id="307e34de-9462-4e51-a46c-2aa507732021" playOrder="124">
+      <navLabel>
+        <text>Asrın Garibi, Garipler Hastahanesinde</text>
+      </navLabel>
+      <content src="NYG0017_split_123.html"/>
+    </navPoint>
+    <navPoint id="cd9d6d9e-6406-473d-b674-5e39178fb904" playOrder="125">
+      <navLabel>
+        <text>“Asacaktık, Olmadı”</text>
+      </navLabel>
+      <content src="NYG0017_split_124.html"/>
+    </navPoint>
+    <navPoint id="81998da9-05df-4029-99fa-07c95ac54ee2" playOrder="126">
+      <navLabel>
+        <text>Adnan Menderes ve Bediüzzaman</text>
+      </navLabel>
+      <content src="NYG0017_split_125.html"/>
+    </navPoint>
+    <navPoint id="145f8b54-6868-4b7d-85f1-a475a9fdd15b" playOrder="127">
+      <navLabel>
+        <text>Menderes’e Dua</text>
+      </navLabel>
+      <content src="NYG0017_split_126.html"/>
+    </navPoint>
+    <navPoint id="c97496e9-8449-4409-b029-78aae7560693" playOrder="128">
+      <navLabel>
+        <text>“İslâm Kahramanı” Menderes</text>
+      </navLabel>
+      <content src="NYG0017_split_127.html"/>
+    </navPoint>
+    <navPoint id="26faa176-9c78-4484-93f2-969749f8ee23" playOrder="129">
+      <navLabel>
+        <text>Menderes’i Tutan Manevî İktidar</text>
+      </navLabel>
+      <content src="NYG0017_split_128.html"/>
+    </navPoint>
+    <navPoint id="bd48216d-7994-404b-941c-e44c7baed9da" playOrder="130">
+      <navLabel>
+        <text>“Ahmak Menderes!”</text>
+      </navLabel>
+      <content src="NYG0017_split_129.html"/>
+    </navPoint>
+    <navPoint id="a2e07fed-f9de-42d2-b3e6-71690052c3f1" playOrder="131">
+      <navLabel>
+        <text>Yargılayanlara Hakkını Helâl Etti</text>
+      </navLabel>
+      <content src="NYG0017_split_130.html"/>
+    </navPoint>
+    <navPoint id="a58af5a4-74d7-46d1-b76e-986ea886ecbb" playOrder="132">
+      <navLabel>
+        <text>Madem Hakikat Nuru Gönülleri Coşturuyor...</text>
+      </navLabel>
+      <content src="NYG0017_split_131.html"/>
+    </navPoint>
+    <navPoint id="9bc1e5ed-7ed4-43df-8eae-dbfcdc2c7171" playOrder="133">
+      <navLabel>
+        <text>Masumların Hatırı İçin</text>
+      </navLabel>
+      <content src="NYG0017_split_132.html"/>
+    </navPoint>
+    <navPoint id="0908eec6-795e-4c98-83c9-a2a1f71f5494" playOrder="134">
+      <navLabel>
+        <text>Bir Kere Beddua Edecekti...</text>
+      </navLabel>
+      <content src="NYG0017_split_133.html"/>
+    </navPoint>
+    <navPoint id="185cf296-1ad8-411c-b6c8-2dc862cbbfe8" playOrder="135">
+      <navLabel>
+        <text>Bir Kere Daha Beddua Edecekti, Ama...</text>
+      </navLabel>
+      <content src="NYG0017_split_134.html"/>
+    </navPoint>
+    <navPoint id="1101170a-8797-40b8-b016-d355844cdfa2" playOrder="136">
+      <navLabel>
+        <text>Kurtaran Dua</text>
+      </navLabel>
+      <content src="NYG0017_split_135.html"/>
+    </navPoint>
+    <navPoint id="dd5f0cdf-f610-4bc1-8005-cd06cf83d451" playOrder="137">
+      <navLabel>
+        <text>Olanda Hayır Vardır</text>
+      </navLabel>
+      <content src="NYG0017_split_136.html"/>
+    </navPoint>
+    <navPoint id="f0b5af78-b364-4001-94f5-272c9f07249f" playOrder="138">
+      <navLabel>
+        <text>Kılıcını Ayağına Vurdurmaz</text>
+      </navLabel>
+      <content src="NYG0017_split_137.html"/>
+    </navPoint>
+    <navPoint id="067758b5-7199-4720-be5e-024b2ee0ee4c" playOrder="139">
+      <navLabel>
+        <text>Türk Bayrağı ve Bediüzzaman</text>
+      </navLabel>
+      <content src="NYG0017_split_138.html"/>
+    </navPoint>
+    <navPoint id="1fea531b-c051-4959-a11b-9466d848f9a4" playOrder="140">
+      <navLabel>
+        <text>Kargaşa ve Kavga İstemez</text>
+      </navLabel>
+      <content src="NYG0017_split_139.html"/>
+    </navPoint>
+    <navPoint id="d09bc2dc-4ddd-44a0-8f91-8c980a68ea52" playOrder="141">
+      <navLabel>
+        <text>Kardeşleşmek Zorundayız</text>
+      </navLabel>
+      <content src="NYG0017_split_140.html"/>
+    </navPoint>
+    <navPoint id="f57a44ef-5674-4e22-bb5e-15493811764e" playOrder="142">
+      <navLabel>
+        <text>Kardeşleşmenin Kuralları</text>
+      </navLabel>
+      <content src="NYG0017_split_141.html"/>
+    </navPoint>
+    <navPoint id="4094c60c-26ac-49a3-b1fc-6110dbac3c0c" playOrder="143">
+      <navLabel>
+        <text>Kavga, Ama Niçin?</text>
+      </navLabel>
+      <content src="NYG0017_split_142.html"/>
+    </navPoint>
+    <navPoint id="0ce1dc06-6edc-454a-bc5f-23611dba84de" playOrder="144">
+      <navLabel>
+        <text>İçi Boş Yumurta Kabuğuna Bile Kıyamaz</text>
+      </navLabel>
+      <content src="NYG0017_split_143.html"/>
+    </navPoint>
+    <navPoint id="15fd2c53-beb8-40e2-86e6-80e00f5426da" playOrder="145">
+      <navLabel>
+        <text>Eski Florasanlar Ne İşe Yarar?</text>
+      </navLabel>
+      <content src="NYG0017_split_144.html"/>
+    </navPoint>
+    <navPoint id="5256e24a-5916-4495-9b03-18b663d62e0d" playOrder="146">
+      <navLabel>
+        <text>Tefekkür Lezzeti</text>
+      </navLabel>
+      <content src="NYG0017_split_145.html"/>
+    </navPoint>
+    <navPoint id="56ede494-7997-4405-91ad-a7de454b335a" playOrder="147">
+      <navLabel>
+        <text>Karpuzu Okumak</text>
+      </navLabel>
+      <content src="NYG0017_split_146.html"/>
+    </navPoint>
+    <navPoint id="0ff39c80-1b58-442c-85ac-fd01fb1481e2" playOrder="148">
+      <navLabel>
+        <text>“Bu Bahçelerden, Sahiplerinden Daha Çok Yararlanıyorum”</text>
+      </navLabel>
+      <content src="NYG0017_split_147.html"/>
+    </navPoint>
+    <navPoint id="797d0e86-7016-491a-b1df-859bda1716db" playOrder="149">
+      <navLabel>
+        <text>Müspet Bakış-Güzel Görüş</text>
+      </navLabel>
+      <content src="NYG0017_split_148.html"/>
+    </navPoint>
+    <navPoint id="b0800e78-e90a-4a46-a55a-dd7f23af22d2" playOrder="150">
+      <navLabel>
+        <text>Tabiata İlgi-Sevgi</text>
+      </navLabel>
+      <content src="NYG0017_split_149.html"/>
+    </navPoint>
+    <navPoint id="080fce5a-f262-48ac-a6a7-c3d5d93813d7" playOrder="151">
+      <navLabel>
+        <text>Ot Gibi Yaşamak!</text>
+      </navLabel>
+      <content src="NYG0017_split_150.html"/>
+    </navPoint>
+    <navPoint id="565fd271-d16a-44f9-8e6c-61ddcc32e196" playOrder="152">
+      <navLabel>
+        <text>Sararan Yapraklara Ağıt</text>
+      </navLabel>
+      <content src="NYG0017_split_151.html"/>
+    </navPoint>
+    <navPoint id="e1d45c38-de7b-4020-9417-83fae1b2ec6f" playOrder="153">
+      <navLabel>
+        <text>Yılan</text>
+      </navLabel>
+      <content src="NYG0017_split_152.html"/>
+    </navPoint>
+    <navPoint id="6d246e19-beff-4bf6-89c2-1fa546588f61" playOrder="154">
+      <navLabel>
+        <text>Bu da Başka Bir Yılan</text>
+      </navLabel>
+      <content src="NYG0017_split_153.html"/>
+    </navPoint>
+    <navPoint id="2261f1c5-e909-4445-8b74-49d2cd8b22bc" playOrder="155">
+      <navLabel>
+        <text>Mal Sahibi Kim?</text>
+      </navLabel>
+      <content src="NYG0017_split_154.html"/>
+    </navPoint>
+    <navPoint id="1c61c030-a3c3-4f94-9fef-8bd66f2307aa" playOrder="156">
+      <navLabel>
+        <text>Sivrisineklerle Dost</text>
+      </navLabel>
+      <content src="NYG0017_split_155.html"/>
+    </navPoint>
+    <navPoint id="6efed169-e3aa-452d-9eff-ae943e539e9e" playOrder="157">
+      <navLabel>
+        <text>Eşek Değil, İşlek</text>
+      </navLabel>
+      <content src="NYG0017_split_156.html"/>
+    </navPoint>
+    <navPoint id="6d5a29c5-8189-4c38-80c2-56996448cbad" playOrder="158">
+      <navLabel>
+        <text>Hizmetteki Fareler</text>
+      </navLabel>
+      <content src="NYG0017_split_157.html"/>
+    </navPoint>
+    <navPoint id="4af7fb44-fbd2-440f-8b97-9927990214cf" playOrder="159">
+      <navLabel>
+        <text>Farelerin Dostluğu</text>
+      </navLabel>
+      <content src="NYG0017_split_158.html"/>
+    </navPoint>
+    <navPoint id="252aa6ca-204b-4ecd-a1e6-ee7a4ad43ace" playOrder="160">
+      <navLabel>
+        <text>Kedi Ne Zaman “Ya Rahîm” Der?</text>
+      </navLabel>
+      <content src="NYG0017_split_159.html"/>
+    </navPoint>
+    <navPoint id="d44287c9-898b-4aea-ba4c-207738e1fdf4" playOrder="161">
+      <navLabel>
+        <text>Şanslı Fare</text>
+      </navLabel>
+      <content src="NYG0017_split_160.html"/>
+    </navPoint>
+    <navPoint id="1465e440-98a0-4180-98ca-d402b9020728" playOrder="162">
+      <navLabel>
+        <text>Boğaz’da Düğümlenir Boğazı</text>
+      </navLabel>
+      <content src="NYG0017_split_161.html"/>
+    </navPoint>
+    <navPoint id="b08fc48e-4807-44b2-8340-68aef612a929" playOrder="163">
+      <navLabel>
+        <text>Göl Kıyısında da Gülemez</text>
+      </navLabel>
+      <content src="NYG0017_split_162.html"/>
+    </navPoint>
+    <navPoint id="01ddf8c1-400b-4b6b-9787-20f064c93c6b" playOrder="164">
+      <navLabel>
+        <text>Bıçaklı Bacaklar</text>
+      </navLabel>
+      <content src="NYG0017_split_163.html"/>
+    </navPoint>
+    <navPoint id="96ef8c5f-3ee4-4291-9f58-e8f91a665d13" playOrder="165">
+      <navLabel>
+        <text>Paylaşmanın Bu Derecesi</text>
+      </navLabel>
+      <content src="NYG0017_split_164.html"/>
+    </navPoint>
+    <navPoint id="43746515-f76d-41fc-a929-651bdf6c7347" playOrder="166">
+      <navLabel>
+        <text>Her Zulüm Ağlatır Onu</text>
+      </navLabel>
+      <content src="NYG0017_split_165.html"/>
+    </navPoint>
+    <navPoint id="eddcb4a8-82bd-4f70-ae03-004281c5aebf" playOrder="167">
+      <navLabel>
+        <text>Dünyasının Yükünü Sırtında Taşıyan Adam</text>
+      </navLabel>
+      <content src="NYG0017_split_166.html"/>
+    </navPoint>
+    <navPoint id="41deb4e3-6dc8-48ef-b12d-7429da234081" playOrder="168">
+      <navLabel>
+        <text>“Tatilini Yugoslavya’da Geçir”</text>
+      </navLabel>
+      <content src="NYG0017_split_167.html"/>
+    </navPoint>
+    <navPoint id="7cfe6ece-bd71-4652-a7ef-865668b97418" playOrder="169">
+      <navLabel>
+        <text>Korku Ne İşe Yarar?</text>
+      </navLabel>
+      <content src="NYG0017_split_168.html"/>
+    </navPoint>
+    <navPoint id="cc717d6c-ebb8-47e2-ad5c-46895fd083e7" playOrder="170">
+      <navLabel>
+        <text>Gayret</text>
+      </navLabel>
+      <content src="NYG0017_split_169.html"/>
+    </navPoint>
+    <navPoint id="775732ef-4167-4366-89d4-9dbd38ae5977" playOrder="171">
+      <navLabel>
+        <text>“Hayırlısı İse Olsun”</text>
+      </navLabel>
+      <content src="NYG0017_split_170.html"/>
+    </navPoint>
+    <navPoint id="45d33cbf-e089-4a99-9fa2-429ad674ab0a" playOrder="172">
+      <navLabel>
+        <text>“İmam-I Azam’ın Kıyafetine Nasıl Gireyim?”</text>
+      </navLabel>
+      <content src="NYG0017_split_171.html"/>
+    </navPoint>
+    <navPoint id="d06cf320-9671-426f-bfc9-2c7ee0d96b99" playOrder="173">
+      <navLabel>
+        <text>Bediüzzaman ve Nurettin Topçu</text>
+      </navLabel>
+      <content src="NYG0017_split_172.html"/>
+    </navPoint>
+    <navPoint id="0556b8ed-b922-48ee-ad26-31d446c34dab" playOrder="174">
+      <navLabel>
+        <text>Kerametli Dua</text>
+      </navLabel>
+      <content src="NYG0017_split_173.html"/>
+    </navPoint>
+    <navPoint id="cb8da81c-8eda-496b-896e-1cf998b8d0a5" playOrder="175">
+      <navLabel>
+        <text>“Yemeği Fukaraya Götür”</text>
+      </navLabel>
+      <content src="NYG0017_split_174.html"/>
+    </navPoint>
+    <navPoint id="d8ffcc08-7f3c-4f5a-8974-0dbe81098e5e" playOrder="176">
+      <navLabel>
+        <text>Affın Bu Derecesi</text>
+      </navLabel>
+      <content src="NYG0017_split_175.html"/>
+    </navPoint>
+    <navPoint id="6fa41710-c88b-45c9-82c3-2e6af173829c" playOrder="177">
+      <navLabel>
+        <text>Kurtulmak Kolay</text>
+      </navLabel>
+      <content src="NYG0017_split_176.html"/>
+    </navPoint>
+    <navPoint id="cf1c6bc1-0f41-4bfb-a13d-aba655ba0149" playOrder="178">
+      <navLabel>
+        <text>Bediüzzaman ve Necip Fazıl</text>
+      </navLabel>
+      <content src="NYG0017_split_177.html"/>
+    </navPoint>
+    <navPoint id="061b86d2-a956-4cf2-90d6-fb6ad2373b26" playOrder="179">
+      <navLabel>
+        <text>Necip Fazıl’ın Sohbetinde Bediüzzaman</text>
+      </navLabel>
+      <content src="NYG0017_split_178.html"/>
+    </navPoint>
+    <navPoint id="4dec21cf-57cb-4570-8d8e-4539d9a3bd39" playOrder="180">
+      <navLabel>
+        <text>Necip Fazıl’a göre Bediüzzaman</text>
+      </navLabel>
+      <content src="NYG0017_split_179.html"/>
+    </navPoint>
+    <navPoint id="d8b0132d-3726-4b57-b823-27ddbc192513" playOrder="181">
+      <navLabel>
+        <text>“Büyük Doğu”ya Yardım İçin Yorgan Satmak</text>
+      </navLabel>
+      <content src="NYG0017_split_180.html"/>
+    </navPoint>
+    <navPoint id="6618c8a6-cee2-49be-a266-f1ee577add0d" playOrder="182">
+      <navLabel>
+        <text>Bediüzzaman’a Göre Necip Fazıl ve Hizmeti</text>
+      </navLabel>
+      <content src="NYG0017_split_181.html"/>
+    </navPoint>
+    <navPoint id="4c2b4560-723c-4410-a901-f6e257116f26" playOrder="183">
+      <navLabel>
+        <text>Bediüzzaman ve Osman Yüksel Serdengeçti</text>
+      </navLabel>
+      <content src="NYG0017_split_182.html"/>
+    </navPoint>
+    <navPoint id="e10d0cf1-78d4-422d-ae98-90eef7084a87" playOrder="184">
+      <navLabel>
+        <text>Konya Hapishanesindeki Huzur</text>
+      </navLabel>
+      <content src="NYG0017_split_183.html"/>
+    </navPoint>
+    <navPoint id="d5e31f4a-238f-46e5-af58-8b5a96490c95" playOrder="185">
+      <navLabel>
+        <text>Hizmette Engel Tanımaz</text>
+      </navLabel>
+      <content src="NYG0017_split_184.html"/>
+    </navPoint>
+    <navPoint id="4a228154-0374-44af-a058-cf7fc31672bd" playOrder="186">
+      <navLabel>
+        <text>Hâl Dili</text>
+      </navLabel>
+      <content src="NYG0017_split_185.html"/>
+    </navPoint>
+    <navPoint id="977c3ce4-cd04-4065-b334-8fd41992c572" playOrder="187">
+      <navLabel>
+        <text>“Yeni Said”</text>
+      </navLabel>
+      <content src="NYG0017_split_186.html"/>
+    </navPoint>
+    <navPoint id="c92d5aa2-959d-4885-a84f-92b2f7d0fee5" playOrder="188">
+      <navLabel>
+        <text>Siyaset</text>
+      </navLabel>
+      <content src="NYG0017_split_187.html"/>
+    </navPoint>
+    <navPoint id="2de2964b-934a-4fee-a5bb-debb44a77305" playOrder="189">
+      <navLabel>
+        <text>Millî Eğitim Bakanından İsteği</text>
+      </navLabel>
+      <content src="NYG0017_split_188.html"/>
+    </navPoint>
+    <navPoint id="317625c4-a6f0-4281-ac97-49892908715e" playOrder="190">
+      <navLabel>
+        <text>Yaşayan Bir Sevdalı</text>
+      </navLabel>
+      <content src="NYG0017_split_189.html"/>
+    </navPoint>
+    <navPoint id="ac6bc513-02b6-49c8-8d74-e6cdc222d70b" playOrder="191">
+      <navLabel>
+        <text>Alkış</text>
+      </navLabel>
+      <content src="NYG0017_split_190.html"/>
+    </navPoint>
+    <navPoint id="607ab6cd-5da1-42eb-af44-3be501983eb5" playOrder="192">
+      <navLabel>
+        <text>Yapılması Gereken</text>
+      </navLabel>
+      <content src="NYG0017_split_191.html"/>
+    </navPoint>
+    <navPoint id="72f2b851-152b-458a-a3cb-cd73edd6a559" playOrder="193">
+      <navLabel>
+        <text>“Bu Kitaplardan Ne Kazandın?”</text>
+      </navLabel>
+      <content src="NYG0017_split_192.html"/>
+    </navPoint>
+    <navPoint id="dccf5dbd-2a41-46ca-804e-db46d571f3de" playOrder="194">
+      <navLabel>
+        <text>Gerçekleşen Rüya</text>
+      </navLabel>
+      <content src="NYG0017_split_193.html"/>
+    </navPoint>
+    <navPoint id="d2c0871d-e53f-4e4a-9ca0-6e318d1177da" playOrder="195">
+      <navLabel>
+        <text>“Konuşan, Yalnız Hakikattir”</text>
+      </navLabel>
+      <content src="NYG0017_split_194.html"/>
+    </navPoint>
+    <navPoint id="b844299d-d3b7-4f47-a1fc-cfd82fc3da92" playOrder="196">
+      <navLabel>
+        <text>Terekesi</text>
+      </navLabel>
+      <content src="NYG0017_split_195.html"/>
+    </navPoint>
+    <navPoint id="f90226d6-2da8-41be-8fd9-65fea8a49273" playOrder="197">
+      <navLabel>
+        <text>Kaynaklar</text>
+      </navLabel>
+      <content src="NYG0017_split_196.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

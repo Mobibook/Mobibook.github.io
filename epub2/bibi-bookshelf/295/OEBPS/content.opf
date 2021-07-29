@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Türkali, Vedat">Vedat Türkali</dc:creator>
+<dc:description>&lt;p&gt;Vedat Türkali, seksen üç yıllık yaşamından bir kesiti anlatıyor 'Komünist'te: Nasıl bir aile ortamında, nasıl bir çevrede büyüdüğünü; neler okuyup, kimlerden etkilendiğini; sosyalist düşünceyle ilk kez nasıl tanıştığını, ilk örgütsel ilişkilerini... Yalın bir dille, hiçbir kurgu kaygısı taşımadan, gerçek isimler ve olaylarla...
+
+"Şefik Hüsnü'ye son gidişimde, Kapalıçarşı'da bir sokakta sayacı Ahmet Fırıncı'nın adresini verdi; gidip onunla görüşecektim. Ahmet Fırıncı da (Dede Ahmet) ad olarak tanıdığım eskilerdendi. Uzun süre Moskova'da kalmış, Merkez Komitesi üyesi olduğunu bildiğim biriydi. Gittim. Kendimi tanıtır tanıtmaz üst üste yığılmış derileri attı yere, başına çömeldik karşılıklı; dükkâna alış verişe gelmiş biriydim, arkam sokakta konuşuyorduk. Bir akşam geç bir saatte, Fatih Camii'nin arka kapısında, Boz Mehmet'in beni bekleyeceğini söyledi. Ürkek, tedirgin bir görünümdeydi konuşurken. Dede Ahmet Fırıncı'nın söylediği gün, saatte gittim buluşma yerine; kimseciğin bulunmadığı karanlık bir duvar dibinden çıktı Boz Mehmet."&lt;/p&gt;</dc:description>
+    <meta content="Komünist" name="calibre:title_sort"/>
+    <dc:date>2000-04-30T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="2015-05-27T18:31:50.217000+00:00" name="calibre:timestamp"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">ecdb8dcc-241e-4d23-b6fc-3c62f23c5d9a</dc:identifier>
+    <dc:publisher>Gendaş Kültür</dc:publisher>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.1" name="Sigil version"/>
+    <dc:date opf:event="modification">2015-05-27</dc:date>
+  <dc:title>Komünist</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Anı</dc:subject>
+<dc:subject>Politik</dc:subject>
+<dc:subject>Otobiyografi</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Vedat Türkali&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">252bc369-4721-40a9-abfc-b718f55d8b56</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753083478</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/index_split_000.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_005.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,89 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Guin, Ursula K. Le">Ursula K. Le Guin</dc:creator>
+<dc:publisher>Metis Yayıncılık</dc:publisher>
+    <meta name="calibre:title_sort" content="Uçuştan Uçuşa"/>
+    <meta name="calibre:timestamp" content="2012-11-14T11:40:04+00:00"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2014-08-05T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e2d95c1e-39d0-4cac-a107-a37fa66d2bab</dc:identifier>
+  <meta name="calibre:rating" content="10.0"/>
+<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Yerdeniz'in yazarından bu kez farklı dünyaları anlatan bir &lt;/span&gt;&lt;a href="http://www.idefix.com/kitap/" style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;kitap&lt;/a&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;. Bir tür seyahat kitabı ya da gezi rehberi. Bildik bir mekânda, havaalanında başlayan seyahatler bunlar, ama yolculuk için uçak şart değil. Havaalanına varışla uçağa ayak basana kadar geçen o eziyetli saatlerde gergin bir ıstırap, bıkkınlık, hazımsızlık ve nabız artışı boyutlar arası seyahati başlatmak için yetiyor da artıyor bile.&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Uygulamalı genetik biliminin mucizesi İslac halkı, sessizliği laf kalabalığına yeğleyen Asonular, öfkenin ele geçirdiği Veksiler, Ansarların biyolojik döngüsü, kolektif rüyaları paylaşan Frinliler, hemen herkesin Kraliyet Ailesi'nin bir üyesi olduğu Hegnler, hiç uyumayan insanlar, ölümsüzler ve diğerleri...&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Ekolojik felaket, gen teknolojisi, mühendislik, inanç savaşları, kontrolsüz tutkular ve tamahkârlık hakkında bir tür kehanet gibi de okumak mümkün; dil, tercihler, sabır, erdem, aşk ve benzersiz dünyalar hakkında sürükleyici öyküler olarak da.&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent; "&gt;&lt;/div&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ursula K. Le Guin&quot;: &quot;&quot;}"/>
+<dc:title>Uçuştan Uçuşa</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Fantastik</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">14f2405b-1605-4a1d-8f7d-5278d8c0ef70</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753424837</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Ops/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="Ops/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Ops/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Ops/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Ops/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Ops/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Ops/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Ops/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Ops/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Ops/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Ops/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Ops/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Ops/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="Ops/014.html" id="id014" media-type="application/xhtml+xml"/>
+    <item href="Ops/015.html" id="id015" media-type="application/xhtml+xml"/>
+    <item href="Ops/016.html" id="id016" media-type="application/xhtml+xml"/>
+    <item href="Ops/017.html" id="id017" media-type="application/xhtml+xml"/>
+    <item href="Ops/018.html" id="id018" media-type="application/xhtml+xml"/>
+    <item href="Ops/019.html" id="id019" media-type="application/xhtml+xml"/>
+    <item href="Ops/020.html" id="id020" media-type="application/xhtml+xml"/>
+    <item href="Ops/021.html" id="id021" media-type="application/xhtml+xml"/>
+    <item href="Ops/022.html" id="id022" media-type="application/xhtml+xml"/>
+    <item href="Ops/023.html" id="id023" media-type="application/xhtml+xml"/>
+    <item href="Ops/024.html" id="id024" media-type="application/xhtml+xml"/>
+    <item href="Ops/025.html" id="id025" media-type="application/xhtml+xml"/>
+    <item href="Ops/images/img1.jpg" id="img1" media-type="image/jpeg"/>
+    <item href="Ops/images/img2.png" id="img2" media-type="image/png"/>
+    <item href="Ops/images/img3.png" id="img3" media-type="image/png"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id001"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+    <itemref idref="id017"/>
+    <itemref idref="id018"/>
+    <itemref idref="id019"/>
+    <itemref idref="id020"/>
+    <itemref idref="id021"/>
+    <itemref idref="id022"/>
+    <itemref idref="id023"/>
+    <itemref idref="id024"/>
+    <itemref idref="id025"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

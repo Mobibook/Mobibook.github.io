@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+   
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Futurist Manifestolar Kitabı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="b9f05931-124d-44c2-9161-4e29090cc5d7" playOrder="1">
+      <navLabel>
+        <text>Fütürizm Manifestosu ve Temelleri 1909</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_003.html"/>
+      <navPoint id="44bf436c-652d-4bea-b22e-4e5d94b1c717" playOrder="2">
+        <navLabel>
+          <text>FÜTÜRİZM MANİFESTOSU</text>
+        </navLabel>
+        <content src="Text/fuhristmanifesto_split_004.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="29ba8f1c-764e-4707-9b2a-29b9424869c4" playOrder="3">
+      <navLabel>
+        <text>Fütürist Ressamlar Manifestosu 1910</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_005.html"/>
+      <navPoint id="5674b75e-f1cc-4215-af7c-5a2d59545e26" playOrder="4">
+        <navLabel>
+          <text>İTALYA’NIN GENÇ SANATÇILARINA!</text>
+        </navLabel>
+        <content src="Text/fuhristmanifesto_split_006.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="185ed2d4-e4ad-43f2-b157-983f7b81ad88" playOrder="5">
+      <navLabel>
+        <text>Fütürist Resim: Teknik Manifesto 1910</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_007.html"/>
+    </navPoint>
+    <navPoint id="8f627763-2a79-4350-bf16-64b02df786ce" playOrder="6">
+      <navLabel>
+        <text>Fütürist Fotodinamizm 1911</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_008.html"/>
+    </navPoint>
+    <navPoint id="d7c8661a-9ec0-4335-8634-49a53656171d" playOrder="7">
+      <navLabel>
+        <text>Kamuya Eserlerini Sergileyenler 1912</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_009.html"/>
+    </navPoint>
+    <navPoint id="0b30483e-8ccb-40c0-b6bd-dd34ba55943f" playOrder="8">
+      <navLabel>
+        <text>Fütürist Heykel Teknik Manifestosu 1912</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_010.html"/>
+    </navPoint>
+    <navPoint id="a680d2af-a07b-416d-87dc-53063a4e7632" playOrder="9">
+      <navLabel>
+        <text>Soyut Sinema – Kromatik Müzik 1912</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_011.html"/>
+    </navPoint>
+    <navPoint id="c55331b9-c1c7-49f3-8b84-d33410e4a804" playOrder="10">
+      <navLabel>
+        <text>Fütürist Şehvet Manifestosu 1913</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_012.html"/>
+    </navPoint>
+    <navPoint id="5f85ae61-4ef6-4adc-b005-7cbf2fedbf87" playOrder="11">
+      <navLabel>
+        <text>GÜRÜLTÜLER SANATI FÜTÜRİST MANİFESTO</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_013.html"/>
+    </navPoint>
+    <navPoint id="469730fc-d415-48da-bd92-5832a630bea9" playOrder="12">
+      <navLabel>
+        <text>Fütürist Heykel ve Resmin Plastik Temelleri 1913</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_014.html"/>
+    </navPoint>
+    <navPoint id="e72eb8b1-2da9-48ef-b077-d120c38e8a7d" playOrder="13">
+      <navLabel>
+        <text>Uzayda Küresel Genişlemeler Olarak Plastik Yüzeyler 1913</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_015.html"/>
+    </navPoint>
+    <navPoint id="b80cc10b-8573-4c1b-bf5e-a0dd2de1f004" playOrder="14">
+      <navLabel>
+        <text>Plastik Dinamizm 1913</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_016.html"/>
+    </navPoint>
+    <navPoint id="d9f861b8-b8cb-4fd5-9e25-d32c4493426e" playOrder="15">
+      <navLabel>
+        <text>Fütürist Dinamizm ve Fransız Resmi 1913</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_017.html"/>
+    </navPoint>
+    <navPoint id="a00a93ac-3a24-4f44-8975-334452ea3374" playOrder="16">
+      <navLabel>
+        <text>SESLERİN, GÜRÜLTÜLERİN VE KOKULARIN RESMİ 1913</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_018.html"/>
+    </navPoint>
+    <navPoint id="00fe860e-aabd-4b57-8277-67a4af63213d" playOrder="17">
+      <navLabel>
+        <text>Dinamizmin Plastik Benzeşimleri-Fütürist Manifesto 1913</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_019.html"/>
+    </navPoint>
+    <navPoint id="1d1a2f17-2b22-4f39-bc0b-6c547f6d8c45" playOrder="18">
+      <navLabel>
+        <text>Varyete Tiyatrosu 1913</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_020.html"/>
+    </navPoint>
+    <navPoint id="f183cb78-182f-4ade-842b-bcf7bbf444a1" playOrder="19">
+      <navLabel>
+        <text>Erkek Giyimi İçin Fütürist Manifesto 1913</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_021.html"/>
+    </navPoint>
+    <navPoint id="1de9f5d3-994d-4d4a-baab-71c67e45bdcd" playOrder="20">
+      <navLabel>
+        <text>Fütürist Resimde Konu 1914</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_022.html"/>
+    </navPoint>
+    <navPoint id="36d074f7-f343-48e9-b855-11bfeecaaa10" playOrder="21">
+      <navLabel>
+        <text>Mutlak Hareket +İzafi Hareket = Dinamizm 1914</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_023.html"/>
+    </navPoint>
+    <navPoint id="38e45b7c-d58b-4924-ae79-76a9acd34a49" playOrder="22">
+      <navLabel>
+        <text>Geometrik ve Mekanik Görkem ve Sayısal Anlayış 1914</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_024.html"/>
+    </navPoint>
+    <navPoint id="4db979c7-9f7b-4940-8a22-01b219d513c7" playOrder="23">
+      <navLabel>
+        <text>Fütürist Mimari Manifestosu 1914</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_025.html"/>
+    </navPoint>
+    <navPoint id="01173a4d-ba37-4c4e-b492-dad6f97a894c" playOrder="24">
+      <navLabel>
+        <text>Fütürist Resim ve Heykel (özet) 1914</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_026.html"/>
+    </navPoint>
+    <navPoint id="f351dd3f-cdbb-491c-8eb6-c259b368c983" playOrder="25">
+      <navLabel>
+        <text>Fütürist ‘Atmosfer-yapı’ -Mimari bir Temel 1914–15</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_027.html"/>
+    </navPoint>
+    <navPoint id="5d441bd8-e7f0-42cf-8783-553b783c3967" playOrder="26">
+      <navLabel>
+        <text>Fütürist Sentetik Tiyatro 1915</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_028.html"/>
+    </navPoint>
+    <navPoint id="fa705b17-b8a6-4569-ae3a-fb80d48f6994" playOrder="27">
+      <navLabel>
+        <text>Evrenin Fütürist Yeniden İnşası 1915</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_029.html"/>
+    </navPoint>
+    <navPoint id="581ce20e-6241-4688-ad04-23db2bad93b2" playOrder="28">
+      <navLabel>
+        <text>Fütürist Sahne (Manifesto) 1915</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_030.html"/>
+    </navPoint>
+    <navPoint id="90b8af4f-16f8-43da-ac71-5896d826ff76" playOrder="29">
+      <navLabel>
+        <text>Savaş Resmi (özet) 1915</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_031.html"/>
+    </navPoint>
+    <navPoint id="477d795e-3d7e-4f8e-a612-3c0711b50ef8" playOrder="30">
+      <navLabel>
+        <text>Eski Balla – Fütürist Balla 1915</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_032.html"/>
+    </navPoint>
+    <navPoint id="a86af7ea-1e8c-41a1-b994-ce1467c21015" playOrder="31">
+      <navLabel>
+        <text>Fütürist Evren 1918</text>
+      </navLabel>
+      <content src="Text/fuhristmanifesto_split_033.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

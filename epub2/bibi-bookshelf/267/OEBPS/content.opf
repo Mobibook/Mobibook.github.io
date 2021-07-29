@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Balıkçıl Gözü</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Guin, Ursula K. Le">Ursula K. Le Guin</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">f8451305-d05b-4e91-8ab6-e41e245b6c51</dc:identifier>
+    <dc:date>1998-12-15T22:00:00+00:00</dc:date>
+    <dc:publisher>Metis</dc:publisher>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Bilimkurgu</dc:subject>
+    <dc:description>&lt;div&gt;&lt;p class="firstParagraph" style="margin: 0px; padding: 0px; outline: 0px;"&gt;Victoria Gezegeni'ne önce dört bini aşkın haydut, katil ve hırsız tek yönlü uzay gemileriyle sürgün edildi. Bundan elli yıl sonra ise iki bin kadar barış yanlısı aynı sürgün kaderini paylaştı.&lt;/p&gt;&lt;p style="margin: 0px; padding: 0px; outline: 0px;"&gt;Şimdi artık Victoria'da iki toplum, iki kültür vardı: Dünya'nın en hırslı, en savaşkan ve en kural tanımaz insanlarının kendi kurallarını acımasızca uyguladıkları Şehir, ve Barış İnsanları'nın şiddetten, savaştan ve sömürüden uzak yaşamak amacıyla kurdukları Shantih Kasabası. Bu iki toplum arasında çatışma çıkması kaçınılmazdı; ne var ki, taraflardan biri çatışmaktansa yok olmaya bile razıydı...&lt;/p&gt;&lt;p style="margin: 0px; padding: 0px; outline: 0px;"&gt;"Bana öyle geliyor ki erkeklerin zayıf ve tehlikeli oldukları nokta, kibirleri. Kadının bir merkezi vardır, bir merkezdir kadın. Ama erkekler öyle değil, onlar erişmektir, uzanmaktır. O yüzden uzanırlar ve bir şeyler koparırlar, bunları etraflarına istif ederler ve 'ben buyum, ben şuyum, bu benim, şu da benim, benim ben olduğumu size kanıtlayacağım' derler. Ve bunu kanıtlayayım derken de bir çuval inciri berbat ederler."&lt;/p&gt;&lt;p style="margin: 0px; padding: 0px; outline: 0px;"&gt;Romanın açılış bölümünü Tadımlık'ta okuyabilirsiniz.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.68.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">d3f04a27-d154-48a2-bc67-90d130ab4f8b</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753420624</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Balıkçıl Gözü"/>
+    <meta name="calibre:series" content="Metis Bilimkurgu Dizisi"/>
+    <meta name="calibre:series_index" content="2.0"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ursula K. Le Guin&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/CoverPage.html" id="CoverPage_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0001.html" id="section-0001_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0002.html" id="section-0002_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0003.html" id="section-0003_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0004.html" id="section-0004_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0005.html" id="section-0005_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0006.html" id="section-0006_html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/styles.css" id="styles_css" media-type="text/css"/>
+    <item href="Images/CoverDesign.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/image0.jpg" id="image0_jpg" media-type="image/jpeg"/>
+    <item href="Images/log.jpg" id="log_jpg" media-type="image/jpeg"/>
+    <item href="Images/output-1.jpg" id="output-1_jpg" media-type="image/jpeg"/>
+    <item href="Images/output-2.jpg" id="output-2_jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverPage_html"/>
+    <itemref idref="section-0001_html"/>
+    <itemref idref="section-0002_html"/>
+    <itemref idref="section-0003_html"/>
+    <itemref idref="section-0004_html"/>
+    <itemref idref="section-0005_html"/>
+    <itemref idref="section-0006_html"/>
+  </spine>
+  <guide>
+    <reference href="Text/CoverPage.html" title="Cover Page" type="cover"/>
+  </guide>
+</package>

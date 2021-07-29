@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="67ccbf10-18aa-430e-8da5-2405ee22dd27" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.21.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yeşilçam Dedikleri Türkiye</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>I. BÖLÜM</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin1.xhtml"/>
+      <navPoint class="chapter" id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin2.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>II.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin3.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>III.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin4.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>IV.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin5.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>V.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin6.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>VI.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin7.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>VII.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin8.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>vııı.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin9.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>IX.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin10.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>II. BÖLÜM</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin11.xhtml"/>
+      <navPoint class="chapter" id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin12.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>XI.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin14.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>XII.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin15.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>XIII.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin16.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>XIV.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin18.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>XV.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin19.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>XVI.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin21.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>XVII.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin22.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>XVIII.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin24.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>III. BÖLÜM</text>
+      </navLabel>
+      <content src="OEBPS/Text/anametin26.xhtml"/>
+      <navPoint class="chapter" id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>XIX.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin27.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>XX.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin28.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>XXI.</text>
+        </navLabel>
+        <content src="OEBPS/Text/anametin29.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

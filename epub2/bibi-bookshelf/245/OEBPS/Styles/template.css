@@ -1,0 +1,111 @@
+@page {
+  margin: 0.5em;
+  }
+span.e-italik {
+  font-weight: normal;
+  font-style: italic;
+}
+span.e-dipnotno {
+  font-size: 0.8em;
+  vertical-align: super;
+}
+p.e-iyikikitaplarvar {
+  font-weight: 500;
+  font-style: italic;
+  font-size: 1.33em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.38;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 0;
+}
+p.e-paragraf {
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-variant: normal;
+  text-align: justify;
+  color: #000;
+  text-indent: 25px;
+  margin: 0;
+}
+p.e-jenerikbaslik {
+  font-weight: bold;
+  font-style: normal;
+  font-size: 1.08em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.69;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 14px 0 0 0;
+}
+p.e-jenerik {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.85em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.47;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 9px 0 0 0;
+}
+p.e-1-baslik {
+  font-weight: bold;
+  font-style: normal;
+  font-size: 0.85em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.4;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 14px 0 3px 0;
+}
+p.e-epi {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.85em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.44;
+  text-align: right;
+  color: #000;
+  text-indent: 0;
+  margin: 0 0 3px 43px;
+}
+p.e-perde {
+  font-weight: bold;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.17;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 28px 0 3px 0;
+}
+p.e-dipnotmetni {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.75em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.29;
+  text-align: left;
+  color: #000;
+  text-indent: -11px;
+  margin: 0 0 0 11px;
+}
+p.para-style-override-1 {
+  text-align: center;
+  margin-top: 4em;
+  margin-bottom: 4em;
+  page-break-after: always;
+}

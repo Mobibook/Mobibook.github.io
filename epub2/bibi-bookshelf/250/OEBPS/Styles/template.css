@@ -1,0 +1,48 @@
+@page{margin:.5em}
+tbody,thead,tfoot,tr,td,th{border-style:inherit;border-width:inherit;border-color:inherit}
+.leftFloat{float:left}
+.rightFloat{float:right}
+span.char-style-override-1{font-size:1.08em;font-style:normal;font-weight:400}
+span.char-style-override-2{font-size:1.67em;font-style:normal;font-weight:700}
+span.char-style-override-3{font-style:normal;font-weight:400}
+span.char-style-override-4{font-size:.75em;font-style:normal;font-weight:400}
+span.char-style-override-5{font-size:.75em;font-style:normal;font-weight:700}
+span.char-style-override-6{font-size:.75em;font-style:italic;font-weight:400}
+span.char-style-override-7{color:#00f;font-size:.75em;font-style:normal;font-weight:400}
+span.char-style-override-8{color:#00f;font-size:.75em;font-style:normal;font-weight:700}
+span.char-style-override-9{color:#000;font-size:.75em;font-style:normal;font-weight:400}
+span.char-style-override-10{font-size:1.5em;font-style:normal;font-weight:700}
+span.char-style-override-11{font-size:1.08em}
+span.char-style-override-12{font-style:normal;font-weight:700}
+span.char-style-override-13{font-style:italic;font-weight:400}
+span.char-style-override-14{text-transform:uppercase}
+span.char-style-override-15{vertical-align:super}
+p.Basic-Paragraph{font-weight:400;font-style:normal;font-size:.75em;text-decoration:none;font-variant:normal;text-align:justify;color:#000;text-indent:21px;margin:0 0 10px}
+p.paragraf{font-weight:400;font-style:normal;font-size:.92em;text-decoration:none;font-variant:normal;text-align:justify;color:#000;text-indent:20px;margin:0}
+p.anabaslik{font-weight:700;font-style:normal;font-size:1.25em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:0;margin:0}
+p.arabaslik-orta{font-weight:700;font-style:normal;font-size:1em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:0;margin:0 0 25px}
+p.split{font-weight:400;font-style:normal;font-size:1.08em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:0;margin:150px 0 0}
+p.resim{font-weight:400;font-style:italic;font-size:.75em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:0;margin:30px 0}
+p.bos{font-weight:400;font-style:normal;font-size:.92em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:0;margin:15px 0}
+p.ana-alt{font-weight:700;font-style:normal;font-size:1.08em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:0;margin:10px 0 0}
+p.No-Paragraph-Style{font-weight:400;font-style:normal;font-size:1em;text-decoration:none;font-variant:normal;text-align:left;color:#000;text-indent:0;margin:0}
+p.paragraf-1{font-weight:400;font-style:normal;font-size:.92em;text-decoration:none;font-variant:normal;text-align:justify;color:#000;text-indent:20px;margin:0}
+p.split-1{font-weight:400;font-style:normal;font-size:1.08em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:0;margin:150px 0 0}
+p.bas{font-weight:700;font-style:normal;font-size:1.08em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:0;margin:0 0 20px}
+p.bos-1{font-weight:400;font-style:normal;font-size:.92em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:0;margin:15px 0}
+p.paragraf-2{font-weight:400;font-style:normal;font-size:.92em;text-decoration:none;font-variant:normal;text-align:justify;color:#000;text-indent:20px;margin:0}
+p.split-2{font-weight:400;font-style:normal;font-size:1.08em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:0;margin:150px 0 0}
+p.bas-1{font-weight:700;font-style:normal;font-size:1.08em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:0;margin:0 0 20px}
+p.No-Paragraph-Style-1{font-weight:400;font-style:normal;font-size:1em;text-decoration:none;font-variant:normal;text-align:left;color:#000;text-indent:0;margin:0}
+p.paragraf-3{font-weight:400;font-style:normal;font-size:.92em;text-decoration:none;font-variant:normal;text-align:justify;color:#000;text-indent:20px;margin:0}
+p.split-3{font-weight:400;font-style:normal;font-size:1.08em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:0;margin:150px 0 0}
+p.bas-2{font-weight:700;font-style:normal;font-size:1.08em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:20px;margin:0 0 20px}
+p.bos-2{font-weight:400;font-style:normal;font-size:.92em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:20px;margin:15px 0}
+p.No-Paragraph-Style-2{font-weight:400;font-style:normal;font-size:1em;text-decoration:none;font-variant:normal;text-align:left;color:#000;text-indent:0;margin:0}
+p.para-style-override-1{text-align:center;margin-top:0;margin-bottom:0}
+p.para-style-override-2{margin-top:150px;text-align:center}
+p.para-style-override-3{margin-top:30px;text-align:center}
+p.para-style-override-4{margin-top:350px;text-align:center}
+p.para-style-override-5{margin-top:100px}
+p.para-style-override-6{text-align:right}
+p.para-style-override-7{text-align:center;text-indent:0}

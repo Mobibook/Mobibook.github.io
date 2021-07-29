@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="05b79016-5019-422c-a57a-fec48f5a6eaf" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Turgut Reis</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_000.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Turgutca’nın Doğumu Ve Adı</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_002.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Çocukluk</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_003.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Sıralovaz’dan Açık Denizlere</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_004.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Turgut’un Topları, Akdeniz’de Gürlüyor</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_005.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>On Yedi Yaşında Fırkata (Fregat) Reisi</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_006.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Turgut Reis, Kendi Perkendesinde (Brigantininde)</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_007.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Turgutca, Oruç Reis’e Kavuşuyor</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_008.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Turgut Reis’in İspanya Kıyılarına İlk Uğrayışı</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_009.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Deniz Adaleti</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_010.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Kış Seferi</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_011.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Kuzey Afrika’da Yıllarca Süren Kara Ve Deniz Savaşları</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_012.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>15 Yıl Sonra</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_013.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Barbaros’la Birlikte Yine Akdeniz’de</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_014.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Dünyanın Başlıca Deniz Savaşlarından Birinin Öncesinde</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_015.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Preveze Deniz Savaşı</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_016.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Forsalık</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_017.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Kurtuluş</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_018.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Cirbe’ye Dönüş Ve Deniz Seferleri</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_019.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Mehdiye Kalesi</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_020.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Cirbe Adası Oyunu</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_021.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Barbaros’un Ölümü Ve Rüstem Paşa Dönemi</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_022.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Turgut Reis’in Şehadeti</text>
+      </navLabel>
+      <content src="Text/Cevat%20Sakir%20Kabaagacli%20-%20Turgut%20Reis_split_023.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

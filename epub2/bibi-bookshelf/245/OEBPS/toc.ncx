@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:35d8502c-a7c4-4510-8dda-ed5737a55621" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kubbeyi Yere Koymamak</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>SUNUŞ</text>
+      </navLabel>
+      <content src="Text/osmanlısehri_04.html#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM / ŞEHİR-SANAT-MİMARÎ</text>
+      </navLabel>
+      <content src="Text/osmanlısehri_05.html#toc_marker-2"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>ŞEHİR</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_05.html#toc_marker-3"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>SANAT VE MİMARÎ HAKKINDA</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_05.html#toc_marker-4"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>YAŞANAN VE SEYİRLİK SANATLAR</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_05.html#toc_marker-5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>SANAT ESERİ ÜZERİNE: ÖMER ULUÇ'UN RESMİ HAKKINDA</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_05.html#toc_marker-6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>GÜZEL, ÇİRKİN VE BAYAĞI VESİLESİ İLE</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_05.html#toc_marker-7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>MİMARÎ VE YAPI</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_05.html#toc_marker-8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>MİMARÎ ÜZERİNE DÜŞÜNCELER</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_05.html#toc_marker-9"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>MİMARÎDE TEZYİNÎLİK</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_05.html#toc_marker-10"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>KÜLTÜRÜMÜZ VE ŞEHİRLERİMİZ</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_05.html#toc_marker-11"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>ÇOKSESLİLİK YA DA POLİFONİ</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_05.html#toc_marker-12"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>MODERNLEŞME VE GELENEKLERİMİZ</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_05.html#toc_marker-13"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM / OSMANLI ŞEHRİ</text>
+      </navLabel>
+      <content src="Text/osmanlısehri_06.html#toc_marker-14"/>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>OSMANLI ŞEHRİ</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_06.html#toc_marker-15"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>OSMANLI EVİ</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_06.html#toc_marker-16"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>OSMANLI ŞEHİR VE DEVLET YÖNETİMİNİ BİÇİMLENDİREN İLKELER</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_06.html#toc_marker-17"/>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>Osmanlı Yönetim Düşüncesinde Bilgi - Otorite İlişkisi</text>
+          </navLabel>
+          <content src="Text/osmanlısehri_06.html#toc_marker-18"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>Hassa Mimarlar Ocağı</text>
+          </navLabel>
+          <content src="Text/osmanlısehri_06.html#toc_marker-21"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>Loncalar: En Yüksek Bilginin Hâkim Olduğu Eğitim</text>
+          </navLabel>
+          <content src="Text/osmanlısehri_06.html#toc_marker-22"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>Standartların Temel Nitelikleri</text>
+          </navLabel>
+          <content src="Text/osmanlısehri_06.html#toc_marker-23"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>Şehirle İlgili Mimarî Standartlar</text>
+          </navLabel>
+          <content src="Text/osmanlısehri_06.html#toc_marker-24"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>Standartların Uygulanması: Mahallî Kararların Belirlenmesi</text>
+          </navLabel>
+          <content src="Text/osmanlısehri_06.html#toc_marker-25"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>DİVAN ŞİİRİ İLE OSMANLI ŞEHRİNİN VE MİMARLIĞININ ORTAK TEMELLERİ</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_06.html#toc_marker-26"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>OSMANLI'DA BOZULMANIN BAŞLAMASI</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_06.html#toc_marker-27"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM / SORUNLAR VE ÇÖZÜMLER</text>
+      </navLabel>
+      <content src="Text/osmanlısehri_07.html#toc_marker-28"/>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>GELECEĞİMİZ İÇİN ŞEHİRLEŞME VE MİMARÎ</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_07.html#toc_marker-29"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>CUMHURİYET DÖNEMİNDE MİMARÎ VE YAPI SEKTÖRÜ</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_07.html#toc_marker-30"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>ŞEHİRLEŞME, KONUT MESELELERİMİZ: ÇÖZÜM VE NİYET</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_07.html#toc_marker-31"/>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>Müsteşarlık</text>
+          </navLabel>
+          <content src="Text/osmanlısehri_07.html#toc_marker-32"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>ÇEVRE VE DEĞERLER</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_07.html#toc_marker-33"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>TARİHİ ÇEVRE NASIL KORUNMALI?</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_07.html#toc_marker-34"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>BODRUM'UN GELİŞMESİ HAKKINDA</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_07.html#toc_marker-35"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>BODRUM'DA MİMARÎ - DEMİR VE ERTEGÜN EVLERİ</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_07.html#toc_marker-36"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>AĞA HAN MİMARLIK ÖDÜLÜ ÜZERİNE</text>
+        </navLabel>
+        <content src="Text/osmanlısehri_07.html#toc_marker-37"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

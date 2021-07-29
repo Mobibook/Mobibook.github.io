@@ -1,0 +1,86 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Guin, Ursula K. Le">Ursula K. Le Guin</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">569eae77-3e5e-4c1d-a24d-f6e9fc6df76e</dc:identifier>
+    <dc:date>2006-04-30T21:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2015-07-28</dc:date>
+    <meta content="0.8.1" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta content="Mülksüzler" name="calibre:title_sort"/>
+    <dc:publisher>Metis Yayınları</dc:publisher>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:description>&lt;p&gt;"...Vermediğimiz şeyi alamazsınız, kendinizi vermeniz gerekir. Devrim'i satın alamazsınız. Devrim'i yapamazsınız. Devrim olabilirsiniz ancak. Devrim ya ruhunuzdadır ya da hiç bir yerde değildir." Konuşmasını bitirirken, yaklaşan polis helikopterlerinin gürültüsü sesini boğmaya başladı. "Romanım Mülksüzler, kendilerine Odocu diyen küçük bir dünya dolusu insanı anlatıyor; Odo romandaki olaylardan kuşaklarca önce yaşamış, bu yüzden olaylara katılmıyor, ya da yalnızca zımnen katılıyor, çünkü bütün olaylar aslında onunla başlamıştı. "Odoculuk anarşizmdir. Sağı solu bombalamak anlamında değil: kendine hangi saygıdeğer adı verirse versin bunun adı tedhişçiliktir. Aşırı sağın sosyal-Darwinist ekonomik özgürlükçülüğü de değil; düpedüz anarşizm: eski Taocu düşüncede öngörülen, Shelley ve Kropotkin'in, Goldmann ve Goodman'ın geliştirdiği biçimiyle. Anarşizmin baş hedefi, ister kapitalist isterse sosyalist olsun, otoriter devlettir; önde gelen ahlaki ve ilkesel teması ise işbirliğidir (dayanışma, karşılıklı yardım). Tüm siyasal kuramlar içinde en idealist olanı anarşizmdir; bu yüzden de bana en ilginç gelen kuramdır."&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{&quot;Ursula K. Le Guin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <dc:title>Mülksüzler</dc:title>
+<dc:subject>Bilim Kurgu</dc:subject>
+<dc:subject>Fantastik</dc:subject>
+<dc:subject>Distopya</dc:subject>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>Politik</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">08638013-6251-4122-9cc4-c938070ab67b</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753425285</dc:identifier>
+<meta name="calibre:user_metadata:#mm_annotations" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#mm_annotations&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;comments&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;mm_annotations&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Annotations&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="Text/chapter1.xhtml" id="text2" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="text3" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="text4" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="text5" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="text6" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="text7" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="text8" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter8.xhtml" id="text9" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter9.xhtml" id="text10" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter10.xhtml" id="text11" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter11.xhtml" id="text12" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter12.xhtml" id="text13" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter13.xhtml" id="text14" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter14.xhtml" id="text15" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter15.xhtml" id="text16" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter16.xhtml" id="text17" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter17.xhtml" id="text18" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter18.xhtml" id="text19" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter19.xhtml" id="text20" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter20.xhtml" id="text21" media-type="application/xhtml+xml"/>
+    <item href="Images/image001.jpg" id="resource1" media-type="image/jpeg"/>
+    <item href="Images/image002.jpg" id="resource2" media-type="image/jpeg"/>
+    <item href="Images/image003.png" id="resource3" media-type="image/png"/>
+    <item href="Images/image004.png" id="resource4" media-type="image/png"/>
+    <item href="Images/image005.png" id="resource5" media-type="image/png"/>
+    <item href="Styles/styles1.css" id="resource6" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="text2"/>
+    <itemref idref="text3"/>
+    <itemref idref="text4"/>
+    <itemref idref="text5"/>
+    <itemref idref="text6"/>
+    <itemref idref="text7"/>
+    <itemref idref="text8"/>
+    <itemref idref="text9"/>
+    <itemref idref="text10"/>
+    <itemref idref="text11"/>
+    <itemref idref="text12"/>
+    <itemref idref="text13"/>
+    <itemref idref="text14"/>
+    <itemref idref="text15"/>
+    <itemref idref="text16"/>
+    <itemref idref="text17"/>
+    <itemref idref="text18"/>
+    <itemref idref="text19"/>
+    <itemref idref="text20"/>
+    <itemref idref="text21"/>
+  </spine>
+  <guide>
+    <reference href="Text/chapter3.xhtml#toc0" title="Text" type="text"/>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

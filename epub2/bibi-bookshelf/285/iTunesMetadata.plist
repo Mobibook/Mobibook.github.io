@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Ursula K. Le Guin &amp; Çiğdem Erkal İpek</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>ED19A3C4F5881F964B6EE7FE73570D72</string>
+		<key>cover-image-path</key>
+		<string>cover1.jpeg</string>
+		<key>package-file-hash</key>
+		<string>2EFC0DD289D4C257B8ED0E5E3E82E4FD</string>
+		<key>publisher-unique-id</key>
+		<string>a436e5d4-de0f-48e6-853b-96e7d3ea646d</string>
+		<key>unique-id</key>
+		<integer>-7398852128444762310</integer>
+	</dict>
+	<key>composerName</key>
+	<string>a436e5d4-de0f-48e6-853b-96e7d3ea646d</string>
+	<key>itemName</key>
+	<string>Yerdeniz büyücüsü</string>
+	<key>playlistName</key>
+	<string>Yerdeniz büyücüsü</string>
+	<key>releaseDate</key>
+	<string>1997-07-14T21:00:00+00:00</string>
+	<key>sort-artist</key>
+	<string>X, Nikita</string>
+	<key>sort-artist-status</key>
+	<integer>1</integer>
+	<key>sort-composer</key>
+	<string></string>
+	<key>sort-composer-status</key>
+	<integer>128</integer>
+	<key>sort-name</key>
+	<string>Yerdeniz büyücüsü</string>
+	<key>sort-name-status</key>
+	<integer>1</integer>
+</dict>
+</plist>

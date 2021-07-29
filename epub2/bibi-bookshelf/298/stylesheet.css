@@ -1,0 +1,162 @@
+.calibre {
+    display: block;
+    font-family: "LiberationSerif", serif;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    text-align: center;
+    margin: 1em 0
+    }
+.calibre2 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre3 {
+    display: block
+    }
+.calibre4 {
+    display: block;
+    text-align: right;
+    margin: 1em 0
+    }
+.calibre5 {
+    display: block;
+    font-size: 1.54839em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.67em 0
+    }
+.calibre6 {
+    display: block;
+    font-size: 1.29032em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.calibre7 {
+    font-family: Times New Roman, serif;
+    line-height: 1.2
+    }
+.calibre8 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre9 {
+    line-height: 1.2
+    }
+.calibre10 {
+    font-family: Arial, sans-serif;
+    font-size: 0.375em
+    }
+.calibre11 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: sub
+    }
+.calibre12 {
+    font-family: Times New Roman, serif;
+    font-size: 0.6em
+    }
+.calibre13 {
+    font-size: 0.77419em;
+    line-height: 1.2;
+    vertical-align: sub
+    }
+.calibre14 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre15 {
+    font-weight: bold
+    }
+.calibre16 {
+    height: 178pt;
+    width: 258pt
+    }
+.font {
+    font-family: "Arial", sans-serif;
+    font-size: 0.58065em;
+    font-weight: bold
+    }
+.font1 {
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em
+    }
+.font2 {
+    font-family: "Arial", sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.font3 {
+    font-family: "Times New Roman", serif;
+    font-size: 1.41935em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.font4 {
+    font-family: "Arial", sans-serif;
+    font-size: 0.58065em
+    }
+.font5 {
+    font-family: "Times New Roman", serif;
+    font-size: 0.5em
+    }
+.font6 {
+    font-family: "Times New Roman", serif;
+    font-size: 0.6em
+    }
+.font7 {
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    text-decoration: underline
+    }
+.font8 {
+    font-family: "Century Schoolbook", serif;
+    font-size: 0.58065em
+    }
+.font9 {
+    font-family: "Century Gothic", serif;
+    font-size: 1em;
+    font-style: italic;
+    line-height: 1.2
+    }
+.font10 {
+    font-family: "Arial", sans-serif;
+    font-size: 0.45em
+    }
+.font11 {
+    font-family: "Times New Roman", serif;
+    font-size: 0.775em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.font12 {
+    font-family: "Arial", sans-serif;
+    font-size: 0.58065em;
+    font-weight: bold;
+    text-decoration: underline
+    }
+.font13 {
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    font-weight: bold
+    }
+.font14 {
+    font-family: "Times New Roman", serif;
+    font-size: 0.58065em;
+    font-weight: bold
+    }
+.font15 {
+    font-family: "Times New Roman", serif;
+    font-size: 0.58065em;
+    font-weight: bold;
+    text-decoration: underline
+    }

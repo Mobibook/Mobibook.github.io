@@ -1,0 +1,71 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Türkali, Vedat">Vedat Türkali</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">b96aa636-11f3-487c-b9d9-6264414887c6</dc:identifier>
+    <dc:date>2005-05-01T21:00:00+00:00</dc:date>
+    <meta content="2" name="calibre:series_index"/>
+    <dc:publisher>Everest Yayınları</dc:publisher>
+    <meta name="cover" content="cover"/>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="2015-05-27T05:33:20.814000+00:00" name="calibre:timestamp"/>
+    <dc:description>&lt;p&gt;Zaman: 12 Eylül 1980 Darbesi öncesinin minyatür, kaotik "iç savaş" yılları.
+Yer: Bodrum...
+Kişiler: Aydınlar...
+Olayların eksenini, doktora öğrencisi Nergis'in ölümle tehdit edilen sevgilisi, fizik asistanı Korhan'ı ölümden kurtarmak için Bodrum'a getirilişi, orada eski sevgilisi Özgür'le karşılaşması oluşturuyor. Nergis-Korhan, Nergis-Özgür ilişkisinin çevresinde, ülkenin içinde bulunduğu durum, "terör"ün tırmanışı, Bodrum'daki yaşayış ele alınıyor.
+
+Ölümün kol gezdiği bir dönemde her sınıftan aydının toplandığı Bodrum sığınağı şöyle çiziliyor:
+"Tabaklarla, içki şişeleriyle donanmış masalardaki arkeolog, gazeteci, yazar, öğretmen, doktor, mimar, hukukçu, radyocu, televizyoncu, büyük kent sosyetelerinden kadınlı erkeli bilinen yüzler, türkülü, kahkahalı, gülücüklü, konuşmalı, alkol kokulu, sigara dumanlı bir ortalıkta karman çorman..."
+
+"Mavi Karanlık", Korhan'la Özgür arasında bocalayan Nergis'in sevdası ekseninde; asıl, aydınlarla halk arasındaki ilişki ve çelişkinin hesaplaşmasının sergilendiği, bugün de güncelliğini yitirmemiş bir romandır.
+(Tanıtım Yazısından)&lt;/p&gt;</dc:description>
+    <meta content="Mavi Karanlık" name="calibre:title_sort"/>
+    <meta content="0.7.1" name="Sigil version"/>
+    <dc:date opf:event="modification">2015-05-27</dc:date>
+  <dc:title>Mavi Karanlık</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Roman</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Vedat Türkali&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">44a4b3c9-85d0-4582-8a34-c7f3b31651a0</dc:identifier>
+<dc:identifier opf:scheme="ISBN">2789785837114</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/index_split_000.html" id="id212" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id211" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id210" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_005.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_006.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_007.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_008.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_009.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_010.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_011.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id212"/>
+    <itemref idref="id211"/>
+    <itemref idref="id210"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

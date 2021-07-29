@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="f8451305-d05b-4e91-8ab6-e41e245b6c51" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yirmialtı Adam ve Bir Kız</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>DÖRT BUÇUK</text>
+      </navLabel>
+      <content src="Text/section-0004.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>YENİ BİR HAYAT</text>
+        </navLabel>
+        <content src="Text/section-0004.html#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>KIRILMAZ</text>
+        </navLabel>
+        <content src="Text/section-0004.html#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>KAPLAN</text>
+        </navLabel>
+        <content src="Text/section-0004.html#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>YİNİSTAN’DA YAŞAMAK</text>
+        </navLabel>
+        <content src="Text/section-0004.html#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>YANSIMA</text>
+        </navLabel>
+        <content src="Text/section-0004.html#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>HAFRİYAT</text>
+        </navLabel>
+        <content src="Text/section-0004.html#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>FOTOĞRAF</text>
+        </navLabel>
+        <content src="Text/section-0004.html#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>HİKÂYE</text>
+        </navLabel>
+        <content src="Text/section-0004.html#sigil_toc_id_8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>PROFESÖRÜN EVLERİ</text>
+      </navLabel>
+      <content src="Text/section-0005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>RUBY 67 NUMARADA</text>
+      </navLabel>
+      <content src="Text/section-0006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>LIMBERLOST</text>
+      </navLabel>
+      <content src="Text/section-0007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>ZİHNİMDEKİ MAHLUKAT</text>
+      </navLabel>
+      <content src="Text/section-0008.html"/>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>BÖCEK</text>
+        </navLabel>
+        <content src="Text/section-0008.html#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>SERÇE</text>
+        </navLabel>
+        <content src="Text/section-0008.html#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>MARTI</text>
+        </navLabel>
+        <content src="Text/section-0008.html#sigil_toc_id_11"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>SAĞLAM BASMAK</text>
+      </navLabel>
+      <content src="Text/section-0009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>BODRUMDAKİ KAŞIKLAR</text>
+      </navLabel>
+      <content src="Text/section-0010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>YAZIN SEATOWN'DA PAZAR GÜNÜ</text>
+      </navLabel>
+      <content src="Text/section-0011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>KURAKLIK</text>
+      </navLabel>
+      <content src="Text/section-0012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>ETHERGEZER</text>
+      </navLabel>
+      <content src="Text/section-0013.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>HAVANIN KİLİDİNİ AÇMAK</text>
+      </navLabel>
+      <content src="Text/section-0014.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>ÇOCUK GELİN</text>
+      </navLabel>
+      <content src="Text/section-0015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>AYA TIRMANMAK</text>
+      </navLabel>
+      <content src="Text/section-0016.html"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>BABASININ KOCA KIZI</text>
+      </navLabel>
+      <content src="Text/section-0017.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>BULUNANLAR</text>
+      </navLabel>
+      <content src="Text/section-0018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>İHTİYARLAR</text>
+      </navLabel>
+      <content src="Text/section-0019.html"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>BİLGE KADIN</text>
+      </navLabel>
+      <content src="Text/section-0020.html"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>KAÇAK AVCI</text>
+      </navLabel>
+      <content src="Text/section-0021.html"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>ARKA KAPAK</text>
+      </navLabel>
+      <content src="Text/section-0022.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

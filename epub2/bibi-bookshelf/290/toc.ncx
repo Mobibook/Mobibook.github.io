@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="614592b5-b4b4-4f99-a8c6-c400d14886d2" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (1.43.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Vur Emri</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>GEÇMİŞTEN BUGÜNE... KISA BİR HESAPLAŞMA</text>
+      </navLabel>
+      <content src="index_split_003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>PKK Gerçeği ve İlerici - Demokrat Sorumluluğu</text>
+      </navLabel>
+      <content src="index_split_004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Selçuklu'dan Bu Yana</text>
+      </navLabel>
+      <content src="index_split_005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Gerici ve Dış Destekli İsyanlar</text>
+      </navLabel>
+      <content src="index_split_006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>El Değiştiren Terör</text>
+      </navLabel>
+      <content src="index_split_007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Bir Bölücünün Anatomisi!!!</text>
+      </navLabel>
+      <content src="index_split_008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="index_split_009.html"/>
+      <navPoint class="chapter" id="num_8" playOrder="8">
+        <navLabel>
+          <text>ASKERLİK FOBİSİ</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901191"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_9" playOrder="9">
+        <navLabel>
+          <text>Bir Piyadenin Hatıratı</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901192"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_10" playOrder="10">
+        <navLabel>
+          <text>Gessene</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901193"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_11" playOrder="11">
+        <navLabel>
+          <text>Tek Tip Üniversiteliler</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901194"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_12" playOrder="12">
+        <navLabel>
+          <text>Lordlar Bölüğü</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901195"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_13" playOrder="13">
+        <navLabel>
+          <text>Müşahade'nin Türkçesi</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901196"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_14" playOrder="14">
+        <navLabel>
+          <text>Bayılmanın Türleri</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901197"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_15" playOrder="15">
+        <navLabel>
+          <text>Bir Nutuk ve Özgürlük</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901198"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_16" playOrder="16">
+        <navLabel>
+          <text>Vatana İhanet</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901199"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_17" playOrder="17">
+        <navLabel>
+          <text>Bir Askerlik Dersi</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901200"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_18" playOrder="18">
+        <navLabel>
+          <text>Oğlum, Sen Laz mısın?</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901201"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_19" playOrder="19">
+        <navLabel>
+          <text>Haçlı Seferi</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901202"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_20" playOrder="20">
+        <navLabel>
+          <text>Tuzluk</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901203"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_21" playOrder="21">
+        <navLabel>
+          <text>Telçeker Neresi?</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901204"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_22" playOrder="22">
+        <navLabel>
+          <text>Takan Yok</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901205"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_23" playOrder="23">
+        <navLabel>
+          <text>Afedersiniz, Siz Asker misiniz?</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901206"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="24">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="index_split_009.html#id_Toc393901207"/>
+      <navPoint class="chapter" id="num_25" playOrder="25">
+        <navLabel>
+          <text>BİR BAŞKA YERİN ANILARI</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901208"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_26" playOrder="26">
+        <navLabel>
+          <text>Mantığın Bittiği Yer</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901209"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_27" playOrder="27">
+        <navLabel>
+          <text>Er Psikolojisi</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901210"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_28" playOrder="28">
+        <navLabel>
+          <text>Afiyet Olsun!..</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901211"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_29" playOrder="29">
+        <navLabel>
+          <text>Aile Terbiyesi</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901212"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_30" playOrder="30">
+        <navLabel>
+          <text>Adaletin Tecellisi...</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901213"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_31" playOrder="31">
+        <navLabel>
+          <text>Hapislik Zor Zenaat...</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901214"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_32" playOrder="32">
+        <navLabel>
+          <text>Sürgünde...</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901215"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_33" playOrder="33">
+        <navLabel>
+          <text>İlk Operasyon... Ya da Korku Dağlan Bekler</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901216"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_34" playOrder="34">
+        <navLabel>
+          <text>Bir Kanlı Oyun</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901217"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_35" playOrder="35">
+        <navLabel>
+          <text>Sevgili Arsız Ölüm</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901218"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_36" playOrder="36">
+        <navLabel>
+          <text>Görev Kutsaldır... Ya da Loğ Yapmanın Bedeli</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901219"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_37" playOrder="37">
+        <navLabel>
+          <text>Bir "Vali Paşa" ve Bir Görgü Dersi</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901220"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_38" playOrder="38">
+        <navLabel>
+          <text>Can Çıkar Huy Çıkmaz</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901221"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_39" playOrder="39">
+        <navLabel>
+          <text>Penceresi Alüminyum Kaplı Ev</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901222"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_40" playOrder="40">
+        <navLabel>
+          <text>Selçuktan Bu Yana</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901223"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_41" playOrder="41">
+        <navLabel>
+          <text>Bin Yıllık Uçurum</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901224"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_42" playOrder="42">
+        <navLabel>
+          <text>Sakıncalı</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901225"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_43" playOrder="43">
+        <navLabel>
+          <text>Muhsin Batur'un Anıları</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901226"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_44" playOrder="44">
+        <navLabel>
+          <text>Bir Baskın Hikâyesi</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901227"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_45" playOrder="45">
+        <navLabel>
+          <text>Geniş Yürekli Yüzbaşım</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901228"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_46" playOrder="46">
+        <navLabel>
+          <text>Bir İzin Hikayesi</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901229"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_47" playOrder="47">
+        <navLabel>
+          <text>Takdirname</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901230"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_48" playOrder="48">
+        <navLabel>
+          <text>Aç Aç Gecesi</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901231"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_49" playOrder="49">
+        <navLabel>
+          <text>Bahar Taarruzu</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901232"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_50" playOrder="50">
+        <navLabel>
+          <text>Görüntünün Faziletleri</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901233"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_51" playOrder="51">
+        <navLabel>
+          <text>Emir Demiri Keser</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901234"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_52" playOrder="52">
+        <navLabel>
+          <text>Bir Sigara Yanığı</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901235"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_53" playOrder="53">
+        <navLabel>
+          <text>Anılar</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901236"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_54" playOrder="54">
+      <navLabel>
+        <text>EKLER</text>
+      </navLabel>
+      <content src="index_split_009.html#id_Toc393901237"/>
+      <navPoint class="chapter" id="num_55" playOrder="55">
+        <navLabel>
+          <text>EK "VUR EMRİ" belgeleri</text>
+        </navLabel>
+        <content src="index_split_009.html#id_Toc393901238"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

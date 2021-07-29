@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:85427f8f-935d-4ad2-ab67-424b89c56d3f</dc:identifier>
+    <dc:title>Rüyanın Öte Yakası</dc:title>
+    <dc:creator opf:file-as="Guin, Ursula K. Le" opf:role="aut">Ursula K. Le Guin</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:description>&lt;div style="text-align: justify;"&gt;&lt;span class="Apple-style-span" style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 14px; "&gt;Herkes rüya görür. Peki ya bir gün rüyalarınız gerçek, hatta gerçekliğin ta kendisi olsa? Rüyalarınızla gerçekliği sürekli yeni baştan yaratsanız? Rüyanın Öte Yakası'nda Ursula K. Le Guin her zamanki usta anlatımı ve özgün bakış açısıyla bu soruya yanıt arıyor. Denklemin bir tarafında, gördüğü rüyalarla tüm insanlığın ve hatta evrenin kaderini değiştirmeye muktedir gönülsüz bir kahraman, diğer tarafındaysa onun gücünü "faydalı işler" yapmak için kullanırken iktidar hırsına yenik düşen bir bilimadamı var. Gönülsüz kahraman omzundaki bu ağır yükten kurtulmak, herkes gibi dünyanın bir parçası olmak istiyor; bilim adamıysa bu olağanüstü yeteneği kullanıp daha iyi, daha "akılcı" bir dünyanın mimarı olmak. Rüyanın Öte Yakası, hayal gücünü kamçılayan olay örgüsü ve derin felsefi boyutuyla LeGuin severlerin ve fantastik edebiyat tutkunlarının kaçırmaması gereken bir roman.&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Metis Yayıncılık</dc:publisher>
+    <dc:identifier opf:scheme="ISBN">9789753427913</dc:identifier>
+    <dc:subject>Bilimkurgu</dc:subject>
+    <dc:date opf:event="modification">2014-03-06</dc:date>
+    <meta content="{&quot;Ursula K. Le Guin&quot;: &quot;&quot;}" name="calibre:author_link_map" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="10.0" name="calibre:rating" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="2014-03-04T17:44:11.562000+00:00" name="calibre:timestamp" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="Rüyanın Öte Yakası" name="calibre:title_sort" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="0.7.4" name="Sigil version" />
+    <meta name="cover" content="kapak.jpg" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/chapter.xhtml" id="text1" media-type="application/xhtml+xml" />
+    <item href="Text/chapter1.xhtml" id="text2" media-type="application/xhtml+xml" />
+    <item href="Text/chapter2.xhtml" id="text3" media-type="application/xhtml+xml" />
+    <item href="Text/chapter3.xhtml" id="text4" media-type="application/xhtml+xml" />
+    <item href="Text/chapter4.xhtml" id="text5" media-type="application/xhtml+xml" />
+    <item href="Text/chapter5.xhtml" id="text6" media-type="application/xhtml+xml" />
+    <item href="Text/chapter6.xhtml" id="text7" media-type="application/xhtml+xml" />
+    <item href="Text/chapter7.xhtml" id="text8" media-type="application/xhtml+xml" />
+    <item href="Text/chapter8.xhtml" id="text9" media-type="application/xhtml+xml" />
+    <item href="Text/chapter9.xhtml" id="text10" media-type="application/xhtml+xml" />
+    <item href="Text/chapter10.xhtml" id="text11" media-type="application/xhtml+xml" />
+    <item href="Text/chapter11.xhtml" id="text12" media-type="application/xhtml+xml" />
+    <item href="Styles/styles1.css" id="resource1" media-type="text/css" />
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="text1" />
+    <itemref idref="text2" />
+    <itemref idref="text3" />
+    <itemref idref="text4" />
+    <itemref idref="text5" />
+    <itemref idref="text6" />
+    <itemref idref="text7" />
+    <itemref idref="text8" />
+    <itemref idref="text9" />
+    <itemref idref="text10" />
+    <itemref idref="text11" />
+    <itemref idref="text12" />
+  </spine>
+  <guide>
+    <reference href="Text/chapter.xhtml" title="Text" type="text" xmlns="http://www.idpf.org/2007/opf" />
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>
