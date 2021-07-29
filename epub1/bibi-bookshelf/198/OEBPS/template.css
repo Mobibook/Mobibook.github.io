@@ -1,0 +1,322 @@
+@font-face {
+	font-family : "ChelthmITC Bk BT";
+	font-style : normal;
+	font-weight : normal;
+	src : url("fonts/CheltenhamITCbyBT-Book.ttf");
+}
+@font-face {
+	font-family : "ChelthmITC Bk BT";
+	font-style : italic ;
+	font-weight : normal;
+	src : url("fonts/CheltenhamITCbyBT-BookItalic.ttf");
+}
+@font-face {
+	font-family : "Futura Bk BT";
+	font-style : normal;
+	font-weight : normal;
+	src : url("fonts/FuturaBT-Book.ttf");
+}
+@page {
+	margin : 0.5em;
+}
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+.leftFloat {
+	float : left;
+}
+.rightFloat {
+	float : right;
+}
+span.Dipnot-Basvurusu {
+	font-family : "ChelthmITC Bk BT", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.65em;
+	vertical-align : super;
+	color : #ff0000;
+}
+span.aciklama {
+	font-family : "ChelthmITC Bk BT", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.65em;
+	vertical-align : super;
+	color : #0000ff;
+}
+span.dipnotust {
+	font-family : "ChelthmITC Bk BT", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	vertical-align : super;
+	color : #d90000;
+}
+span.char-style-override-1 {
+	font-size : 1.03em;
+}
+span.char-style-override-2 {
+	font-size : 1em;
+}
+span.char-style-override-3 {
+	font-size : 0.75em;
+}
+span.char-style-override-4 {
+	font-size : 0.78em;
+	font-style : italic;
+	font-weight : normal;
+}
+span.char-style-override-5 {
+	color : #ff0000;
+	font-size : 0.75em;
+}
+span.char-style-override-6 {
+	font-size : 0.75em;
+}
+span.char-style-override-7 {
+	font-size : 0.67em;
+}
+span.char-style-override-8 {
+	color : #1f3bff;
+}
+span.char-style-override-9 {
+	font-size : 0.65em;
+	vertical-align : super;
+	color : #d90000;
+}
+span.char-style-override-10 {
+	font-style : italic;
+	font-weight : normal;
+}
+span.char-style-override-11 {
+	font-size : 0.88em;
+}
+span.char-style-override-12 {
+	color : #ff0000;
+	vertical-align : super;
+}
+span.char-style-override-13 {
+	font-size : 0.88em;
+	font-style : italic;
+	font-weight : normal;
+}
+span.char-style-override-14 {
+	font-size : 0.75em;
+}
+p.Metin {
+	font-family : "ChelthmITC Bk BT", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 18px;
+	margin : 0px;
+}
+p.alinti {
+	font-family : "ChelthmITC Bk BT", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.70em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 18px;
+	margin : 0px 0px 0px 53px;
+}
+p.Baslik-1 {
+	font-family : "ChelthmITC Bk BT", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.70em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Baslik-2 {
+	font-family : "ChelthmITC Bk BT", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Baslik-3 {
+	font-family : "ChelthmITC Bk BT", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.70em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 28px;
+	margin : 0px;
+}
+p.Baslik-4 {
+	font-family : "ChelthmITC Bk BT", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.70em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.ortalama {
+	font-family : "ChelthmITC Bk BT", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 9px 0px;
+}
+p.bosluk {
+	font-family : "ChelthmITC Bk BT", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 20px 20px 0px 0px;
+}
+p.Dipnot-Metni {
+	font-family : "ChelthmITC Bk BT", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.65em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 28px;
+	margin : 0px;
+}
+p.aciklayici {
+	font-family : "ChelthmITC Bk BT", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.65em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 28px;
+	margin : 0px;
+}
+p.icindekiler {
+	font-family : "Futura Bk BT", sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.70em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 11px 0px;
+}
+p.icindekiler-1 {
+	font-family : "Futura Bk BT", sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.70em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px;
+}
+p.icindekiler-2 {
+	font-family : "Futura Bk BT", sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.65em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px 0px 0px 40px;
+}
+p.sayfa {
+	font-family : "ChelthmITC Bk BT", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.33em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.baslik {
+	font-family : "ChelthmITC Bk BT", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.para-style-override-1 {
+	margin-bottom : 15px;
+	margin-top : 15px;
+}
+p.para-style-override-2 {
+	text-indent : 0px;
+}
+p.para-style-override-3 {
+	text-align : center;
+	text-indent : 0px;
+}
+p.para-style-override-4 {
+	margin-left : 0px;
+	text-indent : 0px;
+}
+p.para-style-override-5 {
+	text-indent : 14px;
+}
+div.Basic-Text-Frame {
+}

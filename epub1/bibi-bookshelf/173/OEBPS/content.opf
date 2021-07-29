@@ -1,0 +1,93 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kurgudan da Garip</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Palahniuk, Chuck">Chuck Palahniuk</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:6438a4e5-e1e5-4b2b-b4b3-4c7c826a6692</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.14.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Ayrıntı Yayınları</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">0ec09b71-716c-4193-b1ea-8643e24f128e</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="{&quot;Chuck Palahniuk&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="2014-07-24T20:31:56.376000+00:00" name="calibre:timestamp"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Kurgudan da Garip" name="calibre:title_sort"/>
+    <meta content="0.8.6" name="Sigil version"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/kurgudan_da_garip_000.xhtml" id="kurgudan_da_garip_000.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_001.xhtml" id="kurgudan_da_garip_001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_002.xhtml" id="kurgudan_da_garip_002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_003.xhtml" id="kurgudan_da_garip_003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_004.xhtml" id="kurgudan_da_garip_004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_005.xhtml" id="kurgudan_da_garip_005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_006.xhtml" id="kurgudan_da_garip_006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_100.xhtml" id="kurgudan_da_garip_100.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_101.xhtml" id="kurgudan_da_garip_101.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_102.xhtml" id="kurgudan_da_garip_102.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_103.xhtml" id="kurgudan_da_garip_103.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_104.xhtml" id="kurgudan_da_garip_104.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_105.xhtml" id="kurgudan_da_garip_105.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_106.xhtml" id="kurgudan_da_garip_106.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_107.xhtml" id="kurgudan_da_garip_107.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_108.xhtml" id="kurgudan_da_garip_108.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_109.xhtml" id="kurgudan_da_garip_109.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_200.xhtml" id="kurgudan_da_garip_200.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_201.xhtml" id="kurgudan_da_garip_201.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_202.xhtml" id="kurgudan_da_garip_202.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_203.xhtml" id="kurgudan_da_garip_203.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_204.xhtml" id="kurgudan_da_garip_204.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_205.xhtml" id="kurgudan_da_garip_205.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_206.xhtml" id="kurgudan_da_garip_206.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_207.xhtml" id="kurgudan_da_garip_207.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_300.xhtml" id="kurgudan_da_garip_300.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_301.xhtml" id="kurgudan_da_garip_301.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_302.xhtml" id="kurgudan_da_garip_302.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_303.xhtml" id="kurgudan_da_garip_303.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_304.xhtml" id="kurgudan_da_garip_304.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_305.xhtml" id="kurgudan_da_garip_305.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_306.xhtml" id="kurgudan_da_garip_306.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_307.xhtml" id="kurgudan_da_garip_307.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kurgudan_da_garip_400.xhtml" id="kurgudan_da_garip_400.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kurgudan_da_garip_000.xhtml"/>
+    <itemref idref="kurgudan_da_garip_001.xhtml"/>
+    <itemref idref="kurgudan_da_garip_002.xhtml"/>
+    <itemref idref="kurgudan_da_garip_003.xhtml"/>
+    <itemref idref="kurgudan_da_garip_004.xhtml"/>
+    <itemref idref="kurgudan_da_garip_005.xhtml"/>
+    <itemref idref="kurgudan_da_garip_006.xhtml"/>
+    <itemref idref="kurgudan_da_garip_100.xhtml"/>
+    <itemref idref="kurgudan_da_garip_101.xhtml"/>
+    <itemref idref="kurgudan_da_garip_102.xhtml"/>
+    <itemref idref="kurgudan_da_garip_103.xhtml"/>
+    <itemref idref="kurgudan_da_garip_104.xhtml"/>
+    <itemref idref="kurgudan_da_garip_105.xhtml"/>
+    <itemref idref="kurgudan_da_garip_106.xhtml"/>
+    <itemref idref="kurgudan_da_garip_107.xhtml"/>
+    <itemref idref="kurgudan_da_garip_108.xhtml"/>
+    <itemref idref="kurgudan_da_garip_109.xhtml"/>
+    <itemref idref="kurgudan_da_garip_200.xhtml"/>
+    <itemref idref="kurgudan_da_garip_201.xhtml"/>
+    <itemref idref="kurgudan_da_garip_202.xhtml"/>
+    <itemref idref="kurgudan_da_garip_203.xhtml"/>
+    <itemref idref="kurgudan_da_garip_204.xhtml"/>
+    <itemref idref="kurgudan_da_garip_205.xhtml"/>
+    <itemref idref="kurgudan_da_garip_206.xhtml"/>
+    <itemref idref="kurgudan_da_garip_207.xhtml"/>
+    <itemref idref="kurgudan_da_garip_300.xhtml"/>
+    <itemref idref="kurgudan_da_garip_301.xhtml"/>
+    <itemref idref="kurgudan_da_garip_302.xhtml"/>
+    <itemref idref="kurgudan_da_garip_303.xhtml"/>
+    <itemref idref="kurgudan_da_garip_304.xhtml"/>
+    <itemref idref="kurgudan_da_garip_305.xhtml"/>
+    <itemref idref="kurgudan_da_garip_306.xhtml"/>
+    <itemref idref="kurgudan_da_garip_307.xhtml"/>
+    <itemref idref="kurgudan_da_garip_400.xhtml"/>
+  </spine>
+</package>

@@ -1,0 +1,11 @@
+body {font-family: serif;}
+
+p {font-size: 1em;}
+i, em {font-style: italic;}
+b, strong {font-weight: bold;}
+a {text-decoration: none;}
+blockquote {margin: 0 0 0 40px; border: none; padding: 0px; font-style: italic;}
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+.bolum p, .yazar p {text-indent: 1.5em; margin: 0;}

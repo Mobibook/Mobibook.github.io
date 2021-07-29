@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:9621cc32-0644-4fc4-8cf1-a664210184d4" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Eragon</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Önsöz: Shade'in Dehşeti</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Keşif</text>
+      </navLabel>
+      <content src="Text/Section0007.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Palancar Vadisi</text>
+      </navLabel>
+      <content src="Text/Section0008.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Ejderha Masalları</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Kaderin Armağanı</text>
+      </navLabel>
+      <content src="Text/Section0010.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Uyanış</text>
+      </navLabel>
+      <content src="Text/Section0011.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>İki Kişilik Çay</text>
+      </navLabel>
+      <content src="Text/Section0012.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Gücün Adı</text>
+      </navLabel>
+      <content src="Text/Section0013.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Müstakbel Değirmenci</text>
+      </navLabel>
+      <content src="Text/Section0014.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Carvahall'deki Yabancılar</text>
+      </navLabel>
+      <content src="Text/Section0015.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Kader Uçuşu</text>
+      </navLabel>
+      <content src="Text/Section0016.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Masumiyetin Sonu</text>
+      </navLabel>
+      <content src="Text/Section0017.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Ölüm Nöbeti</text>
+      </navLabel>
+      <content src="Text/Section0018.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Hayatın Çılgınlığı</text>
+      </navLabel>
+      <content src="Text/Section0019.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Süvarinin Kılıcı</text>
+      </navLabel>
+      <content src="Text/Section0020.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Eyer Yaparken</text>
+      </navLabel>
+      <content src="Text/Section0021.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Therinsford</text>
+      </navLabel>
+      <content src="Text/Section0022.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Gök Gürlüyor, Şimşek Çakıyor</text>
+      </navLabel>
+      <content src="Text/Section0023.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Yazuac'ta Olanlar</text>
+      </navLabel>
+      <content src="Text/Section0024.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Uyarılar</text>
+      </navLabel>
+      <content src="Text/Section0025.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Sihir En Basit Şeydir</text>
+      </navLabel>
+      <content src="Text/Section0026.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Daret</text>
+      </navLabel>
+      <content src="Text/Section0027.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Ejderhanın Gözüyle</text>
+      </navLabel>
+      <content src="Text/Section0028.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Yol için Bir Şarkı</text>
+      </navLabel>
+      <content src="Text/Section0029.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Teirm'de Neler Oluyor?</text>
+      </navLabel>
+      <content src="Text/Section0030.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Eski Bir Dost</text>
+      </navLabel>
+      <content src="Text/Section0031.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Cadı ve Kedi Adam</text>
+      </navLabel>
+      <content src="Text/Section0032.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Okuma ve Planlar</text>
+      </navLabel>
+      <content src="Text/Section0033.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Kaledeki Hırsızlar</text>
+      </navLabel>
+      <content src="Text/Section0034.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Pahalıya Patlayan Bir Hata</text>
+      </navLabel>
+      <content src="Text/Section0035.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Mükemmel Görüş</text>
+      </navLabel>
+      <content src="Text/Section0036.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Kılıç Ustası</text>
+      </navLabel>
+      <content src="Text/Section0037.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Dras-Leona Bataklığı</text>
+      </navLabel>
+      <content src="Text/Section0038.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Yağın İzi</text>
+      </navLabel>
+      <content src="Text/Section0039.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Helgrind'in İbadetçileri</text>
+      </navLabel>
+      <content src="Text/Section0040.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Ra'zac'ın İntikamı</text>
+      </navLabel>
+      <content src="Text/Section0041.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Murtagh</text>
+      </navLabel>
+      <content src="Text/Section0042.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Bir Süvari'nin Mirası</text>
+      </navLabel>
+      <content src="Text/Section0043.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Elmas Mezar</text>
+      </navLabel>
+      <content src="Text/Section0044.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Gil'ead'da Esaret</text>
+      </navLabel>
+      <content src="Text/Section0045.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Du Sûndavar Freohr</text>
+      </navLabel>
+      <content src="Text/Section0046.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Savaşan Gölgeler</text>
+      </navLabel>
+      <content src="Text/Section0047.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Bir Savaşçı ve Bir Şifacı</text>
+      </navLabel>
+      <content src="Text/Section0048.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Kumdan Çıkan Su</text>
+      </navLabel>
+      <content src="Text/Section0049.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Ramr Nehri</text>
+      </navLabel>
+      <content src="Text/Section0050.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Hadarac Çölü</text>
+      </navLabel>
+      <content src="Text/Section0051.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Bulunan Yol</text>
+      </navLabel>
+      <content src="Text/Section0052.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>İradelerin Çarpışması</text>
+      </navLabel>
+      <content src="Text/Section0053.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Vadiyi Uçarak Geçmek</text>
+      </navLabel>
+      <content src="Text/Section0054.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>İki Arada Bir Derede</text>
+      </navLabel>
+      <content src="Text/Section0055.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Cevap Aranıyor</text>
+      </navLabel>
+      <content src="Text/Section0056.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Tronjheim'in İhtişamı</text>
+      </navLabel>
+      <content src="Text/Section0057.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Ajihad</text>
+      </navLabel>
+      <content src="Text/Section0058.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Çocuğu Kutsa, Argetlam</text>
+      </navLabel>
+      <content src="Text/Section0059.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Adamotu Kökü ve Kurbağa Dili</text>
+      </navLabel>
+      <content src="Text/Section0060.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Dağ Kralının Sonu</text>
+      </navLabel>
+      <content src="Text/Section0061.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Arya'nın Sınavı</text>
+      </navLabel>
+      <content src="Text/Section0062.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Uzayan Gölgeler</text>
+      </navLabel>
+      <content src="Text/Section0063.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Farthen Dûr'un Altında Savaş</text>
+      </navLabel>
+      <content src="Text/Section0064.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>Kederli Bilge</text>
+      </navLabel>
+      <content src="Text/Section0065.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>Telaffuz Rehberi ve Sözlük</text>
+      </navLabel>
+      <content src="Text/Section0067.xhtml"/>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Telaffuz</text>
+        </navLabel>
+        <content src="Text/Section0068.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Antik Dil</text>
+        </navLabel>
+        <content src="Text/Section0069.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Cüce Dili</text>
+        </navLabel>
+        <content src="Text/Section0070.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Urgal Dili</text>
+        </navLabel>
+        <content src="Text/Section0071.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>Teşekkür</text>
+      </navLabel>
+      <content src="Text/Section0072.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>Dipnotlar</text>
+      </navLabel>
+      <content src="Text/Section0074.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

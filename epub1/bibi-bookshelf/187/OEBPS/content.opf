@@ -1,0 +1,86 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="London, Jack">Jack London</dc:creator>
+<dc:identifier id="uuid">{29F456E9-D653-4C87-BA76-5591C60E32AF}</dc:identifier>
+    <dc:date>2015-01-30T22:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;San Francisco'da yaşayan Joe, kendini bir türlü derslerine veremeyen, arkadaşlarıyla sokak sokak gezmeyi sınavlara çalışmaya yeğleyen bir gençtir. Yaşamı sıradan, sıkıcı bulur, hep daha fazlasını bekler. Dolu dolu yaşamak ister ve günlerini çeşitli maceralara atılarak geçirenlere özenir. Kız kardeşinin okulda kendisinden daha başarılı olmasını, babasının hayal kırıklığını dile getirmesini kaldıramayan Joe, evden kaçarak denizci olmaya karar verir fakat kendini korsanların arasında bulur. Denizin Çağrısı, nefes aldığı her ânın tadını çıkarmak isteyen memnuniyetsiz bir gencin hayata ve yaşama dair farkındalık kazanma sürecini anlatıyor. Jack London'ın diğer birçok eserinde olduğu gibi, denize, denizciliğe dair ustaca gözlemler içeren roman, okurlara deli dolu bir gençlik hikâyesi sunuyor.
+(Tanıtım Bülteninden)
+&lt;/p&gt;</dc:description>
+    <meta name="cover" content="cover"/>
+    <meta content="0.9.2" name="Sigil version"/>
+    <meta content="Denizin Çağrısı" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Jack London&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2016-02-11</dc:date>
+  <dc:title>Denizin Çağrısı</dc:title>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Macera</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">0d93adf4-9df0-4a5a-b90e-827766996cac</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750722356</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main-title.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main-bio.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-intro.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.xhtml" id="Section0018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id3" media-type="text/css"/>
+    <item href="Images/DC.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="7388e5fe-6cd5-42b9-8747-b75860ac2db8" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="main-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="main-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.xhtml" id="Section0017.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="7388e5fe-6cd5-42b9-8747-b75860ac2db8"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="main-1.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="main-2.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="Section0017.xhtml"/>
+    <itemref idref="Section0018.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

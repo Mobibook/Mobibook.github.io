@@ -1,0 +1,70 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+	<metadata>
+		<dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Lenin, Vladimir İlyiç">Vladimir İlyiç Lenin</dc:creator>
+<meta name="generator" content="Adobe InDesign"/>
+		<meta name="cover" content="devletdevrimkapak.png"/>
+		<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;"Proleter devriminin devlet karşısında alacağı tutum, her zaman için pratik bir öneme sahiptir. 'Devlet' konusunda oportünist önyargılara karşı mücadele etmeden, emekçi kitleleri genel olarak burjuvazinin, özel olarak da emperyalist burjuvazinin nüfuzundan kurtarma mücadelesi vermek imkânsızdır. Onun için ben, bu kitapta öncelikle Marx ve Engels'in devlet teorisini inceleyecek ve bu teorinin oportünistlerce görmezlikten gelinen ya da çarpıtılan yönlerini bilhassa ayrıntılı olarak ele alacağım."&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;"Devlet, sınıf karşıtlıklarının uzlaşmazlığının bir ürünü ve tezahürüdür. Sınıflar arasındaki karşıtlıklar nesnel olarak uzlaştırılamadığı ölçüde, her yerde ve her zaman devlet ortaya çıkar. Tersinden söylersek, devletin varlığı, sınıf karşıtlıklarının uzlaşmaz olduğunun bir kanıtıdır."&lt;/span&gt;&lt;/div&gt;</dc:description>
+		<dc:publisher>Agora Kitaplığı</dc:publisher>
+		<dc:date>2012-05-05T21:00:00+00:00</dc:date>
+		<dc:source/>
+		<dc:relation/>
+		<dc:coverage/>
+		<dc:rights/>
+		<dc:identifier id="bookid"/>
+		<dc:identifier>urn:uuid:25e9983a-7405-4d91-9229-979321677d26</dc:identifier>
+	<meta name="calibre:title_sort" content="Devlet ve Devrim"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Vladimir İlyiç Lenin&quot;: &quot;&quot;}"/>
+<dc:title>Devlet ve Devrim</dc:title>
+<dc:subject>Yönetim</dc:subject>
+<dc:subject>Araştırma</dc:subject>
+<dc:subject>Devlet</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">fd275390-e13c-4848-806f-867f1a6590d7</dc:identifier>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786051030357</dc:identifier>
+</metadata>
+	<manifest>
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<item id="css" href="template.css" media-type="text/css"/>
+		<item id="devlet-devrim" href="devlet-devrim.html" media-type="application/xhtml+xml"/>
+		<item id="devlet-devrim-1" href="devlet-devrim-1.html" media-type="application/xhtml+xml"/>
+		<item id="devlet-devrim-2" href="devlet-devrim-2.html" media-type="application/xhtml+xml"/>
+		<item id="devlet-devrim-3" href="devlet-devrim-3.html" media-type="application/xhtml+xml"/>
+		<item id="devlet-devrim-4" href="devlet-devrim-4.html" media-type="application/xhtml+xml"/>
+		<item id="devlet-devrim-5" href="devlet-devrim-5.html" media-type="application/xhtml+xml"/>
+		<item id="devlet-devrim-6" href="devlet-devrim-6.html" media-type="application/xhtml+xml"/>
+		<item id="devlet-devrim-7" href="devlet-devrim-7.html" media-type="application/xhtml+xml"/>
+		<item id="devlet-devrim-8" href="devlet-devrim-8.html" media-type="application/xhtml+xml"/>
+		<item id="devlet-devrim-9" href="devlet-devrim-9.html" media-type="application/xhtml+xml"/>
+		<item id="devlet-devrim-10" href="devlet-devrim-10.html" media-type="application/xhtml+xml"/>
+		<item id="devlet-devrim-11" href="devlet-devrim-11.html" media-type="application/xhtml+xml"/>
+		<item id="devlet-devrim-12" href="devlet-devrim-12.html" media-type="application/xhtml+xml"/>
+		<item id="devlet-devrim-13" href="devlet-devrim-13.html" media-type="application/xhtml+xml"/>
+		<item id="devlet-devrim-14" href="devlet-devrim-14.html" media-type="application/xhtml+xml"/>
+		<item id="devletdevrimkapak.png" href="images/devletdevrimkapak.png" media-type="image/png"/>
+		<item id="devletdevrimkapak_fmt.jpeg" href="images/devletdevrimkapak_fmt.jpeg" media-type="image/jpeg"/>
+		<item id="CheltenhamITCbyBT-Book.ttf" href="fonts/CheltenhamITCbyBT-Book.ttf" media-type="application/x-font-ttf"/>
+		<item id="CheltenhamITCbyBT-BookItalic.ttf" href="fonts/CheltenhamITCbyBT-BookItalic.ttf" media-type="application/x-font-ttf"/>
+		<item id="FuturaBT-Book.ttf" href="fonts/FuturaBT-Book.ttf" media-type="application/x-font-ttf"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="devlet-devrim"/>
+		<itemref idref="devlet-devrim-1"/>
+		<itemref idref="devlet-devrim-2"/>
+		<itemref idref="devlet-devrim-3"/>
+		<itemref idref="devlet-devrim-4"/>
+		<itemref idref="devlet-devrim-5"/>
+		<itemref idref="devlet-devrim-6"/>
+		<itemref idref="devlet-devrim-7"/>
+		<itemref idref="devlet-devrim-8"/>
+		<itemref idref="devlet-devrim-9"/>
+		<itemref idref="devlet-devrim-10"/>
+		<itemref idref="devlet-devrim-11"/>
+		<itemref idref="devlet-devrim-12"/>
+		<itemref idref="devlet-devrim-13"/>
+		<itemref idref="devlet-devrim-14"/>
+	</spine>
+</package>

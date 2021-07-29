@@ -1,0 +1,59 @@
+@font-face{font-family:"Artfacts";font-style:normal;font-weight:normal;src:url(../Fonts/ARTFACTS.TTF)}
+@font-face{font-family:"Dia de los Muertos Limited Free Version";font-style:normal;font-weight:normal;src:url(../Fonts/DiadelosMuertosLimitedFreeVersion.ttf)}
+@font-face{font-family:"El Rio Lobo";font-style:normal;font-weight:bold;src:url(../Fonts/ELRIOTT2.TTF)}
+@font-face{font-family:"Trebuchet MS";font-style:normal;font-weight:normal;src:url(../Fonts/TREBUC.TTF)}
+@font-face{font-family:"Trebuchet MS";font-style:normal;font-weight:bold;src:url(../Fonts/TREBUCBD.TTF)}
+@font-face{font-family:"Trebuchet MS";font-style:italic;font-weight:normal;src:url(../Fonts/TREBUCIT.TTF)}
+@font-face{font-family:"Trebuchet MS";font-style:italic;font-weight:bold;src:url(../Fonts/TREBUCBI.TTF)}
+@font-face{font-family:"FFCultbats";font-style:normal;font-weight:normal;src:url(../Fonts/FFCULTBATS.TTF)}
+@font-face{font-family:"Follow The Arrow";font-style:normal;font-weight:normal;src:url(../Fonts/FollowTheArrow.ttf)}
+@font-face{font-family:"Matador";font-style:normal;font-weight:normal;src:url(../Fonts/MATADOR_.TTF)}
+@font-face{font-family:"Taco Box";font-style:normal;font-weight:normal;src:url(../Fonts/TACOBOX.TTF)}
+@font-face{font-family:"Taco Modern";font-style:normal;font-weight:normal;src:url(../Fonts/TACOM__.TTF)}
+@font-face{font-family:"Taco Salad";font-style:normal;font-weight:normal;src:url(../Fonts/TACOSRG.TTF)}
+
+
+@page{margin-left:0.5cm;margin-right:0.5cm;margin-top:0.5cm;margin-bottom:0.5cm}
+body{margin:0}
+p{text-indent:1.8em;margin-left:0;line-height:120%;margin-right:0;text-align:justify;margin-top:.55em;margin-bottom:.55em;font-family:"Trebuchet MS",sans-serif;font-size:100%}
+.p0{text-indent:0;margin-left:0;text-align:center;margin-top:0;margin-bottom:0}
+.p1{text-indent:0;margin-left:0;text-align:center}
+.p2{text-indent:0;margin-left:0;line-height:80%;text-align:center}
+.p3{text-indent:0;margin-left:0;line-height:80%;text-align:center;margin-top:1.6em}
+.p4{text-indent:0;margin-left:0;text-align:center;margin-top:1.6em}
+.p6{text-indent:1.8em;line-height:100%;margin-top:2.2em}
+.p7{text-indent:1.8em;line-height:100%}
+.p8{text-indent:0;margin-left:7.7em;line-height:100%}
+.p9{text-indent:0;margin-left:0;text-align:center;margin-top:9.8em}
+.p10{text-indent:0;margin-left:0;text-align:center;margin-top:1.6em;margin-bottom:1.6em}
+.p11{text-indent:0;margin-left:0;text-align:center;margin-top:2.7em}
+.p12{text-indent:0}
+h1{text-indent:0;margin-left:0;margin-right:2.1em;text-align:right;margin-top:0;margin-bottom:2.1em;font-family:"Taco Modern";font-size:182%;font-weight:bold}
+.h11{text-indent:0}
+.t2{font-size:.71em;line-height:100%}
+.t3{font-size:.71em;font-weight:bold}
+.t5{font-family:Matador;font-size:1.2em;line-height:120%}
+.t6{font-family:"Artfacts";font-size:3.4em;line-height:120%}
+.t7{font-family:"Dia de los Muertos Limited Free";font-size:4.4em;line-height:120%;letter-spacing:.052em;vertical-align:-.1em}
+.t8{font-family:"El Rio Lobo";font-size:4.5em;line-height:120%}
+.t9{letter-spacing:.045em}
+.t10{font-family:"Taco Salad";font-size:1.5em;line-height:120%;letter-spacing:.031em;text-decoration:underline}
+.t11{font-family:"Taco Salad";font-size:1.5em;line-height:120%}
+.t12{font-family:"Taco Salad";font-size:1.5em;line-height:120%;text-decoration:underline}
+.t13{font-family:"Taco Salad";font-size:1.5em;line-height:120%;letter-spacing:.031em}
+.t14{font-size:1.2em;line-height:120%;font-weight:bold}
+.t15{font-family:"Follow The Arrow"}
+.t16{font-family:"Taco Salad";font-size:1.6em;line-height:100%}
+.t17{font-family:Matador;font-size:2.2em;line-height:120%}
+.t18{font-family:"Taco Box";font-size:2.2em;line-height:120%}
+.t19{font-family:Artfacts;font-size:2.5em;line-height:120%}
+.t20{font-family:FFCultbats;font-size:3.3em;line-height:120%}
+.t21{font-weight:bold}
+.t22{font-style:italic}
+.t23{font-weight:bold;font-style:italic}
+.t24{font-size:.65em;line-height:120%;font-weight:bold;vertical-align:super}
+.t25{font-size:.91em;line-height:120%;font-weight:bold;font-style:italic}
+.t26{font-family:"Taco Box";font-size:2.5em;line-height:120%;font-weight:bold}
+.t27{font-family:"Taco Salad";font-size:1.0em;line-height:120%}
+.th12{font-family:"Times New Roman",serif}
+

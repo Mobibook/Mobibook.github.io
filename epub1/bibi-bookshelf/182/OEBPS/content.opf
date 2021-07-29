@@ -1,0 +1,66 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Çizakça, Murat">Murat Çizakça</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">e1cabf6c-6d31-4436-97b2-6a142b229129</dc:identifier>
+    <dc:date>2000-11-15T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-12-12</dc:date>
+    <dc:publisher>Yeni Türkiye Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Avrupa ve İslam dünyası üzerindeki çalışmalarıyla tanınan Prof. Dr. Murat Çizakça, bu kitapta otuz yıllık iktisat tarihi birikimini bir alet gibi kullanarak güncel sorunlarımıza çare bulmaya çalışıyor. Kısacası bu kitap, bir iktisat tarihçisinin siyaset bilimine bakış açısını içeriyor. Ve bu nedenle de türünün belki de ilk ve tek örneği...
+
+Çizakça'nın cevap aradığı sorular şunlar:
+
+1. İslam dünyası niçin Batı'nın gerisinde kalmıştır?
+2. Demokrasi niçin Batı'da görünür de İslam dünyasında görülmez.
+3. Halkının çoğunluğunun Müslüman olduğu bir ülkede liberal demokrasi uygulansa, ülke hemen radikal İslam'ın eline geçer mi?
+4. Dindar/demokratlar ülkemizde iktidara gelebilirler mi?
+5. Gelirlerse, oluşturacakları hükümetin ekonomik programı ne olabilir?&lt;/p&gt;</dc:description>
+    <meta name="cover" content="cover-image"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Demokrasi Arayışında Türkiye"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Murat Çizakça&quot;: &quot;&quot;}"/>
+  <dc:title>Demokrasi Arayışında Türkiye</dc:title>
+<dc:subject>Siyaset</dc:subject>
+<dc:subject>Toplum</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">f67d981f-b2b7-4fa4-8e8e-7461e2b6e5aa</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789756782736</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/chapter.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="text1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="text2" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="text3" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="text4" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="text5" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="text6" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="text7" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter8.xhtml" id="text8" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/styles1.css" id="resource4" media-type="text/css"/>
+    <item href="Images/image001.png" id="cover-image" media-type="image/png"/>
+    <item href="Images/image002.png" id="resource1" media-type="image/png"/>
+    <item href="Images/image003.png" id="resource2" media-type="image/png"/>
+    <item href="Images/image004.png" id="resource3" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="text1"/>
+    <itemref idref="text2"/>
+    <itemref idref="text3"/>
+    <itemref idref="text4"/>
+    <itemref idref="text5"/>
+    <itemref idref="text6"/>
+    <itemref idref="text7"/>
+    <itemref idref="text8"/>
+  </spine>
+  <guide>
+    <reference href="Text/chapter.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/chapter1.xhtml" title="Title page" type="title-page"/>
+    <reference href="Text/chapter2.xhtml" title="Text" type="text"/>
+    <reference href="Text/chapter1.xhtml" title="İçindekiler" type="toc"/>
+  </guide>
+</package>

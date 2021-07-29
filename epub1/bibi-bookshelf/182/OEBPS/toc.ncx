@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="e1cabf6c-6d31-4436-97b2-6a142b229129" />
+    <meta name="dtb:depth" content="4" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>GİRİŞ VE TEŞEKKÜRLER</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>KISIM I: TARİH, KURUMLAR VE DEMOKRASİ</text>
+      </navLabel>
+      <content src="Text/chapter4.xhtml" />
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>BİRİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/chapter4.xhtml#toc3" />
+        <navPoint id="navPoint-4" playOrder="4">
+          <navLabel>
+            <text>1. Giriş:</text>
+          </navLabel>
+          <content src="Text/chapter4.xhtml#toc4" />
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>2. Demokrasinin Tarifi:</text>
+          </navLabel>
+          <content src="Text/chapter4.xhtml#toc6" />
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>3. Demokrasinin Karşıtları:</text>
+          </navLabel>
+          <content src="Text/chapter4.xhtml#toc8" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>İKİNCİ BÖLÜM: KURUMLARIN EVRİMİ, SERMAYE BİRİKİMİ VE DEMOKRASİ</text>
+        </navLabel>
+        <content src="Text/chapter4.xhtml#toc9" />
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>I. Kurumların Evrimi ve Uygarlıklar Arası Etkileşim (Tarihsel Analiz):</text>
+          </navLabel>
+          <content src="Text/chapter4.xhtml#toc11" />
+          <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+              <text>1. İslâm dünyasında Sermaye Birikimi ve Kuramlar (Birinci Dönem)</text>
+            </navLabel>
+            <content src="Text/chapter4.xhtml#toc12" />
+          </navPoint>
+          <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+              <text>2. Batı Demokrasisinin Kısa Bir Tarihçesi</text>
+            </navLabel>
+            <content src="Text/chapter4.xhtml#toc13" />
+          </navPoint>
+          <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+              <text>3. Batı Avrupa'da Finans Kurulularının Evrimi (İkinci Dönem)</text>
+            </navLabel>
+            <content src="Text/chapter4.xhtml#toc15" />
+          </navPoint>
+          <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+              <text>4. İslâm dünyasındaki Durum (İkinci Dönem)</text>
+            </navLabel>
+            <content src="Text/chapter4.xhtml#toc17" />
+          </navPoint>
+          <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+              <text>5. Üçüncü Dönem</text>
+            </navLabel>
+            <content src="Text/chapter4.xhtml#toc18" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>II. Sonuç:</text>
+          </navLabel>
+          <content src="Text/chapter4.xhtml#toc20" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>ÜÇÜNCÜ BÖLÜM: TARİHSEL ANALİZDEN TEORİYE</text>
+        </navLabel>
+        <content src="Text/chapter4.xhtml#toc22" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>KISIM II. BATI DEMOKRASİSİNDEN TÜRKİYE'DE DEMOKRASİYE</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml" />
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>DÖRDÜNCÜ BÖLÜM: TÜRKİYE VE GERÇEK DEMOKRASİ</text>
+        </navLabel>
+        <content src="Text/chapter5.xhtml#toc24" />
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>1. İslâm ve Demokrasi</text>
+          </navLabel>
+          <content src="Text/chapter5.xhtml#toc25" />
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>2. Güvensizliğin Kurumsallaştırılması</text>
+          </navLabel>
+          <content src="Text/chapter5.xhtml#toc27" />
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>3.Seçkinler Uzlaşması (Elite Settlement)</text>
+          </navLabel>
+          <content src="Text/chapter5.xhtml#toc29" />
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>4. Türkiye'de Seçkinler Uzlaşması</text>
+          </navLabel>
+          <content src="Text/chapter5.xhtml#toc31" />
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>5. Kemalizm'in Yeniden Yorumlanması</text>
+          </navLabel>
+          <content src="Text/chapter5.xhtml#toc33" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>KISIM III ÖNERİLER</text>
+      </navLabel>
+      <content src="Text/chapter6.xhtml" />
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>BEŞİNCİ BÖLÜM: DİNDAR/DEMOKRATLARA ÖNERİLER</text>
+        </navLabel>
+        <content src="Text/chapter6.xhtml#toc35" />
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>1. Programın Ana Hatları</text>
+          </navLabel>
+          <content src="Text/chapter6.xhtml#toc36" />
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>2. Kanıtlar</text>
+          </navLabel>
+          <content src="Text/chapter6.xhtml#toc38" />
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>3. Özgürlükler ve Kadın Hakları</text>
+          </navLabel>
+          <content src="Text/chapter6.xhtml#toc40" />
+          <navPoint id="navPoint-28" playOrder="28">
+            <navLabel>
+              <text>a. Özal ve Özgürlükler</text>
+            </navLabel>
+            <content src="Text/chapter6.xhtml#toc41" />
+          </navPoint>
+          <navPoint id="navPoint-29" playOrder="29">
+            <navLabel>
+              <text>b. Ekonomik Özgürlükler ve Sen-Pareto Optimalitesi</text>
+            </navLabel>
+            <content src="Text/chapter6.xhtml#toc42" />
+          </navPoint>
+          <navPoint id="navPoint-30" playOrder="30">
+            <navLabel>
+              <text>c. Kadın Hak ve Özgürlükleri</text>
+            </navLabel>
+            <content src="Text/chapter6.xhtml#toc43" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>4.Sonuç</text>
+          </navLabel>
+          <content src="Text/chapter6.xhtml#toc45" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>KAYNAKLAR:</text>
+      </navLabel>
+      <content src="Text/chapter8.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>
