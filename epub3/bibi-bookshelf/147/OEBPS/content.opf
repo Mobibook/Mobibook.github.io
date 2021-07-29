@@ -1,0 +1,80 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="James, Steven">Steven James</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">59e1a2cb-72ce-4832-bddb-875d3580b76a</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Kyrhos</dc:publisher>
+    <dc:description>&lt;p&gt;Birinci sınıf bir gerilim! RT, kritik Kalp atışlarınızı hızlandıran harika bir gerilim romanı! New York Times, çok satan yazar Eric Wilson Tünelin sonuna yaklaşmıştım; kırpışan, parlak ışık tam karşımdaydı. Seslendim. Adı, tünelin tozlu atmosferinde ürkütücü biçimde yankılandı.Buna son vermenin zamanı geldi!Tebrikler Pat! dönemecin öte tarafından bir yerden cevap verdi.Öyküye hoş geldin!
+
+At, FBI Kriminoloğu Özel Ajan Patrick Bowersı konu alan, çok satan Bowers Dosyaları gerilim serisinin Piyon ve Kaleyi takip eden üçüncü kitabı.Ajan Bowers, ülkenin en tehlikeli suçlularının izini sürüp onları yakalamaktadır oysa bu kez katil onu izliyor gibi görünüyor… Katilin, işlediği suçların ayrıntılı bir planının eski bir el yazmasının içinde olduğunu fark edince bir sonraki cinayeti engellemek için zamana karşı bir yarışa başlıyor.Cesaret dolu, dondurucu ve etkileyici bu psikolojik gerilim romanı, okuyucuyu gece boyunca uyanık tutmayı garanti ediyor.&lt;/p&gt;</dc:description>
+    <dc:date>2014-10-24T21:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-10-26</dc:date>
+    <meta content="2014-10-25T20:34:08.961000+00:00" name="calibre:timestamp"/>
+    <meta content="3.0" name="calibre:series_index"/>
+    <meta content="Bowers Dosyaları" name="calibre:series"/>
+    <meta content="At" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Steven James&quot;: &quot;&quot;}"/>
+  <dc:title>At</dc:title>
+<dc:subject>Polisiye</dc:subject>
+<dc:subject>Gerilim</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">a9c76ec1-570d-4795-92a9-a288c1f558be</dc:identifier>
+<dc:identifier opf:scheme="ISBN">6051211640</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/jacket.xhtml" id="calibre_jacket" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.html" id="Section0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.html" id="Section0005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.html" id="Section0006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.html" id="Section0007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.html" id="Section0008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.html" id="Section0009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.html" id="Section0010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.html" id="Section0011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_006.html" id="index_split_006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.html" id="Section0012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.html" id="Section0013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.html" id="Section0014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.html" id="Section0015.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.html" id="Section0016.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0009_split1.html" id="id" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="calibre_jacket"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="Section0004.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0005.html"/>
+    <itemref idref="Section0006.html"/>
+    <itemref idref="Section0007.html"/>
+    <itemref idref="Section0008.html"/>
+    <itemref idref="Section0009.html"/>
+    <itemref idref="id"/>
+    <itemref idref="Section0010.html"/>
+    <itemref idref="Section0011.html"/>
+    <itemref idref="index_split_006.html"/>
+    <itemref idref="Section0012.html"/>
+    <itemref idref="Section0013.html"/>
+    <itemref idref="Section0014.html"/>
+    <itemref idref="Section0015.html"/>
+    <itemref idref="Section0016.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

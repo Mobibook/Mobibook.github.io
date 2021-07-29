@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="uuid">{69773E4E-BF7B-4207-AF36-F50F016BEB71}</dc:identifier>
+    <dc:title>Hercai</dc:title>
+    <dc:creator opf:role="aut">Sümeyye Koç</dc:creator>
+    <dc:language>tr-TR</dc:language>
+    <dc:publisher>Epsilon Yayınevi</dc:publisher>
+    <dc:identifier opf:scheme="ISBN">2789788610659</dc:identifier>
+    <dc:description>Her şey, zamansız bir ölüm yüzünden başladı. Bu ölüm beraberinde, körpe bir yüreğe öfke ve kin getirdi. Aradan uzun, çok uzun yıllar geçti. Genç bir adamın kalbi ve ruhu birbirinden harap duygularla, acımasızca perçinlendi. Öyle ki, bu hissiyatlar onu uçurumun kenarına sürükleyebilecek kadar tehlikeli hale gelmişti. Yaralı bir mazinin ona bıraktığı en acı hatıra, yüreğinden tüm merhameti söküp atmasına neden oldu. Kara bir kilit vurup derin dehlizlere kapattı vicdanının çığlık çığlığa haykıran sesini. Merhameti ne zaman isyan etse, hep o anı hatırladı. Gözüne uyku girmeyen kara bir gecenin sonunda, akla zarar bir karar aldı! Ait olduğu topraklara gitmeye karar verdi genç adam. Çünkü her şey orada başlayacaktı, yıllar önce orada bittiği gibi... Ve Miran Karaman! Kusursuzca hazırladığı planla, ant içtiği intikamını almak için hazırdı. Yüreğinde kor bir öfke, dilinde kahrolası bir yemin vardı. Şimdi vakit, ödeşmeyi arzulayan deli yüreğini susturma vaktiydi. İçindeki öfkenin bir nebze soğuması için masum bir can yakacaktı... O can kim mi? Reyyan Şanoğlu! “Geceye bir selamım var. Andım olsun ki, adımı ezberleyecek bu şehir!”</dc:description>
+    <meta name="cover" content="id1" />
+    <meta content="0.8.7" name="Sigil version" />
+    <dc:date opf:event="modification">2019-12-07</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Images/main-1.jpg" id="id1" media-type="image/jpeg" />
+    <item href="Images/main-2.jpg" id="main-2.jpg" media-type="image/jpeg" />
+    <item href="Text/main-1.xhtml" id="id4" media-type="application/xhtml+xml" />
+    <item href="Text/main-2.xhtml" id="id5" media-type="application/xhtml+xml" />
+    <item href="Text/main-3.xhtml" id="id6" media-type="application/xhtml+xml" />
+    <item href="Text/main-4.xhtml" id="id7" media-type="application/xhtml+xml" />
+    <item href="Text/main-5.xhtml" id="id8" media-type="application/xhtml+xml" />
+    <item href="Text/main-6.xhtml" id="id9" media-type="application/xhtml+xml" />
+    <item href="Text/main-7.xhtml" id="id10" media-type="application/xhtml+xml" />
+    <item href="Text/main-8.xhtml" id="id11" media-type="application/xhtml+xml" />
+    <item href="Text/main-9.xhtml" id="id12" media-type="application/xhtml+xml" />
+    <item href="Text/main-10.xhtml" id="id13" media-type="application/xhtml+xml" />
+    <item href="Text/main-11.xhtml" id="id14" media-type="application/xhtml+xml" />
+    <item href="Text/main-12.xhtml" id="id15" media-type="application/xhtml+xml" />
+    <item href="Text/main-13.xhtml" id="id16" media-type="application/xhtml+xml" />
+    <item href="Text/main-14.xhtml" id="id17" media-type="application/xhtml+xml" />
+    <item href="Text/main-15.xhtml" id="id18" media-type="application/xhtml+xml" />
+    <item href="Text/main-16.xhtml" id="id19" media-type="application/xhtml+xml" />
+    <item href="Text/main-17.xhtml" id="id20" media-type="application/xhtml+xml" />
+    <item href="Text/main-18.xhtml" id="id21" media-type="application/xhtml+xml" />
+    <item href="Text/main-19.xhtml" id="id22" media-type="application/xhtml+xml" />
+    <item href="Text/main-20.xhtml" id="id23" media-type="application/xhtml+xml" />
+    <item href="Text/main-21.xhtml" id="id24" media-type="application/xhtml+xml" />
+    <item href="Text/main-22.xhtml" id="id25" media-type="application/xhtml+xml" />
+    <item href="Text/main-23.xhtml" id="id26" media-type="application/xhtml+xml" />
+    <item href="Text/main-24.xhtml" id="id27" media-type="application/xhtml+xml" />
+    <item href="Text/main-25.xhtml" id="id28" media-type="application/xhtml+xml" />
+    <item href="Text/main-26.xhtml" id="id29" media-type="application/xhtml+xml" />
+    <item href="Text/main-27.xhtml" id="id30" media-type="application/xhtml+xml" />
+    <item href="Text/main-28.xhtml" id="id31" media-type="application/xhtml+xml" />
+    <item href="Styles/main.css" id="id32" media-type="text/css" />
+    <item href="toc.ncx" id="id33" media-type="application/x-dtbncx+xml" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kunye.xhtml" id="Kunye.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="id33">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="Kunye.xhtml" />
+    <itemref idref="Section0001.xhtml" />
+    <itemref idref="id4" />
+    <itemref idref="id5" />
+    <itemref idref="id6" />
+    <itemref idref="id7" />
+    <itemref idref="id8" />
+    <itemref idref="id9" />
+    <itemref idref="id10" />
+    <itemref idref="id11" />
+    <itemref idref="id12" />
+    <itemref idref="id13" />
+    <itemref idref="id14" />
+    <itemref idref="id15" />
+    <itemref idref="id16" />
+    <itemref idref="id17" />
+    <itemref idref="id18" />
+    <itemref idref="id19" />
+    <itemref idref="id20" />
+    <itemref idref="id21" />
+    <itemref idref="id22" />
+    <itemref idref="id23" />
+    <itemref idref="id24" />
+    <itemref idref="id25" />
+    <itemref idref="id26" />
+    <itemref idref="id27" />
+    <itemref idref="id28" />
+    <itemref idref="id29" />
+    <itemref idref="id30" />
+    <itemref idref="id31" />
+  </spine>
+  <guide />
+</package>

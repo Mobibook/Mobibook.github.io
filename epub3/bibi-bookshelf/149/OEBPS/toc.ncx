@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="{8E3F68F9-5F25-408D-A69A-C0994002897D}" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (2.50.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Boş Sayfa - İnsan Doğasının Modern İnkârı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>İthaf</text>
+      </navLabel>
+      <content src="Text/ithaf.xhtml"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>I. Kısım Boş Sayfa, Soylu Vahşi, Makinedeki Hayalet</text>
+      </navLabel>
+      <content src="Text/part1.xhtml"/>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>1 Resmî Kuram</text>
+        </navLabel>
+        <content src="Text/01.xhtml"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>2 Oyun Hamuru</text>
+        </navLabel>
+        <content src="Text/02.xhtml"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>3 Yıkılacak Son Duvar</text>
+        </navLabel>
+        <content src="Text/03.xhtml"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>4 Kültür Akbabaları</text>
+        </navLabel>
+        <content src="Text/04.xhtml"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>5 Sayfanın Son Direnişi</text>
+        </navLabel>
+        <content src="Text/05.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>II. Kısım Korku Ve Nefret</text>
+      </navLabel>
+      <content src="Text/part2.xhtml"/>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>6 Politik Görüşlü Bilimciler</text>
+        </navLabel>
+        <content src="Text/06.xhtml"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>7 Kutsal Üçlü</text>
+        </navLabel>
+        <content src="Text/07.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>III. Kısım İnsan Doğasının İnsani Yüzü</text>
+      </navLabel>
+      <content src="Text/part3.xhtml"/>
+      <navPoint id="num_15" playOrder="15">
+        <navLabel>
+          <text>8 Eşitsizlik Korkusu</text>
+        </navLabel>
+        <content src="Text/08.xhtml"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>9 Kusurlu Olma Korkusu</text>
+        </navLabel>
+        <content src="Text/09.xhtml"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>10 Belirlenimcilik Korkusu</text>
+        </navLabel>
+        <content src="Text/10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>11 Nihilizm Korkusu</text>
+        </navLabel>
+        <content src="Text/11.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>IV. Kısım Kendini Tanı</text>
+      </navLabel>
+      <content src="Text/part4.xhtml"/>
+      <navPoint id="num_20" playOrder="20">
+        <navLabel>
+          <text>12 Gerçeklikle Temas Etmek</text>
+        </navLabel>
+        <content src="Text/12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_21" playOrder="21">
+        <navLabel>
+          <text>13 Çaresizliklerimiz</text>
+        </navLabel>
+        <content src="Text/13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22">
+        <navLabel>
+          <text>14 Acılarımızın Kökleri</text>
+        </navLabel>
+        <content src="Text/14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="23">
+        <navLabel>
+          <text>15 Kutsallık Taslayan Hayvan</text>
+        </navLabel>
+        <content src="Text/15.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>V. Kısım Hassas Meseleler</text>
+      </navLabel>
+      <content src="Text/part5.xhtml"/>
+      <navPoint id="num_25" playOrder="25">
+        <navLabel>
+          <text>16 Siyaset</text>
+        </navLabel>
+        <content src="Text/16.xhtml"/>
+      </navPoint>
+      <navPoint id="num_26" playOrder="26">
+        <navLabel>
+          <text>17 Şiddet</text>
+        </navLabel>
+        <content src="Text/17.xhtml"/>
+      </navPoint>
+      <navPoint id="num_27" playOrder="27">
+        <navLabel>
+          <text>18 Toplumsal Cinsiyet</text>
+        </navLabel>
+        <content src="Text/18.xhtml"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="28">
+        <navLabel>
+          <text>19 Çocuklar</text>
+        </navLabel>
+        <content src="Text/19.xhtml"/>
+      </navPoint>
+      <navPoint id="num_29" playOrder="29">
+        <navLabel>
+          <text>20 Hümanist Disiplinler</text>
+        </navLabel>
+        <content src="Text/20.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>VI. Kısım Türün Sesi</text>
+      </navLabel>
+      <content src="Text/part6.xhtml"/>
+    </navPoint>
+    <navPoint id="num_31" playOrder="31">
+      <navLabel>
+        <text>Ekdonald E. Brown’ın İnsan Evrenselleri Listesi</text>
+      </navLabel>
+      <content src="Text/ek.xhtml"/>
+    </navPoint>
+    <navPoint id="num_32" playOrder="32">
+      <navLabel>
+        <text>Kaynakça</text>
+      </navLabel>
+      <content src="Text/kaynaklar.xhtml"/>
+    </navPoint>
+    <navPoint id="num_33" playOrder="33">
+      <navLabel>
+        <text>Yazar</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="num_34" playOrder="34">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/notlar.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

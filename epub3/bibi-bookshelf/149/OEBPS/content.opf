@@ -1,0 +1,121 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Pinker, Steven">Steven Pinker</dc:creator>
+<dc:identifier id="uuid">{8E3F68F9-5F25-408D-A69A-C0994002897D}</dc:identifier>
+    <dc:description>&lt;p&gt;Dil ve zihin konusunda dünyanın önde gelen uzmanlarından biri olan Steven Pinker, &lt;em&gt;Boş Sayfa&lt;/em&gt;’da insan doğası tartışmasını ve bunun ahlaki, duygusal, siyasal renklerini irdeliyor. Kendine özgü bir mizah duygusuyla ele aldığı konular hakkındaki düşüncelerini berrak bir şekilde ifade eden Pinker, geçen yüzyılda birçok aydının kabul ettiği ve zihnin doğuştan gelen özellikler &lt;em&gt;barındırmadığını&lt;/em&gt; söyleyen “boş sayfa” öğretisinin, “insanlık” dediğimiz ortak değerlerimizi ve bireysel tercihlerimizi inkâr ettiğini öne sürüyor. Pinker ayrıca, “boş sayfacıların” toplumsal sorunları nesnel bir şekilde çözümlemek yerine avutucu sloganlarla yetindiklerini; siyaset, şiddet, çocuk yetiştirme ve sanat anlayışlarımızı çarpıttığını savunuyor. Tarafların karşılıklı olarak birbirlerini suçladıkları “insan doğası” tartışmalarına soğukkanlılık ve akılcılık şırınga eden Pinker, bilim ve sağduyuya dayalı bir insan doğası anlayışını dürüstçe kabul etmenin önemini vurguluyor.&lt;/p&gt;</dc:description>
+    <dc:date>2016-05-11T21:00:00+00:00</dc:date>
+    <meta name="cover" content="cover.jpg"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta content="Boş Sayfa: İnsan Doğasının Modern İnkârı" name="calibre:title_sort"/>
+    <meta content="{&quot;Steven Pinker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  <dc:title>Boş Sayfa: İnsan Doğasının Modern İnkârı</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Popüler Bilim</dc:subject>
+<dc:subject>Logolu</dc:subject>
+<dc:subject>Bilim</dc:subject>
+<dc:contributor opf:role="bkp">calibre (2.54.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr-TR</dc:language>
+<dc:identifier opf:scheme="calibre">20fe574d-ece5-4c3d-8663-5c3c305347ff</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/title.xhtml" id="title.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.xhtml" id="ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part1.xhtml" id="part1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="x02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="x03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="x04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/05.xhtml" id="x05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part2.xhtml" id="part2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/06.xhtml" id="x06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/07.xhtml" id="x07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part3.xhtml" id="part3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/08.xhtml" id="x08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/09.xhtml" id="x09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/10.xhtml" id="x10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/11.xhtml" id="x11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part4.xhtml" id="part4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/12.xhtml" id="x12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/13.xhtml" id="x13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/14.xhtml" id="x14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/15.xhtml" id="x15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part5.xhtml" id="part5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/16.xhtml" id="x16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/17.xhtml" id="x17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/18.xhtml" id="x18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/19.xhtml" id="x19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/20.xhtml" id="x20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part6.xhtml" id="part6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ek.xhtml" id="ek.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kaynaklar.xhtml" id="kaynaklar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notlar.xhtml" id="notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id37" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id36" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/line.jpg" id="line.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+    <item href="Images/s115.png" id="s115.png" media-type="image/png"/>
+    <item href="Images/s201.png" id="s201.png" media-type="image/png"/>
+    <item href="Images/s230.png" id="s230.png" media-type="image/png"/>
+    <item href="Images/s243a.jpg" id="s243a.jpg" media-type="image/jpeg"/>
+    <item href="Images/s243b.jpg" id="s243b.jpg" media-type="image/jpeg"/>
+    <item href="Images/s244.png" id="s244.png" media-type="image/png"/>
+    <item href="Images/s29.png" id="s29.png" media-type="image/png"/>
+    <item href="Images/s319.png" id="s319.png" media-type="image/png"/>
+    <item href="Images/s418.png" id="s418.png" media-type="image/png"/>
+    <item href="Images/s66.jpg" id="s66.jpg" media-type="image/jpeg"/>
+    <item href="Images/s79.png" id="s79.png" media-type="image/png"/>
+    <item href="Fonts/CaeciliaLTStd-Italic.otf" id="CaeciliaLTStd-Italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/CaeciliaLTStd-Roman.otf" id="CaeciliaLTStd-Roman.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/GillSansStd.ttf" id="GillSansStd.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/TradeGothicTR.otf" id="TradeGothicTR.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Text/ekdg-logo.xhtml" id="ekdg-logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/ekdg-logo.png" id="ekdg-logo.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id37">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ekdg-logo.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="part1.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="part2.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="part3.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="part4.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+    <itemref idref="x15.xhtml"/>
+    <itemref idref="part5.xhtml"/>
+    <itemref idref="x16.xhtml"/>
+    <itemref idref="x17.xhtml"/>
+    <itemref idref="x18.xhtml"/>
+    <itemref idref="x19.xhtml"/>
+    <itemref idref="x20.xhtml"/>
+    <itemref idref="part6.xhtml"/>
+    <itemref idref="ek.xhtml"/>
+    <itemref idref="kaynaklar.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

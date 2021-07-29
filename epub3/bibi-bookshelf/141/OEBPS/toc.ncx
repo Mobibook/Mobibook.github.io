@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="d5496b4b-03fb-417a-a890-1aa4db7d1e27" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>STAR WARS- İmparatorluk'un Gölgeleri</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="c0f82c00-6d81-40fb-8217-351d6500838f" playOrder="1">
+      <navLabel>
+        <text>İlksöz</text>
+      </navLabel>
+      <content src="Text/metin_split_002.html"/>
+    </navPoint>
+    <navPoint id="1b409e62-b006-4fa2-a778-4e0d1fc6ba02" playOrder="2">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="Text/metin_split_003.html"/>
+    </navPoint>
+    <navPoint id="7d96d14c-7b48-43bb-9b86-53863ded5916" playOrder="3">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="Text/metin_split_004.html"/>
+    </navPoint>
+    <navPoint id="ac09b753-3bf4-48c3-ba7b-afdd26c10db3" playOrder="4">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="Text/metin_split_005.html"/>
+    </navPoint>
+    <navPoint id="126db0d2-277f-41ec-857a-7c379504b97c" playOrder="5">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="Text/metin_split_006.html"/>
+    </navPoint>
+    <navPoint id="4b72cfd5-1021-487f-acd8-64a4bb1ac6bb" playOrder="6">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="Text/metin_split_007.html"/>
+    </navPoint>
+    <navPoint id="59b48aba-58d5-4f5a-ba41-2a5d570570ea" playOrder="7">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="Text/metin_split_008.html"/>
+    </navPoint>
+    <navPoint id="e8146902-990c-4c70-b0b5-f69afb972f01" playOrder="8">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="Text/metin_split_009.html"/>
+    </navPoint>
+    <navPoint id="40a77fd7-7627-4215-860e-714bc52d8633" playOrder="9">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="Text/metin_split_010.html"/>
+    </navPoint>
+    <navPoint id="9cec1cad-76ee-410d-a7ef-69a0a2b3a5e0" playOrder="10">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="Text/metin_split_011.html"/>
+    </navPoint>
+    <navPoint id="b53678c6-0185-4dd5-b85f-c592001c46a5" playOrder="11">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="Text/metin_split_012.html"/>
+    </navPoint>
+    <navPoint id="a1230667-bcf7-4f98-b8ef-cf1a86fb9737" playOrder="12">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="Text/metin_split_013.html"/>
+    </navPoint>
+    <navPoint id="9795194b-9842-4d23-b468-16d230af2ec0" playOrder="13">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="Text/metin_split_014.html"/>
+    </navPoint>
+    <navPoint id="15d8cc6a-7c4d-4bdd-95d1-71e25357e20b" playOrder="14">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="Text/metin_split_015.html"/>
+    </navPoint>
+    <navPoint id="6c340039-e030-4516-9788-6273771ea2f8" playOrder="15">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="Text/metin_split_016.html"/>
+    </navPoint>
+    <navPoint id="15ab54da-8d1a-450b-9f41-c284736e03ad" playOrder="16">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="Text/metin_split_017.html"/>
+    </navPoint>
+    <navPoint id="77174111-2e3d-45be-a1c2-b206d87cb25e" playOrder="17">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="Text/metin_split_018.html"/>
+    </navPoint>
+    <navPoint id="8f529edf-3f35-4cb6-93d2-15b9067b8add" playOrder="18">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="Text/metin_split_019.html"/>
+    </navPoint>
+    <navPoint id="c4ab848e-b2ed-4afd-b15e-e4f58c9a50f2" playOrder="19">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="Text/metin_split_020.html"/>
+    </navPoint>
+    <navPoint id="14a952a2-824f-4053-bad6-1f9a76facc65" playOrder="20">
+      <navLabel>
+        <text>19</text>
+      </navLabel>
+      <content src="Text/metin_split_021.html"/>
+    </navPoint>
+    <navPoint id="abf47262-f8a9-468d-bdf7-5543bfed1b33" playOrder="21">
+      <navLabel>
+        <text>20</text>
+      </navLabel>
+      <content src="Text/metin_split_022.html"/>
+    </navPoint>
+    <navPoint id="2ca9780a-7c3a-48be-ad49-8f3ac7ba8a53" playOrder="22">
+      <navLabel>
+        <text>21</text>
+      </navLabel>
+      <content src="Text/metin_split_023.html"/>
+    </navPoint>
+    <navPoint id="8c6cb53e-c89b-4e0f-95e9-ae06c2bd440b" playOrder="23">
+      <navLabel>
+        <text>22</text>
+      </navLabel>
+      <content src="Text/metin_split_025.html"/>
+    </navPoint>
+    <navPoint id="931ff8f3-c623-4429-a03e-756221cb8cb3" playOrder="24">
+      <navLabel>
+        <text>23</text>
+      </navLabel>
+      <content src="Text/metin_split_026.html"/>
+    </navPoint>
+    <navPoint id="cb66c91a-2262-413a-92d5-538e99f1e9ac" playOrder="25">
+      <navLabel>
+        <text>24</text>
+      </navLabel>
+      <content src="Text/metin_split_027.html"/>
+    </navPoint>
+    <navPoint id="984984d7-3939-47ef-92d6-565f982d5be7" playOrder="26">
+      <navLabel>
+        <text>25</text>
+      </navLabel>
+      <content src="Text/metin_split_028.html"/>
+    </navPoint>
+    <navPoint id="9efadb99-de7e-415b-bf53-5b72acd75977" playOrder="27">
+      <navLabel>
+        <text>26</text>
+      </navLabel>
+      <content src="Text/metin_split_029.html"/>
+    </navPoint>
+    <navPoint id="18a5c1c3-b102-4969-8642-e3c5f1d1953c" playOrder="28">
+      <navLabel>
+        <text>27</text>
+      </navLabel>
+      <content src="Text/metin_split_030.html"/>
+    </navPoint>
+    <navPoint id="9127729d-3470-4c4a-aa99-6b31dd8c40ac" playOrder="29">
+      <navLabel>
+        <text>28</text>
+      </navLabel>
+      <content src="Text/metin_split_032.html"/>
+    </navPoint>
+    <navPoint id="3edc500b-6bac-48d9-9c08-0bfc9c9ece5f" playOrder="30">
+      <navLabel>
+        <text>29</text>
+      </navLabel>
+      <content src="Text/metin_split_034.html"/>
+    </navPoint>
+    <navPoint id="7b4b62a4-84d0-4a52-81f1-dd78449a7388" playOrder="31">
+      <navLabel>
+        <text>30</text>
+      </navLabel>
+      <content src="Text/metin_split_035.html"/>
+    </navPoint>
+    <navPoint id="3bb6e06d-dd4f-4c0e-b60b-cf012312fbcc" playOrder="32">
+      <navLabel>
+        <text>31</text>
+      </navLabel>
+      <content src="Text/metin_split_036.html"/>
+    </navPoint>
+    <navPoint id="9dbc9cbd-c89f-443a-9de2-0b41a1d522ac" playOrder="33">
+      <navLabel>
+        <text>32</text>
+      </navLabel>
+      <content src="Text/metin_split_037.html"/>
+    </navPoint>
+    <navPoint id="f203939e-8b32-4eac-a929-5cc628720896" playOrder="34">
+      <navLabel>
+        <text>33</text>
+      </navLabel>
+      <content src="Text/metin_split_040.html"/>
+    </navPoint>
+    <navPoint id="e5be857a-063b-4e99-9e64-8d40f18ae672" playOrder="35">
+      <navLabel>
+        <text>34</text>
+      </navLabel>
+      <content src="Text/metin_split_041.html"/>
+    </navPoint>
+    <navPoint id="320076a3-944d-4a33-ae62-ad22903c30dc" playOrder="36">
+      <navLabel>
+        <text>35</text>
+      </navLabel>
+      <content src="Text/metin_split_043.html"/>
+    </navPoint>
+    <navPoint id="f4c16cff-dc9b-4cbb-a605-7d5ef820bc5b" playOrder="37">
+      <navLabel>
+        <text>36</text>
+      </navLabel>
+      <content src="Text/metin_split_044.html"/>
+    </navPoint>
+    <navPoint id="874c2ef2-d13d-4f37-94c2-ff45be616dd8" playOrder="38">
+      <navLabel>
+        <text>37</text>
+      </navLabel>
+      <content src="Text/metin_split_045.html"/>
+    </navPoint>
+    <navPoint id="2f9c3adc-ef3c-4218-9273-6a54f0ce34aa" playOrder="39">
+      <navLabel>
+        <text>38</text>
+      </navLabel>
+      <content src="Text/metin_split_047.html"/>
+    </navPoint>
+    <navPoint id="f3b5331f-7b08-4866-ae7f-3629647a22e7" playOrder="40">
+      <navLabel>
+        <text>39</text>
+      </navLabel>
+      <content src="Text/metin_split_050.html"/>
+    </navPoint>
+    <navPoint id="60a66b51-943b-4270-a700-7769daf495f3" playOrder="41">
+      <navLabel>
+        <text>40</text>
+      </navLabel>
+      <content src="Text/metin_split_051.html"/>
+    </navPoint>
+    <navPoint id="d349b23b-0bc8-4b7f-8e64-78249c8ad83d" playOrder="42">
+      <navLabel>
+        <text>Sonsöz</text>
+      </navLabel>
+      <content src="Text/metin_split_052.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="3" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>BİRİNCİ KISIM - AİLE DİZİMİNİ ANLAMAK</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-1"/>
+			<navPoint id="navpoint2" playOrder="2">
+				<navLabel>
+					<text>1 - AİLE SİSTEMLERİ: İŞLEYİŞLERİ</text>
+				</navLabel>
+				<content src="Text/5-1.html#toc_marker-1-1"/>
+				<navPoint id="navpoint3" playOrder="3">
+					<navLabel>
+						<text>Dizim Nedir?</text>
+					</navLabel>
+					<content src="Text/5-1.html#toc_marker-1-1-1"/>
+				</navPoint>
+				<navPoint id="navpoint4" playOrder="4">
+					<navLabel>
+						<text>Kolektif Alanın Parçasıyız</text>
+					</navLabel>
+					<content src="Text/5-1.html#toc_marker-1-1-2"/>
+				</navPoint>
+				<navPoint id="navpoint5" playOrder="5">
+					<navLabel>
+						<text>Aile Diziminden Kimler Yararlanır?</text>
+					</navLabel>
+					<content src="Text/5-1.html#toc_marker-1-1-3"/>
+				</navPoint>
+				<navPoint id="navpoint6" playOrder="6">
+					<navLabel>
+						<text>Aile Dizimi Oluşturmak</text>
+					</navLabel>
+					<content src="Text/5-1.html#toc_marker-1-1-4"/>
+				</navPoint>
+				<navPoint id="navpoint7" playOrder="7">
+					<navLabel>
+						<text>Tek Seans Metodu</text>
+					</navLabel>
+					<content src="Text/5-1.html#toc_marker-1-1-5"/>
+				</navPoint>
+				<navPoint id="navpoint8" playOrder="8">
+					<navLabel>
+						<text>Tipik bir Aile Dizimi Seansı</text>
+					</navLabel>
+					<content src="Text/5-1.html#toc_marker-1-1-6"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>2 - VİCDAN: YAPTIRIM GÜCÜ</text>
+				</navLabel>
+				<content src="Text/5-2.html#toc_marker-1-2"/>
+				<navPoint id="navpoint10" playOrder="10">
+					<navLabel>
+						<text>Kişisel Vicdan: Aidiyet İhtiyacı</text>
+					</navLabel>
+					<content src="Text/5-2.html#toc_marker-1-2-1"/>
+				</navPoint>
+				<navPoint id="navpoint11" playOrder="11">
+					<navLabel>
+						<text>Denge İhtiyacı</text>
+					</navLabel>
+					<content src="Text/5-2.html#toc_marker-1-2-2"/>
+				</navPoint>
+				<navPoint id="navpoint12" playOrder="12">
+					<navLabel>
+						<text>Sosyal Düzen ve Görgü Kuralları</text>
+					</navLabel>
+					<content src="Text/5-2.html#toc_marker-1-2-3"/>
+				</navPoint>
+				<navPoint id="navpoint13" playOrder="13">
+					<navLabel>
+						<text>Kolektif Vicdanımız</text>
+					</navLabel>
+					<content src="Text/5-2.html#toc_marker-1-2-4"/>
+				</navPoint>
+				<navPoint id="navpoint14" playOrder="14">
+					<navLabel>
+						<text>Aidiyet Yasası</text>
+					</navLabel>
+					<content src="Text/5-2.html#toc_marker-1-2-5"/>
+				</navPoint>
+				<navPoint id="navpoint15" playOrder="15">
+					<navLabel>
+						<text>Hiyerarşi Yasası</text>
+					</navLabel>
+					<content src="Text/5-2.html#toc_marker-1-2-6"/>
+				</navPoint>
+				<navPoint id="navpoint16" playOrder="16">
+					<navLabel>
+						<text>Denge Yasası</text>
+					</navLabel>
+					<content src="Text/5-2.html#toc_marker-1-2-7"/>
+				</navPoint>
+				<navPoint id="navpoint17" playOrder="17">
+					<navLabel>
+						<text>Tüm Sistemin Esenliği</text>
+					</navLabel>
+					<content src="Text/5-2.html#toc_marker-1-2-8"/>
+				</navPoint>
+				<navPoint id="navpoint18" playOrder="18">
+					<navLabel>
+						<text>Kişisel Olana Karşı Kolektif Olan</text>
+					</navLabel>
+					<content src="Text/5-2.html#toc_marker-1-2-9"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint19" playOrder="19">
+				<navLabel>
+					<text>3 - DIŞLANMA: DIŞLANAN KİM?</text>
+				</navLabel>
+				<content src="Text/5-3.html#toc_marker-1-3"/>
+				<navPoint id="navpoint20" playOrder="20">
+					<navLabel>
+						<text>Dışlanan Babaanne</text>
+					</navLabel>
+					<content src="Text/5-3.html#toc_marker-1-3-1"/>
+				</navPoint>
+				<navPoint id="navpoint21" playOrder="21">
+					<navLabel>
+						<text>Dışlanma nedir?</text>
+					</navLabel>
+					<content src="Text/5-3.html#toc_marker-1-3-2"/>
+				</navPoint>
+				<navPoint id="navpoint22" playOrder="22">
+					<navLabel>
+						<text>Geçmişi Tamamlamak: Dışlanmışı Dahil Etmek</text>
+					</navLabel>
+					<content src="Text/5-3.html#toc_marker-1-3-3"/>
+				</navPoint>
+				<navPoint id="navpoint23" playOrder="23">
+					<navLabel>
+						<text>Kör Sevgiden Bilinçli Sevgiye</text>
+					</navLabel>
+					<content src="Text/5-3.html#toc_marker-1-3-4"/>
+				</navPoint>
+				<navPoint id="navpoint24" playOrder="24">
+					<navLabel>
+						<text>Aile Sistemine Kimler Dahildir?</text>
+					</navLabel>
+					<content src="Text/5-3.html#toc_marker-1-3-5"/>
+				</navPoint>
+				<navPoint id="navpoint25" playOrder="25">
+					<navLabel>
+						<text>Örnek Vakalar</text>
+					</navLabel>
+					<content src="Text/5-3.html#toc_marker-1-3-6"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint26" playOrder="26">
+				<navLabel>
+					<text>4 - KUTSAL DÜZEN</text>
+				</navLabel>
+				<content src="Text/5-4.html#toc_marker-1-4"/>
+				<navPoint id="navpoint27" playOrder="27">
+					<navLabel>
+						<text>Sevgi Düzeni: Ebeveynler ve Çocuklar</text>
+					</navLabel>
+					<content src="Text/5-4.html#toc_marker-1-4-1"/>
+				</navPoint>
+				<navPoint id="navpoint28" playOrder="28">
+					<navLabel>
+						<text>Ana Babaya Saygı</text>
+					</navLabel>
+					<content src="Text/5-4.html#toc_marker-1-4-2"/>
+				</navPoint>
+				<navPoint id="navpoint29" playOrder="29">
+					<navLabel>
+						<text>Onuru İfade Etmek</text>
+					</navLabel>
+					<content src="Text/5-4.html#toc_marker-1-4-3"/>
+				</navPoint>
+				<navPoint id="navpoint30" playOrder="30">
+					<navLabel>
+						<text>Yükün Sevgiyle İadesi</text>
+					</navLabel>
+					<content src="Text/5-4.html#toc_marker-1-4-4"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint31" playOrder="31">
+				<navLabel>
+					<text>5 - AİLEDE SUÇLULUK DUYGUSU: DENGE İHTİYACI</text>
+				</navLabel>
+				<content src="Text/5-5.html#toc_marker-1-5"/>
+				<navPoint id="navpoint32" playOrder="32">
+					<navLabel>
+						<text>Kolektif Suçluluk Duygusu</text>
+					</navLabel>
+					<content src="Text/5-5.html#toc_marker-1-5-1"/>
+				</navPoint>
+				<navPoint id="navpoint33" playOrder="33">
+					<navLabel>
+						<text>Ailedeki Suçluluk Duygusunun Çözümü</text>
+					</navLabel>
+					<content src="Text/5-5.html#toc_marker-1-5-2"/>
+				</navPoint>
+				<navPoint id="navpoint34" playOrder="34">
+					<navLabel>
+						<text>Özet</text>
+					</navLabel>
+					<content src="Text/5-5.html#toc_marker-1-5-3"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint35" playOrder="35">
+				<navLabel>
+					<text>6 - SUÇLU İLE KURBAN</text>
+				</navLabel>
+				<content src="Text/5-6.html#toc_marker-1-6"/>
+				<navPoint id="navpoint36" playOrder="36">
+					<navLabel>
+						<text>Yargıç Rolünden Vazgeçmek</text>
+					</navLabel>
+					<content src="Text/5-6.html#toc_marker-1-6-1"/>
+				</navPoint>
+				<navPoint id="navpoint37" playOrder="37">
+					<navLabel>
+						<text>Bu Dinamiği Seansta Ortaya Çıkarmak</text>
+					</navLabel>
+					<content src="Text/5-6.html#toc_marker-1-6-2"/>
+				</navPoint>
+				<navPoint id="navpoint38" playOrder="38">
+					<navLabel>
+						<text>Özdeşleşme Nedir?</text>
+					</navLabel>
+					<content src="Text/5-6.html#toc_marker-1-6-3"/>
+				</navPoint>
+				<navPoint id="navpoint39" playOrder="39">
+					<navLabel>
+						<text>Ulusal ve Kültürel Çatışmalar</text>
+					</navLabel>
+					<content src="Text/5-6.html#toc_marker-1-6-4"/>
+				</navPoint>
+				<navPoint id="navpoint40" playOrder="40">
+					<navLabel>
+						<text>Uygulamacı Olarak Bu Dinamikle Çalışmak</text>
+					</navLabel>
+					<content src="Text/5-6.html#toc_marker-1-6-5"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint41" playOrder="41">
+				<navLabel>
+					<text>7 - YAŞAYANLAR VE ÖLMÜŞLER</text>
+				</navLabel>
+				<content src="Text/5-7.html#toc_marker-1-7"/>
+				<navPoint id="navpoint42" playOrder="42">
+					<navLabel>
+						<text>Ölmüşlerden Hayır Dua</text>
+					</navLabel>
+					<content src="Text/5-7.html#toc_marker-1-7-1"/>
+				</navPoint>
+				<navPoint id="navpoint43" playOrder="43">
+					<navLabel>
+						<text>Ölmüşleri Bırakamamak</text>
+					</navLabel>
+					<content src="Text/5-7.html#toc_marker-1-7-2"/>
+				</navPoint>
+				<navPoint id="navpoint44" playOrder="44">
+					<navLabel>
+						<text>Kendi Önemini Abartmak</text>
+					</navLabel>
+					<content src="Text/5-7.html#toc_marker-1-7-3"/>
+				</navPoint>
+				<navPoint id="navpoint45" playOrder="45">
+					<navLabel>
+						<text>Doğum Sırasında Ölüm</text>
+					</navLabel>
+					<content src="Text/5-7.html#toc_marker-1-7-4"/>
+				</navPoint>
+				<navPoint id="navpoint46" playOrder="46">
+					<navLabel>
+						<text>Gerçek İnsanlar, Gerçek Olaylar</text>
+					</navLabel>
+					<content src="Text/5-7.html#toc_marker-1-7-5"/>
+				</navPoint>
+				<navPoint id="navpoint47" playOrder="47">
+					<navLabel>
+						<text>Bazen de Ölmüşler Hayattakilerden Öğrenirler</text>
+					</navLabel>
+					<content src="Text/5-7.html#toc_marker-1-7-6"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint48" playOrder="48">
+				<navLabel>
+					<text>8 - ANNEYE YÖNELİMİN KESİNTİYE UĞRAMASI</text>
+				</navLabel>
+				<content src="Text/5-8.html#toc_marker-1-8"/>
+				<navPoint id="navpoint49" playOrder="49">
+					<navLabel>
+						<text>Bağı Yeniden Kurmak</text>
+					</navLabel>
+					<content src="Text/5-8.html#toc_marker-1-8-1"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint50" playOrder="50">
+				<navLabel>
+					<text>9 - HASTALIKLARIN ARKASINDAKİ AİLE DİNAMİKLERİ TEMEL KİLİTLENME KALIPLARI</text>
+				</navLabel>
+				<content src="Text/5-9.html#toc_marker-1-9"/>
+				<navPoint id="navpoint51" playOrder="51">
+					<navLabel>
+						<text>İzlemek (Peşinden Gitmek)</text>
+					</navLabel>
+					<content src="Text/5-9.html#toc_marker-1-9-1"/>
+				</navPoint>
+				<navPoint id="navpoint52" playOrder="52">
+					<navLabel>
+						<text>Üstlenmek (Yükü Üstlenmek)</text>
+					</navLabel>
+					<content src="Text/5-9.html#toc_marker-1-9-2"/>
+				</navPoint>
+				<navPoint id="navpoint53" playOrder="53">
+					<navLabel>
+						<text>Suçun Kefareti</text>
+					</navLabel>
+					<content src="Text/5-9.html#toc_marker-1-9-3"/>
+				</navPoint>
+				<navPoint id="navpoint54" playOrder="54">
+					<navLabel>
+						<text>Hastalıklar</text>
+					</navLabel>
+					<content src="Text/5-9.html#toc_marker-1-9-4"/>
+				</navPoint>
+				<navPoint id="navpoint55" playOrder="55">
+					<navLabel>
+						<text>Rahimde Tümör</text>
+					</navLabel>
+					<content src="Text/5-9.html#toc_marker-1-9-5"/>
+				</navPoint>
+				<navPoint id="navpoint56" playOrder="56">
+					<navLabel>
+						<text>Multipl Skleroz</text>
+					</navLabel>
+					<content src="Text/5-9.html#toc_marker-1-9-6"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint57" playOrder="57">
+			<navLabel>
+				<text>İKİNCİ KISIM - GÜNCEL İLİŞKİLERİ ANLAMAK</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-2"/>
+			<navPoint id="navpoint58" playOrder="58">
+				<navLabel>
+					<text>10 - KADIN-ERKEK İLİŞKİSİ</text>
+				</navLabel>
+				<content src="Text/6-1.html#toc_marker-2-1"/>
+				<navPoint id="navpoint59" playOrder="59">
+					<navLabel>
+						<text>Alma Verme Dengesi</text>
+					</navLabel>
+					<content src="Text/6-1.html#toc_marker-2-1-1"/>
+				</navPoint>
+				<navPoint id="navpoint60" playOrder="60">
+					<navLabel>
+						<text>Sorunların Başladığı Yer</text>
+					</navLabel>
+					<content src="Text/6-1.html#toc_marker-2-1-2"/>
+				</navPoint>
+				<navPoint id="navpoint61" playOrder="61">
+					<navLabel>
+						<text>Olumlu ve Olumsuz Değiş Tokuş</text>
+					</navLabel>
+					<content src="Text/6-1.html#toc_marker-2-1-3"/>
+				</navPoint>
+				<navPoint id="navpoint62" playOrder="62">
+					<navLabel>
+						<text>İlişkilerde Bağlılık</text>
+					</navLabel>
+					<content src="Text/6-1.html#toc_marker-2-1-4"/>
+				</navPoint>
+				<navPoint id="navpoint63" playOrder="63">
+					<navLabel>
+						<text>İlişkilerde Düzen</text>
+					</navLabel>
+					<content src="Text/6-1.html#toc_marker-2-1-5"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint64" playOrder="64">
+				<navLabel>
+					<text>11 - İlişkilerde Olgunlaşmak</text>
+				</navLabel>
+				<content src="Text/6-2.html#toc_marker-2-2"/>
+				<navPoint id="navpoint65" playOrder="65">
+					<navLabel>
+						<text>Karşı Kutba Saygı Duymak</text>
+					</navLabel>
+					<content src="Text/6-2.html#toc_marker-2-2-1"/>
+				</navPoint>
+				<navPoint id="navpoint66" playOrder="66">
+					<navLabel>
+						<text>Aynı Cinsiyet: Zayıf Kutupluluk</text>
+					</navLabel>
+					<content src="Text/6-2.html#toc_marker-2-2-2"/>
+				</navPoint>
+				<navPoint id="navpoint67" playOrder="67">
+					<navLabel>
+						<text>Aile Farklılıklarını Sindirmek</text>
+					</navLabel>
+					<content src="Text/6-2.html#toc_marker-2-2-3"/>
+				</navPoint>
+				<navPoint id="navpoint68" playOrder="68">
+					<navLabel>
+						<text>Olumsuz Bağlılık Daha Güçlüdür</text>
+					</navLabel>
+					<content src="Text/6-2.html#toc_marker-2-2-4"/>
+				</navPoint>
+				<navPoint id="navpoint69" playOrder="69">
+					<navLabel>
+						<text>Derinleşen İlişki</text>
+					</navLabel>
+					<content src="Text/6-2.html#toc_marker-2-2-5"/>
+				</navPoint>
+				<navPoint id="navpoint70" playOrder="70">
+					<navLabel>
+						<text>Ebeveynle Yakınlığı Ortaya Çıkarmak</text>
+					</navLabel>
+					<content src="Text/6-2.html#toc_marker-2-2-6"/>
+				</navPoint>
+				<navPoint id="navpoint71" playOrder="71">
+					<navLabel>
+						<text>Egzersiz</text>
+					</navLabel>
+					<content src="Text/6-2.html#toc_marker-2-2-7"/>
+				</navPoint>
+				<navPoint id="navpoint72" playOrder="72">
+					<navLabel>
+						<text>Senaryo</text>
+					</navLabel>
+					<content src="Text/6-2.html#toc_marker-2-2-8"/>
+				</navPoint>
+				<navPoint id="navpoint73" playOrder="73">
+					<navLabel>
+						<text>Senaryo</text>
+					</navLabel>
+					<content src="Text/6-2.html#toc_marker-2-2-9"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint74" playOrder="74">
+				<navLabel>
+					<text>12 -Bir İlişkinin Evrimi</text>
+				</navLabel>
+				<content src="Text/6-3.html#toc_marker-2-3"/>
+				<navPoint id="navpoint75" playOrder="75">
+					<navLabel>
+						<text>Balayı bittiğinde</text>
+					</navLabel>
+					<content src="Text/6-3.html#toc_marker-2-3-1"/>
+				</navPoint>
+				<navPoint id="navpoint76" playOrder="76">
+					<navLabel>
+						<text>Aşkla Genişlemek</text>
+					</navLabel>
+					<content src="Text/6-3.html#toc_marker-2-3-2"/>
+				</navPoint>
+				<navPoint id="navpoint77" playOrder="77">
+					<navLabel>
+						<text>Sınırlara Saygı Göstermek</text>
+					</navLabel>
+					<content src="Text/6-3.html#toc_marker-2-3-3"/>
+				</navPoint>
+				<navPoint id="navpoint78" playOrder="78">
+					<navLabel>
+						<text>Dengesi Bozulan Sevgi</text>
+					</navLabel>
+					<content src="Text/6-3.html#toc_marker-2-3-4"/>
+				</navPoint>
+				<navPoint id="navpoint79" playOrder="79">
+					<navLabel>
+						<text>Eski Eşleri Saygıyla Anma</text>
+					</navLabel>
+					<content src="Text/6-3.html#toc_marker-2-3-5"/>
+				</navPoint>
+				<navPoint id="navpoint80" playOrder="80">
+					<navLabel>
+						<text>Barış İçinde Ayrılmak</text>
+					</navLabel>
+					<content src="Text/6-3.html#toc_marker-2-3-6"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint81" playOrder="81">
+				<navLabel>
+					<text>13 -Çocuk Sahibi Olmak</text>
+				</navLabel>
+				<content src="Text/6-4.html#toc_marker-2-4"/>
+				<navPoint id="navpoint82" playOrder="82">
+					<navLabel>
+						<text>Çocuklar Varken Ayrılmak</text>
+					</navLabel>
+					<content src="Text/6-4.html#toc_marker-2-4-1"/>
+				</navPoint>
+				<navPoint id="navpoint83" playOrder="83">
+					<navLabel>
+						<text>Danışan Kimdir?</text>
+					</navLabel>
+					<content src="Text/6-4.html#toc_marker-2-4-2"/>
+				</navPoint>
+				<navPoint id="navpoint84" playOrder="84">
+					<navLabel>
+						<text>Kardeşler Arası Rekabet</text>
+					</navLabel>
+					<content src="Text/6-4.html#toc_marker-2-4-3"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint85" playOrder="85">
+				<navLabel>
+					<text>14 - Sevginin Boyutları</text>
+				</navLabel>
+				<content src="Text/6-5.html#toc_marker-2-5"/>
+				<navPoint id="navpoint86" playOrder="86">
+					<navLabel>
+						<text>Cinsellik</text>
+					</navLabel>
+					<content src="Text/6-5.html#toc_marker-2-5-1"/>
+				</navPoint>
+				<navPoint id="navpoint87" playOrder="87">
+					<navLabel>
+						<text>Sevgi</text>
+					</navLabel>
+					<content src="Text/6-5.html#toc_marker-2-5-2"/>
+				</navPoint>
+				<navPoint id="navpoint88" playOrder="88">
+					<navLabel>
+						<text>Şefkat</text>
+					</navLabel>
+					<content src="Text/6-5.html#toc_marker-2-5-3"/>
+				</navPoint>
+				<navPoint id="navpoint89" playOrder="89">
+					<navLabel>
+						<text>Kendimizi Keşfetmek</text>
+					</navLabel>
+					<content src="Text/6-5.html#toc_marker-2-5-4"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint90" playOrder="90">
+				<navLabel>
+					<text>15 -Özel Konular: Ensest, Kürtaj, Evlat Edinme, Eşcinsellik, Aşk Üçgenleri</text>
+				</navLabel>
+				<content src="Text/6-6.html#toc_marker-2-6"/>
+				<navPoint id="navpoint91" playOrder="91">
+					<navLabel>
+						<text>Ensest ve Cinsel Taciz</text>
+					</navLabel>
+					<content src="Text/6-6.html#toc_marker-2-6-1"/>
+				</navPoint>
+				<navPoint id="navpoint92" playOrder="92">
+					<navLabel>
+						<text>Kürtaj</text>
+					</navLabel>
+					<content src="Text/6-6.html#toc_marker-2-6-2"/>
+				</navPoint>
+				<navPoint id="navpoint93" playOrder="93">
+					<navLabel>
+						<text>Evlat Edinme</text>
+					</navLabel>
+					<content src="Text/6-6.html#toc_marker-2-6-3"/>
+				</navPoint>
+				<navPoint id="navpoint94" playOrder="94">
+					<navLabel>
+						<text>Eşcinsellik</text>
+					</navLabel>
+					<content src="Text/6-6.html#toc_marker-2-6-4"/>
+				</navPoint>
+				<navPoint id="navpoint95" playOrder="95">
+					<navLabel>
+						<text>Çok Eşlilik ve Aşk Üçgenleri</text>
+					</navLabel>
+					<content src="Text/6-6.html#toc_marker-2-6-5"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint96" playOrder="96">
+			<navLabel>
+				<text>ÜÇÜNCÜ KISIM - AİLE DİZİMİ YAPMAK</text>
+			</navLabel>
+			<content src="Text/7.html#toc_marker-3"/>
+			<navPoint id="navpoint97" playOrder="97">
+				<navLabel>
+					<text>16 - Dizim Oluşturma Aşamaları</text>
+				</navLabel>
+				<content src="Text/7-1.html#toc_marker-3-1"/>
+				<navPoint id="navpoint98" playOrder="98">
+					<navLabel>
+						<text>Gerçek Sorunu Teşhis Etmek</text>
+					</navLabel>
+					<content src="Text/7-1.html#toc_marker-3-1-1"/>
+				</navPoint>
+				<navPoint id="navpoint99" playOrder="99">
+					<navLabel>
+						<text>Önce Hangi Aileyi Ele Almalı?</text>
+					</navLabel>
+					<content src="Text/7-1.html#toc_marker-3-1-2"/>
+				</navPoint>
+				<navPoint id="navpoint100" playOrder="100">
+					<navLabel>
+						<text>Kimlerin Temsil Edilmesi Gerekir?</text>
+					</navLabel>
+					<content src="Text/7-1.html#toc_marker-3-1-3"/>
+				</navPoint>
+				<navPoint id="navpoint101" playOrder="101">
+					<navLabel>
+						<text>Geribildirim almak</text>
+					</navLabel>
+					<content src="Text/7-1.html#toc_marker-3-1-4"/>
+				</navPoint>
+				<navPoint id="navpoint102" playOrder="102">
+					<navLabel>
+						<text>Teşhisten Çözüme</text>
+					</navLabel>
+					<content src="Text/7-1.html#toc_marker-3-1-5"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint103" playOrder="103">
+				<navLabel>
+					<text>17 - Uygulayıcının Yaklaşımı</text>
+				</navLabel>
+				<content src="Text/7-2.html#toc_marker-3-2"/>
+				<navPoint id="navpoint104" playOrder="104">
+					<navLabel>
+						<text>Anda Olmanın Nitelikleri</text>
+					</navLabel>
+					<content src="Text/7-2.html#toc_marker-3-2-1"/>
+				</navPoint>
+				<navPoint id="navpoint105" playOrder="105">
+					<navLabel>
+						<text>Önyargısız Çalışmak</text>
+					</navLabel>
+					<content src="Text/7-2.html#toc_marker-3-2-2"/>
+				</navPoint>
+				<navPoint id="navpoint106" playOrder="106">
+					<navLabel>
+						<text>Kendini Gözlemleme Sanatı</text>
+					</navLabel>
+					<content src="Text/7-2.html#toc_marker-3-2-3"/>
+				</navPoint>
+				<navPoint id="navpoint107" playOrder="107">
+					<navLabel>
+						<text>Korkuyla Yüzleşmek</text>
+					</navLabel>
+					<content src="Text/7-2.html#toc_marker-3-2-4"/>
+				</navPoint>
+				<navPoint id="navpoint108" playOrder="108">
+					<navLabel>
+						<text>İçtenlik gereği</text>
+					</navLabel>
+					<content src="Text/7-2.html#toc_marker-3-2-5"/>
+				</navPoint>
+				<navPoint id="navpoint109" playOrder="109">
+					<navLabel>
+						<text>Kişisel Vicdanın Ötesi</text>
+					</navLabel>
+					<content src="Text/7-2.html#toc_marker-3-2-6"/>
+				</navPoint>
+				<navPoint id="navpoint110" playOrder="110">
+					<navLabel>
+						<text>Ebeveynle Bağ Kurmak</text>
+					</navLabel>
+					<content src="Text/7-2.html#toc_marker-3-2-7"/>
+				</navPoint>
+				<navPoint id="navpoint111" playOrder="111">
+					<navLabel>
+						<text>Aktarıma Meydan Vermemek</text>
+					</navLabel>
+					<content src="Text/7-2.html#toc_marker-3-2-8"/>
+				</navPoint>
+				<navPoint id="navpoint112" playOrder="112">
+					<navLabel>
+						<text>Beklenmedik Çözümler</text>
+					</navLabel>
+					<content src="Text/7-2.html#toc_marker-3-2-9"/>
+				</navPoint>
+				<navPoint id="navpoint113" playOrder="113">
+					<navLabel>
+						<text>Enerji Alanlarını Gözetmek</text>
+					</navLabel>
+					<content src="Text/7-2.html#toc_marker-3-2-10"/>
+				</navPoint>
+				<navPoint id="navpoint114" playOrder="114">
+					<navLabel>
+						<text>İyileşme Hareketlerini Desteklemek</text>
+					</navLabel>
+					<content src="Text/7-2.html#toc_marker-3-2-11"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint115" playOrder="115">
+				<navLabel>
+					<text>18 - Uygulayıcı İçin Kılavuz</text>
+				</navLabel>
+				<content src="Text/7-3.html#toc_marker-3-3"/>
+				<navPoint id="navpoint116" playOrder="116">
+					<navLabel>
+						<text>İki Temel Soru</text>
+					</navLabel>
+					<content src="Text/7-3.html#toc_marker-3-3-1"/>
+				</navPoint>
+				<navPoint id="navpoint117" playOrder="117">
+					<navLabel>
+						<text>Üç İlke</text>
+					</navLabel>
+					<content src="Text/7-3.html#toc_marker-3-3-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint118" playOrder="118">
+				<navLabel>
+					<text>19 - Dizimi Destekleyen Üç Öğe: Düzen, Gerçek, Enerji</text>
+				</navLabel>
+				<content src="Text/7-4.html#toc_marker-3-4"/>
+				<navPoint id="navpoint119" playOrder="119">
+					<navLabel>
+						<text>Düzen</text>
+					</navLabel>
+					<content src="Text/7-4.html#toc_marker-3-4-1"/>
+				</navPoint>
+				<navPoint id="navpoint120" playOrder="120">
+					<navLabel>
+						<text>Gerçek</text>
+					</navLabel>
+					<content src="Text/7-4.html#toc_marker-3-4-2"/>
+				</navPoint>
+				<navPoint id="navpoint121" playOrder="121">
+					<navLabel>
+						<text>Bilgi Toplamak</text>
+					</navLabel>
+					<content src="Text/7-4.html#toc_marker-3-4-3"/>
+				</navPoint>
+				<navPoint id="navpoint122" playOrder="122">
+					<navLabel>
+						<text>Bilgilerin Seansta Kullanımı</text>
+					</navLabel>
+					<content src="Text/7-4.html#toc_marker-3-4-4"/>
+				</navPoint>
+				<navPoint id="navpoint123" playOrder="123">
+					<navLabel>
+						<text>Enerji</text>
+					</navLabel>
+					<content src="Text/7-4.html#toc_marker-3-4-5"/>
+				</navPoint>
+				<navPoint id="navpoint124" playOrder="124">
+					<navLabel>
+						<text>Üçü de Gerekli</text>
+					</navLabel>
+					<content src="Text/7-4.html#toc_marker-3-4-6"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint125" playOrder="125">
+				<navLabel>
+					<text>20 -İyileştiren Cümleler</text>
+				</navLabel>
+				<content src="Text/7-5.html#toc_marker-3-5"/>
+			</navPoint>
+			<navPoint id="navpoint126" playOrder="126">
+				<navLabel>
+					<text>21 -Ruhun Hareketleri</text>
+				</navLabel>
+				<content src="Text/7-6.html#toc_marker-3-6"/>
+				<navPoint id="navpoint127" playOrder="127">
+					<navLabel>
+						<text>Kesintisiz Bir Akış</text>
+					</navLabel>
+					<content src="Text/7-6.html#toc_marker-3-6-1"/>
+				</navPoint>
+				<navPoint id="navpoint128" playOrder="128">
+					<navLabel>
+						<text>Kilitlenme Hareketleri, İyileşme Hareketleri</text>
+					</navLabel>
+					<content src="Text/7-6.html#toc_marker-3-6-2"/>
+				</navPoint>
+				<navPoint id="navpoint129" playOrder="129">
+					<navLabel>
+						<text>Daha büyük bir bilgelik</text>
+					</navLabel>
+					<content src="Text/7-6.html#toc_marker-3-6-3"/>
+				</navPoint>
+				<navPoint id="navpoint130" playOrder="130">
+					<navLabel>
+						<text>Geçmiş ve Şimdi</text>
+					</navLabel>
+					<content src="Text/7-6.html#toc_marker-3-6-4"/>
+				</navPoint>
+				<navPoint id="navpoint131" playOrder="131">
+					<navLabel>
+						<text>Farklı Duygular</text>
+					</navLabel>
+					<content src="Text/7-6.html#toc_marker-3-6-5"/>
+				</navPoint>
+				<navPoint id="navpoint132" playOrder="132">
+					<navLabel>
+						<text>Enerjinin Yükselmesine İzin Vermek</text>
+					</navLabel>
+					<content src="Text/7-6.html#toc_marker-3-6-6"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint133" playOrder="133">
+			<navLabel>
+				<text>DÖRDÜNCÜ KISIM - AİLE DİZİMİNDE MEDİTASYONUN YERİ</text>
+			</navLabel>
+			<content src="Text/8.html#toc_marker-4"/>
+			<navPoint id="navpoint134" playOrder="134">
+				<navLabel>
+					<text>22 - Meditasyon Sanatı</text>
+				</navLabel>
+				<content src="Text/8-1.html#toc_marker-4-1"/>
+			</navPoint>
+			<navPoint id="navpoint135" playOrder="135">
+				<navLabel>
+					<text>23 - Bireysel Seans ve Seminerler Bireysel Seanslar</text>
+				</navLabel>
+				<content src="Text/8-2.html#toc_marker-4-2"/>
+				<navPoint id="navpoint136" playOrder="136">
+					<navLabel>
+						<text>Seminerler: Grup Çalışmaları</text>
+					</navLabel>
+					<content src="Text/8-2.html#toc_marker-4-2-1"/>
+				</navPoint>
+				<navPoint id="navpoint137" playOrder="137">
+					<navLabel>
+						<text>Paylaşım</text>
+					</navLabel>
+					<content src="Text/8-2.html#toc_marker-4-2-2"/>
+				</navPoint>
+				<navPoint id="navpoint138" playOrder="138">
+					<navLabel>
+						<text>Egzersizler</text>
+					</navLabel>
+					<content src="Text/8-2.html#toc_marker-4-2-3"/>
+				</navPoint>
+				<navPoint id="navpoint139" playOrder="139">
+					<navLabel>
+						<text>Meditasyonlar</text>
+					</navLabel>
+					<content src="Text/8-2.html#toc_marker-4-2-4"/>
+				</navPoint>
+				<navPoint id="navpoint140" playOrder="140">
+					<navLabel>
+						<text>1. Atalardan Güç Almak</text>
+					</navLabel>
+					<content src="Text/8-2.html#toc_marker-4-2-5"/>
+				</navPoint>
+				<navPoint id="navpoint141" playOrder="141">
+					<navLabel>
+						<text>Köklerini Hissetmek</text>
+					</navLabel>
+					<content src="Text/8-2.html#toc_marker-4-2-6"/>
+				</navPoint>
+				<navPoint id="navpoint142" playOrder="142">
+					<navLabel>
+						<text>Sinemada Film İzlemek</text>
+					</navLabel>
+					<content src="Text/8-2.html#toc_marker-4-2-7"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint143" playOrder="143">
+				<navLabel>
+					<text>24 -Çalışmanın İçeriği Terapi ve Meditasyon</text>
+				</navLabel>
+				<content src="Text/8-3.html#toc_marker-4-3"/>
+				<navPoint id="navpoint144" playOrder="144">
+					<navLabel>
+						<text>İki Çeşit Mutluluk</text>
+					</navLabel>
+					<content src="Text/8-3.html#toc_marker-4-3-1"/>
+				</navPoint>
+				<navPoint id="navpoint145" playOrder="145">
+					<navLabel>
+						<text>Aile Dizimi Yapmanın İki Yolu</text>
+					</navLabel>
+					<content src="Text/8-3.html#toc_marker-4-3-2"/>
+				</navPoint>
+				<navPoint id="navpoint146" playOrder="146">
+					<navLabel>
+						<text>Bir Gerçeklik Modeli</text>
+					</navLabel>
+					<content src="Text/8-3.html#toc_marker-4-3-3"/>
+				</navPoint>
+				<navPoint id="navpoint147" playOrder="147">
+					<navLabel>
+						<text>Aşkın (Transandantal) Bakış</text>
+					</navLabel>
+					<content src="Text/8-3.html#toc_marker-4-3-4"/>
+				</navPoint>
+				<navPoint id="navpoint148" playOrder="148">
+					<navLabel>
+						<text>İnanç Sistemlerinin Ötesine Geçmek</text>
+					</navLabel>
+					<content src="Text/8-3.html#toc_marker-4-3-5"/>
+				</navPoint>
+				<navPoint id="navpoint149" playOrder="149">
+					<navLabel>
+						<text>Aile Dizimini Öğrenmek</text>
+					</navLabel>
+					<content src="Text/8-3.html#toc_marker-4-3-6"/>
+				</navPoint>
+				<navPoint id="navpoint150" playOrder="150">
+					<navLabel>
+						<text>Aile Dizimi Yasalarının Derin Anlamları</text>
+					</navLabel>
+					<content src="Text/8-3.html#toc_marker-4-3-7"/>
+				</navPoint>
+				<navPoint id="navpoint151" playOrder="151">
+					<navLabel>
+						<text>Aidiyet Yasası</text>
+					</navLabel>
+					<content src="Text/8-3.html#toc_marker-4-3-8"/>
+				</navPoint>
+				<navPoint id="navpoint152" playOrder="152">
+					<navLabel>
+						<text>Düzen Yasası</text>
+					</navLabel>
+					<content src="Text/8-3.html#toc_marker-4-3-9"/>
+				</navPoint>
+				<navPoint id="navpoint153" playOrder="153">
+					<navLabel>
+						<text>Denge Yasası</text>
+					</navLabel>
+					<content src="Text/8-3.html#toc_marker-4-3-10"/>
+				</navPoint>
+				<navPoint id="navpoint154" playOrder="154">
+					<navLabel>
+						<text>Ölmüşleri Onurlandırmak</text>
+					</navLabel>
+					<content src="Text/8-3.html#toc_marker-4-3-11"/>
+				</navPoint>
+				<navPoint id="navpoint155" playOrder="155">
+					<navLabel>
+						<text>Kurban ve Suçlular</text>
+					</navLabel>
+					<content src="Text/8-3.html#toc_marker-4-3-12"/>
+				</navPoint>
+				<navPoint id="navpoint156" playOrder="156">
+					<navLabel>
+						<text>Yaşamla Barışık Olmak</text>
+					</navLabel>
+					<content src="Text/8-3.html#toc_marker-4-3-13"/>
+				</navPoint>
+				<navPoint id="navpoint157" playOrder="157">
+					<navLabel>
+						<text>Özgürlüğe Giden Yol</text>
+					</navLabel>
+					<content src="Text/8-3.html#toc_marker-4-3-14"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint158" playOrder="158">
+			<navLabel>
+				<text>- EK - Sık Sorulan Sorular</text>
+			</navLabel>
+			<content src="Text/9.html#toc_marker-5"/>
+			<navPoint id="navpoint159" playOrder="159">
+				<navLabel>
+					<text>Ne sıklıkta dizim yapmalı?</text>
+				</navLabel>
+				<content src="Text/9.html#toc_marker-5-1"/>
+			</navPoint>
+			<navPoint id="navpoint160" playOrder="160">
+				<navLabel>
+					<text>Dizimden sonra neler yapmalı?</text>
+				</navLabel>
+				<content src="Text/9.html#toc_marker-5-2"/>
+			</navPoint>
+			<navPoint id="navpoint161" playOrder="161">
+				<navLabel>
+					<text>“Çözüm odaklı” ne demektir?</text>
+				</navLabel>
+				<content src="Text/9.html#toc_marker-5-3"/>
+			</navPoint>
+			<navPoint id="navpoint162" playOrder="162">
+				<navLabel>
+					<text>Danışanı dizime sokmak ne kadar önem taşır?</text>
+				</navLabel>
+				<content src="Text/9.html#toc_marker-5-4"/>
+			</navPoint>
+			<navPoint id="navpoint163" playOrder="163">
+				<navLabel>
+					<text>Dizim ne zaman yarıda bırakılır?</text>
+				</navLabel>
+				<content src="Text/9.html#toc_marker-5-5"/>
+			</navPoint>
+			<navPoint id="navpoint164" playOrder="164">
+				<navLabel>
+					<text>Kişi bir başkası için dizim yapabilir mi?</text>
+				</navLabel>
+				<content src="Text/9.html#toc_marker-5-6"/>
+			</navPoint>
+			<navPoint id="navpoint165" playOrder="165">
+				<navLabel>
+					<text>Dizimden sonra hiçbir değişim olmazsa?</text>
+				</navLabel>
+				<content src="Text/9.html#toc_marker-5-7"/>
+			</navPoint>
+			<navPoint id="navpoint166" playOrder="166">
+				<navLabel>
+					<text>Nesneler, Duygular ve Soyut kavramlarla dizim</text>
+				</navLabel>
+				<content src="Text/9.html#toc_marker-5-8"/>
+			</navPoint>
+		</navPoint>
+	</navMap>
+</ncx>

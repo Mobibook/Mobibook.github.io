@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Sevginin Kökleri</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Liebermeister, Svagito R.">Svagito R. Liebermeister</dc:creator>
+    <dc:description>&lt;p&gt;"Sevginin Kökleri" aile dizilimi ile ilgilidir. Bu yöntem çekirdek ailede (anne, baba kardeşler) ve orijinal ailede yaşanan tüm karmaşık olayları farketmek için son derece güçlü ve etkili bir yöntem-dir. Çoğu zaman aile sistemine getirilecek olan ani, çözüm odaklı müdahaleler derin sorunlara ra-hatlama ve anlayış getirir. Ve bu anlayış aile sistemi içerisindeki üyeler arasında sevgi akışını ve barı-şı sağlar. Bu kitap aile diziliminin temel kalıplarını anlamak isteyenler içindir. Ailelerdeki doğru rolleri bulmak için eşsiz bir el kitabıdır. Temel konuların basit bir dille anlatıldığı bu kitap tüm yaklaşımı ile geleneksel terapinin çok daha ötesindedir.&lt;/p&gt;</dc:description>
+    <dc:publisher>Butik Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-06-21</dc:date>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">9466070f-620e-4947-8f9d-74ece9715ebb</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786055890636</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/5-1.html" id="x5-1" media-type="application/xhtml+xml"/>
+    <item href="Text/5-2.html" id="x5-2" media-type="application/xhtml+xml"/>
+    <item href="Text/5-3.html" id="x5-3" media-type="application/xhtml+xml"/>
+    <item href="Text/5-4.html" id="x5-4" media-type="application/xhtml+xml"/>
+    <item href="Text/5-5.html" id="x5-5" media-type="application/xhtml+xml"/>
+    <item href="Text/5-6.html" id="x5-6" media-type="application/xhtml+xml"/>
+    <item href="Text/5-7.html" id="x5-7" media-type="application/xhtml+xml"/>
+    <item href="Text/5-8.html" id="x5-8" media-type="application/xhtml+xml"/>
+    <item href="Text/5-9.html" id="x5-9" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="Text/6-1.html" id="x6-1" media-type="application/xhtml+xml"/>
+    <item href="Text/6-2.html" id="x6-2" media-type="application/xhtml+xml"/>
+    <item href="Text/6-3.html" id="x6-3" media-type="application/xhtml+xml"/>
+    <item href="Text/6-4.html" id="x6-4" media-type="application/xhtml+xml"/>
+    <item href="Text/6-5.html" id="x6-5" media-type="application/xhtml+xml"/>
+    <item href="Text/6-6.html" id="x6-6" media-type="application/xhtml+xml"/>
+    <item href="Text/7.html" id="x7" media-type="application/xhtml+xml"/>
+    <item href="Text/7-1.html" id="x7-1" media-type="application/xhtml+xml"/>
+    <item href="Text/7-2.html" id="x7-2" media-type="application/xhtml+xml"/>
+    <item href="Text/7-3.html" id="x7-3" media-type="application/xhtml+xml"/>
+    <item href="Text/7-4.html" id="x7-4" media-type="application/xhtml+xml"/>
+    <item href="Text/7-5.html" id="x7-5" media-type="application/xhtml+xml"/>
+    <item href="Text/7-6.html" id="x7-6" media-type="application/xhtml+xml"/>
+    <item href="Text/8.html" id="x8" media-type="application/xhtml+xml"/>
+    <item href="Text/8-1.html" id="x8-1" media-type="application/xhtml+xml"/>
+    <item href="Text/8-2.html" id="x8-2" media-type="application/xhtml+xml"/>
+    <item href="Text/8-3.html" id="x8-3" media-type="application/xhtml+xml"/>
+    <item href="Text/9.html" id="x9" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="ut4f6nc783Evx6EywPR8Y97" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/x-font-otf"/>
+    <item href="Fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/x-font-otf"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x5-1"/>
+    <itemref idref="x5-2"/>
+    <itemref idref="x5-3"/>
+    <itemref idref="x5-4"/>
+    <itemref idref="x5-5"/>
+    <itemref idref="x5-6"/>
+    <itemref idref="x5-7"/>
+    <itemref idref="x5-8"/>
+    <itemref idref="x5-9"/>
+    <itemref idref="x6"/>
+    <itemref idref="x6-1"/>
+    <itemref idref="x6-2"/>
+    <itemref idref="x6-3"/>
+    <itemref idref="x6-4"/>
+    <itemref idref="x6-5"/>
+    <itemref idref="x6-6"/>
+    <itemref idref="x7"/>
+    <itemref idref="x7-1"/>
+    <itemref idref="x7-2"/>
+    <itemref idref="x7-3"/>
+    <itemref idref="x7-4"/>
+    <itemref idref="x7-5"/>
+    <itemref idref="x7-6"/>
+    <itemref idref="x8"/>
+    <itemref idref="x8-1"/>
+    <itemref idref="x8-2"/>
+    <itemref idref="x8-3"/>
+    <itemref idref="x9"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

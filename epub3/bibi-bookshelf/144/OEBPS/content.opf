@@ -1,0 +1,85 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Bir Şey Yapmamak: Tüm Ruhsal Arayışların Sonu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Harrison, Steven">Steven Harrison</dc:creator>
+    <dc:identifier id="BookId">urn:uuid:f5a02839-2458-4666-bf6f-1363302539f5</dc:identifier>
+    <dc:date opf:event="creation">2016-08-20T21:16:47Z</dc:date>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Dharma Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">b354a8c1-e040-4995-b7d3-dba5c2b9c965</dc:identifier>
+    <meta name="Sigil version" content="0.9.5"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta name="calibre:title_sort" content="Bir Şey Yapmamak: Tüm Ruhsal Arayışların Sonu"/>
+    <meta name="calibre:author_link_map" content="{&quot;Steven Harrison&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="Kapak.xhtml" href="Text/Kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Dharma.xhtml" href="Text/Dharma.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ic_Kapak.xhtml" href="Text/Ic_Kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Zen_Siiri.xhtml" href="Text/Zen_Siiri.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Hakkinda.xhtml" href="Text/Hakkinda.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM001.xhtml" href="Text/BLM001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM002.xhtml" href="Text/BLM002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM003.xhtml" href="Text/BLM003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM004.xhtml" href="Text/BLM004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM005.xhtml" href="Text/BLM005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM006.xhtml" href="Text/BLM006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM007.xhtml" href="Text/BLM007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM008.xhtml" href="Text/BLM008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM009.xhtml" href="Text/BLM009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM010.xhtml" href="Text/BLM010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM011.xhtml" href="Text/BLM011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM012.xhtml" href="Text/BLM012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM013.xhtml" href="Text/BLM013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM014.xhtml" href="Text/BLM014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM015.xhtml" href="Text/BLM015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM016.xhtml" href="Text/BLM016.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM017.xhtml" href="Text/BLM017.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM018.xhtml" href="Text/BLM018.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM019.xhtml" href="Text/BLM019.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM020.xhtml" href="Text/BLM020.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM021.xhtml" href="Text/BLM021.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM022.xhtml" href="Text/BLM022.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM023.xhtml" href="Text/BLM023.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="Mandos.css" href="Styles/Mandos.css" media-type="text/css"/>
+    <item id="kapak.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="u7MAVtosjMKsEQWnv8JynYE" href="Images/Steven_Harrison_-_Bir_Sey_Yapmamak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Kapak.xhtml"/>
+    <itemref idref="Dharma.xhtml"/>
+    <itemref idref="Ic_Kapak.xhtml"/>
+    <itemref idref="Zen_Siiri.xhtml"/>
+    <itemref idref="Hakkinda.xhtml"/>
+    <itemref idref="BLM001.xhtml"/>
+    <itemref idref="BLM002.xhtml"/>
+    <itemref idref="BLM003.xhtml"/>
+    <itemref idref="BLM004.xhtml"/>
+    <itemref idref="BLM005.xhtml"/>
+    <itemref idref="BLM006.xhtml"/>
+    <itemref idref="BLM007.xhtml"/>
+    <itemref idref="BLM008.xhtml"/>
+    <itemref idref="BLM009.xhtml"/>
+    <itemref idref="BLM010.xhtml"/>
+    <itemref idref="BLM011.xhtml"/>
+    <itemref idref="BLM012.xhtml"/>
+    <itemref idref="BLM013.xhtml"/>
+    <itemref idref="BLM014.xhtml"/>
+    <itemref idref="BLM015.xhtml"/>
+    <itemref idref="BLM016.xhtml"/>
+    <itemref idref="BLM017.xhtml"/>
+    <itemref idref="BLM018.xhtml"/>
+    <itemref idref="BLM019.xhtml"/>
+    <itemref idref="BLM020.xhtml"/>
+    <itemref idref="BLM021.xhtml"/>
+    <itemref idref="BLM022.xhtml"/>
+    <itemref idref="BLM023.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/Kapak.xhtml"/>
+  </guide>
+</package>

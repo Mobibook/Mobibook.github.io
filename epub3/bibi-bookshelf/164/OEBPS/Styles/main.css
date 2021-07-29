@@ -1,0 +1,136 @@
+div.acknowledgments {
+  font-size: 0.8em;
+  margin: 2em;
+  text-align: justify;
+}
+.num {
+  width: 30px;
+  height: 65px;
+  border-right: 3px solid rgba(0, 0, 0, 1);
+  float: left;
+  margin: 0 0.5em 0 0;
+  text-align: center;
+  line-height: 100%;
+}
+h1 {
+  margin-bottom: 6em;
+  margin-top: 2em;
+}
+h1.resource {
+  text-align: center;
+  margin-bottom: 4em;
+  margin-top: 2em;
+}
+h2 {
+  margin-bottom: 1em;
+  margin-top: 2em;
+}
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+p {
+  margin: 0;
+  text-indent: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+p.nonindent {
+  text-indent: 0;
+}
+div.block {
+  text-align: justify;
+  margin: 1em 0;
+}
+p.bl_nonindent {
+  text-indent: 0;
+  font-size: 0.75em;
+  margin-left: 1.5em;
+  margin-right: 0;
+  text-align: justify;
+}
+p.bl_indent {
+  text-indent: 1.5em;
+  font-size: 0.75em;
+  margin-left: 1.5em;
+  margin-right: 0;
+  text-align: justify;
+}
+p.hanging {
+  font-size: 0.75em;
+  text-indent: -2em;
+  text-align: justify;
+}
+.hanging {
+  margin-left: 1.5em;
+  margin-top: 0.4em;
+}
+div.copyright {
+  margin-top: 0;
+}
+p.crt {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-indent: 0;
+}
+.title {
+  text-align: center;
+}
+.aut {
+  margin-top: 2em;
+  text-align: center;
+}
+.work {
+  margin-top: 0.5em;
+}
+.work1 {
+  margin-top: 1em;
+}
+.trans {
+  font-size: 0.83em;
+  margin-top: 4em;
+}
+.trans span {
+  font-size: 1.2em;
+  line-height: 2.5em;
+  display: block;
+}
+.logo {
+  margin: 3em auto 0;
+}
+ul li {
+  text-align: justify;
+  margin: 0;
+  padding: 0;
+  text-indent: 0;
+}
+.footnote {
+  font-size: 0.66em;
+  margin-bottom: 0.3em;
+  text-indent: 0;
+  margin-left: 1em;
+}
+.backref {
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 1.1em;
+}
+.noteref {
+  text-decoration: none;
+  font-size: 0.85em;
+  line-height: 1em;
+  vertical-align: super;
+  padding-left: 0.1em;
+}
+hr {
+  margin: 1em auto;
+  border: none;
+  text-align: center;
+}
+hr:after {
+  content: "* * *";
+  font-size: 0.8em;
+}
+a {
+  text-decoration: none;
+}

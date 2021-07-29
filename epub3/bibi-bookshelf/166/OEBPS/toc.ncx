@@ -1,0 +1,482 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:b14a3aa9-632c-4aab-ae06-38755900a389" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Jonathan Strange ve Bay Norrell</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Susanna Clarke</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>JONATHAN STRANGE ve Bay NORRELL</text>
+      </navLabel>
+      <content src="Text/ickapak.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Cilt I: Bay NORRELL</text>
+      </navLabel>
+      <content src="Text/chap1.xhtml"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Hurtfew'daki kütüphane</text>
+        </navLabel>
+        <content src="Text/1_01.html#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Eski Yıldız Hanı</text>
+        </navLabel>
+        <content src="Text/1_02.html#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>York'un taşları</text>
+        </navLabel>
+        <content src="Text/1_03.html#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>İngiliz Büyüsü Dostları</text>
+        </navLabel>
+        <content src="Text/1_04.html#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Drawlight</text>
+        </navLabel>
+        <content src="Text/1_05.html#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>"Büyü saygıdeğer bir uğraş değil beyefendi."</text>
+        </navLabel>
+        <content src="Text/1_06.html#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Kaçırılmayacak bir fırsat</text>
+        </navLabel>
+        <content src="Text/1_07.html#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Şeytanarabası saçlı bir beyefendi</text>
+        </navLabel>
+        <content src="Text/1_08.html#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Leydi Pole</text>
+        </navLabel>
+        <content src="Text/1_09.html#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Bir büyücüye iş bulmanın zorluğu</text>
+        </navLabel>
+        <content src="Text/1_10.html#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Brest</text>
+        </navLabel>
+        <content src="Text/1_11.html#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>İngiliz Büyüsünün Ruhu Bay Norrell’i Britanya’nın yardımına çağırıyor</text>
+        </navLabel>
+        <content src="Text/1_12.html#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Threadneedle Sokağı'ndaki büyücü</text>
+        </navLabel>
+        <content src="Text/1_13.html#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Kırık Kalp Çiftliği</text>
+        </navLabel>
+        <content src="Text/1_14.html#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Leydi Pole nasıllar?</text>
+        </navLabel>
+        <content src="Text/1_15.html#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Kayıp Umut</text>
+        </navLabel>
+        <content src="Text/1_16.html#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Anlaşılmaz biçimde ortaya çıkan yirmi beş gine</text>
+        </navLabel>
+        <content src="Text/1_17.html#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Sör Walter farklı meslekten beylere danışıyor</text>
+        </navLabel>
+        <content src="Text/1_18.html#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Şafak Oğlanları</text>
+        </navLabel>
+        <content src="Text/1_19.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Sahte bayan şapkacısı</text>
+        </navLabel>
+        <content src="Text/1_20.html#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Marsilya kartları</text>
+        </navLabel>
+        <content src="Text/1_21.html#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Asaların Şövalyesi</text>
+        </navLabel>
+        <content src="Text/1_22.html#sigil_toc_id_23"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Cilt II: JONATHAN STRANGE</text>
+      </navLabel>
+      <content src="Text/chap2.html"/>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Gölge Ev</text>
+        </navLabel>
+        <content src="Text/2_01.html#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Bir başka büyücü</text>
+        </navLabel>
+        <content src="Text/2_02.html#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Bir büyücünün eğitimi</text>
+        </navLabel>
+        <content src="Text/2_03.html#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Topuz, taç ve asa</text>
+        </navLabel>
+        <content src="Text/2_04.html#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Büyücünün karısı</text>
+        </navLabel>
+        <content src="Text/2_05.html#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Roxbourghe Dükü'nün kütüphanesi</text>
+        </navLabel>
+        <content src="Text/2_06.html#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>José Estoril’in evinde</text>
+        </navLabel>
+        <content src="Text/2_07.html#sigil_toc_id_31"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Robert Findhelm’in kitabı</text>
+        </navLabel>
+        <content src="Text/2_08.html#sigil_toc_id_32"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>On yedi ölü Napolili</text>
+        </navLabel>
+        <content src="Text/2_09.html#sigil_toc_id_33"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Kral</text>
+        </navLabel>
+        <content src="Text/2_09_0001.html#sigil_toc_id_34"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Gözlerime ayı koy</text>
+        </navLabel>
+        <content src="Text/2_10.html#sigil_toc_id_35"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Çölün kıyısında</text>
+        </navLabel>
+        <content src="Text/2_11.html#sigil_toc_id_36"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Nottinghamshire'lı beyefendi</text>
+        </navLabel>
+        <content src="Text/2_12.html#sigil_toc_id_37"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Dünyanın bütün aynaları</text>
+        </navLabel>
+        <content src="Text/2_13.html#sigil_toc_id_38"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Beş Ejderha</text>
+        </navLabel>
+        <content src="Text/2_14.html#sigil_toc_id_39"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>The Edinburgh Review'dan</text>
+        </navLabel>
+        <content src="Text/2_15.html#sigil_toc_id_40"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>İki büyücü</text>
+        </navLabel>
+        <content src="Text/2_16.html#sigil_toc_id_41"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>"İnanın bana, öyle bir yer yok"</text>
+        </navLabel>
+        <content src="Text/2_17.html#sigil_toc_id_42"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Starecross</text>
+        </navLabel>
+        <content src="Text/2_18.html#sigil_toc_id_43"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Strange kitap yazmaya karar veriyor</text>
+        </navLabel>
+        <content src="Text/2_19.html#sigil_toc_id_44"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Bay Hyde’ın garip serüveni</text>
+        </navLabel>
+        <content src="Text/2_20.html#sigil_toc_id_45"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Arabella</text>
+        </navLabel>
+        <content src="Text/2_21.html#sigil_toc_id_46"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Cilt III: JOHN USKGLASS</text>
+      </navLabel>
+      <content src="Text/chap3.html"/>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>İngiliz Büyüsü Tarihi ve Uygulaması'na önsöz</text>
+        </navLabel>
+        <content src="Text/3_01.html#sigil_toc_id_48"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>"Gökyüzü benimle konuştu..."</text>
+        </navLabel>
+        <content src="Text/3_02.html#sigil_toc_id_49"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>"Bir kara bir de mavi bir adam... bunun bir anlamı olmalı."</text>
+        </navLabel>
+        <content src="Text/3_03.html#sigil_toc_id_50"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Gravürler</text>
+        </navLabel>
+        <content src="Text/3_04.html#sigil_toc_id_51"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Çılgınlık ve delilik</text>
+        </navLabel>
+        <content src="Text/3_05.html#sigil_toc_id_52"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>İngiliz Büyüsü Tarihi ve Uygulaması</text>
+        </navLabel>
+        <content src="Text/3_06.html#sigil_toc_id_53"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Greysteel adında bir aile</text>
+        </navLabel>
+        <content src="Text/3_07.html#sigil_toc_id_54"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Cannaregio'daki yaşlı kadın</text>
+        </navLabel>
+        <content src="Text/3_08.html#sigil_toc_id_55"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Küçük gri bir fare</text>
+        </navLabel>
+        <content src="Text/3_09.html#sigil_toc_id_56"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Yürek acısı renginde küçük bir kutu</text>
+        </navLabel>
+        <content src="Text/3_10.html#sigil_toc_id_57"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>İkincisi en değerli varlığını düşmanının elinde görecek</text>
+        </navLabel>
+        <content src="Text/3_11.html#sigil_toc_id_58"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Kara Kule</text>
+        </navLabel>
+        <content src="Text/3_12.html#sigil_toc_id_59"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Kara Mektuplar(152)</text>
+        </navLabel>
+        <content src="Text/3_13.html#sigil_toc_id_60"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Henry Woodhope'un ziyareti</text>
+        </navLabel>
+        <content src="Text/3_14.html#sigil_toc_id_61"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Leucrocuta, Gecenin Kurdu</text>
+        </navLabel>
+        <content src="Text/3_15.html#sigil_toc_id_62"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Fırtına ve yalanlar</text>
+        </navLabel>
+        <content src="Text/3_16.html#sigil_toc_id_63"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Ağaç Taşla konuşur, Taş Suyla</text>
+        </navLabel>
+        <content src="Text/3_17.html#sigil_toc_id_64"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Kış ormanının sessizliğini bozan bir çığlıkta geldim</text>
+        </navLabel>
+        <content src="Text/3_18.html#sigil_toc_id_65"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>İlki kalbini karanlık bir ormanda, karlar altına gömecek ama yine de sızladığını hissedecek</text>
+        </navLabel>
+        <content src="Text/3_19.html#sigil_toc_id_66"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>İki farklı Leydi Pole</text>
+        </navLabel>
+        <content src="Text/3_20.html#sigil_toc_id_67"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>Küller, inciler, yatak örtüsü ve öpücük</text>
+        </navLabel>
+        <content src="Text/3_21.html#sigil_toc_id_68"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Jonathan Strange ve Bay Norrell</text>
+        </navLabel>
+        <content src="Text/3_22.html#sigil_toc_id_69"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Alıç ağacı</text>
+        </navLabel>
+        <content src="Text/3_23.html#sigil_toc_id_70"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>"Evet."</text>
+        </navLabel>
+        <content src="Text/3_24.html#sigil_toc_id_71"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>Strangecilerle Norrellciler</text>
+        </navLabel>
+        <content src="Text/3_25.html#sigil_toc_id_72"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-77" playOrder="77">
+      <navLabel>
+        <text>Teşekkürler</text>
+      </navLabel>
+      <content src="Text/than.html"/>
+    </navPoint>
+    <navPoint id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/footnotes.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

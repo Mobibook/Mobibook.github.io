@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{E0ACEE6F-8593-4C07-BD76-DF21B2C1ED64}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Neo-Liberal Genetik</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yazar</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>1 GİRİŞ</text>
+      </navLabel>
+      <content src="Text/01.xhtml"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Çelişen Zihin Kuramları</text>
+        </navLabel>
+        <content src="Text/01.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Genetik ve Toplumsal Cinsiyet Hesaplaması</text>
+        </navLabel>
+        <content src="Text/01.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Doğallaştırma Siyaseti Ve Bilimi</text>
+        </navLabel>
+        <content src="Text/01.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Bilimin Soğuk Ve Acı Gerçekleri</text>
+        </navLabel>
+        <content src="Text/01.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>2 ZİHİN VE KÜLTÜR</text>
+      </navLabel>
+      <content src="Text/02.xhtml"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Kuklacı, Karar Verici ve Programlayıcı Olarak Doğal Seçilim</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Doğal Seçilimin “Arsız Hilesi”</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Mekanizma ve Modül Olarak Zihin</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Sabit Mimariye Karşı Sinir Sistemi Esnekliği</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Şaibeli Açıklamalar Yaptıran Genler</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Mutlak Olarak Her Şeyin Akla Uygunluğu</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Seçim Olmayan Seçim</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Birey Olmayan Birey</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Kültür Olmayan Kültür</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>3 BİREY VE TOPLUM</text>
+      </navLabel>
+      <content src="Text/03.xhtml"/>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Genetik Bireycilik ve “Toplumsal” Meselesi</text>
+        </navLabel>
+        <content src="Text/03.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Genetik Hesabın Yoksulluğu</text>
+        </navLabel>
+        <content src="Text/03.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Kişisel Çıkarın Yoksulluğu</text>
+        </navLabel>
+        <content src="Text/03.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Klonlamanın Gelecekteki Olasılıkları</text>
+        </navLabel>
+        <content src="Text/03.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>4 CİNSİYET VE TOPLUMSAL CİNSİYET</text>
+      </navLabel>
+      <content src="Text/04.xhtml"/>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Kaynak Aramak</text>
+        </navLabel>
+        <content src="Text/04.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>“Erkeklerin Cinsel Zihni” Söyleminin Çelişkisi</text>
+        </navLabel>
+        <content src="Text/04.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Cinsel Serbestliğin Kültürel Değerleri</text>
+        </navLabel>
+        <content src="Text/04.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>“Azize-Fahişe Şalteri”ni Sökmek</text>
+        </navLabel>
+        <content src="Text/04.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Aslan ile Avı Gibi: Sahiplenmek ve Yarattığı Hoşnutsuzluklar</text>
+        </navLabel>
+        <content src="Text/04.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>“Çekirdek Zihniyet”ten Kültürel Anlama</text>
+        </navLabel>
+        <content src="Text/04.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>5 BİLİM VE KURGU</text>
+      </navLabel>
+      <content src="Text/05.xhtml"/>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Organik ve Türler Arası Benzetmeler</text>
+        </navLabel>
+        <content src="Text/05.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Külterler Arası Derin Yapılar Uydurmak</text>
+        </navLabel>
+        <content src="Text/05.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Evrimsel Geçmiş, Genetik Geçmiş: Karikatür Versiyonu</text>
+        </navLabel>
+        <content src="Text/05.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>6 BİLİM VE AHLAK</text>
+      </navLabel>
+      <content src="Text/06.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Teşekkür</text>
+      </navLabel>
+      <content src="Text/tesekkur.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Kaynakça</text>
+      </navLabel>
+      <content src="Text/kaynaklar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/notlar.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

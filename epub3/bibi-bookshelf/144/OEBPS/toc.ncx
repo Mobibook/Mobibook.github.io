@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:f5a02839-2458-4666-bf6f-1363302539f5"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Bir Şey Yapmamak</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/BLM001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Mutlak Doğru İle İlgili Bir Öykü</text>
+      </navLabel>
+      <content src="Text/BLM002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Bir şeyler yanlış: Boşluk ve Gerçeklik</text>
+      </navLabel>
+      <content src="Text/BLM003.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Psikoloji Efsanesi</text>
+      </navLabel>
+      <content src="Text/BLM004.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Aydınlanma Efsanesi</text>
+      </navLabel>
+      <content src="Text/BLM005.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Öğretmenler: Otorite, Faşizm ve Sevgi</text>
+      </navLabel>
+      <content src="Text/BLM006.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Ruhun Kara Gecesi</text>
+      </navLabel>
+      <content src="Text/BLM007.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Bir şey Yapmamak</text>
+      </navLabel>
+      <content src="Text/BLM008.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Konsantrasyon, Meditasyon Ve Boşluk</text>
+      </navLabel>
+      <content src="Text/BLM009.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Düşüncenin Doğası</text>
+      </navLabel>
+      <content src="Text/BLM010.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Dil ve Gerçeklik</text>
+      </navLabel>
+      <content src="Text/BLM011.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Din, Semboller ve Güç</text>
+      </navLabel>
+      <content src="Text/BLM012.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Değişim Bunalımı</text>
+      </navLabel>
+      <content src="Text/BLM013.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Tepki, Tasarım ve Delilik</text>
+      </navLabel>
+      <content src="Text/BLM014.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>BENLİĞİN ÇÖKÜŞÜ</text>
+      </navLabel>
+      <content src="Text/BLM015.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Sevgi, Boşluk ve Enerji</text>
+      </navLabel>
+      <content src="Text/BLM016.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Dil Ötesi İletişim</text>
+      </navLabel>
+      <content src="Text/BLM017.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Yaşam Mücadelesi</text>
+      </navLabel>
+      <content src="Text/BLM018.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Sağlık, Hastalık ve Yaşlanma</text>
+      </navLabel>
+      <content src="Text/BLM019.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Ölüm ve Ölümsüzlük</text>
+      </navLabel>
+      <content src="Text/BLM020.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Araştırma</text>
+      </navLabel>
+      <content src="Text/BLM021.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Diyaloğa Davet</text>
+      </navLabel>
+      <content src="Text/BLM022.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

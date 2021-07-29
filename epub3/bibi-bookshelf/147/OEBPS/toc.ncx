@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="59e1a2cb-72ce-4832-bddb-875d3580b76a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.7.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>At</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u40e1e5f6-84d4-45e9-a79f-c3460382f8bc" playOrder="1">
+      <navLabel>
+        <text>Başla</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

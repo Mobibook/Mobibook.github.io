@@ -1,0 +1,88 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Larsson, Stieg">Stieg Larsson</dc:creator>
+<dc:publisher>Pegasus Yayınları</dc:publisher>
+    <meta name="calibre:series_index" content="1.0"/>
+    <meta name="calibre:title_sort" content="Ejderha Dövmeli Kız"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <dc:description>&lt;p&gt;41 ülkede rekor satış yapan kitaplarının başarısını göremeden 50 yaşında hayata veda eden İsveçli gazeteci Stieg Larsson'un zihne kazınacak sahneler, çarpıcı ve canlı karakterler, okurları adeta yerlerine çivileyecek sürükleyici bir kurgu ile her sayfasını ağır ağır ve dokuyarak yazdığı Millennium serisinin ilk kitabı Ejderha Dövmeli Kız'ı okuduktan sonra, Gefle Dagblad gibi 'bundan daha iyisi yapılamaz' diyebilirsiniz. Ama bu erken bir karar olabilir. Son sözü söylemeden ikincisini beklemenizi tavsiye ederiz. 
+
+"Olağanüstü… Okuyucular kitabı okurken yerlerinden bile kıpırdayamayacak."
+-SUNDAY TIMES
+
+"Bu kitabı okumaya başladığınızda, ilk adımı hiç atmamış olmayı dileyeceksiniz. Çevreniz kararacak ve kendinizi öykünün içinde bulacaksınız…"
+-BILD AM SONNTAG
+
+"Bu kitap kendisi için söylenen her bir övgü sözcüğünü hak ediyor… Üçlemenin geri kalan iki kitabı bunun yarısı kadar bile iyi olsa, Larsson bize müthiş bir miras bırakmış olacak."
+-SHARON WHEELER
+
+"Larsson'un bu kitabı saatli bir bomba gibi..."
+-BOB CORNWELL
+
+"Hipnotize edici."
+-USA TODAY
+
+"Tam bir dinamit."
+-LIZ SMITH
+
+"Çılgınca… Müthiş bir gerilim."
+-THE WASHINGTON POST
+
+"Büyük bir açlıkla okunacaktır…"
+-OBSERVER
+
+"Larsson'un kitapları hayatımız için bir tehlike oluşturuyor. Parklar okuyucularla tıka basa dolacak, çalışma dünyası altüst olacaktır. Bütün bunların nedeni hiç kimsenin kitabı elinden bırakamamasıdır."
+-BAMS&lt;/p&gt;</dc:description>
+    <meta name="calibre:timestamp" content="2014-12-01T18:37:34+00:00"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2009-03-17T22:00:00+00:00</dc:date>
+    <meta name="calibre:series" content="Millennium"/>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">703841e5-ef81-47d5-9ea0-fce493a69d91</dc:identifier>
+    <dc:title>Ejderha Dövmeli Kız</dc:title>
+<dc:subject>Polisiye</dc:subject>
+<dc:subject>Macera</dc:subject>
+<dc:subject>Dedektif</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Stieg Larsson&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">39895021-da75-4e81-950a-c2873327cb7f</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786054263301</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index_split_000.xhtml" id="id111" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.xhtml" id="id110" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_009.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_010.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

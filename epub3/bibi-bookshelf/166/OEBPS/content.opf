@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Jonathan Strange ve Bay Norrell</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Clarke, Susanna">Susanna Clarke</dc:creator>
+    <dc:date>2005-12-31T22:00:00+00:00</dc:date>
+    <dc:description>İngiltere'ye iki büyücü gelecek..." "İlki benden korkacak, ikincisi beni görme özlemiyle yanacak, İlkini hırsızlar ve katiller yönetecek, ikincisi kendi yıkımında suç ortağı olacak, İlki kalbini karanlık bir ormanda karlar altına gömecek ama yine de sızladığını hissedecek, İkincisi en değerli varlığını düşmanının elinde görecek..." "İlki hayatını yalnız geçirecek, kendi kendisinin gardiyanı olacak, İkincisi ıssız yollarda yürüyecek, başında fırtına, yüksek bir tepede karanlık bir kule arayacak..."</dc:description>
+    <dc:publisher>Oğlak Yayıncılık</dc:publisher>
+    <dc:contributor opf:role="Çevirmen">Berna Kılınçer</dc:contributor>
+    <dc:contributor opf:role="Hazırlayan">eldkaan</dc:contributor>
+    <dc:date opf:event="modification">2017-03-27</dc:date>
+    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:b14a3aa9-632c-4aab-ae06-38755900a389</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">87c46806-8e97-4000-a484-14d65f94b702</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753295598</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ithaf.xhtml" href="Text/ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chap1.xhtml" href="Text/chap1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1_01.html" href="Text/1_01.html" media-type="application/xhtml+xml"/>
+    <item id="x1_02.html" href="Text/1_02.html" media-type="application/xhtml+xml"/>
+    <item id="x1_03.html" href="Text/1_03.html" media-type="application/xhtml+xml"/>
+    <item id="x1_04.html" href="Text/1_04.html" media-type="application/xhtml+xml"/>
+    <item id="x1_05.html" href="Text/1_05.html" media-type="application/xhtml+xml"/>
+    <item id="x1_06.html" href="Text/1_06.html" media-type="application/xhtml+xml"/>
+    <item id="x1_07.html" href="Text/1_07.html" media-type="application/xhtml+xml"/>
+    <item id="x1_08.html" href="Text/1_08.html" media-type="application/xhtml+xml"/>
+    <item id="x1_09.html" href="Text/1_09.html" media-type="application/xhtml+xml"/>
+    <item id="x1_10.html" href="Text/1_10.html" media-type="application/xhtml+xml"/>
+    <item id="x1_11.html" href="Text/1_11.html" media-type="application/xhtml+xml"/>
+    <item id="x1_12.html" href="Text/1_12.html" media-type="application/xhtml+xml"/>
+    <item id="x1_13.html" href="Text/1_13.html" media-type="application/xhtml+xml"/>
+    <item id="x1_14.html" href="Text/1_14.html" media-type="application/xhtml+xml"/>
+    <item id="x1_15.html" href="Text/1_15.html" media-type="application/xhtml+xml"/>
+    <item id="x1_16.html" href="Text/1_16.html" media-type="application/xhtml+xml"/>
+    <item id="x1_17.html" href="Text/1_17.html" media-type="application/xhtml+xml"/>
+    <item id="x1_18.html" href="Text/1_18.html" media-type="application/xhtml+xml"/>
+    <item id="x1_19.html" href="Text/1_19.html" media-type="application/xhtml+xml"/>
+    <item id="x1_20.html" href="Text/1_20.html" media-type="application/xhtml+xml"/>
+    <item id="x1_21.html" href="Text/1_21.html" media-type="application/xhtml+xml"/>
+    <item id="x1_22.html" href="Text/1_22.html" media-type="application/xhtml+xml"/>
+    <item id="chap2.html" href="Text/chap2.html" media-type="application/xhtml+xml"/>
+    <item id="x2_01.html" href="Text/2_01.html" media-type="application/xhtml+xml"/>
+    <item id="x2_02.html" href="Text/2_02.html" media-type="application/xhtml+xml"/>
+    <item id="x2_03.html" href="Text/2_03.html" media-type="application/xhtml+xml"/>
+    <item id="x2_04.html" href="Text/2_04.html" media-type="application/xhtml+xml"/>
+    <item id="x2_05.html" href="Text/2_05.html" media-type="application/xhtml+xml"/>
+    <item id="x2_06.html" href="Text/2_06.html" media-type="application/xhtml+xml"/>
+    <item id="x2_07.html" href="Text/2_07.html" media-type="application/xhtml+xml"/>
+    <item id="x2_08.html" href="Text/2_08.html" media-type="application/xhtml+xml"/>
+    <item id="x2_09.html" href="Text/2_09.html" media-type="application/xhtml+xml"/>
+    <item id="x2_09_0001.html" href="Text/2_09_0001.html" media-type="application/xhtml+xml"/>
+    <item id="x2_10.html" href="Text/2_10.html" media-type="application/xhtml+xml"/>
+    <item id="x2_11.html" href="Text/2_11.html" media-type="application/xhtml+xml"/>
+    <item id="x2_12.html" href="Text/2_12.html" media-type="application/xhtml+xml"/>
+    <item id="x2_13.html" href="Text/2_13.html" media-type="application/xhtml+xml"/>
+    <item id="x2_14.html" href="Text/2_14.html" media-type="application/xhtml+xml"/>
+    <item id="x2_15.html" href="Text/2_15.html" media-type="application/xhtml+xml"/>
+    <item id="x2_16.html" href="Text/2_16.html" media-type="application/xhtml+xml"/>
+    <item id="x2_17.html" href="Text/2_17.html" media-type="application/xhtml+xml"/>
+    <item id="x2_18.html" href="Text/2_18.html" media-type="application/xhtml+xml"/>
+    <item id="x2_19.html" href="Text/2_19.html" media-type="application/xhtml+xml"/>
+    <item id="x2_20.html" href="Text/2_20.html" media-type="application/xhtml+xml"/>
+    <item id="x2_21.html" href="Text/2_21.html" media-type="application/xhtml+xml"/>
+    <item id="chap3.html" href="Text/chap3.html" media-type="application/xhtml+xml"/>
+    <item id="x3_01.html" href="Text/3_01.html" media-type="application/xhtml+xml"/>
+    <item id="x3_02.html" href="Text/3_02.html" media-type="application/xhtml+xml"/>
+    <item id="x3_03.html" href="Text/3_03.html" media-type="application/xhtml+xml"/>
+    <item id="x3_04.html" href="Text/3_04.html" media-type="application/xhtml+xml"/>
+    <item id="x3_05.html" href="Text/3_05.html" media-type="application/xhtml+xml"/>
+    <item id="x3_06.html" href="Text/3_06.html" media-type="application/xhtml+xml"/>
+    <item id="x3_07.html" href="Text/3_07.html" media-type="application/xhtml+xml"/>
+    <item id="x3_08.html" href="Text/3_08.html" media-type="application/xhtml+xml"/>
+    <item id="x3_09.html" href="Text/3_09.html" media-type="application/xhtml+xml"/>
+    <item id="x3_10.html" href="Text/3_10.html" media-type="application/xhtml+xml"/>
+    <item id="x3_11.html" href="Text/3_11.html" media-type="application/xhtml+xml"/>
+    <item id="x3_12.html" href="Text/3_12.html" media-type="application/xhtml+xml"/>
+    <item id="x3_13.html" href="Text/3_13.html" media-type="application/xhtml+xml"/>
+    <item id="x3_14.html" href="Text/3_14.html" media-type="application/xhtml+xml"/>
+    <item id="x3_15.html" href="Text/3_15.html" media-type="application/xhtml+xml"/>
+    <item id="x3_16.html" href="Text/3_16.html" media-type="application/xhtml+xml"/>
+    <item id="x3_17.html" href="Text/3_17.html" media-type="application/xhtml+xml"/>
+    <item id="x3_18.html" href="Text/3_18.html" media-type="application/xhtml+xml"/>
+    <item id="x3_19.html" href="Text/3_19.html" media-type="application/xhtml+xml"/>
+    <item id="x3_20.html" href="Text/3_20.html" media-type="application/xhtml+xml"/>
+    <item id="x3_21.html" href="Text/3_21.html" media-type="application/xhtml+xml"/>
+    <item id="x3_22.html" href="Text/3_22.html" media-type="application/xhtml+xml"/>
+    <item id="x3_23.html" href="Text/3_23.html" media-type="application/xhtml+xml"/>
+    <item id="x3_24.html" href="Text/3_24.html" media-type="application/xhtml+xml"/>
+    <item id="x3_25.html" href="Text/3_25.html" media-type="application/xhtml+xml"/>
+    <item id="than.html" href="Text/than.html" media-type="application/xhtml+xml"/>
+    <item id="footnotes.html" href="Text/footnotes.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="mute.css" href="Styles/mute.css" media-type="text/css"/>
+    <item id="bird.jpg" href="Images/bird.jpg" media-type="image/jpeg"/>
+    <item id="c1.jpg" href="Images/c1.jpg" media-type="image/jpeg"/>
+    <item id="c2.jpg" href="Images/c2.jpg" media-type="image/jpeg"/>
+    <item id="c3.jpg" href="Images/c3.jpg" media-type="image/jpeg"/>
+    <item id="literata-bold-italic.otf" href="Fonts/literata-bold-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-bold.otf" href="Fonts/literata-bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-italic.otf" href="Fonts/literata-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-regular.otf" href="Fonts/literata-regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="chap1.xhtml"/>
+    <itemref idref="x1_01.html"/>
+    <itemref idref="x1_02.html"/>
+    <itemref idref="x1_03.html"/>
+    <itemref idref="x1_04.html"/>
+    <itemref idref="x1_05.html"/>
+    <itemref idref="x1_06.html"/>
+    <itemref idref="x1_07.html"/>
+    <itemref idref="x1_08.html"/>
+    <itemref idref="x1_09.html"/>
+    <itemref idref="x1_10.html"/>
+    <itemref idref="x1_11.html"/>
+    <itemref idref="x1_12.html"/>
+    <itemref idref="x1_13.html"/>
+    <itemref idref="x1_14.html"/>
+    <itemref idref="x1_15.html"/>
+    <itemref idref="x1_16.html"/>
+    <itemref idref="x1_17.html"/>
+    <itemref idref="x1_18.html"/>
+    <itemref idref="x1_19.html"/>
+    <itemref idref="x1_20.html"/>
+    <itemref idref="x1_21.html"/>
+    <itemref idref="x1_22.html"/>
+    <itemref idref="chap2.html"/>
+    <itemref idref="x2_01.html"/>
+    <itemref idref="x2_02.html"/>
+    <itemref idref="x2_03.html"/>
+    <itemref idref="x2_04.html"/>
+    <itemref idref="x2_05.html"/>
+    <itemref idref="x2_06.html"/>
+    <itemref idref="x2_07.html"/>
+    <itemref idref="x2_08.html"/>
+    <itemref idref="x2_09.html"/>
+    <itemref idref="x2_09_0001.html"/>
+    <itemref idref="x2_10.html"/>
+    <itemref idref="x2_11.html"/>
+    <itemref idref="x2_12.html"/>
+    <itemref idref="x2_13.html"/>
+    <itemref idref="x2_14.html"/>
+    <itemref idref="x2_15.html"/>
+    <itemref idref="x2_16.html"/>
+    <itemref idref="x2_17.html"/>
+    <itemref idref="x2_18.html"/>
+    <itemref idref="x2_19.html"/>
+    <itemref idref="x2_20.html"/>
+    <itemref idref="x2_21.html"/>
+    <itemref idref="chap3.html"/>
+    <itemref idref="x3_01.html"/>
+    <itemref idref="x3_02.html"/>
+    <itemref idref="x3_03.html"/>
+    <itemref idref="x3_04.html"/>
+    <itemref idref="x3_05.html"/>
+    <itemref idref="x3_06.html"/>
+    <itemref idref="x3_07.html"/>
+    <itemref idref="x3_08.html"/>
+    <itemref idref="x3_09.html"/>
+    <itemref idref="x3_10.html"/>
+    <itemref idref="x3_11.html"/>
+    <itemref idref="x3_12.html"/>
+    <itemref idref="x3_13.html"/>
+    <itemref idref="x3_14.html"/>
+    <itemref idref="x3_15.html"/>
+    <itemref idref="x3_16.html"/>
+    <itemref idref="x3_17.html"/>
+    <itemref idref="x3_18.html"/>
+    <itemref idref="x3_19.html"/>
+    <itemref idref="x3_20.html"/>
+    <itemref idref="x3_21.html"/>
+    <itemref idref="x3_22.html"/>
+    <itemref idref="x3_23.html"/>
+    <itemref idref="x3_24.html"/>
+    <itemref idref="x3_25.html"/>
+    <itemref idref="than.html"/>
+    <itemref idref="footnotes.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

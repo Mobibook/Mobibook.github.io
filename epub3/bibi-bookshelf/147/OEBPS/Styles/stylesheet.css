@@ -1,0 +1,265 @@
+.calibre {
+  display: block;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre_rescale_ {
+  display: block;
+  font-size: 1em;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  text-indent: 1.5em;
+}
+.calibre1 {
+  display: table-row;
+  vertical-align: middle;
+}
+.calibre2 {
+  font-style: italic;
+}
+.calibre3 {
+  color: white;
+  display: none;
+  vertical-align: middle;
+}
+.calibre4 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  padding: 1px;
+}
+.calibre5 {
+  display: block;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  text-indent: 1.5em;
+}
+.calibre6 {
+  display: block;
+  text-indent: 1.5em;
+  margin: 0.5em 0;
+}
+.calibre7 {
+  background-color: rgb(255, 255, 255);
+  color: rgb(68, 68, 68);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.58333em;
+}
+.calibre8 {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  margin: 1em 0;
+}
+.calibre9 {
+  font-weight: bold;
+  line-height: 1.2;
+}
+.calibre10 {
+  display: block;
+  line-height: 1.2;
+}
+.calibre11 {
+  display: block;
+  font-size: 1.41667em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  margin: 1em 0;
+}
+.calibre12 {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  margin: 0.5em 0;
+}
+.calibre13 {
+  display: block;
+}
+.calibre14 {
+  display: block;
+  font-size: 1.41667em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: justify;
+  margin: 1em 0;
+}
+.calibre15 {
+  font-size: 1em;
+  font-style: italic;
+}
+.calibre16 {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: center;
+  margin: 0.5em 0;
+}
+.calibre17 {
+  font-weight: bold;
+}
+.calibre18 {
+  display: block;
+  font-size: 1.125em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  margin: 1em 0;
+}
+.calibre19 {
+  font-size: 1em;
+}
+.calibre20 {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0.5em 0;
+}
+.calibre21 {
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.calibre22 {
+  font-size: 1em;
+  line-height: 1.2;
+}
+.calibre23 {
+  display: block;
+  font-size: 1.125em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: justify;
+  margin: 1em 0;
+}
+.calibre24 {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+}
+.calibre25 {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: left;
+  text-indent: 1.5em;
+  margin: 0.5em 0;
+}
+.calibre26 {
+  font-size: 1em;
+  text-align: center;
+}
+.calibre27 {
+  font-style: normal;
+  font-weight: bold;
+}
+.calibre28 {
+  font-size: 1em;
+  font-weight: bold;
+}
+.calibre29 {
+  font-style: normal;
+  font-weight: normal;
+}
+.calibre30 {
+  font-weight: normal;
+}
+.cbj_banner {
+  -webkit-border-radius: 8px;
+  background: #eee;
+  color: black;
+  display: block;
+  text-indent: 1.5em;
+  padding: 1em;
+  margin: 0.5em 1em;
+  border: black solid thin;
+}
+.cbj_comments {
+  display: block;
+  font-family: sans-serif;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  text-indent: 1.5em;
+}
+.cbj_content {
+  display: table-cell;
+  font-family: sans-serif;
+  text-align: left;
+  vertical-align: inherit;
+  width: 67%;
+  padding: 1px;
+}
+.cbj_footer {
+  display: block;
+  font-family: sans-serif;
+  font-size: 0.75em;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  text-align: center;
+}
+.cbj_header {
+  border-collapse: separate;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-indent: 0;
+  width: 100%;
+}
+.cbj_label {
+  display: table-cell;
+  font-family: sans-serif;
+  text-align: right;
+  vertical-align: inherit;
+  width: 33%;
+  padding: 1px;
+}
+.cbj_series {
+  display: table-cell;
+  text-align: center;
+  vertical-align: inherit;
+  padding: 1px;
+}
+.cbj_title {
+  display: table-cell;
+  font-size: 1.41667em;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: center;
+  vertical-align: inherit;
+  padding: 1px;
+}
+.metadata_divider {
+  color: gray;
+  display: block;
+  height: 2px;
+  width: 90%;
+  margin: 0.5em auto 0.5em 5%;
+  border-top: white solid 0;
+  border-right: white solid 0;
+  border-bottom: black solid 1px;
+  border-left: white solid 0;
+}
+.title {
+  line-height: 1.2;
+}
