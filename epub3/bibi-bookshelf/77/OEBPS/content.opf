@@ -1,0 +1,42 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Aforizmalar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kafka, Franz">Franz Kafka</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1785d9ae-8a10-4994-ae1e-508ec467ab7f</dc:identifier>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.85.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">8a4ecdde-91b5-48d6-b618-30bbdca665d4</dc:identifier>
+    <meta content="1" name="calibre:series_index"/>
+    <meta content="2011-08-01T07:38:20.079000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Aforizmalar"/>
+    <meta name="calibre:author_link_map" content="{&quot;Franz Kafka&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/kafka_split_000.html" id="html115" media-type="application/xhtml+xml"/>
+    <item href="Text/kafka_split_001.html" id="html114" media-type="application/xhtml+xml"/>
+    <item href="Text/kafka_split_002.html" id="html113" media-type="application/xhtml+xml"/>
+    <item href="Text/kafka_split_004.html" id="html111" media-type="application/xhtml+xml"/>
+    <item href="Text/kafka_split_114.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/iskultur.jpg" id="added" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html115"/>
+    <itemref idref="html114"/>
+    <itemref idref="html113"/>
+    <itemref idref="html111"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

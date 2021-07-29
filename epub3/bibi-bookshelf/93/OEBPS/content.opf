@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>İnsanca, Pek İnsanca - 1</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Nietzsche, Friedrich">Friedrich Nietzsche</dc:creator>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:2D4635BF-4616-4085-AEBE-A535F440143A</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;&lt;div&gt;Friedrich Wilhelm Nietzsche (1844-1900): Geleneksel din, ahlak ve felsefe anlayışlarını kendine özgü yoğun ve çarpıcı bir dille eleştiren en etkili çağdaş felsefecilerdendir. Bonn Üniversitesi’nde teoloji okumaya başlayan Nietzsche daha sonra filolojiye yöneldi. Leipzig Üniversitesi’nde öğrenimini sürdürdü, henüz öğrenci iken Basel Üniversitesi filoloji profesörlüğüne aday gösterildi. 1869’da sınav ve tez koşulu aranmadan, yalnızca yazılarına dayanarak doktor unvanı verilen Nietzsche profesörlüğü sırasında klasik filoloji çalışmalarından uzaklaştı ve felsefeyle uğraşmaya başladı. Tragedyanın Doğuşu, Zamana Aykırı Bakışlar, İnsanca Pek İnsanca, Tan Kızıllığı, Şen Bilim, Böyle Söyledi Zerdüşt, İyinin ve Kötünün Ötesinde, Ahlakın Soykütüğü, Ecce Homo,  Wagner Olayı, Dionysos Dithyrambosları, Putların Alacakaranlığı, Antichrist, Nietzsche Wagner’e Karşı başlıca büyük eserleri arasında yer almaktadır.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mustafa Tüzel (1959): İTÜ Elektrik Fakültesi’nde okudu. Bir süre İsviçre’de yaşadı, fabrikalarda çalıştı ve çıraklık eğitimi gördü. İÜ Basın Yayın Yüksek Okulu Radyo TV bölümünden mezun oldu. 1994 yılında Avrupa Çevirmenler Kollegyumu’nun (Straelen – Almanya) konuğu oldu. 20 yıldır sürdürdüğü çeviri uğraşında Thomas Bernhard, Friedrich Dürrenmatt, Martin Walser, Zafer Şenocak, Monika Maron gibi edebiyatçıların, Arthur Schopenhauer, Friedrich Nietzsche, Jürgen Habermas, Max Horkheimer, Peter Sloterdijk, Christoph Türcke gibi düşünürlerin eserlerini Türkçe’ye kazandırdı.&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">4a3a54cb-0b65-4c92-b952-e177bcd8d1c8</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="kapak.html" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="7.html" id="x7" media-type="application/xhtml+xml"/>
+    <item href="7-1.html" id="x7-1" media-type="application/xhtml+xml"/>
+    <item href="7-2.html" id="x7-2" media-type="application/xhtml+xml"/>
+    <item href="7-3.html" id="x7-3" media-type="application/xhtml+xml"/>
+    <item href="7-4.html" id="x7-4" media-type="application/xhtml+xml"/>
+    <item href="7-5.html" id="x7-5" media-type="application/xhtml+xml"/>
+    <item href="7-6.html" id="x7-6" media-type="application/xhtml+xml"/>
+    <item href="7-7.html" id="x7-7" media-type="application/xhtml+xml"/>
+    <item href="7-8.html" id="x7-8" media-type="application/xhtml+xml"/>
+    <item href="8.html" id="x8" media-type="application/xhtml+xml"/>
+    <item href="8-1.html" id="x8-1" media-type="application/xhtml+xml"/>
+    <item href="9.html" id="x9" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="images/is_kultur_kucuk_yuvarl_fmt.jpeg" id="is_kultur_kucuk_yuvarl_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/perde_fmt.jpeg" id="perde_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="u9JASTKZ22dkXrjvZrmFYk2" media-type="image/jpeg"/>
+    <item href="fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x7"/>
+    <itemref idref="x7-1"/>
+    <itemref idref="x7-2"/>
+    <itemref idref="x7-3"/>
+    <itemref idref="x7-4"/>
+    <itemref idref="x7-5"/>
+    <itemref idref="x7-6"/>
+    <itemref idref="x7-7"/>
+    <itemref idref="x7-8"/>
+    <itemref idref="x8"/>
+    <itemref idref="x8-1"/>
+    <itemref idref="x9"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

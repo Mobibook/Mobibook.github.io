@@ -1,0 +1,702 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:isbn:9789750720314"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="Sistematik epub-tools"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Karamazov Kardeşler</text>
+  </docTitle>
+  <navMap>
+    <navLabel>
+      <text>İçindekiler</text>
+    </navLabel>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yazardan</text>
+      </navLabel>
+      <content src="preface.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="part1.xhtml"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>BİRİNCİ KİTAP - Bir Ailenin Öyküsü</text>
+        </navLabel>
+        <content src="subchapter1.xhtml"/>
+        <navPoint id="navPoint-4" playOrder="4">
+          <navLabel>
+            <text>I FEDOR PAVLOVİÇ KARAMAZOV</text>
+          </navLabel>
+          <content src="subchapter1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>II İLK OĞLUNU BAŞINDAN ATTI</text>
+          </navLabel>
+          <content src="subchapter2.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>III İKİNCİ EVLİLİK VE İKİNCİ ÇOCUKLAR</text>
+          </navLabel>
+          <content src="subchapter3.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>IV ÜÇÜNCÜ OĞUL ALYOŞA</text>
+          </navLabel>
+          <content src="subchapter4.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>V STARETSLER</text>
+          </navLabel>
+          <content src="subchapter5.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>İKİNCİ KİTAP - Yersiz Bir Toplantı</text>
+        </navLabel>
+        <content src="subchapter6.xhtml"/>
+        <navPoint id="navPoint-10" playOrder="10">
+          <navLabel>
+            <text>I MANASTIRA GELDİLER</text>
+          </navLabel>
+          <content src="subchapter6.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+          <navLabel>
+            <text>II İHTİYAR SOYTARI</text>
+          </navLabel>
+          <content src="subchapter7.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>III İMANLI KADINLAR</text>
+          </navLabel>
+          <content src="subchapter8.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>IV İNANCI ZAYIF BİR HANIMEFENDİ</text>
+          </navLabel>
+          <content src="subchapter9.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>V ÂMİN, ÂMİN!</text>
+          </navLabel>
+          <content src="subchapter10.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>VI BÖYLE BİR ADAM NE DİYE YAŞAR Kİ!</text>
+          </navLabel>
+          <content src="subchapter11.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>VII KARİYER MERAKLISI BİR PAPAZ OKULU ÖĞRENCİSİ</text>
+          </navLabel>
+          <content src="subchapter12.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+          <navLabel>
+            <text>VIII REZALET</text>
+          </navLabel>
+          <content src="subchapter13.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>ÜÇÜNCÜ KİTAP - Şehvet Düşkünleri</text>
+        </navLabel>
+        <content src="subchapter14.xhtml"/>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>I UŞAK EVİNDE</text>
+          </navLabel>
+          <content src="subchapter14.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>II LİZAVETA SMERDYAŞÇAYA</text>
+          </navLabel>
+          <content src="subchapter15.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>III ATEŞLİ BİR YÜREĞİN ŞİİRLERLE İTİRAFI</text>
+          </navLabel>
+          <content src="subchapter16.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>IV ATEŞLİ BİR YÜREĞİN ÖYKÜCÜKLERLE İTİRAFI</text>
+          </navLabel>
+          <content src="subchapter17.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>V ATEŞLİ BİR KALBİN İTİRAFI “TEPETAKLAK”</text>
+          </navLabel>
+          <content src="subchapter18.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>VI SMERDYAKOV</text>
+          </navLabel>
+          <content src="subchapter19.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>VII TARTIŞMA</text>
+          </navLabel>
+          <content src="subchapter20.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>VIII KONYAK İÇERKEN</text>
+          </navLabel>
+          <content src="subchapter22.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>IX ŞEHVET DÜŞKÜNLERİ</text>
+          </navLabel>
+          <content src="subchapter23.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>X İKİSİ BİR ARADA</text>
+          </navLabel>
+          <content src="subchapter23.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>XI LEKELENEN BİR AD DAHA</text>
+          </navLabel>
+          <content src="subchapter24.xhtml"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="part2.xhtml"/>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>DÖRDÜNCÜ KİTAP - Çırpınışlar</text>
+        </navLabel>
+        <content src="subchapter25.xhtml"/>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>I PEDER FERAPONT</text>
+          </navLabel>
+          <content src="subchapter25.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>II BABASININ EVİNDE</text>
+          </navLabel>
+          <content src="subchapter26.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+          <navLabel>
+            <text>III OKUL ÇOCUKLARIYLA ÇATIŞTI</text>
+          </navLabel>
+          <content src="subchapter27.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+          <navLabel>
+            <text>IV HOHLAKOVLARDA</text>
+          </navLabel>
+          <content src="subchapter28.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+          <navLabel>
+            <text>V SALONDAKİ ÇIRPINMALAR</text>
+          </navLabel>
+          <content src="subchapter29.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-37" playOrder="37">
+          <navLabel>
+            <text>VI KULÜBEDEKİ ÇIRPINMA</text>
+          </navLabel>
+          <content src="subchapter30.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>VII VE TEMİZ HAVADA</text>
+          </navLabel>
+          <content src="subchapter31.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>BEŞİNCİ KİTAP - Pro ve Contra</text>
+        </navLabel>
+        <content src="subchapter32.xhtml"/>
+        <navPoint id="navPoint-40" playOrder="40">
+          <navLabel>
+            <text>I SÖZ KESME</text>
+          </navLabel>
+          <content src="subchapter32.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+          <navLabel>
+            <text>II SMERDYAKOV GİTARIYLA</text>
+          </navLabel>
+          <content src="subchapter33.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+          <navLabel>
+            <text>III KARDEŞLER TANIŞIYOR</text>
+          </navLabel>
+          <content src="subchapter34.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-43" playOrder="43">
+          <navLabel>
+            <text>IV İSYAN</text>
+          </navLabel>
+          <content src="subchapter35.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-44" playOrder="44">
+          <navLabel>
+            <text>V BÜYÜK ENGİZİSYON YARGICI</text>
+          </navLabel>
+          <content src="subchapter36.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-45" playOrder="45">
+          <navLabel>
+            <text>VI HENÜZ ÇOK BELİRLİ DEĞİL</text>
+          </navLabel>
+          <content src="subchapter37.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-46" playOrder="46">
+          <navLabel>
+            <text>VII “AKILLI BİR ADAMLA KONUŞMAK İLGİ ÇEKİCİDİR”</text>
+          </navLabel>
+          <content src="subchapter38.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>ALTINCI KİTAP - Rus Rahibi</text>
+        </navLabel>
+        <content src="subchapter39.xhtml"/>
+        <navPoint id="navPoint-48" playOrder="48">
+          <navLabel>
+            <text>I STARETS ZOSİMA VE KONUKLARI</text>
+          </navLabel>
+          <content src="subchapter39.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>II TANRI’NIN HUZURUNA ÇIKMIŞ OLAN RAHİP VE KEŞİŞ STARETS ZOSİMA’NIN AĞZINDAN ALEKSEY FEDOROVİÇ KARAMAZOV TARAFINDAN DERLENMİŞ YAŞAM ÖYKÜSÜ</text>
+          </navLabel>
+          <content src="subchapter40.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>III STARETS ZOSİMA’NIN SOHBET VE ÖĞÜTLERİNDEN</text>
+          </navLabel>
+          <content src="subchapter41.xhtml"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="part3.xhtml"/>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>YEDİNCİ KİTAP - Alyoşa</text>
+        </navLabel>
+        <content src="subchapter42.xhtml"/>
+        <navPoint id="navPoint-53" playOrder="53">
+          <navLabel>
+            <text>I ÇÜRÜME KOKUSU</text>
+          </navLabel>
+          <content src="subchapter42.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-54" playOrder="54">
+          <navLabel>
+            <text>II ÖYLE BİR AN</text>
+          </navLabel>
+          <content src="subchapter43.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-55" playOrder="55">
+          <navLabel>
+            <text>III BİR SAP SOĞAN</text>
+          </navLabel>
+          <content src="subchapter44.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-56" playOrder="56">
+          <navLabel>
+            <text>IV GALİLE’DEKİ KANA ŞEHRİ</text>
+          </navLabel>
+          <content src="subchapter45.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>SEKİZİNCİ KİTAP - Mitya</text>
+        </navLabel>
+        <content src="subchapter46.xhtml"/>
+        <navPoint id="navPoint-58" playOrder="58">
+          <navLabel>
+            <text>I KUZMA SAMSONOV</text>
+          </navLabel>
+          <content src="subchapter46.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-59" playOrder="59">
+          <navLabel>
+            <text>II LYAGAVIY</text>
+          </navLabel>
+          <content src="subchapter47.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-60" playOrder="60">
+          <navLabel>
+            <text>III ALTIN MADENLERİ</text>
+          </navLabel>
+          <content src="subchapter48.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-61" playOrder="61">
+          <navLabel>
+            <text>IV KARANLIKTA</text>
+          </navLabel>
+          <content src="subchapter49.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-62" playOrder="62">
+          <navLabel>
+            <text>V ANİ KARAR</text>
+          </navLabel>
+          <content src="subchapter50.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-63" playOrder="63">
+          <navLabel>
+            <text>VI “BEN GELİYORUM!</text>
+          </navLabel>
+          <content src="subchapter51.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-64" playOrder="64">
+          <navLabel>
+            <text>VII ESKİSİ VE TARTIŞMASIZ OLANI</text>
+          </navLabel>
+          <content src="subchapter52.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-65" playOrder="65">
+          <navLabel>
+            <text>VIII KÂBUS</text>
+          </navLabel>
+          <content src="subchapter53.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>DOKUZUNCU KİTAP - Hazırlık Soruşturması</text>
+        </navLabel>
+        <content src="subchapter54.xhtml"/>
+        <navPoint id="navPoint-67" playOrder="67">
+          <navLabel>
+            <text>I MEMUR PERHOTİN’İN KARİYERİNDE İLK ADIMLAR</text>
+          </navLabel>
+          <content src="subchapter54.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-68" playOrder="68">
+          <navLabel>
+            <text>II TEHLİKE İŞARETİ</text>
+          </navLabel>
+          <content src="subchapter55.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-69" playOrder="69">
+          <navLabel>
+            <text>III RUHUN ÇİLELERDEN GEÇİŞİ BİRİNCİ ÇİLE</text>
+          </navLabel>
+          <content src="subchapter56.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-70" playOrder="70">
+          <navLabel>
+            <text>IV İKİNCİ ÇİLE</text>
+          </navLabel>
+          <content src="subchapter57.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-71" playOrder="71">
+          <navLabel>
+            <text>V ÜÇÜNCÜ ÇİLE</text>
+          </navLabel>
+          <content src="subchapter58.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-72" playOrder="72">
+          <navLabel>
+            <text>VI SAVCI MİTYA’YI KISTIRDI</text>
+          </navLabel>
+          <content src="subchapter59.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-73" playOrder="73">
+          <navLabel>
+            <text>VII MİTYA’NIN BÜYÜK SIRRI. ISLIKLADILAR</text>
+          </navLabel>
+          <content src="subchapter60.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-74" playOrder="74">
+          <navLabel>
+            <text>VIII TANIKLARIN İFADESİ. BEBE</text>
+          </navLabel>
+          <content src="subchapter61.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-75" playOrder="75">
+          <navLabel>
+            <text>IX MİTYA’YI GÖTÜRDÜLER</text>
+          </navLabel>
+          <content src="subchapter62.xhtml"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>DÖRDÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="part4.xhtml"/>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>ONUNCU KİTAP - Çocuklar</text>
+        </navLabel>
+        <content src="subchapter63.xhtml"/>
+        <navPoint id="navPoint-78" playOrder="78">
+          <navLabel>
+            <text>I KOLYA KRASOTKİN</text>
+          </navLabel>
+          <content src="subchapter63.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-79" playOrder="79">
+          <navLabel>
+            <text>II ÇOCUKLAR</text>
+          </navLabel>
+          <content src="subchapter64.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-80" playOrder="80">
+          <navLabel>
+            <text>III ÖĞRENCİ</text>
+          </navLabel>
+          <content src="subchapter65.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-81" playOrder="81">
+          <navLabel>
+            <text>IV JUÇKA</text>
+          </navLabel>
+          <content src="subchapter66.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-82" playOrder="82">
+          <navLabel>
+            <text>V İLYUŞA’NIN BAŞUCUNDA</text>
+          </navLabel>
+          <content src="subchapter67.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-83" playOrder="83">
+          <navLabel>
+            <text>VI ERKEN GELİŞME</text>
+          </navLabel>
+          <content src="subchapter68.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-84" playOrder="84">
+          <navLabel>
+            <text>VII İLYUŞA</text>
+          </navLabel>
+          <content src="subchapter69.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>ON BİRİNCİ KİTAP - Ağabey İvan Fedoroviç</text>
+        </navLabel>
+        <content src="subchapter70.xhtml"/>
+        <navPoint id="navPoint-86" playOrder="86">
+          <navLabel>
+            <text>I GRUŞENKA’DA</text>
+          </navLabel>
+          <content src="subchapter70.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-87" playOrder="87">
+          <navLabel>
+            <text>II HASTA AYAK</text>
+          </navLabel>
+          <content src="subchapter71.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-88" playOrder="88">
+          <navLabel>
+            <text>III KÜÇÜK ŞEYTAN</text>
+          </navLabel>
+          <content src="subchapter72.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-89" playOrder="89">
+          <navLabel>
+            <text>IV MARŞ VE SIR</text>
+          </navLabel>
+          <content src="subchapter73.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-90" playOrder="90">
+          <navLabel>
+            <text>V “SEN DEĞİL, SEN DEĞİL!”</text>
+          </navLabel>
+          <content src="subchapter74.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-91" playOrder="91">
+          <navLabel>
+            <text>VI SMERDYAKOV’LA İLK BULUŞMA</text>
+          </navLabel>
+          <content src="subchapter75.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-92" playOrder="92">
+          <navLabel>
+            <text>VII SMERDYAKOV’A İKİNCİ ZİYARET</text>
+          </navLabel>
+          <content src="subchapter76.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-93" playOrder="93">
+          <navLabel>
+            <text>VIII SMERDYAKOV’LA ÜÇÜNCÜ VE SON GÖRÜŞME</text>
+          </navLabel>
+          <content src="subchapter77.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-94" playOrder="94">
+          <navLabel>
+            <text>IX ŞEYTAN. İVAN FEDOROVİÇ’İN KÂBUSU</text>
+          </navLabel>
+          <content src="subchapter78.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-95" playOrder="95">
+          <navLabel>
+            <text>X “BUNU O SÖYLEDİ”</text>
+          </navLabel>
+          <content src="subchapter79.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>ON İKİNCİ KİTAP - Adli Hata</text>
+        </navLabel>
+        <content src="subchapter80.xhtml"/>
+        <navPoint id="navPoint-97" playOrder="97">
+          <navLabel>
+            <text>I UĞURSUZ GÜN</text>
+          </navLabel>
+          <content src="subchapter80.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-98" playOrder="98">
+          <navLabel>
+            <text>II TEHLİKELİ TANIKLAR</text>
+          </navLabel>
+          <content src="subchapter81.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-99" playOrder="99">
+          <navLabel>
+            <text>III TIBBİ İNCELEME VE BİR KİLO FINDIK</text>
+          </navLabel>
+          <content src="subchapter82.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-100" playOrder="100">
+          <navLabel>
+            <text>IV ŞANS MİTYA’YA GÜLÜYOR</text>
+          </navLabel>
+          <content src="subchapter83.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-101" playOrder="101">
+          <navLabel>
+            <text>V ANİ FELAKET</text>
+          </navLabel>
+          <content src="subchapter84.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-102" playOrder="102">
+          <navLabel>
+            <text>VI SAVCININ KONUŞMASI. KARAKTER TAHLİLLERİ</text>
+          </navLabel>
+          <content src="subchapter85.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-103" playOrder="103">
+          <navLabel>
+            <text>VII OLAYIN TARİHÇESİ</text>
+          </navLabel>
+          <content src="subchapter86.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-104" playOrder="104">
+          <navLabel>
+            <text>VIII SMERDYAKOV ÜZERİNE BİR ÇALIŞMA</text>
+          </navLabel>
+          <content src="subchapter87.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-105" playOrder="105">
+          <navLabel>
+            <text>IX TAM BİR PSİKOLOJİ İNCELEMESİ. DOLUDİZGİN TROYKA. SAVCININ KONUŞMASININ SONU</text>
+          </navLabel>
+          <content src="subchapter88.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-106" playOrder="106">
+          <navLabel>
+            <text>X AVUKATIN KONUŞMASI. İKİ UCU PİS DEĞNEK</text>
+          </navLabel>
+          <content src="subchapter89.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-107" playOrder="107">
+          <navLabel>
+            <text>XI ORTADA PARA YOKTU. HIRSIZLIK DA YOKTU</text>
+          </navLabel>
+          <content src="subchapter90.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-108" playOrder="108">
+          <navLabel>
+            <text>XII ZATEN CİNAYET DE YOKTU</text>
+          </navLabel>
+          <content src="subchapter91.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-109" playOrder="109">
+          <navLabel>
+            <text>XIII DÜŞÜNCEYE İHANET</text>
+          </navLabel>
+          <content src="subchapter92.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-110" playOrder="110">
+          <navLabel>
+            <text>XIV KÖYLÜLER BİLDİKLERİNİ OKUDULAR</text>
+          </navLabel>
+          <content src="subchapter93.xhtml"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-111" playOrder="111">
+      <navLabel>
+        <text>SONSÖZ</text>
+      </navLabel>
+      <content src="subchapter94.xhtml"/>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>I MİTYA’YI KURTARMA PLANLARI</text>
+        </navLabel>
+        <content src="subchapter94.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>II BİR AN İÇİN YALAN GERÇEK OLDU</text>
+        </navLabel>
+        <content src="subchapter95.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>III İLYUŞEÇKA’NIN CENAZESİ. TAŞIN ÖNÜNDEKİ KONUŞMA</text>
+        </navLabel>
+        <content src="subchapter96.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

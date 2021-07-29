@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="1785d9ae-8a10-4994-ae1e-508ec467ab7f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Aforizmalar</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="b1596afb-4f35-4492-be9f-5c0ba6e8e054" playOrder="1">
+      <navLabel>
+        <text>AFORİZMALAR</text>
+      </navLabel>
+      <content src="Text/kafka_split_004.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,579 @@
+@font-face {
+	font-family: "Berling";
+	font-weight: normal;
+	font-style: normal;
+	src:url("font/BerlingLTStd-Roman.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Berling";
+	font-weight: normal;
+	font-style: italic;
+	src:url("font/BerlingLTStd-Italic.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Berling";
+	font-weight: bold;
+	font-style: normal;
+	src:url("font/BerlingLTStd-Bold.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Berling Medium";
+	font-weight: bold;
+	font-style: normal;
+	src:url("font/BerlingLTStd-Medium.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Gill Sans";
+	font-weight: normal;
+	font-style: normal;
+	src:url("font/GillSansStd.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Gill Sans";
+	font-weight: normal;
+	font-style: italic;
+	src:url("font/GillSansStd-Italic.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Goudy Cat";
+	font-weight: normal;
+	font-style: italic;
+	src:url("font/GoudyCatTReg.ttf") format("truetype");
+}
+
+
+/*COVER*/
+
+.cover-container{
+	margin: 0 auto;
+	max-width: 500px;
+	page-break-inside: avoid;
+}
+
+.cover-container img {
+	width: 100%;
+}
+
+/*COPYRIGHT-PAGE*/
+
+
+.press {
+	margin-bottom: 1em;
+}
+
+.copyright-page .copy{
+	margin-top: 1em;
+}
+.copyright-page .publisher{
+	margin-top: 2em;
+}
+
+.copyright-page span{
+	font-family: "Gill Sans";
+	font-size:0.75em;
+	display: block;
+}
+
+.copyright-page .pull {
+	padding-left: .51em;
+}
+
+.copyright-page a{
+	color:#777;
+	text-decoration: none;
+	
+}
+
+/*TITLEPAGE*/
+
+.title{
+	text-align: center;
+}
+
+.aut{
+	margin-top: 2em;
+	font:normal normal 2.25em/1.2em  "Goudy Cat";
+	text-align: center;
+}
+
+.bfl {
+	font-size: 1.2em;
+}
+
+.work {
+	font:normal normal 2.19em/1.1em  "Goudy Cat";
+	margin-top: .5em;
+}
+
+.seri {
+	font:normal normal .92em/1.2em "GillSans";
+	text-align: center;
+	margin-top: 6em;
+}
+
+.trans {
+	margin-top: 2em;
+	font-family: "GillSans";
+	font-size: .87em;
+}
+
+.trans span {
+	display: block;
+	font-size: 1.2em;
+	margin-top: .3em;
+}
+
+
+
+.title-image {
+	margin-top: 1em;
+	width: 150px;
+	margin: .2em auto;
+}
+
+.title-image img{
+	width: 150px;
+}
+
+
+
+.trans {
+	margin-top: 2em;
+	font-family:"Gill Sans";
+	font-size: .83em;
+}
+
+.trans span {
+	display: block;
+	font-size: 1.2em;
+	padding-top: .2em;
+}
+
+.logo{
+	margin: 3em auto 0 auto;
+}
+
+/*WORKS*/
+
+.works p{
+	margin-top: 4em;
+	font-family: "Gill Sans";
+	font-size: .83em;
+	text-indent: 0;
+}
+
+.works ul {
+	margin-left: 0;
+	padding-left: 0;
+	list-style: none;
+}
+
+.works ul li {
+	font-family: "Gill Sans";
+	font-size: .83em;
+	padding-bottom: .3em;
+}
+
+/*BIOGRAPHY*/
+
+.biography p{
+	font-family: "Gill Sans";
+	font-size: .75em;
+	line-height: 1.4em;
+	text-indent: 0;
+}
+
+.biography p:last-child{
+	margin-top: 2em;
+}
+
+/*PART*/
+
+.part .container {
+	margin-top: 5em;
+}
+
+.part h1 {
+	text-align: center;
+	margin: 0;
+	font:normal normal 1.42em/1.3em "Berling";
+}
+
+/*INTRODUCTION*/
+
+.introduction .container {
+	margin-top: 5em;
+}
+
+.introduction blockquote {
+	margin: 1em 0 1em 2em;
+}
+
+.introduction blockquote p {
+	font:normal normal .8em/1.4em "Gill Sans";
+	margin: 0;
+	text-indent: 1.4em;
+}
+
+.introduction blockquote cite {
+	display: block;
+	font:normal normal .8em/1.3em "Gill Sans";
+	margin-top: 1em;
+	text-align: right;
+}
+
+.introduction p {
+	font:normal normal .8em/1.3em "Berling";
+	text-indent: 2em;
+	margin: 0;
+}
+
+
+/*CHAPTER*/
+
+.chapter .container {
+	margin-top: 5em;
+}
+
+.main-letter {
+	margin-top: 3em;
+}
+
+cite + .adress {
+	margin-top: 1em;
+}
+
+.adress {
+	margin-bottom: 2em; 
+	margin-left: 1.7em;
+}
+
+.gap {
+	margin: 1em 0;
+}
+
+.glossary {
+	margin: 1em 0;
+}
+
+.glossary hr{
+	margin: 0;
+}
+
+.glossary hr:after{
+	content:"veya";
+	letter-spacing: 0;
+}
+
+.adress span {
+	display: block;
+	font:normal normal .875em/1.3em "Berling";
+}
+
+.chapter p {
+	font:normal normal .875em/1.3em "Berling";
+	margin: 0;
+	text-indent: 2em;
+}
+
+.chapter .lvl1{
+	margin: 1em 0;
+}
+
+.chapter .un-indent {
+	text-indent: 0 !important;
+}
+
+.chapter .date {
+	text-align: right;
+	text-indent: 0;
+	font-style: italic;
+	margin-bottom: 1.3em;
+}
+
+.chapter  .duz {
+	font-style: normal !important;
+}
+
+.chapter .date .place {
+	display: block;
+	font-style: normal;
+}
+
+.main-letter cite {
+	display: block;
+	font:normal normal .875em/1.3em "Berling";
+	margin-top: .3em;
+	text-align: right;
+	text-indent: 0;
+}
+
+.note {
+	margin-top: 1.2em;
+}
+
+.und-line {
+	text-decoration: underline;
+}
+
+hr {
+	border: none;
+	text-align: center;
+	margin: 1.2em auto;
+}
+
+hr:after {
+	content: "——";
+	letter-spacing: .1em;
+	font:normal normal .875em/1.3em "Berling";
+}
+
+/*FIGURES*/
+
+.sign {
+	float:right;
+	max-width: 7em;
+	margin:.2em 0 0;
+	page-break-inside: avoid;
+}
+
+.sign-full {
+	max-width: 500px;
+	margin:.2em auto;
+	page-break-inside: avoid;
+}
+
+.chapter img {
+	width: 100%;
+}
+
+/*NOTICE LIST*/
+
+.notice-list .container {
+	margin-top: 5em;
+}
+
+.notice-list p {
+	text-align: center;
+	margin: 0;
+	font:normal normal .8em/1.3em "Berling";
+}
+
+.notice-list ul {
+	margin:1em 0 0;
+	padding-left: 0;
+	list-style: none;
+}
+
+.notice-list li {
+	font:normal normal .8em/1.3em "Berling";
+	padding-left: 11em;
+	position: relative;
+}
+
+.notice-list li strong {
+	width:9.7em;
+	position: absolute;
+	left:0;
+	display: inline-block;
+	font-style: italic;
+}
+
+/*NOTICE*/
+
+.notice .container {
+	margin-top: 5em;
+}
+
+.letter-area {
+	margin-top: 1em;
+}
+
+.notice p{
+	margin: 0;
+	font:normal normal .8em/1.3em "Berling";
+	text-indent: 2em;
+}
+
+/*APPENDIX*/
+
+.appendix .container {
+	margin-top: 5em;
+}
+
+.appendix blockquote {
+	margin: 2em 0 0;
+}
+
+.appendix blockquote p {
+	font:italic normal .8em/1.3em "Berling";
+}
+
+.appendix h2 {
+	font:normal normal 1.16em/1.3em "Berling";
+	text-align: center;
+	margin: 0 0 2em;
+}
+
+.sub-name {
+	display: block;
+	font-size: .85em;
+	font-family: "berling Medium";
+	margin-top: 1em;
+}
+
+.appendix .apphead {
+	font:normal normal 1em/1.3em "Berling Medium";
+}
+
+.appendix h3 {
+	font:normal normal .8em/1.3em "Berling";
+	margin: 0;
+	padding-left: 2em;
+}
+
+.appendix p{
+	margin: 0;
+	font:normal normal .8em/1.3em "Berling";
+	text-indent: 2em;
+}
+
+.appendix cite {
+	margin-top: 1em;
+	font:normal normal .8em/1.3em "Berling";
+	text-align: right;
+	display: block;
+}
+
+.entry {
+	margin-bottom: 1em;
+}
+
+.appendix .sub-area {
+	margin-top: 2em;
+}
+
+/*index*/
+
+.index .container {
+	margin-top: 5em;
+}
+
+.index .sub-container {
+	margin-top: 2em;
+}
+
+.index h1 {
+	font:normal normal 1.16em/1.3em "Berling";
+	text-align: center;
+	margin: 0 0 2em;
+}
+
+.index h2 {
+	font:normal normal .83em/1.3em "Berling";
+	text-align: center;
+	margin:0 0 1em;
+}
+
+.index table {
+	margin: 0 0;
+}
+
+.index td {
+	font:normal normal .8em/1.3em "Berling";
+	margin: 0;
+	padding-bottom: .1em;
+	vertical-align: top;
+	
+}
+
+.index td:first-child {
+	width: 15%;
+}
+
+.index td:last-child{
+	padding-left: 3em;
+}
+
+/*IMPRINT*/
+
+.imprint .container {
+	margin-top: 5em;
+}
+
+.imprint h2 {
+	font:normal normal 1.16em/1.3em "Berling";
+	margin:0;
+	text-align: center;
+}
+
+.imprint h2 + p {
+	margin-top: 2em;
+}
+
+.imprint p {
+	margin: 0;
+	font:normal normal .8em/1.3em "Berling";
+	text-indent: 2em;
+}
+
+.imprint cite {
+	margin-top: 1em;
+	display: block;
+	text-align: right;
+	font:normal normal .8em/1.3em "Berling";
+}
+
+/*FOOTNOTES*/
+
+.footnotes{
+	margin:3em 0 1em;
+}
+
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+  line-height: 1em;
+}
+.si-footnotes{
+	margin:4em 0 1em;
+}
+.si-backref{
+	font-weight: bold;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: #000;
+	font-size: 1.1em;
+}
+.si-footnote{
+	font-family: "Gill Sans";
+	font-weight: normal;
+	font-style: normal;
+	font-size: .75em;
+	margin-bottom: .25em;
+}
+
+.gap-footnotes {
+	margin-top: 2em;
+}
+
+.gap-footnotes .si-footnote {
+	font-size:.875em;
+	line-height:1.3em; 
+	font-family: "Berling";
+}
+
+/*COMMON*/
+
+.clear {
+	clear:both;
+}

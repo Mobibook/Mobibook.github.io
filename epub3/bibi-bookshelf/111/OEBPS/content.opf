@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Ecinniler</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Dostoyevski, Fyodor Mihailoviç">Fyodor Mihailoviç Dostoyevski</dc:creator>
+    <dc:description>&lt;div&gt;&lt;div&gt;Fyodor Mihayloviç Dostoyevski (1821-1881): İlk romanı İnsancıklar 1846’da yayımlandı. Ünlü eleştirmen V. Byelinski bu eser üzerine Dostoyevski’den geleceğin büyük yazarı olarak söz etti. Ancak daha sonra yayımlanan öykü ve romanları, çağımızda edebiyat klasikleri arasında yer alsa da, o dönemde fazla ilgi görmedi. Yazar 1849’da I. Nikola’nın baskıcı rejimine muhalif Petraşevski grubunun üyesi olduğu gerekçesiyle tutuklandı. Kurşuna dizilmek üzereyken cezası sürgün ve zorunlu askerliğe çevrildi. Dostoyevski Ecinniler’de ihtilâlci örgütlerin yapısı ve üyelerinin karakterini gerçekçi bir gözle ve alaycı bir ifadeyle sergilemiştir.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mazlum Beyhan (1948): Dostoyevski’den Suç ve Ceza ve Budala, Tolstoy’dan Sanat Nedir?, Çocukluk, İlkgençlik, Gençlik, Gogol’den Bir Delinin Anı Defteri, Burun, Palto Mazlum Beyhan’ın çevirdiği başyapıtlararasında yer alır. Ayrıca Çernişevski, Byelinski,Kropotkin ve Şçedrin’den Türkçeye kazandırdığı eserlerle hiç tartışmasız son 35 yılın en önemli Rus Edebiyatı çevirmenlerinden biridir&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:7FE1E5F3-ABD1-4845-8068-0FF6B23A2805</dc:identifier>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-04-01</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">9083979e-fb6f-4338-897e-05863de08d29</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786053605669</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/5-1.html" id="x5-1" media-type="application/xhtml+xml"/>
+    <item href="Text/5-2.html" id="x5-2" media-type="application/xhtml+xml"/>
+    <item href="Text/5-3.html" id="x5-3" media-type="application/xhtml+xml"/>
+    <item href="Text/5-4.html" id="x5-4" media-type="application/xhtml+xml"/>
+    <item href="Text/5-5.html" id="x5-5" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="Text/6-1.html" id="x6-1" media-type="application/xhtml+xml"/>
+    <item href="Text/6-2.html" id="x6-2" media-type="application/xhtml+xml"/>
+    <item href="Text/6-3.html" id="x6-3" media-type="application/xhtml+xml"/>
+    <item href="Text/6-4.html" id="x6-4" media-type="application/xhtml+xml"/>
+    <item href="Text/6-5.html" id="x6-5" media-type="application/xhtml+xml"/>
+    <item href="Text/6-6.html" id="x6-6" media-type="application/xhtml+xml"/>
+    <item href="Text/6-7.html" id="x6-7" media-type="application/xhtml+xml"/>
+    <item href="Text/6-8.html" id="x6-8" media-type="application/xhtml+xml"/>
+    <item href="Text/6-9.html" id="x6-9" media-type="application/xhtml+xml"/>
+    <item href="Text/6-10.html" id="x6-10" media-type="application/xhtml+xml"/>
+    <item href="Text/7.html" id="x7" media-type="application/xhtml+xml"/>
+    <item href="Text/7-1.html" id="x7-1" media-type="application/xhtml+xml"/>
+    <item href="Text/7-2.html" id="x7-2" media-type="application/xhtml+xml"/>
+    <item href="Text/7-3.html" id="x7-3" media-type="application/xhtml+xml"/>
+    <item href="Text/7-4.html" id="x7-4" media-type="application/xhtml+xml"/>
+    <item href="Text/7-5.html" id="x7-5" media-type="application/xhtml+xml"/>
+    <item href="Text/7-6.html" id="x7-6" media-type="application/xhtml+xml"/>
+    <item href="Text/7-7.html" id="x7-7" media-type="application/xhtml+xml"/>
+    <item href="Text/7-8.html" id="x7-8" media-type="application/xhtml+xml"/>
+    <item href="Text/8.html" id="x8" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/is_fmt.jpeg" id="is_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover-1.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x5-1"/>
+    <itemref idref="x5-2"/>
+    <itemref idref="x5-3"/>
+    <itemref idref="x5-4"/>
+    <itemref idref="x5-5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x6-1"/>
+    <itemref idref="x6-2"/>
+    <itemref idref="x6-3"/>
+    <itemref idref="x6-4"/>
+    <itemref idref="x6-5"/>
+    <itemref idref="x6-6"/>
+    <itemref idref="x6-7"/>
+    <itemref idref="x6-8"/>
+    <itemref idref="x6-9"/>
+    <itemref idref="x6-10"/>
+    <itemref idref="x7"/>
+    <itemref idref="x7-1"/>
+    <itemref idref="x7-2"/>
+    <itemref idref="x7-3"/>
+    <itemref idref="x7-4"/>
+    <itemref idref="x7-5"/>
+    <itemref idref="x7-6"/>
+    <itemref idref="x7-7"/>
+    <itemref idref="x7-8"/>
+    <itemref idref="x8"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

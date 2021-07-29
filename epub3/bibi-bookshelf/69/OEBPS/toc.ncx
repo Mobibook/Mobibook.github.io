@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:6937d263-08c6-404e-bf1b-8413ae22577a" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Bir Kimlik Peşinde Türkiye</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/TitlePage.html" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Telif Hakları</text>
+      </navLabel>
+      <content src="Text/Copyright.html" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Teşekkür</text>
+      </navLabel>
+      <content src="Text/Tesekkur.html" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/Onsoz.html" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Türkçe Baskı İçin Önsöz</text>
+      </navLabel>
+      <content src="Text/Onsoz2.html" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>İthaf</text>
+      </navLabel>
+      <content src="Text/Dedication.html" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Osmanlılar: Devletten İmparatorluğa (1300-1789)</text>
+      </navLabel>
+      <content src="Text/Chapter1.html#sigil_toc_id_1" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Reformdan Devrime (1789-1908)</text>
+      </navLabel>
+      <content src="Text/Chapter2.html#sigil_toc_id_2" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Meşrutiyet Devrimi, Reform ve Savaş (1908-1918)</text>
+      </navLabel>
+      <content src="Text/Chapter3.html#sigil_toc_id_3" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Kemalist Dönem (1919-1938)</text>
+      </navLabel>
+      <content src="Text/Chapter4.html#sigil_toc_id_4" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Çok Partili Siyaset ve Demokrasiye Doğru (1938-1960)</text>
+      </navLabel>
+      <content src="Text/Chapter5.html#sigil_toc_id_5" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Çok Partili Siyaset ve Demokrasiye Doğru (1960-1980)</text>
+      </navLabel>
+      <content src="Text/Chapter6.html#sigil_toc_id_6" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Ordu, Partiler ve Küreselleşme (1980-2006)</text>
+      </navLabel>
+      <content src="Text/Chapter7.html#sigil_toc_id_7" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Kronoloji</text>
+      </navLabel>
+      <content src="Text/kronoloji.htm" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Yazar Hakkında</text>
+      </navLabel>
+      <content src="Text/Yazar.html" />
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Öteki</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="7d1ed136-45f2-4077-bbbd-658cf84fdc27" playOrder="1">
+      <navLabel>
+        <text>I. Bölüm</text>
+      </navLabel>
+      <content src="Text/Oteki_split_003.html"/>
+    </navPoint>
+    <navPoint id="5d1b4dcf-59a1-459c-80b8-ebb617dad5fd" playOrder="2">
+      <navLabel>
+        <text>II. Bölüm</text>
+      </navLabel>
+      <content src="Text/Oteki_split_004.html"/>
+    </navPoint>
+    <navPoint id="65f717f5-b1a2-4e6b-9229-4035c6fca780" playOrder="3">
+      <navLabel>
+        <text>III. Bölüm</text>
+      </navLabel>
+      <content src="Text/Oteki_split_005.html"/>
+    </navPoint>
+    <navPoint id="22a16503-7c7d-4f8f-80c1-3a320dda935c" playOrder="4">
+      <navLabel>
+        <text>IV. Bölüm</text>
+      </navLabel>
+      <content src="Text/Oteki_split_006.html"/>
+    </navPoint>
+    <navPoint id="25f6b53a-e511-4bc1-9463-bfe77e5c1e27" playOrder="5">
+      <navLabel>
+        <text>V. Bölüm</text>
+      </navLabel>
+      <content src="Text/Oteki_split_007.html"/>
+    </navPoint>
+    <navPoint id="208008c7-c74b-405a-a466-c58af79d5960" playOrder="6">
+      <navLabel>
+        <text>VI. Bölüm</text>
+      </navLabel>
+      <content src="Text/Oteki_split_008.html"/>
+    </navPoint>
+    <navPoint id="4de775cf-aa82-46cf-a508-ee978ce03c14" playOrder="7">
+      <navLabel>
+        <text>VII. Bölüm</text>
+      </navLabel>
+      <content src="Text/Oteki_split_009.html"/>
+    </navPoint>
+    <navPoint id="ff62cea2-92e7-491a-b166-8c01ae062f2b" playOrder="8">
+      <navLabel>
+        <text>VIII. Bölüm</text>
+      </navLabel>
+      <content src="Text/Oteki_split_010.html"/>
+    </navPoint>
+    <navPoint id="dfea469d-b3e5-44f1-9263-1cdee675c5df" playOrder="9">
+      <navLabel>
+        <text>IX. Bölüm</text>
+      </navLabel>
+      <content src="Text/Oteki_split_011.html"/>
+    </navPoint>
+    <navPoint id="a0262631-af84-49d5-a857-bf003f74beb2" playOrder="10">
+      <navLabel>
+        <text>X. Bölüm</text>
+      </navLabel>
+      <content src="Text/Oteki_split_012.html"/>
+    </navPoint>
+    <navPoint id="f2cadb64-a475-4852-bad9-76829211f5ac" playOrder="11">
+      <navLabel>
+        <text>XI. Bölüm</text>
+      </navLabel>
+      <content src="Text/Oteki_split_013.html"/>
+    </navPoint>
+    <navPoint id="ecbfc904-6d0f-43dc-a5e0-2ed693fef7e2" playOrder="12">
+      <navLabel>
+        <text>XII. Bölüm</text>
+      </navLabel>
+      <content src="Text/Oteki_split_014.html"/>
+    </navPoint>
+    <navPoint id="8ea19897-59cf-4fc5-aae4-687d04881c83" playOrder="13">
+      <navLabel>
+        <text>XIII. Bölüm</text>
+      </navLabel>
+      <content src="Text/Oteki_split_015.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

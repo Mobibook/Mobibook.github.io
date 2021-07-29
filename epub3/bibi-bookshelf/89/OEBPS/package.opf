@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Milena’ya Mektuplar</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Kafka, Franz">Franz Kafka</dc:creator>
+    <dc:date>2013-12-31T22:00:00+00:00</dc:date>
+    <dc:identifier id="pub-id">urn:isbn: 9789750720321</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor id="translator">Esen Tezel</dc:contributor>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">5f48f6e6-c69d-460e-9756-5780fadaa304</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789750720321</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="works.xhtml" id="worksxhtml" media-type="application/xhtml+xml"/>
+    <item href="biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="part1.xhtml" id="part1xhtml" media-type="application/xhtml+xml"/>
+    <item href="introduction.xhtml" id="introductionxhtml" media-type="application/xhtml+xml"/>
+    <item href="part2.xhtml" id="part2xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter.xhtml" id="chapterxhtml" media-type="application/xhtml+xml"/>
+    <item href="part3.xhtml" id="part3xhtml" media-type="application/xhtml+xml"/>
+    <item href="notice-list.xhtml" id="notice-listxhtml" media-type="application/xhtml+xml"/>
+    <item href="notice.xhtml" id="noticexhtml" media-type="application/xhtml+xml"/>
+    <item href="part4.xhtml" id="part4xhtml" media-type="application/xhtml+xml"/>
+    <item href="appendix1.xhtml" id="appendix1xhtml" media-type="application/xhtml+xml"/>
+    <item href="appendix2.xhtml" id="appendix2xhtml" media-type="application/xhtml+xml"/>
+    <item href="appendix3.xhtml" id="appendix3xhtml" media-type="application/xhtml+xml"/>
+    <item href="appendix4.xhtml" id="appendix4xhtml" media-type="application/xhtml+xml"/>
+    <item href="appendix5.xhtml" id="appendix5xhtml" media-type="application/xhtml+xml"/>
+    <item href="index.xhtml" id="indexxhtml" media-type="application/xhtml+xml"/>
+    <item href="imprint.xhtml" id="imprintxhtml" media-type="application/xhtml+xml"/>
+    <item href="acknowledgments.xhtml" id="acknowledgmentsxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="main.css" id="maincss" media-type="text/css"/>
+    <item href="image/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="image/imza01.png" id="image__imza01png" media-type="image/png"/>
+    <item href="image/imza02.png" id="image__imza02png" media-type="image/png"/>
+    <item href="image/imza03.png" id="image__imza03png" media-type="image/png"/>
+    <item href="image/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uTWLx5xEiyeX4M5ld7FkFgE" media-type="image/jpeg"/>
+    <item href="font/BerlingLTStd-Bold.ttf" id="font__BerlingLTStd-Boldttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/BerlingLTStd-Italic.ttf" id="font__BerlingLTStd-Italicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/BerlingLTStd-Medium.ttf" id="font__BerlingLTStd-Mediumttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/BerlingLTStd-Roman.ttf" id="font__BerlingLTStd-Romanttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GillSansStd-Italic.ttf" id="font__GillSansStd-Italicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GillSansStd.ttf" id="font__GillSansStdttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GoudyCatTReg.ttf" id="font__GoudyCatTRegttf" media-type="application/vnd.ms-opentype"/>
+    <item href="titlepage_u1.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="worksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="part1xhtml"/>
+    <itemref idref="introductionxhtml"/>
+    <itemref idref="part2xhtml"/>
+    <itemref idref="chapterxhtml"/>
+    <itemref idref="part3xhtml"/>
+    <itemref idref="notice-listxhtml"/>
+    <itemref idref="noticexhtml"/>
+    <itemref idref="part4xhtml"/>
+    <itemref idref="appendix1xhtml"/>
+    <itemref idref="appendix2xhtml"/>
+    <itemref idref="appendix3xhtml"/>
+    <itemref idref="appendix4xhtml"/>
+    <itemref idref="appendix5xhtml"/>
+    <itemref idref="indexxhtml"/>
+    <itemref idref="imprintxhtml"/>
+    <itemref idref="acknowledgmentsxhtml"/>
+  </spine>
+  <guide>
+    <reference href="titlepage_u1.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

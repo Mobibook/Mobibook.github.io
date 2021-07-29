@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="urn:isbn: 9789750720321"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:generator" content="Sistematik epub-tools"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>Hassas Ten</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Mektupların gönderildiği kişiye dair</text>
+         </navLabel>
+         <content src="part1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>MILENA’YA MEKTUPLAR</text>
+         </navLabel>
+         <content src="part2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>SONNOTLAR</text>
+         </navLabel>
+         <content src="part3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+         <navLabel>
+            <text>EKLER</text>
+         </navLabel>
+         <content src="part4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+         <navLabel>
+            <text>Milena’dan Max Brod’a</text>
+         </navLabel>
+         <content src="appendix1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+         <navLabel>
+            <text>Milena’nın Franz Kafka’yı anma yazısı</text>
+         </navLabel>
+         <content src="appendix2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+         <navLabel>
+            <text>Milena’nın yazıları</text>
+         </navLabel>
+         <content src="appendix3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+         <navLabel>
+            <text>A.X. Nessey: Dostum</text>
+         </navLabel>
+         <content src="appendix3.xhtml#subapp"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+         <navLabel>
+            <text>A.X. Nessey: Yağmurda Melankoli</text>
+         </navLabel>
+         <content src="appendix4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+         <navLabel>
+            <text>Milena Jesenská: Yuvadaki Şeytan</text>
+         </navLabel>
+         <content src="appendix5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+         <navLabel>
+            <text>Zamandizin 1919-1924</text>
+         </navLabel>
+         <content src="index.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+         <navLabel>
+            <text>Bu baskıya dair</text>
+         </navLabel>
+         <content src="imprint.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+         <navLabel>
+            <text>Teşekkür</text>
+         </navLabel>
+         <content src="acknowledgments.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

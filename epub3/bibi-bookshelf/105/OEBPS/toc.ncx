@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta content="urn:isbn:9789750720253" name="dtb:uid"/>
+      <meta content="2" name="dtb:depth"/>
+      <meta content="Sistematik epub-tools" name="dtb:generator"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+	<docTitle>
+		<text>Beyaz Geceler</text>
+	</docTitle>
+	<docAuthor>
+		<text>Fyodor DOSTOYEVSKİ</text>
+	</docAuthor>
+	<navMap>
+				<navPoint id="preamble.xhtml" playOrder="1">
+		   <navLabel>
+		      <text>Dostoyevski: Mesih’ten önce hayalperest</text>
+		   </navLabel>
+		   <content src="Text/preamble.xhtml"/>
+		</navPoint>
+				<navPoint id="introduction.xhtml" playOrder="2">
+		   <navLabel>
+		      <text>“Beyaz Geceler” hakkında</text>
+		   </navLabel>
+		   <content src="Text/introduction.xhtml"/>
+		</navPoint>
+				<navPoint id="chapter1.xhtml" playOrder="3">
+		   <navLabel>
+		      <text>İlk gece</text>
+		   </navLabel>
+		   <content src="Text/chapter1.xhtml"/>
+		</navPoint>
+				<navPoint id="chapter2.xhtml" playOrder="4">
+		   <navLabel>
+		      <text>İkinci gece</text>
+		   </navLabel>
+		   <content src="Text/chapter2.xhtml"/>
+		</navPoint>
+				<navPoint id="chapter3.xhtml" playOrder="5">
+		   <navLabel>
+		      <text>Nastenka’nın hikâyesi</text>
+		   </navLabel>
+		   <content src="Text/chapter3.xhtml"/>
+		</navPoint>
+				<navPoint id="chapter4.xhtml" playOrder="6">
+		   <navLabel>
+		      <text>Üçüncü gece</text>
+		   </navLabel>
+		   <content src="Text/chapter4.xhtml"/>
+		</navPoint>
+				<navPoint id="chapter5.xhtml" playOrder="7">
+		   <navLabel>
+		      <text>Dördüncü gece</text>
+		   </navLabel>
+		   <content src="Text/chapter5.xhtml"/>
+		</navPoint>
+				<navPoint id="chapter6.xhtml" playOrder="8">
+		   <navLabel>
+		      <text>Sabah</text>
+		   </navLabel>
+		   <content src="Text/chapter6.xhtml"/>
+		</navPoint>
+	</navMap>
+</ncx>
