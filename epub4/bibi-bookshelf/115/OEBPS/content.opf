@@ -1,0 +1,92 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Yurtsever, Haluk">Haluk Yurtsever</dc:creator>
+<dc:publisher>Yordam Kitap</dc:publisher>
+    <dc:date>2008-02-15T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:76895ABF-7D97-4B3D-9F8B-87A0CE2E60DC</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-02-28</dc:date>
+    <dc:description>&lt;p&gt;1960-1980 arası, Türkiye solunun kendini yığınsal ölçeklerde var ettiği, Türkiye'yi derinden etkilediği bir dönemdir. 12 Eylül 1980 ise Türkiye'nin sınıf ve siyaset yelpazesinin şiddetle parçalanıp karşı-devrimci bir transformasyonla yeniden yapılandırılmaya başlandığı milattır.
+
+Bu kitapta, bu 20 yıllık dönem, ortama özelliklerini veren dünya koşulları, Türkiye'nin ekonomik, toplumsal, siyasal gelişmeleri ve sınıf mücadelesi pratiği içinde, özel olarak solun, sosyalizmin yükselişi ve düşüşü merceğinden anlatılıyor. Kitapta bir yandan, nesnel gelişmelerin ve sol öznelerin pratik siyasal etkinliklerinin somut bilgiye dayanan öyküsü özetlenirken, bir yandan da, solun çeşitli öğelerinin tarihsel ve dönemsel oluşum, biçimleniş özellikleri, ideolojik siyasal, programatik görüşleri irdeleniyor. 
+
+Yükseliş ve Düşüş, genç kuşaklara bu zengin tarih döneminin bilgisini, deneyimini aktarmayı, aynı zamanda Türkiye soluna geçmişte yapılabilenler, yapılamayanlar ve yanlış yapılanlar üzerinden yeni bir silkiniş için dersler çıkarmada katkı sunmayı amaçlıyor.
+&lt;/p&gt;</dc:description>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="x251.jpg"/>
+    <meta content="Yükseliş ve Düşüş" name="calibre:title_sort"/>
+    <meta content="{&quot;Haluk Yurtsever&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+  <dc:title>Yükseliş ve Düşüş</dc:title>
+<dc:subject>Politik</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">25552e18-323d-4f80-878a-618355d5e34a</dc:identifier>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789944122573</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="Text/7.html" id="x7" media-type="application/xhtml+xml"/>
+    <item href="Text/7-1.html" id="x7-1" media-type="application/xhtml+xml"/>
+    <item href="Text/7-2.html" id="x7-2" media-type="application/xhtml+xml"/>
+    <item href="Text/7-3.html" id="x7-3" media-type="application/xhtml+xml"/>
+    <item href="Text/7-4.html" id="x7-4" media-type="application/xhtml+xml"/>
+    <item href="Text/7-5.html" id="x7-5" media-type="application/xhtml+xml"/>
+    <item href="Text/7-6.html" id="x7-6" media-type="application/xhtml+xml"/>
+    <item href="Text/7-7.html" id="x7-7" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/251.jpg" id="x251.jpg" media-type="image/jpeg"/>
+    <item href="Images/3_fmt.jpeg" id="x3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/3_fmt1.jpeg" id="x3_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="Images/3_fmt2.jpeg" id="x3_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="Images/3_fmt3.jpeg" id="x3_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="Images/3_fmt4.jpeg" id="x3_fmt4.jpeg" media-type="image/jpeg"/>
+    <item href="Images/3_fmt5.jpeg" id="x3_fmt5.jpeg" media-type="image/jpeg"/>
+    <item href="Images/4_fmt.jpeg" id="x4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/4_fmt1.jpeg" id="x4_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="Images/4_fmt2.jpeg" id="x4_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="Images/4_fmt3.jpeg" id="x4_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="Images/4_fmt4.jpeg" id="x4_fmt4.jpeg" media-type="image/jpeg"/>
+    <item href="Images/4_fmt5.jpeg" id="x4_fmt5.jpeg" media-type="image/jpeg"/>
+    <item href="Images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-truetype"/>
+    <item href="Text/7-5_split1.html" id="id" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x7"/>
+    <itemref idref="x7-1"/>
+    <itemref idref="x7-2"/>
+    <itemref idref="x7-3"/>
+    <itemref idref="x7-4"/>
+    <itemref idref="x7-5"/>
+    <itemref idref="id"/>
+    <itemref idref="x7-6"/>
+    <itemref idref="x7-7"/>
+  </spine>
+</package>

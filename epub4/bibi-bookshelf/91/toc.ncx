@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr-TR">
+<head><meta name="uid" content="{B1BB2FF0-3AF2-4117-9E05-282C67011F49}"/></head>
+<docTitle><text>Hakkı Ozkan - Tas e</text></docTitle>
+<navMap>
+<navPoint playOrder="1" id="{89A8675E-556D-4B2E-AAD2-4A0A68CD83AE}"><navLabel><text>«w,</text></navLabel><content src="main.xhtml#caption1"/></navPoint>
+<navPoint playOrder="2" id="{10C178B4-4515-4AC1-8E23-7000AD3F9A02}"><navLabel><text>&apos;VÎÇft»</text></navLabel><content src="main-1.xhtml"/></navPoint>
+<navPoint playOrder="3" id="{C40C08DF-EE8A-4A4A-9C9E-55DC12412E39}"><navLabel><text>Do|&quot;rr)</text></navLabel><content src="main-2.xhtml"/></navPoint>
+<navPoint playOrder="4" id="{9CCE7F39-4111-4C95-96E4-E4276319E979}"><navLabel><text>^eJiTLcî ^oluıp</text></navLabel><content src="main-3.xhtml"/></navPoint>
+</navMap></ncx>

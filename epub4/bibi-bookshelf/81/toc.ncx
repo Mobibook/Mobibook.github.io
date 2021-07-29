@@ -1,0 +1,897 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="65c4de0f-7cf5-40be-8dbc-6be9d974887a" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="calibre (1.28.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>İlkçağ Felsefesi (Hint_Çin_Yunan)</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Title page</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>İlkçağ Felsefesi - Hint Çin Yunan - H.J Störig</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>ÇEVİRENİN SÖZÜ</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>GİRİŞ</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_004.html"/>
+      <navPoint class="chapter" id="num_6" playOrder="6">
+        <navLabel>
+          <text>BU KİTABIN AMACI</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_004.html#filepos34612"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_7" playOrder="7">
+        <navLabel>
+          <text>SINIRLARIMIZ</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_004.html#filepos36855"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_8" playOrder="8">
+        <navLabel>
+          <text>FELSEFENİN KONUSU</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_004.html#filepos50804"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_9" playOrder="9">
+        <navLabel>
+          <text>KANT’IN ÜÇ SORUSU</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_004.html#filepos59606"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>DOĞU BİLGELİĞİ</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>ESKİ HİNT FELSEFESİ</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>I. VEDALAR ÇAĞI</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_007.html"/>
+      <navPoint class="chapter" id="num_13" playOrder="13">
+        <navLabel>
+          <text>1 -İLAHİLER DÖNEMİ</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_007.html#filepos75749"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_14" playOrder="14">
+        <navLabel>
+          <text>2 KURBAN TÖRENLERİ GİZEMCİLİĞİ DÖNEMİ</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_007.html#filepos83171"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_15" playOrder="15">
+        <navLabel>
+          <text>3. UPANİŞAD 'LAR DÖNEMİ</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_007.html#filepos88983"/>
+        <navPoint class="chapter" id="num_16" playOrder="16">
+          <navLabel>
+            <text>a) Atman ve Brahman</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_007.html#filepos95142"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_17" playOrder="17">
+          <navLabel>
+            <text>b) Genedoğum ve Kurtuluş</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_007.html#filepos104809"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_18" playOrder="18">
+          <navLabel>
+            <text>c) Upanişad Öğretilerinin Önemi</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_007.html#filepos109370"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>II. GELENEĞE KARŞI OLAN HİNT FELSEFESİ</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>1.ÇARVAKALARIN MADDECİLİĞİ</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>2. MAHAVİRA VE CAYNACILIK</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>3. BUDACILIK</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_011.html"/>
+      <navPoint class="chapter" id="num_23" playOrder="23">
+        <navLabel>
+          <text>a) Buda'nın Yaşamı</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_011.html#filepos130223"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_24" playOrder="24">
+        <navLabel>
+          <text>b)Buda'nın Öğretisi</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_011.html#filepos137544"/>
+        <navPoint class="chapter" id="num_25" playOrder="25">
+          <navLabel>
+            <text>Kaynaklar</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_011.html#filepos137709"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_26" playOrder="26">
+          <navLabel>
+            <text>Tanrıtanımaz Bir Din</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_011.html#filepos138863"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_27" playOrder="27">
+          <navLabel>
+            <text>Dharma</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_011.html#filepos142955"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_28" playOrder="28">
+          <navLabel>
+            <text>Etki Tepki Yasası, Genedoğum, Nirvana</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_011.html#filepos147227"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_29" playOrder="29">
+          <navLabel>
+            <text>Doğru Davranış Yasası</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_014.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_30" playOrder="30">
+        <navLabel>
+          <text>c)Budacılığın Tarihi ve Yayılması</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_014.html#filepos159389"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_31" playOrder="31">
+        <navLabel>
+          <text>d) Budacı Felsefe Sistemleri</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_014.html#filepos165614"/>
+        <navPoint class="chapter" id="num_32" playOrder="32">
+          <navLabel>
+            <text>Değilleme Mantığı</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_014.html#filepos167288"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_33" playOrder="33">
+          <navLabel>
+            <text>Dört Önemli Budacı Düşünce Sistemi</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_014.html#filepos171951"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_34" playOrder="34">
+          <navLabel>
+            <text>Zen Budacılığı Üzerine Bir Kaç Söz</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_014.html#filepos178893"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_35" playOrder="35">
+      <navLabel>
+        <text>III. GELENEĞE BAĞLI HİNT FELSEFE SİSTEMLERİ</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_015.html"/>
+      <navPoint class="chapter" id="num_36" playOrder="36">
+        <navLabel>
+          <text>1. NYAYA VE VAİŞEŞİKA</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_015.html#filepos192217"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_37" playOrder="37">
+        <navLabel>
+          <text>2. SANKHYA VE YOGA</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_015.html#filepos195127"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_38" playOrder="38">
+        <navLabel>
+          <text>3. MIMANSA VE VEDANTA</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_015.html#filepos217713"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_39" playOrder="39">
+      <navLabel>
+        <text>IV. HİNT FELSEFESİNİN SON DURUMUNA BAKIŞ VE DEĞERLENDİRME</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_016.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_40" playOrder="40">
+      <navLabel>
+        <text>ESKİ ÇİN FELSEFESİ</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_017.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_41" playOrder="41">
+      <navLabel>
+        <text>I KONFÜÇYÜS</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_018.html"/>
+      <navPoint class="chapter" id="num_42" playOrder="42">
+        <navLabel>
+          <text>1. KONFÜÇYÜS'ÜN YAŞAMI</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_018.html#filepos253479"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_43" playOrder="43">
+        <navLabel>
+          <text>2. DOKUZ KLASİK KİTAP</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_018.html#filepos256954"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_44" playOrder="44">
+        <navLabel>
+          <text>3. KONFÜÇYÜSÇÜLÜĞÜN ÖZELLİĞİ</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_021.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_45" playOrder="45">
+        <navLabel>
+          <text>4. ERDEM</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_021.html#filepos267754"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_46" playOrder="46">
+        <navLabel>
+          <text>5. DEVLET VE TOPLUM</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_021.html#filepos269626"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_47" playOrder="47">
+      <navLabel>
+        <text>II. LAO TSE</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_022.html"/>
+      <navPoint class="chapter" id="num_48" playOrder="48">
+        <navLabel>
+          <text>1. LAO TSE'NİN YAŞAMI</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_022.html#filepos277655"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_49" playOrder="49">
+        <navLabel>
+          <text>2. BİR İLKE OLARAK TAO</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_022.html#filepos283384"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_50" playOrder="50">
+        <navLabel>
+          <text>3. BİLGELİK YOLU OLARAK TAO</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_022.html#filepos286605"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_51" playOrder="51">
+        <navLabel>
+          <text>4. DEVLET VE TOPLUM</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_022.html#filepos294260"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_52" playOrder="52">
+        <navLabel>
+          <text>5. TAOCULUĞUN GELİŞMESİ</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_022.html#filepos298100"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_53" playOrder="53">
+      <navLabel>
+        <text>III. MOHİZM VE ÖTEKİ AKIMLAR</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_023.html"/>
+      <navPoint class="chapter" id="num_54" playOrder="54">
+        <navLabel>
+          <text>l.MO TSE</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_023.html#filepos300156"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_55" playOrder="55">
+        <navLabel>
+          <text>2. YANILTMACILAR</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_023.html#filepos305333"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_56" playOrder="56">
+        <navLabel>
+          <text>3. YENİ MOHİZM</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_023.html#filepos307024"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_57" playOrder="57">
+        <navLabel>
+          <text>4. YASAKÇILAR</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_023.html#filepos309733"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_58" playOrder="58">
+      <navLabel>
+        <text>IV. KONFÜÇYÜS'ÜN BÜYÜK ÖĞRENCİLERİ</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_024.html"/>
+      <navPoint class="chapter" id="num_59" playOrder="59">
+        <navLabel>
+          <text>1. MENSİYÜS</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_024.html#filepos311894"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_60" playOrder="60">
+        <navLabel>
+          <text>2. HSÜN TSE</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_024.html#filepos316594"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_61" playOrder="61">
+        <navLabel>
+          <text>3. ÇUNG YUNG KİTABI</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_024.html#filepos321533"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_62" playOrder="62">
+      <navLabel>
+        <text>V. BUNDAN SONRAKİ GELİŞMELERE TOPLU BAKIŞ VE DEĞERLENDİRME</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_025.html"/>
+      <navPoint class="chapter" id="num_63" playOrder="63">
+        <navLabel>
+          <text>1. ÇİN ORTAÇAĞINDA FELSEFE</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_025.html#filepos324537"/>
+        <navPoint class="chapter" id="num_64" playOrder="64">
+          <navLabel>
+            <text>a) Van Çung</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_025.html#filepos327226"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_65" playOrder="65">
+          <navLabel>
+            <text>b) Yin Yang Öğretisi</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_025.html#filepos329208"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_66" playOrder="66">
+        <navLabel>
+          <text>2. ÇİN'DE BUDACILIK</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_025.html#filepos331250"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_67" playOrder="67">
+        <navLabel>
+          <text>3. YENİ KONFÜÇYÜSÇÜLÜK DÖNEMİ</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_025.html#filepos333918"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_68" playOrder="68">
+        <navLabel>
+          <text>4. ÇİN FELSEFESİNİN ÖZELLİKLERİ VE ÖNEMİ</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_025.html#filepos341875"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_69" playOrder="69">
+      <navLabel>
+        <text>ESKİ YUNAN FELSEFESİ</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_026.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_70" playOrder="70">
+      <navLabel>
+        <text>1. BÖLÜM: SOFİSTLERE KADAR SOKRAT ÖNCESİ FELSEFE</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_027.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_71" playOrder="71">
+      <navLabel>
+        <text>I. MİLETLİ DOĞA FİLOZOFLARI</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_028.html"/>
+      <navPoint class="chapter" id="num_72" playOrder="72">
+        <navLabel>
+          <text>1. THALES</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_028.html#filepos372687"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_73" playOrder="73">
+        <navLabel>
+          <text>2. ANAXIMANDROS</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_028.html#filepos375133"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_74" playOrder="74">
+        <navLabel>
+          <text>3. ANAXIMENES</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_028.html#filepos377671"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_75" playOrder="75">
+      <navLabel>
+        <text>II. PİSAGOR VE PİSAGORCULAR</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_029.html"/>
+      <navPoint class="chapter" id="num_76" playOrder="76">
+        <navLabel>
+          <text>1. PİSAGOR'UN YAŞAMI VE ÖĞRETİSİ</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_029.html#filepos379222"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_77" playOrder="77">
+        <navLabel>
+          <text>2. PİSAGORCULAR</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_029.html#filepos385377"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_78" playOrder="78">
+      <navLabel>
+        <text>III. ELEALILAR</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_030.html"/>
+      <navPoint class="chapter" id="num_79" playOrder="79">
+        <navLabel>
+          <text>1. KSENOFANES</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_030.html#filepos389221"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_80" playOrder="80">
+        <navLabel>
+          <text>2.PARMENIDES</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_030.html#filepos392619"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_81" playOrder="81">
+        <navLabel>
+          <text>3. ELEALI ZENON</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_030.html#filepos395948"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_82" playOrder="82">
+      <navLabel>
+        <text>IV. HERAKLİT VE İÖ 5. YÜZYILIN DOĞA FELSEFESİ</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_031.html"/>
+      <navPoint class="chapter" id="num_83" playOrder="83">
+        <navLabel>
+          <text>1. HERAKLİT</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_031.html#filepos400799"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_84" playOrder="84">
+        <navLabel>
+          <text>2. EMPEDOKLES</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_031.html#filepos411392"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_85" playOrder="85">
+        <navLabel>
+          <text>3. LEUKİPP VE DEMOKRİT'İN ATOM ÖĞRETİSİ</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_031.html#filepos415998"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_86" playOrder="86">
+        <navLabel>
+          <text>4. ANAXAGORAS</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_031.html#filepos426414"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_87" playOrder="87">
+      <navLabel>
+        <text>2. BÖLÜM: YUNAN FELSEFESİNİN PARLAK DÖNEMİ</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_032.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_88" playOrder="88">
+      <navLabel>
+        <text>I. SOFİSTLER</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_033.html"/>
+      <navPoint class="chapter" id="num_89" playOrder="89">
+        <navLabel>
+          <text>1. GENEL BİLGİLER</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_033.html#filepos431082"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_90" playOrder="90">
+        <navLabel>
+          <text>2. PROTAGORAS VE GORGÎAS</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_033.html#filepos440249"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_91" playOrder="91">
+        <navLabel>
+          <text>3. SOFİSTLERİN ÖNEMİ</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_033.html#filepos443665"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_92" playOrder="92">
+      <navLabel>
+        <text>II. SOKRAT</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_034.html"/>
+      <navPoint class="chapter" id="num_93" playOrder="93">
+        <navLabel>
+          <text>1. SOKRAT'IN YAŞAMI</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_034.html#filepos445311"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_94" playOrder="94">
+        <navLabel>
+          <text>2. SOKRAT'IN ÖĞRETİSİ</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_034.html#filepos457213"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_95" playOrder="95">
+      <navLabel>
+        <text>III. PLATON</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_035.html"/>
+      <navPoint class="chapter" id="num_96" playOrder="96">
+        <navLabel>
+          <text>1. PLATON'UN YAŞAMI</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_035.html#filepos466452"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_97" playOrder="97">
+        <navLabel>
+          <text>2. PLATON'UN YAPITLARI</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_035.html#filepos472333"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_98" playOrder="98">
+        <navLabel>
+          <text>3. NASIL İNCELEMELİ</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_035.html#filepos481849"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_99" playOrder="99">
+        <navLabel>
+          <text>4. ZAMAN VE ORTAM</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_035.html#filepos486680"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_100" playOrder="100">
+        <navLabel>
+          <text>5. İDEA’LAR ÖĞRETİSİ</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_035.html#filepos491797"/>
+        <navPoint class="chapter" id="num_101" playOrder="101">
+          <navLabel>
+            <text>a) Eros</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_035.html#filepos491995"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_102" playOrder="102">
+          <navLabel>
+            <text>b) İdea'lar</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_035.html#filepos494760"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_103" playOrder="103">
+        <navLabel>
+          <text>6. İNSAN VE ERDEM</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_035.html#filepos502781"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_104" playOrder="104">
+        <navLabel>
+          <text>7. DEVLET</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_035.html#filepos507608"/>
+        <navPoint class="chapter" id="num_105" playOrder="105">
+          <navLabel>
+            <text>a) Devlet Biçimlerinin Eleştirisi</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_035.html#filepos509131"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_106" playOrder="106">
+          <navLabel>
+            <text>b) İdeal Devlet</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_035.html#filepos516441"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_107" playOrder="107">
+        <navLabel>
+          <text>8. ELEŞTİRİ VE DEĞERLENDİRME</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_035.html#filepos525084"/>
+        <navPoint class="chapter" id="num_108" playOrder="108">
+          <navLabel>
+            <text>a) Platonun Devlet Öğretisinin Eleştirisi</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_035.html#filepos525260"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_109" playOrder="109">
+          <navLabel>
+            <text>b) Platonun Yunan Düşünce Tarihindeki Yeri</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_035.html#filepos530017"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_110" playOrder="110">
+          <navLabel>
+            <text>c) Platon Sonrası</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_035.html#filepos532923"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_111" playOrder="111">
+      <navLabel>
+        <text>IV. ARİSTO</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_036.html"/>
+      <navPoint class="chapter" id="num_112" playOrder="112">
+        <navLabel>
+          <text>1. ARİSTO'NUN YAŞAMI</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_036.html#filepos537658"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_113" playOrder="113">
+        <navLabel>
+          <text>2. ARİSTO'NUN YAPITLARI</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_036.html#filepos541054"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_114" playOrder="114">
+        <navLabel>
+          <text>3. MANTIK</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_036.html#filepos546351"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_115" playOrder="115">
+        <navLabel>
+          <text>4. METAFİZİK</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_036.html#filepos560621"/>
+        <navPoint class="chapter" id="num_116" playOrder="116">
+          <navLabel>
+            <text>a) Tek ve Tüm</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_036.html#filepos560806"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_117" playOrder="117">
+          <navLabel>
+            <text>b) Madde ve Biçim</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_036.html#filepos563364"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_118" playOrder="118">
+          <navLabel>
+            <text>c) Varlığın Dört Nedeni</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_036.html#filepos566084"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_119" playOrder="119">
+          <navLabel>
+            <text>d) Tanrıbilim</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_036.html#filepos567693"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_120" playOrder="120">
+        <navLabel>
+          <text>5. DOĞA</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_036.html#filepos571277"/>
+        <navPoint class="chapter" id="num_121" playOrder="121">
+          <navLabel>
+            <text>a) Fizik</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_036.html#filepos571429"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_122" playOrder="122">
+          <navLabel>
+            <text>b) Canlılık Aşamaları</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_036.html#filepos573232"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_123" playOrder="123">
+        <navLabel>
+          <text>6. İNSAN, ERDEM, DEVLET</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_036.html#filepos576076"/>
+        <navPoint class="chapter" id="num_124" playOrder="124">
+          <navLabel>
+            <text>a) İnsan</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_036.html#filepos576337"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_125" playOrder="125">
+          <navLabel>
+            <text>b. Erdem</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_036.html#filepos578007"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_126" playOrder="126">
+          <navLabel>
+            <text>c.Devlet</text>
+          </navLabel>
+          <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_036.html#filepos578937"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_127" playOrder="127">
+        <navLabel>
+          <text>7. ELEŞTİRİ VE DEĞERLENDİRME</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_036.html#filepos582755"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_128" playOrder="128">
+      <navLabel>
+        <text>V. SOKRATÇI, PLATONCU VE ARİSTOCU OKULLAR</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_037.html"/>
+      <navPoint class="chapter" id="num_129" playOrder="129">
+        <navLabel>
+          <text>1. SOKRATÇILAR (Sokratiker)</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_037.html#filepos588018"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_130" playOrder="130">
+        <navLabel>
+          <text>2. PLATONCULAR (Platoniker)</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_037.html#filepos592367"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_131" playOrder="131">
+        <navLabel>
+          <text>3. ARİSTOCULAR (Peripatetiker)</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_037.html#filepos593493"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_132" playOrder="132">
+      <navLabel>
+        <text>3. BÖLÜM:ARİSTO'DAN SONRA YUNAN VE ROMA FELSEFESİ</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_038.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_133" playOrder="133">
+      <navLabel>
+        <text>I. STOACILAR (Stoiker)</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_039.html"/>
+      <navPoint class="chapter" id="num_134" playOrder="134">
+        <navLabel>
+          <text>1. ÜNLÜ STOACILAR</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_039.html#filepos602771"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_135" playOrder="135">
+        <navLabel>
+          <text>2. STOACILIĞIN YAPISI</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_039.html#filepos606863"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_136" playOrder="136">
+        <navLabel>
+          <text>3. STOACI AHLAK BİLGİSİ</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_039.html#filepos616412"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_137" playOrder="137">
+        <navLabel>
+          <text>4. STOACI FELSEFENİN TARİHİ ÖNEMİ</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_039.html#filepos625564"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_138" playOrder="138">
+      <navLabel>
+        <text>II. EPİKÜRCÜLER (Epikureer)</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_040.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_139" playOrder="139">
+      <navLabel>
+        <text>III. KUŞKUCULAR (Skeptiker)</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_041.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_140" playOrder="140">
+      <navLabel>
+        <text>IV. SEÇMECİLER (Eklektiker)</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_042.html"/>
+      <navPoint class="chapter" id="num_141" playOrder="141">
+        <navLabel>
+          <text>1. ROMA SEÇMECİLİĞİ</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_042.html#filepos638264"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_142" playOrder="142">
+        <navLabel>
+          <text>2. İSKENDERİYE SEÇMECİLİĞİ</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_042.html#filepos641337"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_143" playOrder="143">
+      <navLabel>
+        <text>V. YENİ PLATONCULAR</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_043.html"/>
+      <navPoint class="chapter" id="num_144" playOrder="144">
+        <navLabel>
+          <text>1. PLOTİNOS</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_043.html#filepos647401"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_145" playOrder="145">
+        <navLabel>
+          <text>2. YENİ PLATONCULUĞUN VE İLKÇAĞ FELSEFESİNİN SONU</text>
+        </navLabel>
+        <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_043.html#filepos655834"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_146" playOrder="146">
+      <navLabel>
+        <text>NOTLAR</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_044.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_147" playOrder="147">
+      <navLabel>
+        <text>DİZİN</text>
+      </navLabel>
+      <content src="Ilkcag_Felsefesi_%28Hint_Cin_Yuna_split_045.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

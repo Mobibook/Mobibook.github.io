@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content=""/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Küçük Asker</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="3cb6d13f-2a23-47e9-be76-a2e6d286d6dd" playOrder="1">
+      <navLabel>
+        <text>Hayatı</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_002.html"/>
+    </navPoint>
+    <navPoint id="692ee77a-d7a6-442f-bebf-c0add19be5ef" playOrder="2">
+      <navLabel>
+        <text>Kıskançlık ve Kin</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_003.html"/>
+    </navPoint>
+    <navPoint id="1b2e1862-80c9-4e0f-abcb-8d4b05323886" playOrder="3">
+      <navLabel>
+        <text>Schwarenbach Otel’i</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_005.html"/>
+    </navPoint>
+    <navPoint id="09e6d263-47d1-4b72-a897-ef6230d5da4b" playOrder="4">
+      <navLabel>
+        <text>Şeytan</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_007.html"/>
+    </navPoint>
+    <navPoint id="cc616efc-afbc-4f6c-86d6-0d5160903c79" playOrder="5">
+      <navLabel>
+        <text>Oyuk</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_009.html"/>
+    </navPoint>
+    <navPoint id="246f8568-6b86-4e92-8175-2c700eb0bbe1" playOrder="6">
+      <navLabel>
+        <text>Ölüler Ne Diyor</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_011.html"/>
+    </navPoint>
+    <navPoint id="5cbb48f4-0126-48ef-ada8-986099259794" playOrder="7">
+      <navLabel>
+        <text>Jules Amcam</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_013.html"/>
+    </navPoint>
+    <navPoint id="83663df9-e325-4766-8231-d38ecf35ca94" playOrder="8">
+      <navLabel>
+        <text>İlk Kar</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_015.html"/>
+    </navPoint>
+    <navPoint id="572ae562-4b62-46b4-b069-c05c2ae53bee" playOrder="9">
+      <navLabel>
+        <text>Dönüş</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_017.html"/>
+    </navPoint>
+    <navPoint id="4dd2546a-da15-4a38-8ca8-33702b5d3b55" playOrder="10">
+      <navLabel>
+        <text>Bir Aile</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_019.html"/>
+    </navPoint>
+    <navPoint id="a78fab59-9d15-45ff-a448-c09d6a09fea6" playOrder="11">
+      <navLabel>
+        <text>Kan Davası</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_021.html"/>
+    </navPoint>
+    <navPoint id="80516007-daf3-4944-a9c9-4bff81eacb6c" playOrder="12">
+      <navLabel>
+        <text>Bekleyiş</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_023.html"/>
+    </navPoint>
+    <navPoint id="1b9a097a-1001-4f3c-baad-bd54cb634606" playOrder="13">
+      <navLabel>
+        <text>Öğretmen Moiron Olayı</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_025.html"/>
+    </navPoint>
+    <navPoint id="7c9eb34c-8dab-4371-972c-af4a67fe6461" playOrder="14">
+      <navLabel>
+        <text>Koruyucu</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_027.html"/>
+    </navPoint>
+    <navPoint id="974ac149-0482-46db-bf17-ae376ed87f65" playOrder="15">
+      <navLabel>
+        <text>Deli</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_029.html"/>
+    </navPoint>
+    <navPoint id="74bee650-9323-4af5-a723-d4ad5a7d0b66" playOrder="16">
+      <navLabel>
+        <text>Baba Belhomme’daki Hayvan</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_031.html"/>
+    </navPoint>
+    <navPoint id="37719061-8d61-4d12-8f22-78e1dc845904" playOrder="17">
+      <navLabel>
+        <text>Tüyler Ürpertici</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_033.html"/>
+    </navPoint>
+    <navPoint id="234a1f12-27dd-4bc5-be3c-cfa08fcefabb" playOrder="18">
+      <navLabel>
+        <text>Küçük Asker</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_035.html"/>
+    </navPoint>
+    <navPoint id="71bc6a93-c0ea-4f4b-8010-f0e808ece9a7" playOrder="19">
+      <navLabel>
+        <text>Sauvage Kadının Zaferi!</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_037.html"/>
+      <navPoint id="9806729f-6400-4ada-98cb-b310fa2956e8" playOrder="20">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/kucukasker_split_038.html"/>
+      </navPoint>
+      <navPoint id="93a224a0-fb9e-4e2f-860f-a3c80b66b893" playOrder="21">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/kucukasker_split_039.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="a9ccc837-1a38-4ae0-ba1a-98e9b4551620" playOrder="22">
+      <navLabel>
+        <text>Katil</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_040.html"/>
+    </navPoint>
+    <navPoint id="e5ba60a2-2170-4d67-9b84-59acd2ca730a" playOrder="23">
+      <navLabel>
+        <text>Küçük Bir Dram</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_042.html"/>
+    </navPoint>
+    <navPoint id="2393d2cd-0b02-4f96-a8ff-893fa8800772" playOrder="24">
+      <navLabel>
+        <text>Bayan İnci</text>
+      </navLabel>
+      <content src="Text/kucukasker_split_044.html"/>
+      <navPoint id="34f305a3-f132-4e69-ae11-1ee76b18cdcc" playOrder="25">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/kucukasker_split_045.html"/>
+      </navPoint>
+      <navPoint id="ec977394-3954-473b-9d46-a1c72bde5bc1" playOrder="26">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/kucukasker_split_046.html"/>
+      </navPoint>
+      <navPoint id="ef1caeeb-c642-42ad-9202-fb9280de8992" playOrder="27">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/kucukasker_split_047.html"/>
+      </navPoint>
+      <navPoint id="462b421e-be88-4c58-8b21-c7d77c899e86" playOrder="28">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/kucukasker_split_048.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

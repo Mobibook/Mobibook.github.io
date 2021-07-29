@@ -1,0 +1,252 @@
+/*****FONT*****/
+@font-face {
+  font-family: "Bookerly";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/Bookerly-RegularItalic.ttf);
+  }
+@font-face {
+  font-family: "Bookerly";
+  font-style: italic;
+  font-weight: bold;
+  src: url(../Fonts/Bookerly-BoldItalic.ttf);
+  }
+@font-face {
+  font-family: "Bookerly";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/Bookerly-Bold.ttf);
+  }
+@font-face {
+  font-family: "Bookerly";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/Bookerly-Regular.ttf);
+  }
+@font-face {
+  font-family: "Gill Sans Std";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/GillSansStd.ttf);
+  }
+@font-face {
+  font-family: "TradeGothic LT CondEighteen";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/TradeGothicTR.otf);
+  }
+@font-face {
+  font-family: "Interstate Light";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/Interstate-LightCond.ttf);
+  }
+
+.ekdg-logo {
+  text-align: center;
+  margin: 5em 0 1em;
+}
+
+.author {
+  margin-top: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.author h1 {
+  font-family: "Gill Sans Std";
+  font-size: 0.85em;
+  margin-bottom: 1.5em;
+  text-align: left;
+}
+h1 {
+  text-align: center;
+  font: normal normal 1.2em/1.2em "TradeGothic LT CondEighteen";
+  margin-bottom: 4em;
+  margin-top: 2em;
+}
+.num {
+  font: normal normal 0.75em/1.2em "Interstate Light";
+  display: block;
+}
+h2 {
+  font: normal normal 0.85em/1.2em "TradeGothic LT CondEighteen";
+  text-align: center;
+  margin-top: 2em;
+}
+/*P*/
+p {
+  font: normal 0.75em/1.3em "Bookerly";
+  margin: 0;
+  text-indent: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+p.nonindent {
+  text-indent: 0;
+}
+.right {
+  text-align: right;
+}
+.extract {
+  margin-top: 1em;
+  text-indent: 0;
+}
+blockquote { font-size: 90%; margin-right:0;}
+div.block {
+  margin-left: 0;
+  margin-right: 0;
+  text-align: justify;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.epigraf {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 6em;
+}
+.epigraf p {
+  font-size: .66em;
+}
+.poem {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 3.5em;
+  text-align: justify;
+}
+.poem p {
+  text-indent: -2em;
+}
+p.hanging {
+  text-indent: -2em;
+  text-align: justify;
+}
+.hanging {
+  margin-left: 1.5em;
+  margin-top: 0.4em;
+}
+div.copyright > p.crt:last-child {
+  margin-bottom: 0;
+}
+p.crt {
+  font: normal normal 0.751em "Gill Sans Std";
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-indent: 0;
+}
+/*titlepage*/
+.title {
+  margin-left: 2em;
+  margin-top: 2em;
+}
+.space {
+  letter-spacing: 0.1em;
+}
+.ithaf, .part {
+  margin-top: 8em;
+}
+
+.aut {
+  font: normal normal 1.69em "TradeGothic LT CondEighteen";
+}
+.work {
+  font: normal normal 2.6em "TradeGothic LT CondEighteen";
+}
+.work1 {
+  font: normal normal 1.1em/1.2em "TradeGothic LT CondEighteen";
+  margin-top: 1em;
+}
+.trans {
+  font-family: "Gill Sans Std";
+  font-size: 0.83em;
+  margin-top: 4em;
+}
+.logo {
+  margin: 7em auto 0 auto;
+}
+/******FOOTNOTE******/
+.footnotes > p.footnote:last-child {
+  margin-bottom: 0;
+}
+.footnotes {
+  margin-top: 4em;
+  margin-left: 1em;
+  text-align: justify;
+}
+.footnote {
+  font-family: "Bookerly";
+  font-size: 0.66em;
+  margin-bottom: 0.3em;
+  text-indent: 0;
+}
+.backref {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  /*ipad için*/-webkit-text-fill-color: #000;
+  color: #000;
+  font-size: 1.1em;
+}
+.noteref {
+  font-family: sans-serif;
+  text-decoration: none;
+  /*ipad için*/-webkit-text-fill-color: #26474B;
+  color: #26474B;
+  font-size: 0.66em;
+  line-height: 1em;
+  vertical-align: super;
+  padding-left: 0.1em;
+}
+/*IMAGES*/
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+.picture {
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  margin-left: 1.5em;
+  max-width: 700px;
+  page-break-inside: avoid;
+}
+.caption {
+  font: normal normal 0.75em "Gill Sans Std";
+  text-align: justify;
+  margin-top: 10px;
+  text-indent: 0;
+}
+/* ---- Tables ---- */
+table {
+  border-collapse: collapse;
+  margin-left: 1.5em;
+  font-family: "Gill Sans Std";
+  font-weight: normal;
+  font-size: 0.75em;
+}
+td {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+/*LİSTE*/
+ol li, ul li {
+  font: normal normal 0.75em/1.3em "Bookerly";
+  text-align: justify;
+  text-indent: 0;
+  margin: 0;
+  padding: 1px;
+}
+/*OTHER*/
+a {
+  text-decoration: none;
+}
+hr {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border: none;
+  text-align: center;
+}
+hr:after {
+  content: url(../Images/sep.jpg);
+}
+em {
+  color: #C41A16;
+}

@@ -1,0 +1,33 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: Arial;
+    font-weight: normal;
+    font-style: normal;
+    src: url(OEBPS/Fonts/arial.ttf)
+    }
+@font-face {
+    font-family: Arial;
+    font-weight: normal;
+    font-style: italic;
+    src: url(OEBPS/Fonts/ariali.ttf)
+    }
+@font-face {
+    font-family: Calibri;
+    font-weight: normal;
+    font-style: normal;
+    src: url(OEBPS/Fonts/calibri.ttf)
+    }
+@font-face {
+    font-family: Calibri;
+    font-weight: normal;
+    font-style: italic;
+    src: url(OEBPS/Fonts/calibrii.ttf)
+    }
+@font-face {
+    font-weight: normal;
+    font-style: normal;
+    src: url(OEBPS/Fonts/simsunb.ttf)
+    }

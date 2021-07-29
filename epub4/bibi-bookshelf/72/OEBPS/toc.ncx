@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="c4038cbd-63a0-494c-b268-17f9a43e3163" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yüzünde Nâzım İzi Var</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="dca4f580-39c1-4e43-b2f8-b43bf0ce615c" playOrder="1">
+      <navLabel>
+        <text>NÂZIM’IN YÜZ ONUNCU DOĞUM YILI ANISINA</text>
+      </navLabel>
+      <content src="Text/KITAP_split_004.html"/>
+    </navPoint>
+    <navPoint id="226b120a-6c9d-4705-8d74-fb81e61a9e21" playOrder="2">
+      <navLabel>
+        <text>NÂZIM’IN BURSA’SI</text>
+      </navLabel>
+      <content src="Text/KITAP_split_006.html"/>
+    </navPoint>
+    <navPoint id="76cbf728-7b68-4d4a-a961-a51dc75f079f" playOrder="3">
+      <navLabel>
+        <text>BURSA HEYKEL’DE NAİL VAHDETİ’YLE AYNI KELEPÇEDE</text>
+      </navLabel>
+      <content src="Text/KITAP_split_011.html"/>
+    </navPoint>
+    <navPoint id="fdb4aa17-5341-49c3-bd87-177e9f2254fb" playOrder="4">
+      <navLabel>
+        <text>BURSALI GAZETECİ İSMET BOZDAĞ’IN TANIKLIĞI</text>
+      </navLabel>
+      <content src="Text/KITAP_split_015.html"/>
+    </navPoint>
+    <navPoint id="bc8b4933-d0e8-4342-9497-2bc5de610f8b" playOrder="5">
+      <navLabel>
+        <text>İSMET BOZDAĞ’IN CEZAEVİ ZİYARETİ</text>
+      </navLabel>
+      <content src="Text/KITAP_split_017.html"/>
+    </navPoint>
+    <navPoint id="798993fc-338f-471d-98c1-f4f0bb1c99da" playOrder="6">
+      <navLabel>
+        <text>BURSA’DA BEYRUTLU BİR ÖĞRENCİ FAİK BERCÂVİ...</text>
+      </navLabel>
+      <content src="Text/KITAP_split_020.html"/>
+    </navPoint>
+    <navPoint id="5d4319ed-2df6-40d9-9d26-d0324949b274" playOrder="7">
+      <navLabel>
+        <text>BURSA BELEDİYE BAŞKANI DİNÇSOY’LA NÂZIM HİKMET İKİ YAKIN DOSTTU</text>
+      </navLabel>
+      <content src="Text/KITAP_split_022.html"/>
+    </navPoint>
+    <navPoint id="17b42094-8aec-4a9c-8940-926f0c75fc23" playOrder="8">
+      <navLabel>
+        <text>BİRİNCİ BURSA HAPİSLİĞİNİN SONU</text>
+      </navLabel>
+      <content src="Text/KITAP_split_025.html"/>
+    </navPoint>
+    <navPoint id="c9de6ad7-8221-4f9a-9597-0d0413b74644" playOrder="9">
+      <navLabel>
+        <text>BURSA’DA ÇEKİLEN TÜRKİYE’NİN İLK KÖY FİLMİ NÂZIM’DAN İZLER TAŞIR</text>
+      </navLabel>
+      <content src="Text/KITAP_split_027.html"/>
+    </navPoint>
+    <navPoint id="ed1e7ad0-b9d9-44d3-a36a-a95e2c76c402" playOrder="10">
+      <navLabel>
+        <text>NÂZIM HİKMET, CEMAL NADİR İÇİN BURSA’YA GELİR</text>
+      </navLabel>
+      <content src="Text/KITAP_split_030.html"/>
+    </navPoint>
+    <navPoint id="3a616900-cd38-42a9-9998-82975056c56a" playOrder="11">
+      <navLabel>
+        <text>İKİNCİ BURSA HAPİSLİĞİ</text>
+      </navLabel>
+      <content src="Text/KITAP_split_034.html"/>
+    </navPoint>
+    <navPoint id="994493c6-1799-42b5-a8d0-eac327bd8d30" playOrder="12">
+      <navLabel>
+        <text>MUSTAFAKEMALPAŞALI ÖMER DENİZ’İN ŞAİRLE YOLCULUĞU</text>
+      </navLabel>
+      <content src="Text/KITAP_split_038.html"/>
+    </navPoint>
+    <navPoint id="dd3cddc9-61ed-4969-839a-b43548a48b16" playOrder="13">
+      <navLabel>
+        <text>RAŞİT KEMALİ (ORHAN KEMAL) BURSA CEZAEVİNDE YETİŞİR</text>
+      </navLabel>
+      <content src="Text/KITAP_split_041.html"/>
+    </navPoint>
+    <navPoint id="12ab1db4-5d65-4610-871a-f2df331da33b" playOrder="14">
+      <navLabel>
+        <text>KİRMASTİ KAYMAKAMI ABDÜLKADİR KEMALİ BEY</text>
+      </navLabel>
+      <content src="Text/KITAP_split_044.html"/>
+    </navPoint>
+    <navPoint id="68bc2092-6cc2-418f-9642-ae2b36101db0" playOrder="15">
+      <navLabel>
+        <text>YENİŞEHİR KÖYLERİNDE NÂZIM İZLERİ</text>
+      </navLabel>
+      <content src="Text/KITAP_split_047.html"/>
+    </navPoint>
+    <navPoint id="1fa5c9a8-9760-4dca-8191-10dd87a57e5c" playOrder="16">
+      <navLabel>
+        <text>AŞKI UĞRUNA HAPSİ GÖZE ALAN SUBAY</text>
+      </navLabel>
+      <content src="Text/KITAP_split_050.html"/>
+    </navPoint>
+    <navPoint id="cf7d46d9-7d60-404d-b738-adf8eb587b6d" playOrder="17">
+      <navLabel>
+        <text>DEMİRBOĞALI CELİL</text>
+      </navLabel>
+      <content src="Text/KITAP_split_055.html"/>
+    </navPoint>
+    <navPoint id="393f99b7-6b79-442d-931b-001180cc62ed" playOrder="18">
+      <navLabel>
+        <text>ALAYLI KÖYÜNDEN AHMET ZEYBEK</text>
+      </navLabel>
+      <content src="Text/KITAP_split_058.html"/>
+    </navPoint>
+    <navPoint id="f1e2f4c2-25fe-4683-aed7-750b20dd413d" playOrder="19">
+      <navLabel>
+        <text>KARTALLI KÂZIM‘LA BURSA’DA...</text>
+      </navLabel>
+      <content src="Text/KITAP_split_061.html"/>
+    </navPoint>
+    <navPoint id="1be40b98-2884-43e3-be30-71604ed6c284" playOrder="20">
+      <navLabel>
+        <text>ANTEP CANAVARI</text>
+      </navLabel>
+      <content src="Text/KITAP_split_065.html"/>
+    </navPoint>
+    <navPoint id="5c36ab32-2583-4cec-b8e4-70b82d3ba218" playOrder="21">
+      <navLabel>
+        <text>NECATİ AKGÜN’ÜN UNUTAMADIĞI...</text>
+      </navLabel>
+      <content src="Text/KITAP_split_067.html"/>
+    </navPoint>
+    <navPoint id="1d9599f1-e544-4784-bdf4-c01580f6609f" playOrder="22">
+      <navLabel>
+        <text>HAFIZ YAHYA LALEOĞLU NÂZIM’A İPLİK VERİP ÇORAP ALIYORDU</text>
+      </navLabel>
+      <content src="Text/KITAP_split_070.html"/>
+    </navPoint>
+    <navPoint id="58a5f756-2ae3-4e4f-8016-f42d57987be7" playOrder="23">
+      <navLabel>
+        <text>KOZA KOOPERATİFİNİN (KOZABİRLİK) BROŞÜRLERİNDE NÂZIM’IN İMZASI VARDIR</text>
+      </navLabel>
+      <content src="Text/KITAP_split_073.html"/>
+    </navPoint>
+    <navPoint id="92bfc23b-9b61-4ab1-9587-5d850cad2851" playOrder="24">
+      <navLabel>
+        <text>NÂZIM HİKMET, HAŞİM İŞCAN’DAN ŞİKÂYETÇİ OLUR</text>
+      </navLabel>
+      <content src="Text/KITAP_split_078.html"/>
+    </navPoint>
+    <navPoint id="236fc77f-ce09-47b9-8d1c-ed01fa63531c" playOrder="25">
+      <navLabel>
+        <text>BURSA’NIN SEÇKÖY’ÜNDEN İBRAHİM BALABAN</text>
+      </navLabel>
+      <content src="Text/KITAP_split_080.html"/>
+    </navPoint>
+    <navPoint id="e00adcb5-a1bb-4bf8-91e4-ef0cfd8c8d6b" playOrder="26">
+      <navLabel>
+        <text>GÜNEYBUDAKLAR’DAN MEHMET ÖYDEŞ</text>
+      </navLabel>
+      <content src="Text/KITAP_split_083.html"/>
+    </navPoint>
+    <navPoint id="926d1290-73c4-4b1c-9dfd-fa867e7d240c" playOrder="27">
+      <navLabel>
+        <text>GEDELEKLİ SÜLEYMAN REİS</text>
+      </navLabel>
+      <content src="Text/KITAP_split_088.html"/>
+    </navPoint>
+    <navPoint id="8a395211-5edc-49f7-bd29-2b4b3943fe91" playOrder="28">
+      <navLabel>
+        <text>“BURSA CEZAEVİNİN MUHTEREM MÜDÜRÜ” YÜZBAŞI TAHSİN</text>
+      </navLabel>
+      <content src="Text/KITAP_split_090.html"/>
+    </navPoint>
+    <navPoint id="eb95d0bc-5cac-4081-bf88-32761596ca5e" playOrder="29">
+      <navLabel>
+        <text>MÜDÜRÜN KIZI ŞEHNAZ</text>
+      </navLabel>
+      <content src="Text/KITAP_split_094.html"/>
+    </navPoint>
+    <navPoint id="1e1200f9-d7d3-4656-a46c-57c1cb256565" playOrder="30">
+      <navLabel>
+        <text>“BÖYLE GARDİYAN’IN EŞİ BULUNMAZ”</text>
+      </navLabel>
+      <content src="Text/KITAP_split_106.html"/>
+    </navPoint>
+    <navPoint id="eb5c595b-0c2c-49d3-912d-dd0770b0edc9" playOrder="31">
+      <navLabel>
+        <text>NÂZIM’DAN SORUMLU BAŞSAVCI BAŞMUAVİNİ ŞİNASİ BEKEN</text>
+      </navLabel>
+      <content src="Text/KITAP_split_117.html"/>
+    </navPoint>
+    <navPoint id="08665a80-99db-4cbc-83a7-d07b49f720c5" playOrder="32">
+      <navLabel>
+        <text>BURSA CUMHURİYET SAVCILARINDAN İBRAHİM HALİL ATACAN</text>
+      </navLabel>
+      <content src="Text/KITAP_split_121.html"/>
+    </navPoint>
+    <navPoint id="2fedd18b-48ba-4347-8cf4-17bd0d9065b3" playOrder="33">
+      <navLabel>
+        <text>MANZARALAR ’IN BALCI REMZİ’Sİ BAY NURİ DOĞAÇ</text>
+      </navLabel>
+      <content src="Text/KITAP_split_131.html"/>
+    </navPoint>
+    <navPoint id="8d98cdf3-b371-4640-8a79-eb9662744ea7" playOrder="34">
+      <navLabel>
+        <text>NÂZIM’IM BURSA’DAN GİDİNCE...</text>
+      </navLabel>
+      <content src="Text/KITAP_split_133.html"/>
+    </navPoint>
+    <navPoint id="98d8edb7-7cde-4611-9058-2723e6b86b4f" playOrder="35">
+      <navLabel>
+        <text>NÂZIM’IN YOLDAŞI VE GÜZEL GÖZLÜ DOKTORU NEŞATİ ÜSTER</text>
+      </navLabel>
+      <content src="Text/KITAP_split_135.html"/>
+    </navPoint>
+    <navPoint id="245c75d5-c7e1-4277-97c5-55399241f3e0" playOrder="36">
+      <navLabel>
+        <text>“ELHASIL BURSA SUDAN İBARETTİR”</text>
+      </navLabel>
+      <content src="Text/KITAP_split_138.html"/>
+    </navPoint>
+    <navPoint id="6b31a878-2fe0-43c1-b43a-61c88cbbe45f" playOrder="37">
+      <navLabel>
+        <text>NÂZIM HİKMET’LE RAŞİT KEMALİ ÇEKİRGE’DE</text>
+      </navLabel>
+      <content src="Text/KITAP_split_141.html"/>
+    </navPoint>
+    <navPoint id="db33a37c-4050-4062-956c-de073bd9a31e" playOrder="38">
+      <navLabel>
+        <text>NÂZIM’IN MEKTUPLARINDAKİ ÇELİK PALAS OTELİ</text>
+      </navLabel>
+      <content src="Text/KITAP_split_144.html"/>
+    </navPoint>
+    <navPoint id="88900c1c-1796-4882-855c-dd90b75a7b4c" playOrder="39">
+      <navLabel>
+        <text>HAYAT OTEL</text>
+      </navLabel>
+      <content src="Text/KITAP_split_148.html"/>
+    </navPoint>
+    <navPoint id="1c421721-2d42-4c9b-b986-2e5e0f74a33b" playOrder="40">
+      <navLabel>
+        <text>NÂZIM’IN SERVİNAZ’I</text>
+      </navLabel>
+      <content src="Text/KITAP_split_152.html"/>
+    </navPoint>
+    <navPoint id="460afddc-c03b-4cab-8419-8a621a810feb" playOrder="41">
+      <navLabel>
+        <text>SERVİNAZ’IN KÂTİBİ DR. GALİP UZUNCA</text>
+      </navLabel>
+      <content src="Text/KITAP_split_159.html"/>
+    </navPoint>
+    <navPoint id="482273d9-9fb3-4e48-bb70-8b463850a67c" playOrder="42">
+      <navLabel>
+        <text>FİDYEKIZIK’TAN EYÜP AĞA</text>
+      </navLabel>
+      <content src="Text/KITAP_split_162.html"/>
+    </navPoint>
+    <navPoint id="54c45cd0-23eb-4c54-b8c3-0393205ae1d1" playOrder="43">
+      <navLabel>
+        <text>“NÂZIM HİKMET’İ CEZAEVİNDEN KAÇIRACAKTIM”</text>
+      </navLabel>
+      <content src="Text/KITAP_split_164.html"/>
+    </navPoint>
+    <navPoint id="55c00e76-00ee-4f91-ac17-4915b853272e" playOrder="44">
+      <navLabel>
+        <text>DEMOKRAT PARTİDEN KOMÜNİSTLİĞE</text>
+      </navLabel>
+      <content src="Text/KITAP_split_166.html"/>
+    </navPoint>
+    <navPoint id="a60842ea-8908-4bc7-a79e-1d612edfb442" playOrder="45">
+      <navLabel>
+        <text>İNSAN MANZARALARI’NIN SARI SEYFETTİN’İ</text>
+      </navLabel>
+      <content src="Text/KITAP_split_174.html"/>
+    </navPoint>
+    <navPoint id="60a5c325-c54c-45af-a1e3-ae32c9c4a096" playOrder="46">
+      <navLabel>
+        <text>NÂZIM’IN KELESLİ ÖĞRENCİLERİ</text>
+      </navLabel>
+      <content src="Text/KITAP_split_178.html"/>
+    </navPoint>
+    <navPoint id="0cfdbcc4-643f-4a29-8f90-5f92bf9257d7" playOrder="47">
+      <navLabel>
+        <text>NİYAZİ’NİN ADI NÂZIM OLUR...</text>
+      </navLabel>
+      <content src="Text/KITAP_split_181.html"/>
+    </navPoint>
+    <navPoint id="08dfd2db-05dc-4b9e-8934-3e3f1a6b33d5" playOrder="48">
+      <navLabel>
+        <text>KIZ MUALLİM MEKTEBİ ÖĞRETMENLERİNDEN CEZAEVİNE ZİYARET</text>
+      </navLabel>
+      <content src="Text/KITAP_split_189.html"/>
+    </navPoint>
+    <navPoint id="fb4d20cc-eb9d-4f14-9d68-9b081a7c54a8" playOrder="49">
+      <navLabel>
+        <text>MUALLİM MEKTEBİ EDEBİYAT ÖĞRETMENİ ŞAİR, YAZAR FAKİHE ODMAN</text>
+      </navLabel>
+      <content src="Text/KITAP_split_195.html"/>
+    </navPoint>
+    <navPoint id="bb9fffcc-c09b-49e4-a4a0-3daf9336c669" playOrder="50">
+      <navLabel>
+        <text>DOKUMA TEZGÂHLARINDAKİ MÜBADİL</text>
+      </navLabel>
+      <content src="Text/KITAP_split_198.html"/>
+    </navPoint>
+    <navPoint id="4aa403e6-7ebe-447d-bd4c-fa7df5698121" playOrder="51">
+      <navLabel>
+        <text>MOSKOVA RADYOSUNU AÇAN ÇEPNELİ HALİL YENİDEN TUTUKLANIR</text>
+      </navLabel>
+      <content src="Text/KITAP_split_203.html"/>
+    </navPoint>
+    <navPoint id="bcc1adfb-8a23-4dc7-a596-30f0b931a6c7" playOrder="52">
+      <navLabel>
+        <text>NÂZIM’I ÖLÜMDEN KURTARAN CELLATOĞLU</text>
+      </navLabel>
+      <content src="Text/KITAP_split_206.html"/>
+    </navPoint>
+    <navPoint id="50d65b1c-b995-4f44-ad68-0738a46c8034" playOrder="53">
+      <navLabel>
+        <text>“BAL ŞEKER USTAM”</text>
+      </navLabel>
+      <content src="Text/KITAP_split_210.html"/>
+    </navPoint>
+    <navPoint id="5d6bafde-54f5-4c87-a7ad-d97cd9c3f876" playOrder="54">
+      <navLabel>
+        <text>NÂZIM’IN DİLİNDEN DÜŞMEYEN TÜRKÜ: “NİNNO YÂRİM”</text>
+      </navLabel>
+      <content src="Text/KITAP_split_216.html"/>
+    </navPoint>
+    <navPoint id="f99813bd-fb25-4f2c-bb82-aff5e02f8a08" playOrder="55">
+      <navLabel>
+        <text>“GAZİLİKTEN DEĞİL KOMÜNİSTLİKTEN...”</text>
+      </navLabel>
+      <content src="Text/KITAP_split_220.html"/>
+    </navPoint>
+    <navPoint id="854a7d3f-2ef2-41ab-838c-d558660e1c40" playOrder="56">
+      <navLabel>
+        <text>NÂZIM’IN YÜZÜNÜ GÖRMEDİĞİ BURSALI ÖĞRENCİLERİNDEN NEVZAT ŞENOL</text>
+      </navLabel>
+      <content src="Text/KITAP_split_224.html"/>
+    </navPoint>
+    <navPoint id="445b31d0-a047-48d3-b37b-be3be86edc6e" playOrder="57">
+      <navLabel>
+        <text>MAVİŞ KAPTAN</text>
+      </navLabel>
+      <content src="Text/KITAP_split_228.html"/>
+    </navPoint>
+    <navPoint id="917af88d-25ac-4daf-9fb8-869f8589ed7f" playOrder="58">
+      <navLabel>
+        <text>“BABAM, MÜCADELE RUHUNU NÂZIM’DAN ALMIŞ BİR İNSANDI...”</text>
+      </navLabel>
+      <content src="Text/KITAP_split_230.html"/>
+    </navPoint>
+    <navPoint id="4fef6223-48d7-49b8-a6e9-0af4ad3b7378" playOrder="59">
+      <navLabel>
+        <text>HEM TERZİ HEM GEZEK RUŞEN EŞREF BEKTÖRE</text>
+      </navLabel>
+      <content src="Text/KITAP_split_234.html"/>
+    </navPoint>
+    <navPoint id="b8a1210f-4ff3-4c34-b985-4df70346f750" playOrder="60">
+      <navLabel>
+        <text>“GÖZLERİME İYİ BAKIN, ONUN GÖZLERİNİ GÖRECEKSİNİZ...”</text>
+      </navLabel>
+      <content src="Text/KITAP_split_238.html"/>
+    </navPoint>
+    <navPoint id="9ae98137-c174-447e-9599-d15866d3b89e" playOrder="61">
+      <navLabel>
+        <text>CELİLE HANIM’IN BURSA’DAKİ EVLERİ</text>
+      </navLabel>
+      <content src="Text/KITAP_split_241.html"/>
+    </navPoint>
+    <navPoint id="9a8ea0e7-9237-4f01-986c-7f73f5b97b39" playOrder="62">
+      <navLabel>
+        <text>“BEN ONU DA TANIDIM VE ÇOK SEVDİM”</text>
+      </navLabel>
+      <content src="Text/KITAP_split_246.html"/>
+    </navPoint>
+    <navPoint id="d0ec7a96-fcaa-4d39-b2c1-1754888252fd" playOrder="63">
+      <navLabel>
+        <text>İLK FİLM YILDIZIMIZ CAHİDE SONKU NÂZIM’I ZİYARET EDER</text>
+      </navLabel>
+      <content src="Text/KITAP_split_249.html"/>
+    </navPoint>
+    <navPoint id="fc96333f-0e1e-43d2-b7f0-43cadb8aed18" playOrder="64">
+      <navLabel>
+        <text>İLK OPERETİMİZ SEMİHA BERKSOY SIK SIK BURSA’YA GELİR</text>
+      </navLabel>
+      <content src="Text/KITAP_split_251.html"/>
+    </navPoint>
+    <navPoint id="30c9e41d-a415-41e8-987e-f8bf6bc8c010" playOrder="65">
+      <navLabel>
+        <text>İYİ HÂLDEN İMRALI CEZAEVİNE</text>
+      </navLabel>
+      <content src="Text/KITAP_split_253.html"/>
+    </navPoint>
+    <navPoint id="ddc1c08a-9312-45a9-bc27-90b118d9df3b" playOrder="66">
+      <navLabel>
+        <text>KUVÂYİ MİLLİYE BURSA’DA TAMAMLANIR...</text>
+      </navLabel>
+      <content src="Text/KITAP_split_258.html"/>
+    </navPoint>
+    <navPoint id="85665374-f461-4740-801a-eb442976f4b8" playOrder="67">
+      <navLabel>
+        <text>BURSA’DA YAZILAN SAAT: 21.00-22.00 ŞİİRLERİ</text>
+      </navLabel>
+      <content src="Text/KITAP_split_261.html"/>
+    </navPoint>
+    <navPoint id="d666a1cb-34a7-44b6-bfc1-6a88722389cc" playOrder="68">
+      <navLabel>
+        <text>BURSA’DAN YAZILAN MEKTUPLAR</text>
+      </navLabel>
+      <content src="Text/KITAP_split_264.html"/>
+    </navPoint>
+    <navPoint id="8e7f9ab0-0774-4e04-98ee-14b3bb06ecf6" playOrder="69">
+      <navLabel>
+        <text>PİRAYE’YE MEKTUPLAR</text>
+      </navLabel>
+      <content src="Text/KITAP_split_266.html"/>
+    </navPoint>
+    <navPoint id="793a9772-fa0c-4f83-bbe6-a5788150c478" playOrder="70">
+      <navLabel>
+        <text>“OĞLUM MEMET! KİTAPLARI HAYATLA İLGİLENDİREREK OKURSAN AKILLI OLURLAR...”</text>
+      </navLabel>
+      <content src="Text/KITAP_split_268.html"/>
+    </navPoint>
+    <navPoint id="1068748e-7b09-476f-8f9b-c4d9704dc0de" playOrder="71">
+      <navLabel>
+        <text>NÂZIM AÇLIK GREVİNE BAŞLIYOR</text>
+      </navLabel>
+      <content src="Text/KITAP_split_270.html"/>
+    </navPoint>
+    <navPoint id="f186c534-e075-4404-8b9c-028c199d7058" playOrder="72">
+      <navLabel>
+        <text>“NÂZIM HİKMET’İ ASKERÎ MAHKEMELERDE VERDİĞİM EMİRLERLE OTUZ YILA MAHKÛM ETTİRDİM”</text>
+      </navLabel>
+      <content src="Text/KITAP_split_273.html"/>
+    </navPoint>
+    <navPoint id="1a69b079-51e6-4794-bc60-325bf43a1104" playOrder="73">
+      <navLabel>
+        <text>“ÇINARLI KÖYÜN MUHTARI” FEVZİ KAVUK</text>
+      </navLabel>
+      <content src="Text/KITAP_split_279.html"/>
+    </navPoint>
+    <navPoint id="0d6ad52a-8a74-4fec-b696-8c365a798efb" playOrder="74">
+      <navLabel>
+        <text>NERMİN SALİ NALBANT’TAN NÂZIM’A ELLİ YEDİ KIRMIZI KARANFİL</text>
+      </navLabel>
+      <content src="Text/KITAP_split_288.html"/>
+    </navPoint>
+    <navPoint id="5ad09c40-6719-48af-a508-d49905f4924f" playOrder="75">
+      <navLabel>
+        <text>BURSA CEZAEVİNDEN KİMLER GEÇMEDİ Kİ...</text>
+      </navLabel>
+      <content src="Text/KITAP_split_294.html"/>
+    </navPoint>
+    <navPoint id="26bcac68-1aca-4ae9-8428-a793c55c3289" playOrder="76">
+      <navLabel>
+        <text>BURSA CEZAEVİNİ ZİYARETE GELENLER...</text>
+      </navLabel>
+      <content src="Text/KITAP_split_297.html"/>
+    </navPoint>
+    <navPoint id="933dc51c-291e-458c-be1e-7cacc72d1a3d" playOrder="77">
+      <navLabel>
+        <text>BURSA CEZAEVİNİN TARİHİ</text>
+      </navLabel>
+      <content src="Text/KITAP_split_300.html"/>
+    </navPoint>
+    <navPoint id="febab887-e2e2-4abf-ac41-0db837d8021c" playOrder="78">
+      <navLabel>
+        <text>BURSA KÜLTÜR VE TABİAT VARLIKLARINI KORUMA KURULU’NUN TESCİL KARARI</text>
+      </navLabel>
+      <content src="Text/KITAP_split_302.html"/>
+    </navPoint>
+    <navPoint id="b4515a27-036e-43bd-8a70-8257235b0288" playOrder="79">
+      <navLabel>
+        <text>TARİHİ CEZAEVİ İÇİN DAVA AÇILIYOR</text>
+      </navLabel>
+      <content src="Text/KITAP_split_304.html"/>
+    </navPoint>
+    <navPoint id="e2b50e81-b8a2-4ab4-a5f7-a51753a7f4a4" playOrder="80">
+      <navLabel>
+        <text>BİNA YIKILIRKEN KOMEDİLERE TAŞ ÇIKARTACAK BİLİRKİŞİ RAPORU GELİR</text>
+      </navLabel>
+      <content src="Text/KITAP_split_306.html"/>
+    </navPoint>
+    <navPoint id="cfaad39f-f9c7-414e-9ac3-015c82eb1636" playOrder="81">
+      <navLabel>
+        <text>CEZAEVİ YIKILMIŞ OLMASINA RAĞMEN KARAR İKİ YIL SONRA ÇIKAR</text>
+      </navLabel>
+      <content src="Text/KITAP_split_310.html"/>
+    </navPoint>
+    <navPoint id="39d292e5-b251-4aea-90f0-31bd25790f2c" playOrder="82">
+      <navLabel>
+        <text>KAYNAKÇA</text>
+      </navLabel>
+      <content src="Text/KITAP_split_329.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

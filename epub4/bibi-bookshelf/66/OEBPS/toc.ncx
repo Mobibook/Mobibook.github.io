@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{FFA105A4-6F47-45E4-B0B2-70BACB1548FF}" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Dilin Aynasından [Kelimeler Dünyamızı Nasıl Renklendirir?]</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yazar</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>İthaf</text>
+      </navLabel>
+      <content src="Text/ithaf.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>GİRİŞ Dil, Kültür ve Düşünce</text>
+      </navLabel>
+      <content src="Text/giris.xhtml"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Dil Aynası</text>
+        </navLabel>
+        <content src="Text/giris.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Dil Merceği</text>
+        </navLabel>
+        <content src="Text/giris.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>I Dil Aynası</text>
+      </navLabel>
+      <content src="Text/part1.xhtml"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>1 Gökkuşağını Adlandırmak</text>
+        </navLabel>
+        <content src="Text/01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>2 Yıllar Yılı Yanlış İz Peşinde</text>
+        </navLabel>
+        <content src="Text/02.xhtml"/>
+        <navPoint id="navPoint-11" playOrder="11">
+          <navLabel>
+            <text>Zürafanın Boynu</text>
+          </navLabel>
+          <content src="Text/02.xhtml#sigil_toc_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>Zihin Gözü</text>
+          </navLabel>
+          <content src="Text/02.xhtml#sigil_toc_id_4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>3 Uzak Diyarlardaki Vahşi Topluluklar</text>
+        </navLabel>
+        <content src="Text/03.xhtml"/>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>Rivers'ın Boğaz Turu</text>
+          </navLabel>
+          <content src="Text/03.xhtml#sigil_toc_id_5"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>Geleneksel Meyveler ve Başka Düşünce Deneyleri</text>
+          </navLabel>
+          <content src="Text/03.xhtml#sigil_toc_id_6"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>Kültürün Zaferi</text>
+          </navLabel>
+          <content src="Text/03.xhtml#sigil_toc_id_7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>4 Söylediklerimizi Bizden Önce Söyleyenler</text>
+        </navLabel>
+        <content src="Text/04.xhtml"/>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>Kısıtlı Özgürlük</text>
+          </navLabel>
+          <content src="Text/04.xhtml#sigil_toc_id_8"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>Renklerin Ötesi</text>
+          </navLabel>
+          <content src="Text/04.xhtml#sigil_toc_id_9"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>5 Platon ve Makedon Domuz Çobanı</text>
+        </navLabel>
+        <content src="Text/05.xhtml"/>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>İlkel Diller mi?</text>
+          </navLabel>
+          <content src="Text/05.xhtml#sigil_toc_id_10"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>Morfoloji</text>
+          </navLabel>
+          <content src="Text/05.xhtml#sigil_toc_id_11"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>Ses Sistemi</text>
+          </navLabel>
+          <content src="Text/05.xhtml#sigil_toc_id_12"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>Yancümleler</text>
+          </navLabel>
+          <content src="Text/05.xhtml#sigil_toc_id_13"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>II Dil Merceği</text>
+      </navLabel>
+      <content src="Text/part2.xhtml"/>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>6 Yalancı Çoban Whorf</text>
+        </navLabel>
+        <content src="Text/06.xhtml"/>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>Wilhelm Von Humboldt</text>
+          </navLabel>
+          <content src="Text/06.xhtml#sigil_toc_id_14"/>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>Dilsel Görelilik</text>
+          </navLabel>
+          <content src="Text/06.xhtml#sigil_toc_id_15"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>Hopi Zamanı</text>
+          </navLabel>
+          <content src="Text/06.xhtml#sigil_toc_id_16"/>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>Dil Hapishanesi</text>
+          </navLabel>
+          <content src="Text/06.xhtml#sigil_toc_id_17"/>
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>Sapir-Whorf'tan Boas-Jakobson'a</text>
+          </navLabel>
+          <content src="Text/06.xhtml#sigil_toc_id_18"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>7 Güneşin Doğudan Doğmadığı Yer</text>
+        </navLabel>
+        <content src="Text/07.xhtml"/>
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>Lezzetli Bir Akşam Yemeği</text>
+          </navLabel>
+          <content src="Text/07.xhtml#sigil_toc_id_19"/>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+          <navLabel>
+            <text>Benmerkezli Koordinatlar ve Coğrafi Koordinatlar</text>
+          </navLabel>
+          <content src="Text/07.xhtml#sigil_toc_id_20"/>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+          <navLabel>
+            <text>Burnu Güneye Dönük Ağlıyor</text>
+          </navLabel>
+          <content src="Text/07.xhtml#sigil_toc_id_21"/>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+          <navLabel>
+            <text>Dudağının Deniz Tarafında Bir Kırıntı Kalmış</text>
+          </navLabel>
+          <content src="Text/07.xhtml#sigil_toc_id_22"/>
+        </navPoint>
+        <navPoint id="navPoint-37" playOrder="37">
+          <navLabel>
+            <text>Kusursuz Yön Duygusu</text>
+          </navLabel>
+          <content src="Text/07.xhtml#sigil_toc_id_23"/>
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>Masaları Çevirmek</text>
+          </navLabel>
+          <content src="Text/07.xhtml#sigil_toc_id_24"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>Bağıntı mı, Neden-Sonuç İlişkisi mi?</text>
+          </navLabel>
+          <content src="Text/07d.xhtml#sigil_toc_id_25"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>8 Cinsiyet ve Sentaks</text>
+        </navLabel>
+        <content src="Text/08.xhtml"/>
+        <navPoint id="navPoint-41" playOrder="41">
+          <navLabel>
+            <text>Cins ve Düşünce</text>
+          </navLabel>
+          <content src="Text/08.xhtml#sigil_toc_id_26"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>9 Rus Mavileri</text>
+        </navLabel>
+        <content src="Text/09.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>SONSÖZ Bilgisizliğimizi Bağışlayın</text>
+      </navLabel>
+      <content src="Text/sonsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>EK Renk Görenin Gözündedir</text>
+      </navLabel>
+      <content src="Text/ek.xhtml"/>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Farklı Dalga Boylarına Duyarlılık</text>
+        </navLabel>
+        <content src="Text/ek.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Renk Körlüğü</text>
+        </navLabel>
+        <content src="Text/ek.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Renkli Görüşün Evrimi</text>
+        </navLabel>
+        <content src="Text/ek.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Beyindeki Fotoşop</text>
+        </navLabel>
+        <content src="Text/ek.xhtml#sigil_toc_id_31"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/notlar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Kaynakça</text>
+      </navLabel>
+      <content src="Text/kaynaklar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Teşekkür</text>
+      </navLabel>
+      <content src="Text/tesekkur.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Resimler</text>
+      </navLabel>
+      <content src="Text/r1.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

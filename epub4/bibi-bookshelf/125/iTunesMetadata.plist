@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>J.K. Rowling</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>34855F767AA382A5D7E52B7BA426F855</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Images/img1.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>F01A5A9F58887295EEBCCE3705045835</string>
+		<key>publisher-unique-id</key>
+		<string>urn:uuid:2cb462bf-658d-4c1d-93ce-5862088b3eab</string>
+		<key>unique-id</key>
+		<integer>6774053991960593839</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Harry Potter 7 - Ölüm Yadigarları</string>
+	<key>playlistName</key>
+	<string>Harry Potter 7 - Ölüm Yadigarları</string>
+</dict>
+</plist>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="d9522b03-8c9d-4a26-b679-8bd668505fa1" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>MUTLULUK</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="11e19596-4f0d-4095-9293-dc316c47a660" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/mutluluk_split_003.html"/>
+    </navPoint>
+    <navPoint id="bf0ba929-65a3-4916-b125-922c5bd67a9b" playOrder="2">
+      <navLabel>
+        <text>MUTLULUK</text>
+      </navLabel>
+      <content src="Text/mutluluk_split_004.html"/>
+    </navPoint>
+    <navPoint id="567ba738-01f5-4472-b095-4fa6c38dc4b7" playOrder="3">
+      <navLabel>
+        <text>SEVGİLİNİN ÖLÜMÜ…</text>
+      </navLabel>
+      <content src="Text/mutluluk_split_005.html"/>
+    </navPoint>
+    <navPoint id="f9f2ad4c-3224-4c18-9677-0fd32ab13d0c" playOrder="4">
+      <navLabel>
+        <text>MEKTUPLARIMIZ</text>
+      </navLabel>
+      <content src="Text/mutluluk_split_006.html"/>
+    </navPoint>
+    <navPoint id="9f8e7150-bb51-40d8-97cc-929759a714eb" playOrder="5">
+      <navLabel>
+        <text>AY IŞIĞI [4]</text>
+      </navLabel>
+      <content src="Text/mutluluk_split_007.html"/>
+    </navPoint>
+    <navPoint id="a21a9650-33c0-4b2b-8731-a9544988d6a0" playOrder="6">
+      <navLabel>
+        <text>KÜTÜK</text>
+      </navLabel>
+      <content src="Text/mutluluk_split_008.html"/>
+    </navPoint>
+    <navPoint id="9fdbca14-028f-43d2-8f10-423e00441137" playOrder="7">
+      <navLabel>
+        <text>İKİ ARKADAŞ</text>
+      </navLabel>
+      <content src="Text/mutluluk_split_009.html"/>
+    </navPoint>
+    <navPoint id="687ef8c8-302c-4236-8ea1-7514833cadb8" playOrder="8">
+      <navLabel>
+        <text>KURT</text>
+      </navLabel>
+      <content src="Text/mutluluk_split_010.html"/>
+    </navPoint>
+    <navPoint id="70aced7a-52bf-48f8-ad30-74753839468d" playOrder="9">
+      <navLabel>
+        <text>BAYAN KOKOT [7]</text>
+      </navLabel>
+      <content src="Text/mutluluk_split_011.html"/>
+    </navPoint>
+    <navPoint id="31a4869b-ab40-4240-8a42-7e29c9477d6c" playOrder="10">
+      <navLabel>
+        <text>AŞK</text>
+      </navLabel>
+      <content src="Text/mutluluk_split_012.html"/>
+    </navPoint>
+    <navPoint id="5d7bf2cf-d2f0-4755-b01b-139989f8c409" playOrder="11">
+      <navLabel>
+        <text>BİR GECE</text>
+      </navLabel>
+      <content src="Text/mutluluk_split_013.html"/>
+    </navPoint>
+    <navPoint id="072cd7e0-1626-4de1-b0fb-056b8519c5dc" playOrder="12">
+      <navLabel>
+        <text>ÇOCUK</text>
+      </navLabel>
+      <content src="Text/mutluluk_split_014.html"/>
+    </navPoint>
+    <navPoint id="179cb56c-e1c3-4594-a543-1568f67c19d9" playOrder="13">
+      <navLabel>
+        <text>MÜCEVHERLER</text>
+      </navLabel>
+      <content src="Text/mutluluk_split_015.html"/>
+    </navPoint>
+    <navPoint id="6d5168cb-7a2a-453f-8172-c0427e13c002" playOrder="14">
+      <navLabel>
+        <text>BAYAN BAPTISTE</text>
+      </navLabel>
+      <content src="Text/mutluluk_split_016.html"/>
+    </navPoint>
+    <navPoint id="b17ca049-4a1a-4be3-b359-6edfdeae96ce" playOrder="15">
+      <navLabel>
+        <text>MEZAR</text>
+      </navLabel>
+      <content src="Text/mutluluk_split_017.html"/>
+    </navPoint>
+    <navPoint id="c5fc4838-0a31-4ce6-be9b-8c39aabb8680" playOrder="16">
+      <navLabel>
+        <text>KRALLAR</text>
+      </navLabel>
+      <content src="Text/mutluluk_split_018.html"/>
+    </navPoint>
+    <navPoint id="c6a6948a-a461-4710-bdfb-18783ebbb1a4" playOrder="17">
+      <navLabel>
+        <text>BAYAN HARRIET</text>
+      </navLabel>
+      <content src="Text/mutluluk_split_019.html"/>
+      <navPoint id="6ee353c9-3747-4435-9a56-8b367369b63c" playOrder="18">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/mutluluk_split_020.html"/>
+      </navPoint>
+      <navPoint id="39151762-cfe2-4cf1-8d19-e1bab11b9d8b" playOrder="19">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/mutluluk_split_021.html"/>
+      </navPoint>
+      <navPoint id="37cadec4-bf3e-483f-ac4c-0fbe5748a8cb" playOrder="20">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/mutluluk_split_022.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="e2624a9b-3543-4a31-b3d5-7ef489bc3ba0" playOrder="21">
+      <navLabel>
+        <text>SORUN YARATAN GÜZELLİK</text>
+      </navLabel>
+      <content src="Text/mutluluk_split_023.html"/>
+      <navPoint id="0e9726e7-27cc-4676-b9e1-e06419fbf93b" playOrder="22">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/mutluluk_split_024.html"/>
+      </navPoint>
+      <navPoint id="f641aa27-21b4-42c7-82fd-203ccd751efa" playOrder="23">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/mutluluk_split_025.html"/>
+      </navPoint>
+      <navPoint id="a5369bba-db73-4b3f-9dd3-6542ad273c9f" playOrder="24">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/mutluluk_split_026.html"/>
+      </navPoint>
+      <navPoint id="7a1cd1f5-2368-497d-b763-cf95e9141671" playOrder="25">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/mutluluk_split_027.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

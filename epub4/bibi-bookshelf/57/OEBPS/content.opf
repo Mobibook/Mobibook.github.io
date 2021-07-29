@@ -1,0 +1,82 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Maupassant, Guy de">Guy de Maupassant</dc:creator>
+<dc:identifier id="uuid">{33527091-5F2C-4768-8829-C13978D34737}</dc:identifier>
+    <dc:date>2014-04-30T21:00:00+00:00</dc:date>
+    <meta name="cover" content="GDM_-_AI.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Ay Işığı</dc:title>
+<meta name="calibre:title_sort" content="Ay Işığı"/>
+<dc:publisher>Can Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Fransız Edebiyatı</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:description>&lt;p&gt;Ay Işığı, öykü alanında dünya edebiyatına damgasını vurmuş olan Fransız yazar Guy de Maupassant'nın on dört öyküsünden oluşan bir derleme. 
+Edebiyat yaşamına Flaubert'in çırağı olarak başlayan Maupassant, benzerine az rastlanır gözlem gücü, küçük ayrıntıları değerlendirme ustalığı ve doğrudan söylenenin gerisindeki ince alayla kaleme aldığı eserleriyle öykü türünü adeta yeniden tanımlamıştır. Olaylara, nesnelere hep dışarıdan bakan, okuru çok değişik çevrelerde, çok değişik insanlar arasında dolaştıran yazarın öykülerinin büyük çoğunluğu okuru hep derin bir gerçeklik duygusu içinde gülümsetir ya da ürpertir. Yazar, sıradan insanların yaşamındaki küçük dramlardan ve onların zihinlerini meşgul eden gündelik sorunlardan ironi dolu çarpıcı hikâyeler çıkarır.
+Özlü, güçlü, keskin, ekonomik anlatımla güçlendirdiği gerçekçiliği ve kurgudaki ustalığıyla öykü türüne yeni bir anlayış getiren yazarın bu derlemesini Türkçe'nin usta kalemlerinden Tahsin Yücel'in çevirisiyle okurlara sunuyoruz.
+&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Guy de Maupassant&quot;: &quot;&quot;}"/>
+<dc:language>fr</dc:language>
+<dc:identifier opf:scheme="calibre">c2463387-7c08-42fa-b345-97a4eb8f8c01</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750708305</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.xhtml" id="Section0018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.xhtml" id="Section0017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/GDM - AI.jpg" id="GDM_-_AI.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style(p).css" id="Style_p_.css" media-type="text/css"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/GDM2.jpg" id="GDM2.jpg" media-type="image/jpeg"/>
+    <item href="Images/GDM3.jpg" id="GDM3.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="main-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="main-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="main-1.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0018.xhtml"/>
+    <itemref idref="main-2.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="Section0017.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

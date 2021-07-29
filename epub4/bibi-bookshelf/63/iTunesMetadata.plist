@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Guy De Maupassant</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>4417355D1E2B35A9695F6EEEDD7B10C9</string>
+		<key>cover-image-path</key>
+		<string>cover1.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>E3B1F1D7B9256EEDC5F77613A3F32ED3</string>
+		<key>publisher-unique-id</key>
+		<string>ef4b65da-abc8-422f-8887-40e32fa05d4a</string>
+		<key>unique-id</key>
+		<integer>6382132138756981412</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Seçme Öyküler</string>
+	<key>playlistName</key>
+	<string>Seçme Öyküler</string>
+	<key>releaseDate</key>
+	<string>2010-10-19T21:59:08+00:00</string>
+	<key>sort-artist</key>
+	<string>Maupassant, Guy De</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

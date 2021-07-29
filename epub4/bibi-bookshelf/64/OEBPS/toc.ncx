@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bir Hayat</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="ab747fbb-0ab1-4845-a2fa-f0b8e1bfbf23" playOrder="1">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="Text/metin_split_002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="3f1b3260-3821-4525-bb91-b467dcd49b41" playOrder="2">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="Text/metin_split_003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="3561624c-d4c1-4aea-8465-1d367a65fb29" playOrder="3">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="Text/metin_split_004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="a367e10a-b223-4f7c-be6b-23d03cc17e50" playOrder="4">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="Text/metin_split_005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="6d61a9fd-de5e-4191-a5a2-cfcdf9e2bcdd" playOrder="5">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="Text/metin_split_006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="a8e1903b-1f4a-4960-ae70-0e37937d8eab" playOrder="6">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="Text/metin_split_007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="f1b2bb22-0a97-430f-a83d-4b8cf59da47c" playOrder="7">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="Text/metin_split_008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="5023fc75-155a-4009-90d0-4181a0349ad1" playOrder="8">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="Text/metin_split_009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="da4b0e47-630e-42a3-9b16-2b49f5008541" playOrder="9">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="Text/metin_split_010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="14fd57fa-609c-44b1-a8bd-821b16872ec9" playOrder="10">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="Text/metin_split_011.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="92d24296-4a64-4741-8605-e10df5a79e62" playOrder="11">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="Text/metin_split_012.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="db8e4b1c-58e6-4ae7-b3a5-86d64c285ad8" playOrder="12">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="Text/metin_split_013.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="9251106a-90a8-4d42-ad22-547cd86ce0ca" playOrder="13">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="Text/metin_split_014.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="eedc408c-0c1e-4d20-b89c-074ae256022b" playOrder="14">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="Text/metin_split_015.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
