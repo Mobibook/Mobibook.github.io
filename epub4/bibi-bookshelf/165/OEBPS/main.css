@@ -1,0 +1,280 @@
+@font-face{
+	font-family: "Berling";
+	font-weight: normal;
+	font-style: normal;
+	src:url("font/BerlingLTStd-Roman.ttf") format("truetype");
+}
+
+@font-face{
+	font-family: "Berling";
+	font-weight: normal;
+	font-style: italic;
+	src:url("font/BerlingLTStd-Italic.ttf") format("truetype");
+}
+
+@font-face{
+	font-family: "Gill Sans";
+	font-weight: normal;
+	font-style: normal;
+	src:url("font/GillSansStd.ttf") format("truetype");
+}
+
+@font-face{
+	font-family: "Gill Sans";
+	font-weight: normal;
+	font-style: italic;
+	src:url("font/GillSansStd-Italic.ttf") format("truetype");
+}
+
+@font-face{
+	font-family: "Gill Sans Light";
+	font-weight: normal;
+	font-style: normal;
+	src:url("font/GillSansStd-Light.ttf") format("truetype");
+}
+
+@font-face{
+	font-family: "Gill Sans Light Italic";
+	font-weight: normal;
+	font-style: italic;
+	src:url("font/GillSansStd-LightItalic.ttf") format("truetype");
+}
+
+@font-face{
+	font-family: "Goudy Cat";
+	font-weight: bold;
+	font-style: normal;
+	src:url("font/GoudyCatTReg.ttf") format("truetype");
+}
+
+
+/*cover*/
+
+.cover-container{
+	margin: 0 auto;
+	max-width: 500px;
+	page-break-inside: avoid;
+}
+
+.cover-container img {
+	width: 100%;
+}
+
+/*copyright-page*/
+
+
+.press {
+	margin-bottom: 1em;
+}
+
+.copyright-page .copy{
+	margin-top: 1em;
+}
+.copyright-page .publisher{
+	margin-top: 2em;
+}
+
+.copyright-page span{
+	font-family: "Gill Sans";
+	font-size:0.66em;
+	display: block;
+}
+
+.copyright-page .pull {
+	padding-left: .51em;
+}
+
+.copyright-page a{
+	color:#777;
+	text-decoration: none;
+	
+}
+
+/*titlepage*/
+
+.title{
+	text-align: center;
+}
+
+.aut{
+	margin-top: 1.5em;
+	font:normal bold 1.75em/1.1em "Goudy Cat";
+	text-align: center;
+}
+
+.aut .bfl {
+	font-size: 1.14em;
+}
+
+.work{
+	font:normal bold 2.5em/1.1em "Goudy Cat";
+	margin-top: .5em;
+	
+}
+
+.seri{
+	font-family: "Gill Sans";
+	font-size: .91em;
+	margin-top: 5em;
+}
+
+.ceviri{
+	margin-top: 3em;
+	font: normal normal .83em/.6em "Gill Sans";
+}
+
+.ceviren{
+	margin-top: .8em;
+	font: normal normal 1em/1.5em "Gill Sans";
+}
+
+.logo{
+	margin: 3em auto 0 auto;
+}
+
+/*works*/
+
+.works p{
+	margin-top: 5em;
+	font-family: "Gill Sans";
+	font-size: .75em;
+	text-indent: 0;
+}
+
+.works ul {
+	margin-left: 0;
+	padding-left: 0;
+	list-style: none;
+}
+
+.works ul li {
+	font-family: "Gill Sans";
+	font-size: .75em;
+	line-height: 1.3em;
+	padding-bottom: .3em;
+}
+
+/*biography*/
+
+.biography p{
+	font-family: "Gill Sans";
+	font-size: .75em;
+	line-height: 1.4em;
+	text-indent: 0;
+}
+
+.biography .cevirmenbio{
+	margin-top: 2.2em;
+}
+
+.biography .yazarbio{
+	margin-top: 3em;
+}
+
+/*İNTRODUCTİON*/
+
+.introduction .container {
+	margin-top: 5em;
+}
+
+.introduction h1{
+	font: normal normal 1.16em/1.14em "Berling";
+	text-align: center;
+	margin-bottom: 2em;
+}
+
+.introduction .p{
+	font: normal normal .8em/1.23em;
+}
+
+.introduction .yazan{
+	text-align: right;
+	margin-top: 1em;
+}
+
+/*
+CHAPTER
+*/
+
+.chapter .container{
+	margin-top: 5em;
+}
+
+p{
+	font:normal normal .875em/1.3em "Berling";
+	margin: 0;
+	text-indent: 2em;
+}
+
+.bosluk{
+	margin-top: 1em;
+}
+
+blockquote{
+	margin:1em 0 1em 0;
+}
+
+blockquote p{
+	font-family: "Gill Sans Light";
+}
+
+.yazan{
+	font-family: "Gill Sans Light";
+	text-align: right;
+	margin: 1em 0 1em 0;
+}
+
+.siir{
+	margin: 1.3em 0 1.3em 0;
+}
+
+.siir span{
+display: block;
+text-indent: 2em;
+font:normal normal .875em/1.3em "Berling";
+}
+
+.noindent{
+	text-indent: 0;
+}
+
+.not{
+	margin: 1.5em 0 1.5em 0;
+}
+
+.not p{
+	font-family: "Gill Sans Light";
+	text-indent: 0;
+}
+
+.tarih{
+	margin-top: 1em;
+	text-align: right;
+}
+
+/*common*/
+.si-noteref{
+	text-decoration: none;
+	color: #7A7A7A;
+	font-size: .75em;
+	vertical-align: super;
+	padding-left: .1em;
+	line-height: 1em;
+}
+.si-footnotes{
+	margin:4em 0 1em;
+}
+.si-backref{
+	font-weight: bold;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: #000;
+	font-size: 1.1em;
+}
+.si-footnote{
+	font-family: "Gill Sans";
+	font-weight: normal;
+	font-style: normal;
+	font-size: .75em;
+	margin-bottom: .25em;
+}

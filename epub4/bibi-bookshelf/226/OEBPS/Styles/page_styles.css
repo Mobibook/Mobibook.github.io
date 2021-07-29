@@ -1,0 +1,23 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+  }
+@font-face {
+  src: url(../Fonts/Times-New-Roman.ttf);
+  panose-1: 2 2 6 3 5 4 5 2 3 4;
+  font-family: "Times New Roman";
+  }
+@font-face {
+  src: url(../Fonts/Times-New-Roman-Italic.ttf);
+  panose-1: 2 2 5 3 5 4 5 9 3 4;
+  font-family: "Times New Roman";
+  font-style: italic;
+  }
+@font-face {
+  src: url(../Fonts/Times-New-Roman-Bold.ttf);
+  panose-1: 2 2 8 3 7 5 5 2 3 4;
+  font-family: "Times New Roman";
+  font-weight: bold;
+  }
+
+

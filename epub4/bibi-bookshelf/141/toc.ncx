@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr-TR">
+<head><meta name="uid" content="{547EC788-ABBB-4F59-8CA4-378FD6134C1C}"/></head>
+<docTitle><text>Hasan Yigit - Batık Gemi e</text></docTitle>
+<navMap>
+<navPoint playOrder="1" id="{77AF71E3-08EE-4676-A384-9146576C5F48}"><navLabel><text>BATIK GEMİ</text></navLabel><content src="main.xhtml#caption1"/></navPoint>
+<navPoint playOrder="2" id="{D79F1A21-2B2C-496E-9B92-493D773FCBF4}"><navLabel><text>İÇİNDEKİLER</text></navLabel><content src="main-1.xhtml"/></navPoint>
+<navPoint playOrder="3" id="{87225F29-E69E-45CD-AC13-C82D541510ED}"><navLabel><text>AH Şü MATEMATİK!</text></navLabel><content src="main-2.xhtml"/></navPoint>
+<navPoint playOrder="4" id="{BEFCC157-55D4-4BBC-A40E-E9D2CC23A21A}"><navLabel><text>TATİLE GİDİYORUZ</text></navLabel><content src="main-3.xhtml"/></navPoint>
+<navPoint playOrder="5" id="{1FE449BA-4A9A-4547-98C4-D884AD7B2012}"><navLabel><text>KAMPIN KEŞFİ</text></navLabel><content src="main-4.xhtml"/></navPoint>
+<navPoint playOrder="6" id="{4D0BF1BA-BA0B-4656-B76D-EF627FE2DA56}"><navLabel><text>YANGIN</text></navLabel><content src="main-5.xhtml"/></navPoint>
+<navPoint playOrder="7" id="{5A89C7B0-1953-42B5-9CB7-BED3907A0098}"><navLabel><text>BATIK GEMİ</text></navLabel><content src="main-6.xhtml"/></navPoint>
+</navMap></ncx>

@@ -1,0 +1,124 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Claus, Hugo">Hugo Claus</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">4265b571-f7a5-4b90-ba51-2592f75d1893</dc:identifier>
+    <dc:publisher>Telos Yayıncılık</dc:publisher>
+    <dc:description>&lt;div&gt;Romanın sıradışı kurgusuna karşın, öykü, yarı sömürge Üçüncü Dünya ülkelerine özgü bir öykü: "Kurtarıcı"nın zorba diktatöre, "Kurtarıcı kadrosu"nun ise işkenceciye dönüşmesi. Belçika'dan geldiği anlaşılan bir televizyon ekibi, "İsa'nın Çilesi" adlı bir film çekmek üzere, "bağımsızlığına yeni kavuşmuş" yitik bir adadadır. Film ekibi, kendini hiçbir ölçünün geçerli olmadığı bir dünyada bulur ve bu dünyada, başta inaç olmak üzere, her şeyi, korku ve çılgınlık silip süpürmüştür. Yazarın şiddete dönüşmüş dili ve metaforları, öyküye acımasız ve düşsel bir nitelik kazandırmaktadır.&lt;br&gt;&lt;br&gt;Cinnet ve ölümün insanla hesaplaştığı bir ortamda, Hugo Claus, geleneksel ortaçağ dinsel oyunları ile en çağdaş dışavurumculuğu, "Utanç"ın potasında bağdaştırmaktadır. "Utanç", yazarın dört tutkusunun (resim, dramaturji, şiir ve roman) bireşimini yansıtan sıradışı ve yepyeni bir roman.&lt;br&gt;(Arka Kapak)&lt;br&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2010-06-12T21:00:00+00:00</dc:date>
+    <meta content="Utanç" name="calibre:title_sort"/>
+    <meta content="2015-05-31T10:26:59.446000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Hugo Claus&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Utanç</dc:title>
+<meta name="calibre:rating" content="8.0"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">1e418037-91d5-41a7-ac2d-4b2090835c6b</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755450599</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0044.htm" id="Section0044.htm" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/U.htm" id="U.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.htm" id="Section0001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.htm" id="Section0002.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.htm" id="Section0003.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.htm" id="Section0004.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.htm" id="Section0005.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.htm" id="Section0006.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.htm" id="Section0007.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.htm" id="Section0008.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.htm" id="Section0009.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.htm" id="Section0010.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.htm" id="Section0011.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.htm" id="Section0012.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.htm" id="Section0013.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.htm" id="Section0014.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.htm" id="Section0015.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.htm" id="Section0016.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.htm" id="Section0017.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.htm" id="Section0018.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0019.htm" id="Section0019.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0020.htm" id="Section0020.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0021.htm" id="Section0021.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0022.htm" id="Section0022.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0023.htm" id="Section0023.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0024.htm" id="Section0024.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0025.htm" id="Section0025.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0026.htm" id="Section0026.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0027.htm" id="Section0027.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0028.htm" id="Section0028.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0029.htm" id="Section0029.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0030.htm" id="Section0030.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0031.htm" id="Section0031.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0032.htm" id="Section0032.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0033.htm" id="Section0033.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0034.htm" id="Section0034.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0035.htm" id="Section0035.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0036.htm" id="Section0036.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0037.htm" id="Section0037.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0038.htm" id="Section0038.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0039.htm" id="Section0039.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0040.htm" id="Section0040.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0041.htm" id="Section0041.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0042.htm" id="Section0042.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0043.htm" id="Section0043.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="U.htm"/>
+    <itemref idref="Section0001.htm"/>
+    <itemref idref="Section0002.htm"/>
+    <itemref idref="Section0003.htm"/>
+    <itemref idref="Section0004.htm"/>
+    <itemref idref="Section0005.htm"/>
+    <itemref idref="Section0006.htm"/>
+    <itemref idref="Section0007.htm"/>
+    <itemref idref="Section0008.htm"/>
+    <itemref idref="Section0009.htm"/>
+    <itemref idref="Section0010.htm"/>
+    <itemref idref="Section0011.htm"/>
+    <itemref idref="Section0012.htm"/>
+    <itemref idref="Section0013.htm"/>
+    <itemref idref="Section0014.htm"/>
+    <itemref idref="Section0015.htm"/>
+    <itemref idref="Section0016.htm"/>
+    <itemref idref="Section0017.htm"/>
+    <itemref idref="Section0018.htm"/>
+    <itemref idref="Section0019.htm"/>
+    <itemref idref="Section0020.htm"/>
+    <itemref idref="Section0021.htm"/>
+    <itemref idref="Section0022.htm"/>
+    <itemref idref="Section0023.htm"/>
+    <itemref idref="Section0024.htm"/>
+    <itemref idref="Section0025.htm"/>
+    <itemref idref="Section0026.htm"/>
+    <itemref idref="Section0027.htm"/>
+    <itemref idref="Section0028.htm"/>
+    <itemref idref="Section0029.htm"/>
+    <itemref idref="Section0030.htm"/>
+    <itemref idref="Section0031.htm"/>
+    <itemref idref="Section0032.htm"/>
+    <itemref idref="Section0033.htm"/>
+    <itemref idref="Section0034.htm"/>
+    <itemref idref="Section0035.htm"/>
+    <itemref idref="Section0036.htm"/>
+    <itemref idref="Section0037.htm"/>
+    <itemref idref="Section0038.htm"/>
+    <itemref idref="Section0039.htm"/>
+    <itemref idref="Section0040.htm"/>
+    <itemref idref="Section0041.htm"/>
+    <itemref idref="Section0042.htm"/>
+    <itemref idref="Section0043.htm"/>
+    <itemref idref="Section0044.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

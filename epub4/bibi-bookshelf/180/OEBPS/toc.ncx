@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="4265b571-f7a5-4b90-ba51-2592f75d1893" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Utanç</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>DOSTLAR VE MUHBİRLER</text>
+      </navLabel>
+      <content src="Text/Section0001.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>BİR YERLİ KADIN</text>
+      </navLabel>
+      <content src="Text/Section0002.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>KİRPİKLER YENİDEN ÇIKAR MI?</text>
+      </navLabel>
+      <content src="Text/Section0003.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>ENSTİTÜ’DE</text>
+      </navLabel>
+      <content src="Text/Section0004.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>WABE’NİN İKİLİSİ</text>
+      </navLabel>
+      <content src="Text/Section0005.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>YALANCILAR</text>
+      </navLabel>
+      <content src="Text/Section0006.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>LABRADOR</text>
+      </navLabel>
+      <content src="Text/Section0007.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>BAHÇEDEKİ CHARLOTTE</text>
+      </navLabel>
+      <content src="Text/Section0008.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>İNTİKAM ŞENLİĞİ</text>
+      </navLabel>
+      <content src="Text/Section0009.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>AVÉ REGINA*</text>
+      </navLabel>
+      <content src="Text/Section0010.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>BÎR EKSİK VAR. KÎM?</text>
+      </navLabel>
+      <content src="Text/Section0011.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>SİZİ ARZULAYIŞIMIN ŞARABI</text>
+      </navLabel>
+      <content src="Text/Section0012.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>ÇOCUK ticareti</text>
+      </navLabel>
+      <content src="Text/Section0013.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>YERYÜZÜNÜN KURNAZLIKLARI</text>
+      </navLabel>
+      <content src="Text/Section0014.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>SEN YOK MUSUN?</text>
+      </navLabel>
+      <content src="Text/Section0015.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>KOMA</text>
+      </navLabel>
+      <content src="Text/Section0016.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>YÜZEN ADAM</text>
+      </navLabel>
+      <content src="Text/Section0017.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>ALEV</text>
+      </navLabel>
+      <content src="Text/Section0018.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>ALEV PÜSKÜRTÜCÜ</text>
+      </navLabel>
+      <content src="Text/Section0019.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>UTANÇ</text>
+      </navLabel>
+      <content src="Text/Section0020.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>SEVİŞENİ GÖREN OLUR</text>
+      </navLabel>
+      <content src="Text/Section0021.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>SONIA</text>
+      </navLabel>
+      <content src="Text/Section0022.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>PÜFF!</text>
+      </navLabel>
+      <content src="Text/Section0023.htm#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>SUÇLU REFLEKSLER</text>
+      </navLabel>
+      <content src="Text/Section0024.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>DÉSIRÉE</text>
+      </navLabel>
+      <content src="Text/Section0025.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>SLAT NOW, PAY LATER</text>
+      </navLabel>
+      <content src="Text/Section0026.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>PAPAZ ADAYI VE GENÇ ADAM</text>
+      </navLabel>
+      <content src="Text/Section0027.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>KONSOLOS VE GÜNAH</text>
+      </navLabel>
+      <content src="Text/Section0028.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>ALTIN VE FİLDİŞİ</text>
+      </navLabel>
+      <content src="Text/Section0029.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>ALT TARAFI YOKLUK, HİÇLİKTlR</text>
+      </navLabel>
+      <content src="Text/Section0030.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>FİRAR</text>
+      </navLabel>
+      <content src="Text/Section0031.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>GÜNEŞ VE GÖLGE</text>
+      </navLabel>
+      <content src="Text/Section0032.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>İZ ÜSTÜNDE Mİ?</text>
+      </navLabel>
+      <content src="Text/Section0033.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>KAMP HAYATI</text>
+      </navLabel>
+      <content src="Text/Section0034.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>WENN MEIN SCHATZ HOCHZEIT MACHT</text>
+      </navLabel>
+      <content src="Text/Section0035.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>SOLUCANIN ARZUSU</text>
+      </navLabel>
+      <content src="Text/Section0036.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>DÖNÜŞ</text>
+      </navLabel>
+      <content src="Text/Section0037.htm#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>WABE I</text>
+      </navLabel>
+      <content src="Text/Section0038.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>WABE II</text>
+      </navLabel>
+      <content src="Text/Section0039.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>WABE III</text>
+      </navLabel>
+      <content src="Text/Section0040.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>WABE IV</text>
+      </navLabel>
+      <content src="Text/Section0041.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>YANARDAĞIN ALTINDA</text>
+      </navLabel>
+      <content src="Text/Section0042.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>BİR TURİST GİBİ</text>
+      </navLabel>
+      <content src="Text/Section0043.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>ÖZEL TEMSİL</text>
+      </navLabel>
+      <content src="Text/Section0044.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

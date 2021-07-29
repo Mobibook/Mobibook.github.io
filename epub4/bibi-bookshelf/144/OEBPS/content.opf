@@ -1,0 +1,91 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Lœvenbruck, Henri">Henri Lœvenbruck</dc:creator>
+<dc:identifier id="uuid">{7F52D9AA-5FD7-4CB5-B2BE-CC2C5D7BA727}</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="Kurtlarin_Savasi.jpg"/>
+    <dc:date opf:event="modification">2016-03-27</dc:date>
+    <dc:date>2006-11-30T22:00:00+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:type>Roman, Fantastik, Çocuk</dc:type>
+    <dc:title>Kurtların Savaşı</dc:title>
+<meta name="calibre:title_sort" content="Kurtların Savaşı"/>
+<meta name="calibre:series" content="Moira"/>
+<meta name="calibre:series_index" content="2.0"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Logolu</dc:subject>
+<dc:subject>Fantastik</dc:subject>
+<dc:description>&lt;p&gt;Kurtlar yakında birleşecek. Beyaz kurt İmala'nın arkasında sürü büyüyor ve yakında gizlediği yerden çıkıp savaşa gidecek. Birleşen klanlar onların dilini konuşanı, yani Toprağın Kızı'nı zafere ulaştırmak zorundalar. Bugün artık Alea küçük bir kız değil. Kendisine miras kalan o tuhaf gücü sonunda kabul edip yazgısıyla karşılaşmaya karar veriyor. Kurtlar tarafından korunarak, yanındani yeni yol arkadaşları, geçmişini arıyor. Ama kendisini arayanlar da hiç uzakta değiller. Bağnaz dinciler, amaçları uğrunda hiçbir şeyden çekinmeyen siyasetçiler, deli büyücüler, hepsi Toprağın Kızı'nı bulmak için elinden geleni yapıyor. Savaş işte böyle başlayacak.
+
+Kurtların Savaşı kaçış ve macerayı harmanlayan Moira üçlemesinin ikinci kitabı.
+Beyaz Diş'le Yüzüklerin Efendisi arasındaki bu kitap iki yalnız ruhun, ailesi tarafından terk edilmiş bir genç kızın ve sürüsünden dışlanmış bir dişi kurdun öyküsünü anlatıyor.
+Daha şimdiden Fransız fantastik edebiyatının çoksatarlarından biri olarak değerlendirilen birinci ciltten sonra, Moira evreni daha da zenginleşiyor ve sayfalar boyunca bizi büyülemeye devam ediyor.
+&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Henri Lœvenbruck&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">0948039d-afbb-445c-9424-857558e14471</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750811623</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/ondeyis.xhtml" id="ondeyis.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum1.xhtml" id="bolum1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2.xhtml" id="bolum2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum3.xhtml" id="bolum3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum4.xhtml" id="bolum4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum5.xhtml" id="bolum5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum6.xhtml" id="bolum6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum8.xhtml" id="bolum8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Son soz.xhtml" id="Son_soz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/karakterler.xhtml" id="karakterler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/tesekkur.xhtml" id="tesekkur.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="id13" media-type="text/css"/>
+    <item href="toc.ncx" id="id14" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ara.xhtml" id="ara.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.xhtml" id="ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/StyleA.css" id="StyleA.css" media-type="text/css"/>
+    <item href="Text/bolum7.xhtml" id="bolum7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum9.xhtml" id="bolum9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnotlar.xhtml" id="dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/Kurtlarin Savasi.jpg" id="Kurtlarin_Savasi.jpg" media-type="image/jpeg"/>
+    <item href="Images/yapikredi.png" id="yapikredi.png" media-type="image/png"/>
+    <item href="Text/harita.xhtml" id="harita.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/harita.JPG" id="harita.JPG" media-type="image/jpeg"/>
+    <item href="Styles/StyleM.css" id="StyleM.css" media-type="text/css"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+    <item href="Text/logo.xhtml" id="logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id14">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="logo.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="ara.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="harita.xhtml"/>
+    <itemref idref="ondeyis.xhtml"/>
+    <itemref idref="bolum1.xhtml"/>
+    <itemref idref="bolum2.xhtml"/>
+    <itemref idref="bolum3.xhtml"/>
+    <itemref idref="bolum4.xhtml"/>
+    <itemref idref="bolum5.xhtml"/>
+    <itemref idref="bolum6.xhtml"/>
+    <itemref idref="bolum7.xhtml"/>
+    <itemref idref="bolum8.xhtml"/>
+    <itemref idref="bolum9.xhtml"/>
+    <itemref idref="Son_soz.xhtml"/>
+    <itemref idref="karakterler.xhtml"/>
+    <itemref idref="tesekkur.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

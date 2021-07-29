@@ -1,0 +1,146 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.calibre {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre2 {
+    display: block
+    }
+.calibre3 {
+    height: 30pt;
+    width: 93pt
+    }
+.calibre4 {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline
+    }
+.calibre5 {
+    color: inherit;
+    cursor: inherit;
+    text-decoration: inherit
+    }
+.calibre6 {
+    font-size: 1em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre7 {
+    font-size: 1em;
+    line-height: normal;
+    vertical-align: sub
+    }
+.calibre8 {
+    height: 823pt;
+    width: 579pt
+    }
+.font {
+    font-family: Times;
+    font-size: 2.22222em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: normal
+    }
+.font1 {
+    font-family: Arial;
+    font-size: 1.33333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: normal
+    }
+.font10 {
+    font-family: Arial;
+    font-size: 1.33333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: normal;
+    text-decoration: underline
+    }
+.font11 {
+    font-family: Arial;
+    font-size: 1.5em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: normal
+    }
+.font2 {
+    font-family: Franklin;
+    font-size: 2.66667em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: normal
+    }
+.font3 {
+    font-family: Arial;
+    font-size: 1.33333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: normal
+    }
+.font4 {
+    font-family: Sylfaen;
+    font-size: 1.5em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: normal
+    }
+.font5 {
+    font-family: Arial;
+    font-size: 1.33333em;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: bold;
+    line-height: normal
+    }
+.font6 {
+    font-family: Arial;
+    font-size: 1.33333em;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: normal
+    }
+.font7 {
+    font-family: Arial;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: normal
+    }
+.font8 {
+    font-family: Sylfaen;
+    font-size: 0.77778em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: normal
+    }
+.font9 {
+    font-family: Arial;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: normal
+    }

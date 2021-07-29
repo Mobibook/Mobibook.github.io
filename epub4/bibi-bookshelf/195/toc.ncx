@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="22b5a21a-8254-4687-9fff-953ba09b4522" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.10)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Hobit1</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="a3995cf0-5856-4eb8-8e15-ffcd84dc21cc" playOrder="1">
+      <navLabel>
+        <text>os@levi.com.tr</text>
+      </navLabel>
+      <content src="Hobit1_split_000.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="urn:uuid:524f1f6d-1dd8-49b9-ba3e-f0b11c21de40" name="dtb:uid"/>
+		<meta content="0" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>Ruh Adam</text>
+	</docTitle>
+	<docAuthor>
+		<text>Hüseyin Nihal Atsız</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>CoverImage</text>
+			</navLabel>
+			<content src="Text/CoverImage.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>ruh_adam</text>
+			</navLabel>
+			<content src="Text/ruh_adam.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>ruh_adam-1</text>
+			</navLabel>
+			<content src="Text/ruh_adam-1.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>ruh_adam-2</text>
+			</navLabel>
+			<content src="Text/ruh_adam-2.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>ruh_adam-3</text>
+			</navLabel>
+			<content src="Text/ruh_adam-3.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>ruh_adam-4</text>
+			</navLabel>
+			<content src="Text/ruh_adam-4.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>ruh_adam-5</text>
+			</navLabel>
+			<content src="Text/ruh_adam-5.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>ruh_adam-6</text>
+			</navLabel>
+			<content src="Text/ruh_adam-6.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>ruh_adam-7</text>
+			</navLabel>
+			<content src="Text/ruh_adam-7.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>ruh_adam-8</text>
+			</navLabel>
+			<content src="Text/ruh_adam-8.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint11" playOrder="11">
+			<navLabel>
+				<text>ruh_adam-9</text>
+			</navLabel>
+			<content src="Text/ruh_adam-9.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint12" playOrder="12">
+			<navLabel>
+				<text>ruh_adam-10</text>
+			</navLabel>
+			<content src="Text/ruh_adam-10.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint13" playOrder="13">
+			<navLabel>
+				<text>ruh_adam-11</text>
+			</navLabel>
+			<content src="Text/ruh_adam-11.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint14" playOrder="14">
+			<navLabel>
+				<text>ruh_adam-12</text>
+			</navLabel>
+			<content src="Text/ruh_adam-12.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint15" playOrder="15">
+			<navLabel>
+				<text>ruh_adam-13</text>
+			</navLabel>
+			<content src="Text/ruh_adam-13.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint16" playOrder="16">
+			<navLabel>
+				<text>ruh_adam-14</text>
+			</navLabel>
+			<content src="Text/ruh_adam-14.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint17" playOrder="17">
+			<navLabel>
+				<text>ruh_adam-15</text>
+			</navLabel>
+			<content src="Text/ruh_adam-15.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint18" playOrder="18">
+			<navLabel>
+				<text>ruh_adam-16</text>
+			</navLabel>
+			<content src="Text/ruh_adam-16.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint19" playOrder="19">
+			<navLabel>
+				<text>ruh_adam-17</text>
+			</navLabel>
+			<content src="Text/ruh_adam-17.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint20" playOrder="20">
+			<navLabel>
+				<text>ruh_adam-18</text>
+			</navLabel>
+			<content src="Text/ruh_adam-18.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint21" playOrder="21">
+			<navLabel>
+				<text>ruh_adam-19</text>
+			</navLabel>
+			<content src="Text/ruh_adam-19.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint22" playOrder="22">
+			<navLabel>
+				<text>ruh_adam-20</text>
+			</navLabel>
+			<content src="Text/ruh_adam-20.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint23" playOrder="23">
+			<navLabel>
+				<text>ruh_adam-21</text>
+			</navLabel>
+			<content src="Text/ruh_adam-21.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint24" playOrder="24">
+			<navLabel>
+				<text>ruh_adam-22</text>
+			</navLabel>
+			<content src="Text/ruh_adam-22.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint25" playOrder="25">
+			<navLabel>
+				<text>ruh_adam-23</text>
+			</navLabel>
+			<content src="Text/ruh_adam-23.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint26" playOrder="26">
+			<navLabel>
+				<text>ruh_adam-24</text>
+			</navLabel>
+			<content src="Text/ruh_adam-24.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint27" playOrder="27">
+			<navLabel>
+				<text>ruh_adam-25</text>
+			</navLabel>
+			<content src="Text/ruh_adam-25.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint28" playOrder="28">
+			<navLabel>
+				<text>ruh_adam-26</text>
+			</navLabel>
+			<content src="Text/ruh_adam-26.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint29" playOrder="29">
+			<navLabel>
+				<text>ruh_adam-27</text>
+			</navLabel>
+			<content src="Text/ruh_adam-27.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint30" playOrder="30">
+			<navLabel>
+				<text>ruh_adam-28</text>
+			</navLabel>
+			<content src="Text/ruh_adam-28.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint31" playOrder="31">
+			<navLabel>
+				<text>ruh_adam-29</text>
+			</navLabel>
+			<content src="Text/ruh_adam-29.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint32" playOrder="32">
+			<navLabel>
+				<text>ruh_adam-30</text>
+			</navLabel>
+			<content src="Text/ruh_adam-30.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint33" playOrder="33">
+			<navLabel>
+				<text>ruh_adam-31</text>
+			</navLabel>
+			<content src="Text/ruh_adam-31.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint34" playOrder="34">
+			<navLabel>
+				<text>ruh_adam-32</text>
+			</navLabel>
+			<content src="Text/ruh_adam-32.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint35" playOrder="35">
+			<navLabel>
+				<text>ruh_adam-33</text>
+			</navLabel>
+			<content src="Text/ruh_adam-33.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint36" playOrder="36">
+			<navLabel>
+				<text>ruh_adam-34</text>
+			</navLabel>
+			<content src="Text/ruh_adam-34.xhtml"/>
+		</navPoint>
+	</navMap>
+</ncx>

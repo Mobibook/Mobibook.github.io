@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="EPB-UUID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:identifier id="EPB-UUID" opf:scheme="uuid">xxxx-xxxxx-xxxxx-xxxxxxxxx</dc:identifier>
+    <dc:title>Cüce ile Bebek</dc:title>
+    <dc:creator opf:file-as="Böll, Heinrich" opf:role="aut">Heinrich Böll</dc:creator>
+    <dc:language>tr</dc:language>
+    <dc:publisher>Sabah</dc:publisher>
+    <meta name="cover" content="cover" />
+    <meta content="0.8.7" name="Sigil version" />
+    <dc:date opf:event="modification">2015-12-27</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Images/CoverDesign.jpg" id="cover" media-type="image/jpeg" />
+    <item href="Text/CoverPage.html" id="CoverPage_html" media-type="application/xhtml+xml" />
+    <item href="Styles/styles.css" id="styles_css" media-type="text/css" />
+    <item href="Text/section-0001.html" id="section-0001_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0002.html" id="section-0002_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0003.html" id="section-0003_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0004.html" id="section-0004_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0005.html" id="section-0005_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0006.html" id="section-0006_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0007.html" id="section-0007_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0008.html" id="section-0008_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0009.html" id="section-0009_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0010.html" id="section-0010_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0011.html" id="section-0011_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0012.html" id="section-0012_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0013.html" id="section-0013_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0014.html" id="section-0014_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0015.html" id="section-0015_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0016.html" id="section-0016_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0017.html" id="section-0017_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0018.html" id="section-0018_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0019.html" id="section-0019_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0020.html" id="section-0020_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0021.html" id="section-0021_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0022.html" id="section-0022_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0023.html" id="section-0023_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0024.html" id="section-0024_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0025.html" id="section-0025_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0026.html" id="section-0026_html" media-type="application/xhtml+xml" />
+    <item href="Images/Ekran_Resmi_2015-03-03_20.27.15.jpg" id="Ekran_Resmi_2015-03-03_20_27_15_jpg" media-type="image/jpeg" />
+    <item href="Images/d.jpg" id="d_jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverPage_html" />
+    <itemref idref="section-0001_html" />
+    <itemref idref="section-0002_html" />
+    <itemref idref="section-0003_html" />
+    <itemref idref="section-0004_html" />
+    <itemref idref="section-0005_html" />
+    <itemref idref="section-0006_html" />
+    <itemref idref="section-0007_html" />
+    <itemref idref="section-0008_html" />
+    <itemref idref="section-0009_html" />
+    <itemref idref="section-0010_html" />
+    <itemref idref="section-0011_html" />
+    <itemref idref="section-0012_html" />
+    <itemref idref="section-0013_html" />
+    <itemref idref="section-0014_html" />
+    <itemref idref="section-0015_html" />
+    <itemref idref="section-0016_html" />
+    <itemref idref="section-0017_html" />
+    <itemref idref="section-0018_html" />
+    <itemref idref="section-0019_html" />
+    <itemref idref="section-0020_html" />
+    <itemref idref="section-0021_html" />
+    <itemref idref="section-0022_html" />
+    <itemref idref="section-0023_html" />
+    <itemref idref="section-0024_html" />
+    <itemref idref="section-0025_html" />
+    <itemref idref="section-0026_html" />
+  </spine>
+  <guide>
+    <reference href="Text/CoverPage.html" title="Cover Page" type="cover" />
+  </guide>
+</package>

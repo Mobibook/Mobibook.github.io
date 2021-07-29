@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr-TR">
+<head><meta name="uid" content="{693B5437-E8B8-4A84-B69E-705C81447993}"/></head>
+<docTitle><text>Hasan Yigit - Herkul e</text></docTitle>
+<navMap>
+<navPoint playOrder="1" id="{40639AD8-6B1C-401F-8315-48D66F14690A}"><navLabel><text>HERKÜL</text></navLabel><content src="main.xhtml#caption1"/></navPoint>
+<navPoint playOrder="2" id="{AD381CAB-2522-4D4C-A22F-4C6E2499A936}"><navLabel><text>İÇİNDEKİLER</text></navLabel><content src="main-1.xhtml"/></navPoint>
+<navPoint playOrder="3" id="{18A3316B-9563-42FB-A636-EC6D47B7F350}"><navLabel><text>ZEUS&apos;UN OĞLÜ</text></navLabel><content src="main-2.xhtml"/></navPoint>
+<navPoint playOrder="4" id="{603A5818-6E03-47FD-A5F5-357FD4FEE5B5}"><navLabel><text>GENÇ HERKÜL VE NEMEA ASLANI</text></navLabel><content src="main-3.xhtml"/></navPoint>
+<navPoint playOrder="5" id="{C7C0EE6A-D411-46ED-B59F-9E5056F0652C}"><navLabel><text>HERKÜL VE GİRİT’TEKİ AZGIN BOĞA</text></navLabel><content src="main-4.xhtml"/></navPoint>
+<navPoint playOrder="6" id="{95B47C21-6DA8-4CF7-9943-2792ED180AE9}"><navLabel><text>PROMETE, İNSANLAR VE ATEŞ</text></navLabel><content src="main-5.xhtml"/></navPoint>
+<navPoint playOrder="7" id="{E81CA9AC-382D-4D5B-B84A-568D63DB4CE8}"><navLabel><text>KAFDAĞI’NDAKİ PROMETE</text></navLabel><content src="main-6.xhtml"/></navPoint>
+<navPoint playOrder="8" id="{3790F69E-5099-4027-913E-B66688B49A38}"><navLabel><text>HERKÜL PROMETETİ KURTARIYOR</text></navLabel><content src="main-7.xhtml"/></navPoint>
+</navMap></ncx>

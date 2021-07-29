@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Howey, Hugh">Hugh Howey</dc:creator>
+<dc:identifier id="uuid">{304ED23D-7037-4F91-A755-9C5442DC6506}</dc:identifier>
+    <dc:description>&lt;p&gt;Yakın bir gelecekte, yeryüzü zehirli gazlardan yaşanmaz hâldedir. İnsanlar dünyanın hayli sınırlı bir bölümünü, yaşadıkları çok katlı yeraltı silosunun en üst katındaki ekranlardan seyretmektedirler. Yasalar gereği bu tek görüntüyle yetinip yeryüzü hakkında hiçbir meraka kapılmaksızın yeraltına gömülü olarak, âdeta kapana kısılmış hâlde yaşamlarını sürdürürler. Zaten silodaki hayat da ancak sorgusuz ve sualsiz yaşandığında katlanılabilirdir. Ama bir de yaşadıkları hayatın gerçekliğinden şüphe duyup dışarısı hakkında sorgulamalar yapanlar vardır ki onlar bir daha asla uyanamayacakları bir kâbusun ortasında bulurlar kendilerini.
+(Tanıtım Bülteninden)&lt;/p&gt;</dc:description>
+    <dc:publisher>Monokl</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2014-12-26T22:00:00+00:00</dc:date>
+    <meta content="0.8.2" name="Sigil version"/>
+    <meta content="Silo" name="calibre:title_sort"/>
+    <meta content="Woll Serisi" name="calibre:series"/>
+    <meta content="1.0" name="calibre:series_index"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{&quot;Hugh Howey&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="x604013.jpeg"/>
+  <dc:title>Silo</dc:title>
+<dc:subject>Bilim Kurgu</dc:subject>
+<dc:subject>Distopya</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">3b8ee613-22cd-44c1-93be-3815a9dcb6af</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786055159115</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main-7.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/main-8.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/main-9.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id11" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id10" media-type="text/css"/>
+    <item href="Images/silo-657x1024.jpg" id="x604013.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id11">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

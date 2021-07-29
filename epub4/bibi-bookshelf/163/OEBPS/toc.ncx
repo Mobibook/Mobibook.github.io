@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:4d524c76-70df-4d92-8625-c04d8d6558ac" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Odysseia</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/odysseianin_kurulusu.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>ODYSSEİA’NIN KURULUŞU</text>
+        </navLabel>
+        <content src="Text/odysseianin_kurulusu.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>ODYSSEİA’NIN İNSANLARI</text>
+        </navLabel>
+        <content src="Text/odysseianin_insanlari.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>MASAL İLE GERÇEK</text>
+        </navLabel>
+        <content src="Text/masal_ile_gercek.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>ODYSSEUS’UN UĞRAKLARI</text>
+        </navLabel>
+        <content src="Text/odysseusun_ugraklari.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>ODYSSEİA</text>
+      </navLabel>
+      <content src="Text/odysseia.xhtml"/>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Birinci Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>İkinci Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Üçüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Dördüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Beşinci Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Altıncı Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Yedinci Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Sekizinci Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Dokuzuncu Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum9.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Onuncu Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>On Birinci Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>On İkinci Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>On Üçüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>On Dördüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum14.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>On Beşinci Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum15.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>On Altıncı Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum16.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>On Yedinci Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum17.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>On Sekizinci Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum18.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>On Dokuzuncu Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum19.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Yirminci Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum20.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Yirmi Birinci Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum21.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Yirmi İkinci Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum22.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Yirmi Üçüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum23.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Yirmi Dördüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/bolum24.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>KRONOLOJİK SIRAYA GÖRE ODYSSEUS’UN YOLCULUĞU VE SERÜVENLERİ[14]</text>
+      </navLabel>
+      <content src="Text/kronoloji.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>ODYSSEİA’DA GEÇEN ADLAR[15]</text>
+      </navLabel>
+      <content src="Text/adlar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>ODYSSEİA ÇEVİRİSİNDE KULLANILAN BAŞLICA METİN VE ÇEVİRİLER</text>
+      </navLabel>
+      <content src="Text/metinler.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

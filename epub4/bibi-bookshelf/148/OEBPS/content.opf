@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Moby Dick</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Melville, Herman">Herman Melville</dc:creator>
+    <dc:description>&lt;div&gt;&lt;span style="orphans: 2; widows: 2;"&gt;"Pequod adlı bir balina gemisinin son yolculuğunu, balinaların nasıl avlandıklarını, geminin sonunda nasıl battığını anlatan Moby Dick, ilk bakışta denizlerde geçen bir serüven romanı sayılabilir. Ne var ki insan Moby Dick'i okudukça, okuduklarını düşündükçe, kitabın derinliğini, gerçek anlamını sezmeye başlar. Bu derinliği, bu gerçek anlamı sezmeyenler ise, balina avıyla ilgili, heyecanlı bir öykü olarak, gene de Moby Dick'in pekâlâ keyfini çıkarabilirler."&lt;/span&gt;&lt;br style="orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Mîna Urgan böyle tanımlıyor Beyaz Balina'nın romanını.&lt;/span&gt;&lt;br style="orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;"Zaman zaman çıkardığı o garip seslere burnundan konuşma dersiniz, balinayı horlamş olursunuz. Hem balinanın söyleyecek nesi olabilir? Ben, derinliği olan hiçbir varlık görmedim ki, bu dünyaya söyleyecek söz kekelemek zorunda kalır, olsa olsa. Ne mutlu ona ki, dünya duyuverir sesini."&lt;/span&gt;&lt;br style="orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Melville'nin sesini geç de olsa duymuştur dünya: Düzyazı biçiminde yazdığı bu şiirde, ironi, mitoloji ve gerçekçiliğin iç içe geçtiği bu romanında, denizi, gemicileri, balinaları ve tabii bu arada tutkuların tutsağı olan insan ruhunu anlatıyor.&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:date>2014-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:identifier id="uuid">{EDB4802C-D8B0-4719-96B7-9CC596144584}</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">1348ff79-02e2-40c6-829e-ccebce85643a</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="onsoz.xhtml" href="Text/onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="mobydick.xhtml" href="Text/mobydick.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="I-001.xhtml" href="Text/I-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="I-002.xhtml" href="Text/I-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-001.xhtml" href="Text/B-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-002.xhtml" href="Text/B-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-003.xhtml" href="Text/B-003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-004.xhtml" href="Text/B-004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-005.xhtml" href="Text/B-005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-006.xhtml" href="Text/B-006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-007.xhtml" href="Text/B-007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-008.xhtml" href="Text/B-008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-009.xhtml" href="Text/B-009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-010.xhtml" href="Text/B-010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-011.xhtml" href="Text/B-011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-012.xhtml" href="Text/B-012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-013.xhtml" href="Text/B-013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-014.xhtml" href="Text/B-014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-015.xhtml" href="Text/B-015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-016.xhtml" href="Text/B-016.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-017.xhtml" href="Text/B-017.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-018.xhtml" href="Text/B-018.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-019.xhtml" href="Text/B-019.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-020.xhtml" href="Text/B-020.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-021.xhtml" href="Text/B-021.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-022.xhtml" href="Text/B-022.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-023.xhtml" href="Text/B-023.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-024.xhtml" href="Text/B-024.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-025.xhtml" href="Text/B-025.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-026.xhtml" href="Text/B-026.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-027.xhtml" href="Text/B-027.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-028.xhtml" href="Text/B-028.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-029.xhtml" href="Text/B-029.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-030.xhtml" href="Text/B-030.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-031.xhtml" href="Text/B-031.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-032.xhtml" href="Text/B-032.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-033.xhtml" href="Text/B-033.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-034.xhtml" href="Text/B-034.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-035.xhtml" href="Text/B-035.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-036.xhtml" href="Text/B-036.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-037.xhtml" href="Text/B-037.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-038.xhtml" href="Text/B-038.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-039.xhtml" href="Text/B-039.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-040.xhtml" href="Text/B-040.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-041.xhtml" href="Text/B-041.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-042.xhtml" href="Text/B-042.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-043.xhtml" href="Text/B-043.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-044.xhtml" href="Text/B-044.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-045.xhtml" href="Text/B-045.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-046.xhtml" href="Text/B-046.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-047.xhtml" href="Text/B-047.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-048.xhtml" href="Text/B-048.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-049.xhtml" href="Text/B-049.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-050.xhtml" href="Text/B-050.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-051.xhtml" href="Text/B-051.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-052.xhtml" href="Text/B-052.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-053.xhtml" href="Text/B-053.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-054.xhtml" href="Text/B-054.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-055.xhtml" href="Text/B-055.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-056.xhtml" href="Text/B-056.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-057.xhtml" href="Text/B-057.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-058.xhtml" href="Text/B-058.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-059.xhtml" href="Text/B-059.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-060.xhtml" href="Text/B-060.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-061.xhtml" href="Text/B-061.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-062.xhtml" href="Text/B-062.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-063.xhtml" href="Text/B-063.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-064.xhtml" href="Text/B-064.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-065.xhtml" href="Text/B-065.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-066.xhtml" href="Text/B-066.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-067.xhtml" href="Text/B-067.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-068.xhtml" href="Text/B-068.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-069.xhtml" href="Text/B-069.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-070.xhtml" href="Text/B-070.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-071.xhtml" href="Text/B-071.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-072.xhtml" href="Text/B-072.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-073.xhtml" href="Text/B-073.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-074.xhtml" href="Text/B-074.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-075.xhtml" href="Text/B-075.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-076.xhtml" href="Text/B-076.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-077.xhtml" href="Text/B-077.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-078.xhtml" href="Text/B-078.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-079.xhtml" href="Text/B-079.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-080.xhtml" href="Text/B-080.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-081.xhtml" href="Text/B-081.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-082.xhtml" href="Text/B-082.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-083.xhtml" href="Text/B-083.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-084.xhtml" href="Text/B-084.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-085.xhtml" href="Text/B-085.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-086.xhtml" href="Text/B-086.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-087.xhtml" href="Text/B-087.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-088.xhtml" href="Text/B-088.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-089.xhtml" href="Text/B-089.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-090.xhtml" href="Text/B-090.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-091.xhtml" href="Text/B-091.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-092.xhtml" href="Text/B-092.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-093.xhtml" href="Text/B-093.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-094.xhtml" href="Text/B-094.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-095.xhtml" href="Text/B-095.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-096.xhtml" href="Text/B-096.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-097.xhtml" href="Text/B-097.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-098.xhtml" href="Text/B-098.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-099.xhtml" href="Text/B-099.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-100.xhtml" href="Text/B-100.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-101.xhtml" href="Text/B-101.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-102.xhtml" href="Text/B-102.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-103.xhtml" href="Text/B-103.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-104.xhtml" href="Text/B-104.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-105.xhtml" href="Text/B-105.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-106.xhtml" href="Text/B-106.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-107.xhtml" href="Text/B-107.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-108.xhtml" href="Text/B-108.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-109.xhtml" href="Text/B-109.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-110.xhtml" href="Text/B-110.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-111.xhtml" href="Text/B-111.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-112.xhtml" href="Text/B-112.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-113.xhtml" href="Text/B-113.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-114.xhtml" href="Text/B-114.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-115.xhtml" href="Text/B-115.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-116.xhtml" href="Text/B-116.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-117.xhtml" href="Text/B-117.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-118.xhtml" href="Text/B-118.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-119.xhtml" href="Text/B-119.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-120.xhtml" href="Text/B-120.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-121.xhtml" href="Text/B-121.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-122.xhtml" href="Text/B-122.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-123.xhtml" href="Text/B-123.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-124.xhtml" href="Text/B-124.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-125.xhtml" href="Text/B-125.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-126.xhtml" href="Text/B-126.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-127.xhtml" href="Text/B-127.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-128.xhtml" href="Text/B-128.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-129.xhtml" href="Text/B-129.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-130.xhtml" href="Text/B-130.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-131.xhtml" href="Text/B-131.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-132.xhtml" href="Text/B-132.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-133.xhtml" href="Text/B-133.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-134.xhtml" href="Text/B-134.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-135.xhtml" href="Text/B-135.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sonsoz.xhtml" href="Text/sonsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="mektuplar.xhtml" href="Text/mektuplar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="destani.xhtml" href="Text/destani.xhtml" media-type="application/xhtml+xml"/>
+    <item id="melvillemutlak.xhtml" href="Text/melvillemutlak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazilisi.xhtml" href="Text/yazilisi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dipnotlar.xhtml" href="Text/dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id75" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="SM.css" href="Styles/SM.css" media-type="text/css"/>
+    <item id="g1.jpg" href="Images/g1.jpg" media-type="image/jpeg"/>
+    <item id="g2.png" href="Images/g2.png" media-type="image/png"/>
+    <item id="yapikredi.png" href="Images/yapikredi.png" media-type="image/png"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id75">
+    <itemref idref="titlepage"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="mobydick.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="I-001.xhtml"/>
+    <itemref idref="I-002.xhtml"/>
+    <itemref idref="B-001.xhtml"/>
+    <itemref idref="B-002.xhtml"/>
+    <itemref idref="B-003.xhtml"/>
+    <itemref idref="B-004.xhtml"/>
+    <itemref idref="B-005.xhtml"/>
+    <itemref idref="B-006.xhtml"/>
+    <itemref idref="B-007.xhtml"/>
+    <itemref idref="B-008.xhtml"/>
+    <itemref idref="B-009.xhtml"/>
+    <itemref idref="B-010.xhtml"/>
+    <itemref idref="B-011.xhtml"/>
+    <itemref idref="B-012.xhtml"/>
+    <itemref idref="B-013.xhtml"/>
+    <itemref idref="B-014.xhtml"/>
+    <itemref idref="B-015.xhtml"/>
+    <itemref idref="B-016.xhtml"/>
+    <itemref idref="B-017.xhtml"/>
+    <itemref idref="B-018.xhtml"/>
+    <itemref idref="B-019.xhtml"/>
+    <itemref idref="B-020.xhtml"/>
+    <itemref idref="B-021.xhtml"/>
+    <itemref idref="B-022.xhtml"/>
+    <itemref idref="B-023.xhtml"/>
+    <itemref idref="B-024.xhtml"/>
+    <itemref idref="B-025.xhtml"/>
+    <itemref idref="B-026.xhtml"/>
+    <itemref idref="B-027.xhtml"/>
+    <itemref idref="B-028.xhtml"/>
+    <itemref idref="B-029.xhtml"/>
+    <itemref idref="B-030.xhtml"/>
+    <itemref idref="B-031.xhtml"/>
+    <itemref idref="B-032.xhtml"/>
+    <itemref idref="B-033.xhtml"/>
+    <itemref idref="B-034.xhtml"/>
+    <itemref idref="B-035.xhtml"/>
+    <itemref idref="B-036.xhtml"/>
+    <itemref idref="B-037.xhtml"/>
+    <itemref idref="B-038.xhtml"/>
+    <itemref idref="B-039.xhtml"/>
+    <itemref idref="B-040.xhtml"/>
+    <itemref idref="B-041.xhtml"/>
+    <itemref idref="B-042.xhtml"/>
+    <itemref idref="B-043.xhtml"/>
+    <itemref idref="B-044.xhtml"/>
+    <itemref idref="B-045.xhtml"/>
+    <itemref idref="B-046.xhtml"/>
+    <itemref idref="B-047.xhtml"/>
+    <itemref idref="B-048.xhtml"/>
+    <itemref idref="B-049.xhtml"/>
+    <itemref idref="B-050.xhtml"/>
+    <itemref idref="B-051.xhtml"/>
+    <itemref idref="B-052.xhtml"/>
+    <itemref idref="B-053.xhtml"/>
+    <itemref idref="B-054.xhtml"/>
+    <itemref idref="B-055.xhtml"/>
+    <itemref idref="B-056.xhtml"/>
+    <itemref idref="B-057.xhtml"/>
+    <itemref idref="B-058.xhtml"/>
+    <itemref idref="B-059.xhtml"/>
+    <itemref idref="B-060.xhtml"/>
+    <itemref idref="B-061.xhtml"/>
+    <itemref idref="B-062.xhtml"/>
+    <itemref idref="B-063.xhtml"/>
+    <itemref idref="B-064.xhtml"/>
+    <itemref idref="B-065.xhtml"/>
+    <itemref idref="B-066.xhtml"/>
+    <itemref idref="B-067.xhtml"/>
+    <itemref idref="B-068.xhtml"/>
+    <itemref idref="B-069.xhtml"/>
+    <itemref idref="B-070.xhtml"/>
+    <itemref idref="B-071.xhtml"/>
+    <itemref idref="B-072.xhtml"/>
+    <itemref idref="B-073.xhtml"/>
+    <itemref idref="B-074.xhtml"/>
+    <itemref idref="B-075.xhtml"/>
+    <itemref idref="B-076.xhtml"/>
+    <itemref idref="B-077.xhtml"/>
+    <itemref idref="B-078.xhtml"/>
+    <itemref idref="B-079.xhtml"/>
+    <itemref idref="B-080.xhtml"/>
+    <itemref idref="B-081.xhtml"/>
+    <itemref idref="B-082.xhtml"/>
+    <itemref idref="B-083.xhtml"/>
+    <itemref idref="B-084.xhtml"/>
+    <itemref idref="B-085.xhtml"/>
+    <itemref idref="B-086.xhtml"/>
+    <itemref idref="B-087.xhtml"/>
+    <itemref idref="B-088.xhtml"/>
+    <itemref idref="B-089.xhtml"/>
+    <itemref idref="B-090.xhtml"/>
+    <itemref idref="B-091.xhtml"/>
+    <itemref idref="B-092.xhtml"/>
+    <itemref idref="B-093.xhtml"/>
+    <itemref idref="B-094.xhtml"/>
+    <itemref idref="B-095.xhtml"/>
+    <itemref idref="B-096.xhtml"/>
+    <itemref idref="B-097.xhtml"/>
+    <itemref idref="B-098.xhtml"/>
+    <itemref idref="B-099.xhtml"/>
+    <itemref idref="B-100.xhtml"/>
+    <itemref idref="B-101.xhtml"/>
+    <itemref idref="B-102.xhtml"/>
+    <itemref idref="B-103.xhtml"/>
+    <itemref idref="B-104.xhtml"/>
+    <itemref idref="B-105.xhtml"/>
+    <itemref idref="B-106.xhtml"/>
+    <itemref idref="B-107.xhtml"/>
+    <itemref idref="B-108.xhtml"/>
+    <itemref idref="B-109.xhtml"/>
+    <itemref idref="B-110.xhtml"/>
+    <itemref idref="B-111.xhtml"/>
+    <itemref idref="B-112.xhtml"/>
+    <itemref idref="B-113.xhtml"/>
+    <itemref idref="B-114.xhtml"/>
+    <itemref idref="B-115.xhtml"/>
+    <itemref idref="B-116.xhtml"/>
+    <itemref idref="B-117.xhtml"/>
+    <itemref idref="B-118.xhtml"/>
+    <itemref idref="B-119.xhtml"/>
+    <itemref idref="B-120.xhtml"/>
+    <itemref idref="B-121.xhtml"/>
+    <itemref idref="B-122.xhtml"/>
+    <itemref idref="B-123.xhtml"/>
+    <itemref idref="B-124.xhtml"/>
+    <itemref idref="B-125.xhtml"/>
+    <itemref idref="B-126.xhtml"/>
+    <itemref idref="B-127.xhtml"/>
+    <itemref idref="B-128.xhtml"/>
+    <itemref idref="B-129.xhtml"/>
+    <itemref idref="B-130.xhtml"/>
+    <itemref idref="B-131.xhtml"/>
+    <itemref idref="B-132.xhtml"/>
+    <itemref idref="B-133.xhtml"/>
+    <itemref idref="B-134.xhtml"/>
+    <itemref idref="B-135.xhtml"/>
+    <itemref idref="sonsoz.xhtml"/>
+    <itemref idref="mektuplar.xhtml"/>
+    <itemref idref="destani.xhtml"/>
+    <itemref idref="melvillemutlak.xhtml"/>
+    <itemref idref="yazilisi.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

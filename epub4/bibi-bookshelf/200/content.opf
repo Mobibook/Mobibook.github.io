@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta name="calibre:title_sort" content="Gizli Parapsikoloji Savasi"/>
+    <dc:language>tr</dc:language>
+    <dc:creator opf:file-as="Bergier, Jaques" opf:role="aut">Jaques Bergier</dc:creator>
+    <meta name="calibre:timestamp" content="2012-05-06T19:38:28+00:00"/>
+    <dc:title>Gizli Parapsikoloji Savasi</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2012-05-06T19:38:29+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.8.49) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8ebb6e52-0468-4e3d-9d86-eb3ca1a68f69</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover_image.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Gizli_Parapsikoloji_Savasi.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="gizli_parapsikoloji_savasi-1.png" id="added1" media-type="image/png"/>
+    <item href="gizli_parapsikoloji_savasi-2.png" id="added2" media-type="image/png"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Title Page"/>
+  </guide>
+</package>

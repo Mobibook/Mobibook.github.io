@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="{304ED23D-7037-4F91-A755-9C5442DC6506}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.8.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Hugh Howey - Silo</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>SİLO</text>
+      </navLabel>
+      <content src="Text/main.xhtml#u31171f3c-9f25-49d0-9b71-ffc13b383ecb"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Birinci Bölüm - HOLSTON</text>
+      </navLabel>
+      <content src="Text/main.xhtml#u30abc055-1910-4525-b51d-d815909836a8"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>İkinci Bölüm - DOĞRU ÖLÇÜ</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml#u494cf11f-f733-4124-8503-b05caa599b3f"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Üçüncü Bölüm - SÜRGÜN</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml#u19b1609b-5c70-48c7-9be0-d440d25213a4"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>Dördüncü Bölüm - ÇÖZÜLME</text>
+      </navLabel>
+      <content src="Text/main-4.xhtml#u8630ab6d-62f0-4ac8-a7ea-29dcd8d87a53"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Beşinci Bölüm - MAHSUR</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml#u677a1b71-f356-4438-bf06-18a54daed0b5"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>Epilog</text>
+      </navLabel>
+      <content src="Text/main-9.xhtml#uad0ceb29-8b30-4c72-ac18-cdffc238ec3b"/>
+    </navPoint>
+  </navMap>
+</ncx>

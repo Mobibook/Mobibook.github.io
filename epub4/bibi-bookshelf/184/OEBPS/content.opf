@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Ruh Adam</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Atsız, Hüseyin Nihal">Hüseyin Nihal Atsız</dc:creator>
+    <dc:identifier id="bookid">urn:uuid:524f1f6d-1dd8-49b9-ba3e-f0b11c21de40</dc:identifier>
+    <dc:publisher>Ötüken Neşriyat</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-03-01</dc:date>
+    <dc:description>"Ruh Adam", Türk edebiyatında pek alışılmamış çeşitte bir romandır. Müellifin tarihî romanlarını okumuş olanlar, tarihî bir roman gibi başlayan bu eserin öyle olmadığını görecek, sayfalar ilerledikçe kendilerini aşırı bir sembolizmin içinde bulacaklardır. Bir tarih çeşnisinin de yer aldığı roman, yaşamanın gayesini yalnızca askerlikte bulan bir subayın hayatıdır. Tabiatüstü olaylarla anlatılan bir hayat hikâyesinin, dikkatle bakıldığı zaman, gerçeklerin sembollerle çerçevelenmiş ifadesinden başka bir şey olmadığı görülecektir. "Ruh Adam", kendi nefsi ile mücadele eden bir insanın macerasıdır. Edebî-ruhî tahlilini yapanlar, eserin hakikaten bir roman mı, yoksa yaşanmış bir hayat mı olduğunu kestirmekte hayli tereddüde düşeceklerdir.</dc:description>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.85.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">1a187b51-daab-4dfd-a22d-29a5bd5100a0</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786051551005</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam.xhtml" id="ruh_adam" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-1.xhtml" id="ruh_adam-1" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-2.xhtml" id="ruh_adam-2" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-3.xhtml" id="ruh_adam-3" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-4.xhtml" id="ruh_adam-4" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-5.xhtml" id="ruh_adam-5" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-6.xhtml" id="ruh_adam-6" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-7.xhtml" id="ruh_adam-7" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-8.xhtml" id="ruh_adam-8" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-9.xhtml" id="ruh_adam-9" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-10.xhtml" id="ruh_adam-10" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-11.xhtml" id="ruh_adam-11" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-12.xhtml" id="ruh_adam-12" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-13.xhtml" id="ruh_adam-13" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-14.xhtml" id="ruh_adam-14" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-15.xhtml" id="ruh_adam-15" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-16.xhtml" id="ruh_adam-16" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-17.xhtml" id="ruh_adam-17" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-18.xhtml" id="ruh_adam-18" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-19.xhtml" id="ruh_adam-19" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-20.xhtml" id="ruh_adam-20" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-21.xhtml" id="ruh_adam-21" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-22.xhtml" id="ruh_adam-22" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-23.xhtml" id="ruh_adam-23" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-24.xhtml" id="ruh_adam-24" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-25.xhtml" id="ruh_adam-25" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-26.xhtml" id="ruh_adam-26" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-27.xhtml" id="ruh_adam-27" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-28.xhtml" id="ruh_adam-28" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-29.xhtml" id="ruh_adam-29" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-30.xhtml" id="ruh_adam-30" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-31.xhtml" id="ruh_adam-31" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-32.xhtml" id="ruh_adam-32" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-33.xhtml" id="ruh_adam-33" media-type="application/xhtml+xml"/>
+    <item href="Text/ruh_adam-34.xhtml" id="ruh_adam-34" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/ruh_adam_vol3.css" id="ruh_adam_vol3.css" media-type="text/css"/>
+    <item href="Images/logo01_fmt.png" id="logo01_fmt.png" media-type="image/png"/>
+    <item href="Images/Ruh-Adam.jpg" id="Ruh-Adam.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="utAcvtHgnb5tn3Fph6yYqY3" media-type="image/jpeg"/>
+    <item href="Fonts/ACaslonPro-Bold.otf" id="ACaslonPro-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/ACaslonPro-Regular.otf" id="ACaslonPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/ACaslonPro-Semibold.otf" id="ACaslonPro-Semibold.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/AGaramondPro-Bold.otf" id="AGaramondPro-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/AGaramondPro-Italic.otf" id="AGaramondPro-Italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/AGaramondPro-Regular.otf" id="AGaramondPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="ruh_adam"/>
+    <itemref idref="ruh_adam-1"/>
+    <itemref idref="ruh_adam-2"/>
+    <itemref idref="ruh_adam-3"/>
+    <itemref idref="ruh_adam-4"/>
+    <itemref idref="ruh_adam-5"/>
+    <itemref idref="ruh_adam-6"/>
+    <itemref idref="ruh_adam-7"/>
+    <itemref idref="ruh_adam-8"/>
+    <itemref idref="ruh_adam-9"/>
+    <itemref idref="ruh_adam-10"/>
+    <itemref idref="ruh_adam-11"/>
+    <itemref idref="ruh_adam-12"/>
+    <itemref idref="ruh_adam-13"/>
+    <itemref idref="ruh_adam-14"/>
+    <itemref idref="ruh_adam-15"/>
+    <itemref idref="ruh_adam-16"/>
+    <itemref idref="ruh_adam-17"/>
+    <itemref idref="ruh_adam-18"/>
+    <itemref idref="ruh_adam-19"/>
+    <itemref idref="ruh_adam-20"/>
+    <itemref idref="ruh_adam-21"/>
+    <itemref idref="ruh_adam-22"/>
+    <itemref idref="ruh_adam-23"/>
+    <itemref idref="ruh_adam-24"/>
+    <itemref idref="ruh_adam-25"/>
+    <itemref idref="ruh_adam-26"/>
+    <itemref idref="ruh_adam-27"/>
+    <itemref idref="ruh_adam-28"/>
+    <itemref idref="ruh_adam-29"/>
+    <itemref idref="ruh_adam-30"/>
+    <itemref idref="ruh_adam-31"/>
+    <itemref idref="ruh_adam-32"/>
+    <itemref idref="ruh_adam-33"/>
+    <itemref idref="ruh_adam-34"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

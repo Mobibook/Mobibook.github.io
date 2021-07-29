@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Jaques Bergier</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>62BFAC60DF456CD4CFB44C29FACA4390</string>
+		<key>cover-image-path</key>
+		<string>cover_image.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>89D640208177EB95B61223751EB8879D</string>
+		<key>publisher-unique-id</key>
+		<string>8ebb6e52-0468-4e3d-9d86-eb3ca1a68f69</string>
+		<key>unique-id</key>
+		<integer>8684107383632443932</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Gizli Parapsikoloji Savasi</string>
+	<key>playlistName</key>
+	<string>Gizli Parapsikoloji Savasi</string>
+	<key>releaseDate</key>
+	<string>2012-05-06T19:38:29+00:00</string>
+	<key>sort-artist</key>
+	<string>Bergier, Jaques</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>
