@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>I-İDEOLOJİK İNSAN: AYDIN</text>
+			</navLabel>
+			<content src="Text/4.html#toc_marker-1"/>
+			<navPoint id="navpoint2" playOrder="2">
+				<navLabel>
+					<text>Aydın Kavramının Nesnelliği</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-1-1"/>
+			</navPoint>
+			<navPoint id="navpoint3" playOrder="3">
+				<navLabel>
+					<text>Aydının Doğuşu</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-1-2"/>
+			</navPoint>
+			<navPoint id="navpoint4" playOrder="4">
+				<navLabel>
+					<text>İlk Aydınlar: Enbiya ve Evliya</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-1-3"/>
+			</navPoint>
+			<navPoint id="navpoint5" playOrder="5">
+				<navLabel>
+					<text>İlkçağ ve Ortaçağın Muhalif Aydını</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-1-4"/>
+			</navPoint>
+			<navPoint id="navpoint6" playOrder="6">
+				<navLabel>
+					<text>Aydın Kavramının Yapıtaşları: İdeoloji ve İşlev</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-1-5"/>
+			</navPoint>
+			<navPoint id="navpoint7" playOrder="7">
+				<navLabel>
+					<text>Aydın ile Kafa Emekçisi Farkı</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-1-6"/>
+			</navPoint>
+			<navPoint id="navpoint8" playOrder="8">
+				<navLabel>
+					<text>Aydının Üretim İlişkileriyle Bağı</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-1-7"/>
+			</navPoint>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>İdeolojik Arenanın Gladyatörleri</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-1-8"/>
+			</navPoint>
+			<navPoint id="navpoint10" playOrder="10">
+				<navLabel>
+					<text>Hâkim Sınıf Aydınının “Asil Yalanları”</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-1-9"/>
+			</navPoint>
+			<navPoint id="navpoint11" playOrder="11">
+				<navLabel>
+					<text>“Bağımsız” ve “Özerk” Aydın</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-1-10"/>
+			</navPoint>
+			<navPoint id="navpoint12" playOrder="12">
+				<navLabel>
+					<text>Sistem, Aydın Takımını Döneklerden Devşiriyor</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-1-11"/>
+			</navPoint>
+			<navPoint id="navpoint13" playOrder="13">
+				<navLabel>
+					<text>Dönekler ve Devşirmeler</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-1-12"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint14" playOrder="14">
+			<navLabel>
+				<text>II-DEVRİMCİ SINIF-DEVRİMCİ AYDIN</text>
+			</navLabel>
+			<content src="Text/4.html#toc_marker-2"/>
+			<navPoint id="navpoint15" playOrder="15">
+				<navLabel>
+					<text>Ezilen Sınıfın Aydını</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-2-1"/>
+			</navPoint>
+			<navPoint id="navpoint16" playOrder="16">
+				<navLabel>
+					<text>Kitle Hareketi-Aydın Diyalektiği</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-2-2"/>
+			</navPoint>
+			<navPoint id="navpoint17" playOrder="17">
+				<navLabel>
+					<text>Örgütlenme ve Aydın</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-2-3"/>
+			</navPoint>
+			<navPoint id="navpoint18" playOrder="18">
+				<navLabel>
+					<text>Sosyalizm ve Aydın</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-2-4"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint19" playOrder="19">
+			<navLabel>
+				<text>III-AYDIN METAFİZİKLERİ</text>
+			</navLabel>
+			<content src="Text/4.html#toc_marker-3"/>
+			<navPoint id="navpoint20" playOrder="20">
+				<navLabel>
+					<text>Aydının İdealleştirilmesi </text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-3-1"/>
+			</navPoint>
+			<navPoint id="navpoint21" playOrder="21">
+				<navLabel>
+					<text>Düşüncenin ve Aklın İdealleştirilmesi</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-3-2"/>
+			</navPoint>
+			<navPoint id="navpoint22" playOrder="22">
+				<navLabel>
+					<text>Kültürün İdealleştirilmesi</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-3-3"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint23" playOrder="23">
+			<navLabel>
+				<text>IV-KÜLTÜR VE UYGARLIK</text>
+			</navLabel>
+			<content src="Text/4.html#toc_marker-4"/>
+			<navPoint id="navpoint24" playOrder="24">
+				<navLabel>
+					<text>Kavramlar</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-4-1"/>
+			</navPoint>
+			<navPoint id="navpoint25" playOrder="25">
+				<navLabel>
+					<text>Maddî Kültür-Manevî Kültür</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-4-2"/>
+			</navPoint>
+			<navPoint id="navpoint26" playOrder="26">
+				<navLabel>
+					<text>Kültürün Sınıfsal Karakteri</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-4-3"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint27" playOrder="27">
+			<navLabel>
+				<text>V-ULUSAL KÜLTÜR-ULUSLARARASI KÜLTÜR</text>
+			</navLabel>
+			<content src="Text/4_split1.html#toc_marker-5"/>
+			<navPoint id="navpoint28" playOrder="28">
+				<navLabel>
+					<text>Kabilenin Eşitlik ve Kardeşlik Kültürünün Evrenselliği</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-5-1"/>
+			</navPoint>
+			<navPoint id="navpoint29" playOrder="29">
+				<navLabel>
+					<text>Akkemikli Budunun ve Burjuvazinin Ortak “Ulusal Kültürü” Var mı?</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-5-2"/>
+			</navPoint>
+			<navPoint id="navpoint30" playOrder="30">
+				<navLabel>
+					<text>Feodal Çağda “Yoksul Eti Yiyenlerin” ve Yoksulların Kültürü</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-5-3"/>
+			</navPoint>
+			<navPoint id="navpoint31" playOrder="31">
+				<navLabel>
+					<text>Kavim ve Din Değil, Sınıf Çelişmesi</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-5-4"/>
+			</navPoint>
+			<navPoint id="navpoint32" playOrder="32">
+				<navLabel>
+					<text>Ulusun ve “Ulusal Kültürün” Tarihselliği</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-5-5"/>
+			</navPoint>
+			<navPoint id="navpoint33" playOrder="33">
+				<navLabel>
+					<text>“Ulusal Kültür”ün İşlevi </text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-5-6"/>
+			</navPoint>
+			<navPoint id="navpoint34" playOrder="34">
+				<navLabel>
+					<text>Ulusu Burjuvazi Yarattı</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-5-7"/>
+			</navPoint>
+			<navPoint id="navpoint35" playOrder="35">
+				<navLabel>
+					<text>Türk Ulusunu da Burjuvazi Yarattı </text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-5-8"/>
+			</navPoint>
+			<navPoint id="navpoint36" playOrder="36">
+				<navLabel>
+					<text>Ulus Kurgusundaki Gerçek ve Yanılsama</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-5-9"/>
+			</navPoint>
+			<navPoint id="navpoint37" playOrder="37">
+				<navLabel>
+					<text>Ulusun Mayasındaki Ruh</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-5-10"/>
+			</navPoint>
+			<navPoint id="navpoint38" playOrder="38">
+				<navLabel>
+					<text>“Ulusal Kültür” ve “Ulusal Kimliğin” Burjuva İçeriği </text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-5-11"/>
+			</navPoint>
+			<navPoint id="navpoint39" playOrder="39">
+				<navLabel>
+					<text>	“Ulusal Kültür”ün Uluslararası Karakteri</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-5-12"/>
+			</navPoint>
+			<navPoint id="navpoint40" playOrder="40">
+				<navLabel>
+					<text>“Yabancı Kültür”ün Yerlileşmesi</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-5-13"/>
+			</navPoint>
+			<navPoint id="navpoint41" playOrder="41">
+				<navLabel>
+					<text>“Ulusal Kültür”ün Ulusal Kültürle Savaşı</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-5-14"/>
+			</navPoint>
+			<navPoint id="navpoint42" playOrder="42">
+				<navLabel>
+					<text>Emperyalizmin “Uygarlık Savaşları” Teorisi</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-5-15"/>
+			</navPoint>
+			<navPoint id="navpoint43" playOrder="43">
+				<navLabel>
+					<text>Küreselleşme, Uluslara Bölünmeyi Ortadan Kaldıramaz</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-5-16"/>
+			</navPoint>
+			<navPoint id="navpoint44" playOrder="44">
+				<navLabel>
+					<text>İşçi Sınıfının Uluslararası Kültürü</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-5-17"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint45" playOrder="45">
+			<navLabel>
+				<text>VI-DOĞU KÜLTÜRÜ-BATI KÜLTÜRÜ</text>
+			</navLabel>
+			<content src="Text/4_split1.html#toc_marker-6"/>
+			<navPoint id="navpoint46" playOrder="46">
+				<navLabel>
+					<text>Doğu’nun ve Batı’nın Kapitalizm Öncesi Ticaret Uygarlıkları</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-6-1"/>
+			</navPoint>
+			<navPoint id="navpoint47" playOrder="47">
+				<navLabel>
+					<text>Doğu-Batı Ayrımının Emperyalist Karakteri</text>
+				</navLabel>
+				<content src="Text/4_split2.html#toc_marker-6-2"/>
+			</navPoint>
+			<navPoint id="navpoint48" playOrder="48">
+				<navLabel>
+					<text>Doğu’nun Dinamizmi</text>
+				</navLabel>
+				<content src="Text/4_split2.html#toc_marker-6-3"/>
+			</navPoint>
+			<navPoint id="navpoint49" playOrder="49">
+				<navLabel>
+					<text>Doğu’nun Alafranga Aydını</text>
+				</navLabel>
+				<content src="Text/4_split2.html#toc_marker-6-4"/>
+			</navPoint>
+			<navPoint id="navpoint50" playOrder="50">
+				<navLabel>
+					<text>İnsanlığın Ortak Gelişme Yatağı</text>
+				</navLabel>
+				<content src="Text/4_split2.html#toc_marker-6-5"/>
+			</navPoint>
+			<navPoint id="navpoint51" playOrder="51">
+				<navLabel>
+					<text>İleri-Geri Diyalektiği</text>
+				</navLabel>
+				<content src="Text/4_split2.html#toc_marker-6-6"/>
+			</navPoint>
+			<navPoint id="navpoint52" playOrder="52">
+				<navLabel>
+					<text>İki Batı-İki Doğu</text>
+				</navLabel>
+				<content src="Text/4_split2.html#toc_marker-6-7"/>
+			</navPoint>
+			<navPoint id="navpoint53" playOrder="53">
+				<navLabel>
+					<text>Türkiye’nin Batılılaşma Çıkmazı</text>
+				</navLabel>
+				<content src="Text/4_split2.html#toc_marker-6-8"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint54" playOrder="54">
+			<navLabel>
+				<text>SONUÇ</text>
+			</navLabel>
+			<content src="Text/4_split2.html#toc_marker-7"/>
+		</navPoint>
+	</navMap>
+</ncx>

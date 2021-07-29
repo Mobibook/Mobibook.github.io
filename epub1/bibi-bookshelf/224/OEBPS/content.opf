@@ -1,0 +1,78 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Aubert, Brigitte">Brigitte Aubert</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">cb7c3fb9-dceb-4354-82ab-f5c82a6c8e03</dc:identifier>
+    <dc:publisher>Metis Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="Doktor March'ın Dört Oğlu" name="calibre:title_sort"/>
+    <meta content="2014-03-17T12:32:14.790000+00:00" name="calibre:timestamp"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Brigitte Aubert&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="x79770907-7d72-4c04-89fd-eb630bf721cf.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>2014-06-16T21:00:00+00:00</dc:date>
+  <meta name="calibre:rating" content="8.0"/>
+<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255); "&gt;Katilin Günlüğü İlk seferinde... Hayır, önce size merhaba diyeyim. Merhaba sevgili dostlar. Sevgili yeni dostlar. Merhaba sevgili gizli günlüğüm. Hayatımı ve aileminkini anlatmaya karar vermiş olan sevgili gizli benliğim, merhaba! Ama asıl sözünü etmek istediğim "o". İlk seferinde, yaşım... kesin yaşımı söylemeye gerek yok, diyelim ki çocuktum. Sevimli, ufak bir çocuk. O da küçük bir kız çocuğu idi. Elbise giymişti, kırmızı akrilik bir elbise, parlak kırmızı. Akriliğin bayağı iyi yandığını biliyordum, bir meşale gibi. Elbisesini yaktığımda bağırdı, sonra da yandı. Yanmasını sonuna kadar izledim. Her yanı şişmişti ve gözleri dışarı fırlamıştı. Hala çok iyi hatırlıyorum, oysa çocuktum. Her zaman iyi bir belleğim olmuştur. Onun yandığını görmekten hoşlanmıştım. Öleceğini biliyordum. Bu hoşuma gidiyordu. Bu hoşuma gidiyor. Ölümü tattırmak. Ölü ilk seferdi. Sonra annem geldi ve beni kollarının arasına aldı....&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+<dc:title>Doktor March'ın Dört Oğlu</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Polisiye</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">c497b78b-2434-405b-856a-c21c86ec0ec1</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753421249</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_000.html" id="id120" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_001.html" id="id119" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_002.html" id="id118" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_003.html" id="id117" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_004.html" id="id116" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_005.html" id="id115" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_006.html" id="id114" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_007.html" id="id113" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_008.html" id="id112" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_009.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_010.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_011.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_012.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_013.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_014.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_015.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_016.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_017.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_018.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/Doktor_March'in_Dort_Oglu_split_019.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/79770907-7d72-4c04-89fd-eb630bf721cf.jpg" id="x79770907-7d72-4c04-89fd-eb630bf721cf.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id120"/>
+    <itemref idref="id119"/>
+    <itemref idref="id118"/>
+    <itemref idref="id117"/>
+    <itemref idref="id116"/>
+    <itemref idref="id115"/>
+    <itemref idref="id114"/>
+    <itemref idref="id113"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/Doktor_March'in_Dort_Oglu_split_019.html#filepos318250" title="Table of Contents" type="toc"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

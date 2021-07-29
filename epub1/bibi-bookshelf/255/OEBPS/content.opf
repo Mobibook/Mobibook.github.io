@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Körleşme</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Canetti, Elias">Elias Canetti</dc:creator>
+    <dc:date>2013-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>Sel Yayınları</dc:publisher>
+    <dc:description>Dünya edebiyatının başyapıtlarından biri olduğu tartışmasız kabul edilen Körleşme, Almanya'da edebiyatın, politikanın kirli gölgeleri altında yitip gitmeye yüz tuttuğu bir dönemde yazılmıştır. Ancak, Elias Canetti kurguladığı zaman ve mekân, kullandığı dil ve üslup, karakterlerindeki soyutlamanın isabetliliği ve bunları aktarmadaki başarısı sayesinde sınırları aşmış, evrenselliğin en üst boyutlarına ulaşmıştır. 
+
+Çoktandır kendi fildişi kulesine çekilmiş bir aydının trajedisinde cisimleşen Körleşme, insanoğlunun kendi eliyle kurduğu, sonra da kendisine yabancılaşmış, düşman kesilmiş bulduğu dış çevreyi, son derece özgün bir biçimde ve en uçta sayılabilecek araçlarla tasvir etmeyi başarıyor. 
+
+İnsanın gerçeklik karşısında ne ölçüde körleşebileceğini, her dönemde ve her toplumda rastlanabilen "aymaz" aydın karakterinde ustalıkla yansıtan Canetti, düşünce ile gerçeklik arasındaki kopuşun hikâyesini anlatırken yarattığı dehşet atmosferiyle okuru derinden sarsıyor.
+(Tanıtım Bülteninden)</dc:description>
+    <dc:contributor opf:role="trl">Ahmet Cemal</dc:contributor>
+    <dc:date opf:event="modification">2017-03-30</dc:date>
+    <dc:identifier id="uuid">{F2100172-3534-4B1E-BD81-F7BD9C260171}</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">414d2569-8c23-48d3-b7d2-6f0520b00154</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="onsoz.xhtml" href="Text/onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ithaf.xhtml" href="Text/ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-001.xhtml" href="Text/P-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-002.xhtml" href="Text/P-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-003.xhtml" href="Text/P-003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dipnotlar.xhtml" href="Text/dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id17" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="Style.css" href="Styles/Style.css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id17">
+    <itemref idref="titlepage"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="P-001.xhtml"/>
+    <itemref idref="P-002.xhtml"/>
+    <itemref idref="P-003.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,108 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Pulbiber Mahallesi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Madak, Didem">Didem Madak</dc:creator>
+    <dc:publisher>Metis Yayıncılık</dc:publisher>
+    <dc:type>Şiir</dc:type>
+    <dc:description>Öyle çok şimşek çaktı gece
+Ben sonu Z harfi olarak düşündüm
+Son harf olarak
+Ben Zeni düşündüm ahbap
+
+Bu basıma eklediğimiz "Ardından" bölümünde şairin kitaplarında yer almamış şiirlerine yer verdik.</dc:description>
+    <dc:date>2016-09-29T21:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{1F62F7EE-5317-4B3E-A4E2-541A84D1DDFA}</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.69.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">998fbf96-c135-4764-985f-0253451b7ed5</dc:identifier>
+    <dc:identifier opf:scheme="ISBN-13">978-975-342-604-6</dc:identifier>
+    <meta content="0.9.5" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Pulbiber Mahallesi"/>
+    <meta name="calibre:author_link_map" content="{&quot;Didem Madak&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/biography.html" id="biography.html" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.html" id="kunye.html" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.html" id="ickapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/icindekiler.html" id="icindekiler.html" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.html" id="ithaf.html" media-type="application/xhtml+xml"/>
+    <item href="Text/israr.html" id="israr.html" media-type="application/xhtml+xml"/>
+    <item href="Text/epigraf.html" id="epigraf.html" media-type="application/xhtml+xml"/>
+    <item href="Text/buyumus_cocuk_siiri.html" id="buyumus_cocuk_siiri.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gecenin_cekmecesi.html" id="gecenin_cekmecesi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/poset_sut.html" id="poset_sut.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pulbiber_mahallesini_taniyalim.html" id="pulbiber_mahallesini_taniyalim.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pulbiber_mahallesi_tarihi.html" id="pulbiber_mahallesi_tarihi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/mahallede_bomba_patliyor.html" id="mahallede_bomba_patliyor.html" media-type="application/xhtml+xml"/>
+    <item href="Text/bizden_baskalarina.html" id="bizden_baskalarina.html" media-type="application/xhtml+xml"/>
+    <item href="Text/sevincli_kedi.html" id="sevincli_kedi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pespaye_kedinin_asaletini.html" id="pespaye_kedinin_asaletini.html" media-type="application/xhtml+xml"/>
+    <item href="Text/catlaklarin_arasinda.html" id="catlaklarin_arasinda.html" media-type="application/xhtml+xml"/>
+    <item href="Text/karsiliksiz_hayat.html" id="karsiliksiz_hayat.html" media-type="application/xhtml+xml"/>
+    <item href="Text/karsiliksiz_devami.html" id="karsiliksiz_devami.html" media-type="application/xhtml+xml"/>
+    <item href="Text/karsiliksiz_devami2.html" id="karsiliksiz_devami2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hatali_tesbihler.html" id="hatali_tesbihler.html" media-type="application/xhtml+xml"/>
+    <item href="Text/kaza_anilar.html" id="kaza_anilar.html" media-type="application/xhtml+xml"/>
+    <item href="Text/viraj.html" id="viraj.html" media-type="application/xhtml+xml"/>
+    <item href="Text/kendim_ettim_kendim_buldum.html" id="kendim_ettim_kendim_buldum.html" media-type="application/xhtml+xml"/>
+    <item href="Text/ardindan.html" id="ardindan.html" media-type="application/xhtml+xml"/>
+    <item href="Text/yayincinin_notu.html" id="yayincinin_notu.html" media-type="application/xhtml+xml"/>
+    <item href="Text/laterna.html" id="laterna.html" media-type="application/xhtml+xml"/>
+    <item href="Text/yagmur_ve_cilingir.html" id="yagmur_ve_cilingir.html" media-type="application/xhtml+xml"/>
+    <item href="Text/agri.html" id="agri.html" media-type="application/xhtml+xml"/>
+    <item href="Text/vaziyet.html" id="vaziyet.html" media-type="application/xhtml+xml"/>
+    <item href="Text/didem_madak_resim.html" id="didem_madak_resim.html" media-type="application/xhtml+xml"/>
+    <item href="Text/didemle_ilgili_seyler.html" id="didemle_ilgili_seyler.html" media-type="application/xhtml+xml"/>
+    <item href="Text/128_dikisli_siir.html" id="x128_dikisli_siir.html" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnotlar.html" id="dipnotlar.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Stylesheet.css" id="Stylesheet.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/didemmadak.jpg" id="didemmadak.jpg" media-type="image/jpeg"/>
+    <item href="Images/metis-logo.jpg" id="metis-logo.jpg" media-type="image/jpeg"/>
+    <item href="Images/metis.jpg" id="metis.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="biography.html"/>
+    <itemref idref="kunye.html"/>
+    <itemref idref="ickapak.html"/>
+    <itemref idref="icindekiler.html"/>
+    <itemref idref="ithaf.html"/>
+    <itemref idref="israr.html"/>
+    <itemref idref="epigraf.html"/>
+    <itemref idref="buyumus_cocuk_siiri.html"/>
+    <itemref idref="gecenin_cekmecesi.html"/>
+    <itemref idref="poset_sut.html"/>
+    <itemref idref="pulbiber_mahallesini_taniyalim.html"/>
+    <itemref idref="pulbiber_mahallesi_tarihi.html"/>
+    <itemref idref="mahallede_bomba_patliyor.html"/>
+    <itemref idref="bizden_baskalarina.html"/>
+    <itemref idref="sevincli_kedi.html"/>
+    <itemref idref="pespaye_kedinin_asaletini.html"/>
+    <itemref idref="catlaklarin_arasinda.html"/>
+    <itemref idref="karsiliksiz_hayat.html"/>
+    <itemref idref="karsiliksiz_devami.html"/>
+    <itemref idref="karsiliksiz_devami2.html"/>
+    <itemref idref="hatali_tesbihler.html"/>
+    <itemref idref="kaza_anilar.html"/>
+    <itemref idref="viraj.html"/>
+    <itemref idref="kendim_ettim_kendim_buldum.html"/>
+    <itemref idref="ardindan.html"/>
+    <itemref idref="yayincinin_notu.html"/>
+    <itemref idref="laterna.html"/>
+    <itemref idref="yagmur_ve_cilingir.html"/>
+    <itemref idref="agri.html"/>
+    <itemref idref="vaziyet.html"/>
+    <itemref idref="didem_madak_resim.html"/>
+    <itemref idref="didemle_ilgili_seyler.html"/>
+    <itemref idref="x128_dikisli_siir.html"/>
+    <itemref idref="dipnotlar.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="{69CC9CE4-18DF-4A09-87D4-FC9AB1109A4D}" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (2.47.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Şeftali Hırsızı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Şeftali Hırsızı</text>
+      </navLabel>
+      <content src="../main-baslik.xhtml#uPouqf9Pvuc6iNjWxljNvFD"/>
+      <navPoint id="num_2" playOrder="2">
+        <navLabel>
+          <text>Bir</text>
+        </navLabel>
+        <content src="Text/main.xhtml#uPZzzx6Gap3zrvjYUbNbrGE"/>
+      </navPoint>
+      <navPoint id="num_3" playOrder="3">
+        <navLabel>
+          <text>İki</text>
+        </navLabel>
+        <content src="Text/main.xhtml#uDpb6aIeIHYecyvhBPMSaa3"/>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>Üç</text>
+        </navLabel>
+        <content src="Text/main.xhtml#uIOopmwJ4ZtdzpNPjjMHZm5"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>Dört</text>
+        </navLabel>
+        <content src="Text/main.xhtml#u6vydK7o7FIyMLWSlmn56x2"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>Beş</text>
+        </navLabel>
+        <content src="Text/main.xhtml#ucJM3lYomrmepdBHQndUKL6"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>Altı</text>
+        </navLabel>
+        <content src="Text/main.xhtml#uX8PbQPQz8JDNzNKR3WaCJB"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>Yedi</text>
+        </navLabel>
+        <content src="Text/main.xhtml#ufDbp5JMggoyxPj7ma4Mxv6"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>Sekiz</text>
+        </navLabel>
+        <content src="Text/main.xhtml#uwwuDVbZL9jnvzZhVKj2xS4"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>Dokuz</text>
+        </navLabel>
+        <content src="Text/main.xhtml#uCGRNWyFCQkDiZn3USQFjNE"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>On</text>
+        </navLabel>
+        <content src="Text/main-1.xhtml#uR5C97wrztP4LETetYPd7c3"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>On Bir</text>
+        </navLabel>
+        <content src="Text/main-1.xhtml#uWvmgMCR2NJczbHBwclnE8B"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>On İki</text>
+        </navLabel>
+        <content src="Text/main-1.xhtml#ujFJJIjHKnHkuG3PFF8N8B4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>Sessiz Bir Akşam</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml#u6D5xHvo62ASuMe4Yek4P29"/>
+      <navPoint id="num_15" playOrder="15">
+        <navLabel>
+          <text>Bir</text>
+        </navLabel>
+        <content src="Text/main-1.xhtml#uNAllwbGoNla3ZFaAU5eZ6D"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>İki</text>
+        </navLabel>
+        <content src="Text/main-1.xhtml#uHw8JEeu9X77zsxies4ZEpA"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>Üç</text>
+        </navLabel>
+        <content src="Text/main-1.xhtml#ubUaYUHmFZzSFHuAqwaqASH"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>Yabancı</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml#uVyWlUpLA7EPVABBqVfzLAH"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>Kuşun Ölümü</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml#u54OBWcSFuYcrySMElMKEL6"/>
+    </navPoint>
+  </navMap>
+</ncx>

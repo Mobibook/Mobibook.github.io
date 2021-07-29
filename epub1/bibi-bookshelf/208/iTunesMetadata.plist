@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Leo Tolstoy</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>ADDB425A97CC40E00BF92BCA02ED2239</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>package-file-hash</key>
+		<string>0D3F8DB6F3ADC343735F809C4B322667</string>
+		<key>publisher-unique-id</key>
+		<string>dfd920c0-7eae-4997-ab9b-dd5e2244e803</string>
+		<key>unique-id</key>
+		<integer>-1110490832534321295</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Diriliş</string>
+	<key>playlistName</key>
+	<string>Diriliş</string>
+	<key>releaseDate</key>
+	<string>2011-03-18T11:27:54+00:00</string>
+	<key>sort-artist</key>
+	<string>Tolstoy, Leo</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

@@ -1,0 +1,100 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Grapon Kağıtları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Madak, Didem">Didem Madak</dc:creator>
+    <dc:publisher>Metis Yayıncılık</dc:publisher>
+    <dc:type>Şiir</dc:type>
+    <dc:description>Bu kitapta yer alan şahıs ve mekânların gerçekle alâkaları tamdır. Kahramanları hep yanlış ata oynayanlardır. Kediler, kadınlar, muhabbet kuşları, gözyaşları... hepsi sahiden vardır ve bir dönem yaşamışlardır. Şiirden hazzetmeyenler, Grapon Kâğıtları'nı yılbaşı ve diğer ehemmiyetli günlerde evi süslemek için kullanabilirler ya da ruh çağırma seansında, inatçı ruhlara uyduruk şarkılar olarak mırıldanabilirler.
+
+-Didem Madak</dc:description>
+    <dc:date>2016-06-12T21:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e558b823-e886-4545-a5ad-bfb4a17b83ef</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.69.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">faaa4c83-776f-4ad5-a71a-f6843fcf5037</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753428767</dc:identifier>
+    <meta content="0.9.5" name="Sigil version"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Grapon Kağıtları"/>
+    <meta name="calibre:author_link_map" content="{&quot;Didem Madak&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.html" id="yazar.html" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.html" id="kunye.html" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.html" id="ickapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.html" id="ithaf.html" media-type="application/xhtml+xml"/>
+    <item href="Text/icimdekiler.html" id="icimdekiler.html" media-type="application/xhtml+xml"/>
+    <item href="Text/epigraf.html" id="epigraf.html" media-type="application/xhtml+xml"/>
+    <item href="Text/ay_isila_sigismisti.html" id="ay_isila_sigismisti.html" media-type="application/xhtml+xml"/>
+    <item href="Text/annemle_ilgili_seyler.html" id="annemle_ilgili_seyler.html" media-type="application/xhtml+xml"/>
+    <item href="Text/mutsuza_kim_bakacak.html" id="mutsuza_kim_bakacak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/kurabiye.html" id="kurabiye.html" media-type="application/xhtml+xml"/>
+    <item href="Text/kac_zamandan.html" id="kac_zamandan.html" media-type="application/xhtml+xml"/>
+    <item href="Text/yuzum_guvercinlere_emanet.html" id="yuzum_guvercinlere_emanet.html" media-type="application/xhtml+xml"/>
+    <item href="Text/cevsenul-kebir.html" id="cevsenul-kebir.html" media-type="application/xhtml+xml"/>
+    <item href="Text/mr_parkinson.html" id="mr_parkinson.html" media-type="application/xhtml+xml"/>
+    <item href="Text/enkaz1.html" id="enkaz1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/enkaz2.html" id="enkaz2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/enkaz3.html" id="enkaz3.html" media-type="application/xhtml+xml"/>
+    <item href="Text/enkaz4.html" id="enkaz4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/enkaz5.html" id="enkaz5.html" media-type="application/xhtml+xml"/>
+    <item href="Text/kurbati.html" id="kurbati.html" media-type="application/xhtml+xml"/>
+    <item href="Text/biktigim_seyler_ve_yesil_fanila.html" id="biktigim_seyler_ve_yesil_fanila.html" media-type="application/xhtml+xml"/>
+    <item href="Text/simdiden_bir_hatirasin.html" id="simdiden_bir_hatirasin.html" media-type="application/xhtml+xml"/>
+    <item href="Text/cicekli_siirler_yazmak_istiyorum_bayim.html" id="cicekli_siirler_yazmak_istiyorum_bayim.html" media-type="application/xhtml+xml"/>
+    <item href="Text/irisin_olumu.html" id="irisin_olumu.html" media-type="application/xhtml+xml"/>
+    <item href="Text/bugu1.html" id="bugu1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/bugu2.html" id="bugu2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/bugu3.html" id="bugu3.html" media-type="application/xhtml+xml"/>
+    <item href="Text/kedilerin_aliskanliklari.html" id="kedilerin_aliskanliklari.html" media-type="application/xhtml+xml"/>
+    <item href="Text/calikusunun_z_raporu.html" id="calikusunun_z_raporu.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pollyanna1.html" id="pollyanna1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pollyanna2.html" id="pollyanna2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pollyanna3.html" id="pollyanna3.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="yazar.html"/>
+    <itemref idref="kunye.html"/>
+    <itemref idref="ickapak.html"/>
+    <itemref idref="ithaf.html"/>
+    <itemref idref="icimdekiler.html"/>
+    <itemref idref="epigraf.html"/>
+    <itemref idref="ay_isila_sigismisti.html"/>
+    <itemref idref="annemle_ilgili_seyler.html"/>
+    <itemref idref="mutsuza_kim_bakacak.html"/>
+    <itemref idref="kurabiye.html"/>
+    <itemref idref="kac_zamandan.html"/>
+    <itemref idref="yuzum_guvercinlere_emanet.html"/>
+    <itemref idref="cevsenul-kebir.html"/>
+    <itemref idref="mr_parkinson.html"/>
+    <itemref idref="enkaz1.html"/>
+    <itemref idref="enkaz2.html"/>
+    <itemref idref="enkaz3.html"/>
+    <itemref idref="enkaz4.html"/>
+    <itemref idref="enkaz5.html"/>
+    <itemref idref="kurbati.html"/>
+    <itemref idref="biktigim_seyler_ve_yesil_fanila.html"/>
+    <itemref idref="simdiden_bir_hatirasin.html"/>
+    <itemref idref="cicekli_siirler_yazmak_istiyorum_bayim.html"/>
+    <itemref idref="irisin_olumu.html"/>
+    <itemref idref="bugu1.html"/>
+    <itemref idref="bugu2.html"/>
+    <itemref idref="bugu3.html"/>
+    <itemref idref="kedilerin_aliskanliklari.html"/>
+    <itemref idref="calikusunun_z_raporu.html"/>
+    <itemref idref="pollyanna1.html"/>
+    <itemref idref="pollyanna2.html"/>
+    <itemref idref="pollyanna3.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

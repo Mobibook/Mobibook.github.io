@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Stanev, Emilian">Emilian Stanev</dc:creator>
+<dc:identifier id="uuid">{69CC9CE4-18DF-4A09-87D4-FC9AB1109A4D}</dc:identifier>
+    <dc:date>1974-01-29T22:00:00+00:00</dc:date>
+    <meta content="0.8.1" name="Sigil version"/>
+    <meta name="cover" content="cover"/>
+  <meta name="calibre:title_sort" content="Şeftali Hırsızı"/>
+<dc:publisher>HÜR Yayınevi</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:description>&lt;div style="widows: 1;"&gt;&lt;font color="#333333" face="Verdana, Arial, sans-serif" size="2"&gt;&lt;span style="line-height: 18px;"&gt;A wife of a Bulgarian Army officer falls in love with a Serbian prisoner at the end of World war I.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:author_link_map" content="{&quot;Emilian Stanev&quot;: &quot;&quot;}"/>
+<dc:title>Şeftali Hırsızı</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Edebiyat</dc:subject>
+<dc:subject>Çeviri</dc:subject>
+<dc:subject>bulgar edebiyatı</dc:subject>
+<dc:subject>klasikleri</dc:subject>
+<dc:subject>Tarih</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">728684f5-4f40-45f4-8c50-e60fde2b9de3</dc:identifier>
+<dc:identifier opf:scheme="ISBN-10">030493271X ISBN-13: 978-0304932719</dc:identifier>
+<meta name="calibre:user_metadata:#turkce" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#turkce&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;column&quot;: &quot;value&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;turkce&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;edebiyat tr&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id3" media-type="text/css"/>
+    <item href="sh.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="../main-baslik.xhtml" id="id" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+  </spine>
+<guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+</guide>
+</package>

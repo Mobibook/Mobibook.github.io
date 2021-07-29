@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{6712B641-B29C-417C-8BB3-586801D0AD76}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Êmile Zola - Şuçluyorum</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>SUÇLUYORUM</text>
+      </navLabel>
+      <content src="Text/S-001.xhtml#sigil_toc_id_1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Sunuş</text>
+        </navLabel>
+        <content src="Text/S-006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Öncesi</text>
+        </navLabel>
+        <content src="Text/S-008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Suçluyorum!..</text>
+        </navLabel>
+        <content src="Text/S-014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Sonrası</text>
+        </navLabel>
+        <content src="Text/S-015.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

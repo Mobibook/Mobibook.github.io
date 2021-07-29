@@ -1,0 +1,69 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Card, Orson Scott">Orson Scott Card</dc:creator>
+<dc:identifier id="uuid">{BFB4FC6E-B6C8-474B-BCB0-7D7840B54E01}</dc:identifier>
+    <dc:date>2016-04-15T21:00:00+00:00</dc:date>
+    <dc:publisher>Altıkırkbeş Yayın</dc:publisher>
+    <dc:description>&lt;p&gt;Zeck Morgan, ufak bir cemaatin liderinin en büyük oğludur. Diğer çocuklardan farkı bir savant olmasıdır. Gördüğü veya okuduğu hiçbir şeyi unutmayan Zeck'i Ordu'nun saflarına katmak için görevliler bunu gayet iyi bilmektedirler. Tanrı'nın gözünde arınmış olması için babasından düzenli olarak kırbaç yiyen Zeck, pasifizmini korumayı kışlada da sürdürmek niyetindedir, görevlilerle işbirliği yapmaz ancak gene de 9 yaşında askere alınır. Ender ve diğer üstün zekalı çocuklarla insan ırkının geleceğini korumak için eğitim almaya giden Zeck Savaş okulunda dini ve kültürel kimlikleri ayrıştıracak bir krize sebep olacaktır...&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.54.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="0.8.901" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Savaş Okulunda Yılbaşı"/>
+    <meta name="calibre:series" content="Ender Serisi"/>
+    <meta name="calibre:series_index" content="5.0"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Orson Scott Card&quot;: &quot;&quot;}"/>
+  <dc:title>Savaş Okulunda Yılbaşı</dc:title>
+<dc:subject>Bilim Kurgu</dc:subject>
+<dc:subject>Logolu</dc:subject>
+<dc:language>tr-TR</dc:language>
+<dc:identifier opf:scheme="calibre">695a8fb4-58bf-4381-ba9f-b6e57467970d</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Logo.xhtml" id="Logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yayınevi Logo.xhtml" id="Yayınevi_Logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Kunye.xhtml" id="Kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/İc Kapak.xhtml" id="İc_Kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-01.xhtml" id="B-01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-02.xhtml" id="B-02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-03.xhtml" id="B-03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-04.xhtml" id="B-04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-05.xhtml" id="B-05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-06.xhtml" id="B-06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-07.xhtml" id="B-07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-08.xhtml" id="B-08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-09.xhtml" id="B-09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-10.xhtml" id="B-10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id8" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/ege0.5.css" id="ege0.5.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/ekdg-logo.png" id="ekdg-logo.png" media-type="image/png"/>
+    <item href="Images/main-2.jpg" id="main-2.jpg" media-type="image/jpeg"/>
+    <item href="Fonts/Bookerly-Bold.ttf" id="Bookerly-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Bookerly-BoldItalic.ttf" id="Bookerly-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Bookerly-Regular.ttf" id="Bookerly-Regular.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Bookerly-RegularItalic.ttf" id="Bookerly-RegularItalic.ttf" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="id8">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Logo.xhtml"/>
+    <itemref idref="Yayınevi_Logo.xhtml"/>
+    <itemref idref="Kunye.xhtml"/>
+    <itemref idref="İc_Kapak.xhtml"/>
+    <itemref idref="B-01.xhtml"/>
+    <itemref idref="B-02.xhtml"/>
+    <itemref idref="B-03.xhtml"/>
+    <itemref idref="B-04.xhtml"/>
+    <itemref idref="B-05.xhtml"/>
+    <itemref idref="B-06.xhtml"/>
+    <itemref idref="B-07.xhtml"/>
+    <itemref idref="B-08.xhtml"/>
+    <itemref idref="B-09.xhtml"/>
+    <itemref idref="B-10.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Wilde, Oscar">Oscar Wilde</dc:creator>
+<dc:date>2010-02-05T22:00:00+00:00</dc:date>
+    <dc:identifier id="pub-id">urn:isbn:9789750720970</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor id="translator">Roza Hakmen</dc:contributor>
+    <meta name="cover" content="image__coverjpg"/>
+    <meta content="De Profundis" name="calibre:title_sort"/>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Oscar Wilde&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-05-27</dc:date>
+  <dc:title>De Profundis</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Anı</dc:subject>
+<dc:subject>Mektup</dc:subject>
+<dc:subject>Günlük</dc:subject>
+<dc:description>&lt;p&gt;Fırtınalı yaşamı boyunca her davranışıyla ya bir skandal ya da bir akım yaratan, her sözü bir özdeyiş haline gelen Oscar Wilde'ın Alfred Douglas'la yakın dostluğu, Douglas'ın babası Queensberry Markisi'ni çok kızdırmıştı. Marki tarafından eşcinsellikle suçlanan Wilde, dostlarının Fransa'ya kaçması için yaptıkları uyarılara karşın kaçmamakta direnince, tutuklanarak mahkemeye çıkarılmış, parlak ifadesine karşın suçlu bulunarak iki yıl hapis cezasına çarptırılmıştı. Cezasının büyük bölümünü geçirdiği Reading Hapisha­nesi'nden Douglas'a yazdığı mektup, kendisini sefahate sürüklediği ve sonra da sahip çıkmadığı için genç adama yönelttiği suçlamalarla doluydu. Wilde'ın mektubu Douglas'ın eline geçmedi, ancak 1905'te De Profundis adıyla yayımlandıktan sonra gerçek okuruna ulaşabildi.
+
+Edebiyat tarihinin bu ünlü mektubunu, yazarın yakın dostu ve hayranı André Gide'in anıları eşliğinde ve Roza Hakmen'in benzersiz çevirisiyle sunuyoruz.&lt;/p&gt;</dc:description>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">83d4f24f-3094-4dd5-91f2-d603762ec4eb</dc:identifier>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789750720970</dc:identifier>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9789750720970</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/books.xhtml" id="booksxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/preface.xhtml" id="prefacexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="booksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="prefacexhtml"/>
+    <itemref idref="chapter1xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="Perec, Georges" opf:role="aut">Georges Perec</dc:creator>
+    <dc:language>tr</dc:language>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:title>Doğdum</dc:title>
+    <meta content="Doğdum" name="calibre:title_sort" />
+    <dc:contributor opf:role="bkp">calibre (2.18.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>YKY</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">ffd6f900-5198-44eb-822d-b737f55b6f31</dc:identifier>
+    <dc:identifier opf:scheme="calibre">ffd6f900-5198-44eb-822d-b737f55b6f31</dc:identifier>
+    <dc:description>&lt;div&gt;&lt;div&gt;"Ben ailemin konuştuğu dili konuşmuyorum, onların sahip oldukları hiçbir anıyı paylaşmıyorum. Onlara ait olan, onları onlar yapan şeyler, tarihleri, kültürleri, inançları, umutları bana aktarılmadı. Mülksüzleştirildiğimin bilincinde oluşumda hiçbir nostaljı duygusu, sırf Yahudi olduğu için bana daha yakın olabilecek şeylere karşı hiçbir özel düşkünlüğüm yok. Ben yıllardır ailemin tarihçesini yazıyor, o sürekli parçalanmayı yeniden çizmeye çalışıyorum".&lt;/div&gt;&lt;div&gt;Otobiyografi denemeleri, yazınsal projeler, toplantı tutanakları, kısa anlatılar ve eleştiri notlarından oluşan bu metinler, Georges Perec'in en önemli kitaplarını nasıl kurduğuna, geçmiş günlerinden bazılarını nasıl yaşadığına tanıklık etmekle kalmıyor. Dökümler çıkarmanın, mekanları, tüketilen yiyecekleri, dilekleri ve tasarıları sürekli not etmenin, Georges Perec'in yazınsal oyunlarının ötesinde, bir kimlik ve köken arayışına bağlandığının birer kanıtı Doğdum'daki metinler. Göç ve kaçış, sürgün ve kopma, bellek ve hatıra, doğum ve aidiyet gibi temalar etrafında dönerken, geçmişte yitirilenlerle gelen bir unutma, unutulma ve kimliksizlik kaygısına gelip dayanıyorlar.&lt;/div&gt;&lt;div&gt;Doğdum, hem yazınsal hem de yaşamsal süreçlere ışık tutuyor.&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <meta name="cover" content="cover" />
+    <meta content="2015-02-07T12:41:46.619000+00:00" name="calibre:timestamp" />
+    <meta content="0.7.4" name="Sigil version" />
+    <dc:date opf:event="modification">2015-02-07</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg" />
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml" />
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml" />
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="main.xhtml" />
+    <itemref idref="Section0001.xhtml" />
+    <itemref idref="Section0002.xhtml" />
+    <itemref idref="Section0003.xhtml" />
+    <itemref idref="Section0004.xhtml" />
+    <itemref idref="Section0005.xhtml" />
+    <itemref idref="id1" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

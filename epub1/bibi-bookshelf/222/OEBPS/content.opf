@@ -1,0 +1,77 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Perinçek, Doğu">Doğu Perinçek</dc:creator>
+<dc:publisher>Kaynak Yayınları</dc:publisher>
+    <dc:date>2012-09-02T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:68C2DC58-AF23-4148-B2C4-4BF7CC65F74F</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-11-30</dc:date>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="kapak_fmt.png"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Mafyokrasi"/>
+    <meta name="calibre:author_link_map" content="{&quot;Doğu Perinçek&quot;: &quot;&quot;}"/>
+  <dc:title>Mafyokrasi</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Siyasi</dc:subject>
+<dc:description>&lt;p&gt;Elinizdeki kitap, emperyalist-kapitalist sistemin mafyalaşması üzerine on yıllık bir araştırma ve çabanın ürünü. Doğu Perinçek, "Hangi çağdayız? İnsanlık kapitalizmin ya da 'Modernizmin' ötesine mi geçti? Söylendiği gibi, gerçekten 'Bilgi çağı' diye bir zamana mı geldik? Yoksa emperyalizm çağının son demlerini mi yaşıyoruz?" temel sorularına net yanıtlar veriyor: 
+"Lenin'in kapitalizmin son aşaması dediği emperyalizmin üretimle ve insanla çelişmesi, bir çözüm noktasına ilerlemektedir. Mafyalaşma, kapitalizmin son aşaması olan emperyalizm döneminin son aşamısıdır. Yani: son aşamasının son aşaması!"&lt;/p&gt;</dc:description>
+<dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">0262c21a-6427-48b9-a494-d6729d357c67</dc:identifier>
+<dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">2789785897408</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/1_fmt.png" id="x1_fmt.png" media-type="image/png"/>
+    <item href="Images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="Images/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/2_fmt.png" id="x2_fmt.png" media-type="image/png"/>
+    <item href="Images/3_fmt.png" id="x3_fmt.png" media-type="image/png"/>
+    <item href="Images/4_fmt.png" id="x4_fmt.png" media-type="image/png"/>
+    <item href="Images/5_fmt.png" id="x5_fmt.png" media-type="image/png"/>
+    <item href="Images/6_fmt.png" id="x6_fmt.png" media-type="image/png"/>
+    <item href="Images/7_fmt.png" id="x7_fmt.png" media-type="image/png"/>
+    <item href="Images/kapak_fmt.png" id="kapak_fmt.png" media-type="image/png"/>
+    <item href="Fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/MinionPro-BoldIt.otf" id="MinionPro-BoldIt.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/MinionPro-It.otf" id="MinionPro-It.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Text/4_split1.html" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/4_split2.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/4_split3.html" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/4_split4.html" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/4_split5.html" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/4_split6.html" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/4_split7.html" id="id6" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="id"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id4"/>
+    <itemref idref="id3"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

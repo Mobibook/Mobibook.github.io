@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="e558b823-e886-4545-a5ad-bfb4a17b83ef" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Grapon Kağıtları</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İÇİMDEKİLER</text>
+      </navLabel>
+      <content src="Text/icimdekiler.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>AY IŞIL’A SIĞIŞMIŞTI</text>
+      </navLabel>
+      <content src="Text/ay_isila_sigismisti.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>ANNEMLE İLGİLİ ŞEYLER</text>
+      </navLabel>
+      <content src="Text/annemle_ilgili_seyler.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>MUTSUZA KİM BAKACAK?</text>
+      </navLabel>
+      <content src="Text/mutsuza_kim_bakacak.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>KURABİYE</text>
+      </navLabel>
+      <content src="Text/kurabiye.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>KAÇ ZAMANDAN</text>
+      </navLabel>
+      <content src="Text/kac_zamandan.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>YÜZÜM GÜVERCİMLERE EMANET</text>
+      </navLabel>
+      <content src="Text/yuzum_guvercinlere_emanet.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>CEVŞENÜL-KEBİR</text>
+      </navLabel>
+      <content src="Text/cevsenul-kebir.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>MR. PARKINSON</text>
+      </navLabel>
+      <content src="Text/mr_parkinson.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>ENKAZ KALDIRMA ÇALIŞMALARI</text>
+      </navLabel>
+      <content src="Text/enkaz1.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>KURBATİ</text>
+      </navLabel>
+      <content src="Text/kurbati.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>BIKTIĞIM ŞEYLER VE YEŞİL FANİLA</text>
+      </navLabel>
+      <content src="Text/biktigim_seyler_ve_yesil_fanila.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>ŞİMDİDEN BİR HATIRASIN</text>
+      </navLabel>
+      <content src="Text/simdiden_bir_hatirasin.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>ÇİÇEKLİ ŞİİRLER YAZMAK İSTİYORUM BAYIM!</text>
+      </navLabel>
+      <content src="Text/cicekli_siirler_yazmak_istiyorum_bayim.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>İRİS’İN ÖLÜMÜ</text>
+      </navLabel>
+      <content src="Text/irisin_olumu.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>BUĞU</text>
+      </navLabel>
+      <content src="Text/bugu1.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>KEDİLERİN ALIŞKANLIKLARI</text>
+      </navLabel>
+      <content src="Text/kedilerin_aliskanliklari.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>ÇALIKUŞU’NUN Z RAPORU</text>
+      </navLabel>
+      <content src="Text/calikusunun_z_raporu.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>POLLYANNA’YA MEKTUPLAR</text>
+      </navLabel>
+      <content src="Text/pollyanna1.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

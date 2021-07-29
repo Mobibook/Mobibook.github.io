@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Perinçek, Doğu">Doğu Perinçek</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:e3e02721-e1c1-4862-99d3-54de8a8115a9</dc:identifier>
+    <dc:date>2002-11-29T22:00:00+00:00</dc:date>
+    <dc:publisher>Kaynak Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Aydın kavramının nesnelliği, aydının doğuşu, ilk aydınlar: Enbiya ve evliya, aydının yapıtaşları: İdeoloji ve işlev, aydın ile kafa emekçisi farkı, hakim sınıf aydınının 'asil yalanları', devrimci sınıf-devrimci aydın, kitle hareketi-aydın diyalektiği, 'bağımsız' ve 'özerk aydın', örgütlenme ve aydın, aydın metafizikleri: Düşüncenin, aklın ve kültürün idealleştirilmesi. Kültür ve uygarlık nedir, sınıfsal karakterleri, ulusal kültür-uluslararası kültür, kabile kültürünün, feodal ve kapitalist kültürün evrenselliği, ulusun ve Türk ulusunun yaratıcısı, ulus kurgusundaki gerçeklik ve yanılsama, ulusun mayasındaki ruh, yabancı kültürün yerlileşmesi, küreselleşme ve işçi sınıfının uluslararası kültürü. Doğu kültürü-Batı kültürü, oriyentalizm, Doğu-Batı ayrımının emperyalist karakteri, insanlığın ortak gelişme yatağı ve Doğu'nun dinamizmi, ileri-geri diyalektiği, Türkiye'nin batılılaşma çıkazı.&lt;/p&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="KAPAK_fmt.png"/>
+    <meta name="calibre:title_sort" content="Aydın ve Kültür"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Doğu Perinçek&quot;: &quot;&quot;}"/>
+  <dc:title>Aydın ve Kültür</dc:title>
+<dc:subject>Kültür</dc:subject>
+<dc:subject>Sosyoloji</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">e9e1b88c-cc38-4920-aedf-2a4968552e3a</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753431163</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3.html" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="template.css" media-type="text/css"/>
+    <item href="Images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="Images/a.png" id="amblem.png" media-type="image/png"/>
+    <item href="Images/KAPAK_fmt.png" id="KAPAK_fmt.png" media-type="image/png"/>
+    <item href="Fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/MinionPro-It.otf" id="MinionPro-It.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Text/4_split1.html" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/4_split2.html" id="id1" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1.html"/>
+    <itemref idref="x2.html"/>
+    <itemref idref="x3.html"/>
+    <itemref idref="x4.html"/>
+    <itemref idref="id"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

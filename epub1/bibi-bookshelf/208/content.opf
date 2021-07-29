@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Tolstoy, Leo">Leo Tolstoy</dc:creator>
+<meta name="calibre:title_sort" content="Diriliş"/>
+    <dc:language>tr</dc:language>
+    <meta name="calibre:timestamp" content="2011-03-18T11:27:54.000003+00:00"/>
+    <dc:title>Diriliş</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2011-03-18T11:27:54+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.7.48) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">dfd920c0-7eae-4997-ab9b-dd5e2244e803</dc:identifier>
+  <opf:meta name="calibre:user_categories" content="{}"/>
+</metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="stylesheet1.css" id="css1" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="tolstoy_dirilis_split_000.htm" id="tolstoy_dirilis16" media-type="application/xhtml+xml"/>
+    <item href="tolstoy_dirilis_split_001.htm" id="tolstoy_dirilis15" media-type="application/xhtml+xml"/>
+    <item href="tolstoy_dirilis_split_002.htm" id="tolstoy_dirilis14" media-type="application/xhtml+xml"/>
+    <item href="tolstoy_dirilis_split_003.htm" id="tolstoy_dirilis13" media-type="application/xhtml+xml"/>
+    <item href="tolstoy_dirilis_split_004.htm" id="tolstoy_dirilis12" media-type="application/xhtml+xml"/>
+    <item href="tolstoy_dirilis_split_005.htm" id="tolstoy_dirilis11" media-type="application/xhtml+xml"/>
+    <item href="tolstoy_dirilis_split_006.htm" id="tolstoy_dirilis10" media-type="application/xhtml+xml"/>
+    <item href="tolstoy_dirilis_split_007.htm" id="tolstoy_dirilis9" media-type="application/xhtml+xml"/>
+    <item href="tolstoy_dirilis_split_008.htm" id="tolstoy_dirilis8" media-type="application/xhtml+xml"/>
+    <item href="tolstoy_dirilis_split_009.htm" id="tolstoy_dirilis7" media-type="application/xhtml+xml"/>
+    <item href="tolstoy_dirilis_split_010.htm" id="tolstoy_dirilis6" media-type="application/xhtml+xml"/>
+    <item href="tolstoy_dirilis_split_011.htm" id="tolstoy_dirilis5" media-type="application/xhtml+xml"/>
+    <item href="tolstoy_dirilis_split_012.htm" id="tolstoy_dirilis4" media-type="application/xhtml+xml"/>
+    <item href="tolstoy_dirilis_split_013.htm" id="tolstoy_dirilis3" media-type="application/xhtml+xml"/>
+    <item href="tolstoy_dirilis_split_014.htm" id="tolstoy_dirilis2" media-type="application/xhtml+xml"/>
+    <item href="tolstoy_dirilis_split_015.htm" id="tolstoy_dirilis1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="tolstoy_dirilis16"/>
+    <itemref idref="tolstoy_dirilis15"/>
+    <itemref idref="tolstoy_dirilis14"/>
+    <itemref idref="tolstoy_dirilis13"/>
+    <itemref idref="tolstoy_dirilis12"/>
+    <itemref idref="tolstoy_dirilis11"/>
+    <itemref idref="tolstoy_dirilis10"/>
+    <itemref idref="tolstoy_dirilis9"/>
+    <itemref idref="tolstoy_dirilis8"/>
+    <itemref idref="tolstoy_dirilis7"/>
+    <itemref idref="tolstoy_dirilis6"/>
+    <itemref idref="tolstoy_dirilis5"/>
+    <itemref idref="tolstoy_dirilis4"/>
+    <itemref idref="tolstoy_dirilis3"/>
+    <itemref idref="tolstoy_dirilis2"/>
+    <itemref idref="tolstoy_dirilis1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

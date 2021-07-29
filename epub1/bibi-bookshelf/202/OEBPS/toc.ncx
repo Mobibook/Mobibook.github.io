@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{1F62F7EE-5317-4B3E-A4E2-541A84D1DDFA}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Pulbiber Mahallesi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İÇİNDEKİLER</text>
+      </navLabel>
+      <content src="Text/icindekiler.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>PULBİBER MAHALLESİ</text>
+      </navLabel>
+      <content src="Text/ithaf.html"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>BÜYÜMÜŞ ÇOCUK ŞİİRİ</text>
+        </navLabel>
+        <content src="Text/buyumus_cocuk_siiri.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>GECENİN ÇEKMECESİ</text>
+        </navLabel>
+        <content src="Text/gecenin_cekmecesi.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>POŞET SÜT</text>
+        </navLabel>
+        <content src="Text/poset_sut.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>PULBİBER MAHALLESİNİ TANIYALIM</text>
+        </navLabel>
+        <content src="Text/pulbiber_mahallesini_taniyalim.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>PULBİBER MAHALLESİ TARİHİ</text>
+        </navLabel>
+        <content src="Text/pulbiber_mahallesi_tarihi.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>MAHALLEDE BOMBA PATLIYOR</text>
+        </navLabel>
+        <content src="Text/mahallede_bomba_patliyor.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>BİZDEN BAŞKALARINA, ONLARA, ÇOCUKLARA</text>
+        </navLabel>
+        <content src="Text/bizden_baskalarina.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>SEVİNÇLİ KEDİ</text>
+        </navLabel>
+        <content src="Text/sevincli_kedi.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>PESPAYE KEDİNİN ASALETİNİ ANLATAN SATIRLAR BURADA BAŞLAMAKTADIR:</text>
+        </navLabel>
+        <content src="Text/pespaye_kedinin_asaletini.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>ÇATLAKLARIN ARASINDA</text>
+        </navLabel>
+        <content src="Text/catlaklarin_arasinda.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>KARŞILIKSIZ HAYAT</text>
+        </navLabel>
+        <content src="Text/karsiliksiz_hayat.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>HATALI TEŞBİHLER</text>
+        </navLabel>
+        <content src="Text/hatali_tesbihler.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>KAZA ANILAR</text>
+        </navLabel>
+        <content src="Text/kaza_anilar.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>VİRAJ</text>
+        </navLabel>
+        <content src="Text/viraj.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>KENDİM ETTİM KENDİM BULDUM</text>
+        </navLabel>
+        <content src="Text/kendim_ettim_kendim_buldum.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>ARDINDAN</text>
+      </navLabel>
+      <content src="Text/ardindan.html"/>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>LATERNA</text>
+        </navLabel>
+        <content src="Text/laterna.html"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>YAĞMUR VE ÇİLİNGİR</text>
+        </navLabel>
+        <content src="Text/yagmur_ve_cilingir.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>AĞRI</text>
+        </navLabel>
+        <content src="Text/agri.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>VAZİYET</text>
+        </navLabel>
+        <content src="Text/vaziyet.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>"Didem’le ilgili şeyler..."</text>
+        </navLabel>
+        <content src="Text/didemle_ilgili_seyler.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>128 DİKİŞLİ ŞİİR</text>
+        </navLabel>
+        <content src="Text/128_dikisli_siir.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

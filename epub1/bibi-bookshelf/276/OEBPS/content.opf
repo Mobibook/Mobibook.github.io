@@ -1,0 +1,78 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Yılmaz, Emre">Emre Yılmaz</dc:creator>
+<dc:identifier id="uuid">{786849A3-2B23-42D8-8B95-B9CFC87DFBE4}</dc:identifier>
+    <meta name="cover" content="x62804_2.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>2004-09-10T21:00:00+00:00</dc:date>
+    <meta content="Şeytan'ın Fısıldadıkları" name="calibre:title_sort"/>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Emre Yılmaz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date opf:event="modification">2014-09-12</dc:date>
+  <dc:title>Şeytan'ın Fısıldadıkları</dc:title>
+<dc:publisher>Angora Kitapları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Roman</dc:subject>
+<dc:description>&lt;p&gt;"Gerçek mi?" 
+"Gerçek mi?" 
+Şimdiye kadar duyduğum en deli, en yürek titreten, en gönül karıştıran kahkahasını koyuverdi Şeytan. 
+
+"Ey insanoğlu sen, 
+her akşam şu dua ile yat en iyisi 
+"Yar bana bir rüya', 
+ve her sabah yine aynı dua ile uyan" 
+
+Ve birdenbire kesip alaycı kahkahalarını 
+gözlerini çevirdi yürğime, buz gibi bir sesle ekledi: 
+"En büyük uyuşturucu gerçekçiliktir."
+&lt;/p&gt;</dc:description>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">58a338f2-a772-4851-9f71-30234c8a6699</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789752870147</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/main-1.jpg" id="id1" media-type="image/jpeg"/>
+    <item href="Text/main-1.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/main-7.xhtml" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/main-8.xhtml" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/main-9.xhtml" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/main-10.xhtml" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/main-11.xhtml" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Text/main-12.xhtml" id="id30" media-type="application/xhtml+xml"/>
+    <item href="Text/main-13.xhtml" id="id31" media-type="application/xhtml+xml"/>
+    <item href="Text/main-14.xhtml" id="id32" media-type="application/xhtml+xml"/>
+    <item href="Text/main-15.xhtml" id="id33" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="id34" media-type="text/css"/>
+    <item href="toc.ncx" id="id35" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/62804_2.jpg" id="x62804_2.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id35">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

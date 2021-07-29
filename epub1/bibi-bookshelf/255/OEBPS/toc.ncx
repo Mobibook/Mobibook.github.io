@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{F2100172-3534-4B1E-BD81-F7BD9C260171}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Elias Canetti - Körleşme</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İÇ KAPAK</text>
+      </navLabel>
+      <content src="Text/ickapak.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>YENİ BASIMA ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM - DÜNYASIZ BİR KAFA</text>
+      </navLabel>
+      <content src="Text/P-001.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Gezinti</text>
+        </navLabel>
+        <content src="Text/P-001.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Giz</text>
+        </navLabel>
+        <content src="Text/P-001.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Konfüçyüs'ün Çöpçatanlığı</text>
+        </navLabel>
+        <content src="Text/P-001.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Midye Kabuğu</text>
+        </navLabel>
+        <content src="Text/P-001.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Göz Kamaştıran Eşyalar</text>
+        </navLabel>
+        <content src="Text/P-001.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Sevgili Hanımefendi</text>
+        </navLabel>
+        <content src="Text/P-001.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Seferberlik</text>
+        </navLabel>
+        <content src="Text/P-001.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Ölüm</text>
+        </navLabel>
+        <content src="Text/P-001.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Hasta Yatağı</text>
+        </navLabel>
+        <content src="Text/P-001.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Genç Aşk</text>
+        </navLabel>
+        <content src="Text/P-001.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Yehuda ile Mesih</text>
+        </navLabel>
+        <content src="Text/P-001.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Milyonluk Miras</text>
+        </navLabel>
+        <content src="Text/P-001.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Dayak</text>
+        </navLabel>
+        <content src="Text/P-001.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Taşlaşma</text>
+        </navLabel>
+        <content src="Text/P-001.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM - KAFASIZ BİR DÜNYA</text>
+      </navLabel>
+      <content src="Text/P-002.xhtml"/>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Cennetin Yıldızları</text>
+        </navLabel>
+        <content src="Text/P-002.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Kambur</text>
+        </navLabel>
+        <content src="Text/P-002.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Sonsuz Merhamet</text>
+        </navLabel>
+        <content src="Text/P-002.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Dörtler ve Gelecekleri</text>
+        </navLabel>
+        <content src="Text/P-002.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Açıklamalar</text>
+        </navLabel>
+        <content src="Text/P-002.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Açlık Ölümü</text>
+        </navLabel>
+        <content src="Text/P-002.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Gerçekleşme</text>
+        </navLabel>
+        <content src="Text/P-002.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Hırsız</text>
+        </navLabel>
+        <content src="Text/P-002.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Özel Mülkiyet</text>
+        </navLabel>
+        <content src="Text/P-002.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Düğme</text>
+        </navLabel>
+        <content src="Text/P-002.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM - KAFADAKİ DÜNYA</text>
+      </navLabel>
+      <content src="Text/P-003.xhtml"/>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>İyi Bir Aile Babası</text>
+        </navLabel>
+        <content src="Text/P-003.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Pantolonlar</text>
+        </navLabel>
+        <content src="Text/P-003.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Bir Akıl Hastanesi</text>
+        </navLabel>
+        <content src="Text/P-003.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Dolambaçlı Yollar</text>
+        </navLabel>
+        <content src="Text/P-003.xhtml#sigil_toc_id_31"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Açıkgöz Odysseus</text>
+        </navLabel>
+        <content src="Text/P-003.xhtml#sigil_toc_id_32"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Kırmızı Horoz</text>
+        </navLabel>
+        <content src="Text/P-003.xhtml#sigil_toc_id_33"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta name="calibre:title_sort" content="Eleanor H.Porter - Polyanna"/>
+    <dc:language>tr</dc:language>
+    <dc:title>Eleanor H. Porter - Polyanna</dc:title>
+    <meta name="calibre:timestamp" content="2014-07-02T12:01:56.510000+00:00"/>
+    <dc:creator opf:role="aut" opf:file-as="Eleanor H. Porter">Eleanor H. Porter</dc:creator>
+    <meta name="cover" content="cover"/>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.42.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">263baa41-3a05-4f20-b78f-0db715267d11</dc:identifier>
+    <dc:identifier opf:scheme="calibre">263baa41-3a05-4f20-b78f-0db715267d11</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover_image.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="fonts/Liberation-Serif.ttf" id="font" media-type="application/x-font-truetype"/>
+    <item href="index_split_000.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Title Page" type="cover"/>
+  </guide>
+</package>
+

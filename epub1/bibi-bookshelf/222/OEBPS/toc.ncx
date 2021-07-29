@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>BİRİNCİ BÖLÜM - EKONOMİ VE SİYASETTE MAFYALAŞMA</text>
+			</navLabel>
+			<content src="Text/4_split1.html#toc_marker-1"/>
+			<navPoint id="navpoint2" playOrder="2">
+				<navLabel>
+					<text>I. EMPERYALİST-KAPİTALİST SİSTEM</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-1-1"/>
+			</navPoint>
+			<navPoint id="navpoint3" playOrder="3">
+				<navLabel>
+					<text>II. EMPERYALİST SİSTEM İLE TÜRKİYE İLİŞKİLERİ</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-1-2"/>
+			</navPoint>
+			<navPoint id="navpoint4" playOrder="4">
+				<navLabel>
+					<text>III. SİSTEMİN MAFYALAŞMASI</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-1-3"/>
+			</navPoint>
+			<navPoint id="navpoint5" playOrder="5">
+				<navLabel>
+					<text>IV. STRATEJİ</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-1-4"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>İKİNCİ BÖLÜM - KÜRESELLEŞME VE MİLLÎ GÜVENLİK</text>
+			</navLabel>
+			<content src="Text/4_split2.html#toc_marker-2"/>
+			<navPoint id="navpoint7" playOrder="7">
+				<navLabel>
+					<text>I. KÜRESELLEŞME</text>
+				</navLabel>
+				<content src="Text/4_split2.html#toc_marker-2-1"/>
+			</navPoint>
+			<navPoint id="navpoint8" playOrder="8">
+				<navLabel>
+					<text>II. DÜNYADAKİ KAMPLAŞMA VE GÜVENLİK</text>
+				</navLabel>
+				<content src="Text/4_split2.html#toc_marker-2-2"/>
+			</navPoint>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>III. GÜVENLİK STRATEJİSİ</text>
+				</navLabel>
+				<content src="Text/4_split2.html#toc_marker-2-3"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>ÜÇÜNCÜ BÖLÜM - KÜRESEL MAFYANIN YEREL YÖNETİM SİSTEMİ</text>
+			</navLabel>
+			<content src="Text/4_split2.html#toc_marker-3"/>
+			<navPoint id="navpoint11" playOrder="11">
+				<navLabel>
+					<text>I. YEREL YÖNETİMLERİN YENİDEN DÜZENLENMESİ</text>
+				</navLabel>
+				<content src="Text/4_split2.html#toc_marker-3-1"/>
+			</navPoint>
+			<navPoint id="navpoint12" playOrder="12">
+				<navLabel>
+					<text>II. YENİ KAMU YÖNETİMİ DÜZENİNİN GETİRDİKLERİ</text>
+				</navLabel>
+				<content src="Text/4_split2.html#toc_marker-3-2"/>
+			</navPoint>
+			<navPoint id="navpoint13" playOrder="13">
+				<navLabel>
+					<text>III. “KAMU YÖNETİMİ REFORMU”NUN BÜYÜK ORTADOĞU PROJESİYLE BAĞLANTISI</text>
+				</navLabel>
+				<content src="Text/4_split2.html#toc_marker-3-3"/>
+			</navPoint>
+			<navPoint id="navpoint14" playOrder="14">
+				<navLabel>
+					<text>IV. TEK ÇÖZÜM: KEMALİST DEVRİM’İ TAMAMLAMAK</text>
+				</navLabel>
+				<content src="Text/4_split2.html#toc_marker-3-4"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint15" playOrder="15">
+			<navLabel>
+				<text>DÖRDÜNCÜ BÖLÜM - SİSTEMİN DENETİM AĞI: HAÇLI İRTİCA</text>
+			</navLabel>
+			<content src="Text/4_split3.html#toc_marker-4"/>
+			<navPoint id="navpoint16" playOrder="16">
+				<navLabel>
+					<text>
+I. DÜNYADA VE TÜRKİYE’DE GERİCİLİĞİN EKSENİ</text>
+				</navLabel>
+				<content src="Text/4_split3.html#toc_marker-4-1"/>
+			</navPoint>
+			<navPoint id="navpoint17" playOrder="17">
+				<navLabel>
+					<text>II. ABD’NİN TAYYİP OPERASYONU</text>
+				</navLabel>
+				<content src="Text/4_split3.html#toc_marker-4-2"/>
+			</navPoint>
+			<navPoint id="navpoint18" playOrder="18">
+				<navLabel>
+					<text>III. POWELL’IN İSLAM CUMHURİYETİ</text>
+				</navLabel>
+				<content src="Text/4_split3.html#toc_marker-4-3"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint19" playOrder="19">
+			<navLabel>
+				<text>BEŞİNCİ BÖLÜM - MAFYOKRASİNİN KAOSU DENETLEME ARAÇLARI: VATANSIZLIK VE ANARŞİZM</text>
+			</navLabel>
+			<content src="Text/4_split5.html#toc_marker-5"/>
+			<navPoint id="navpoint20" playOrder="20">
+				<navLabel>
+					<text>I. ANARŞİZMİN SERÜVENİ: SARAY SOYTARILIĞINDAN KÜRESELLEŞMENİN KIŞKIRTICI AJANLIĞINA</text>
+				</navLabel>
+				<content src="Text/4_split5.html#toc_marker-5-1"/>
+			</navPoint>
+			<navPoint id="navpoint21" playOrder="21">
+				<navLabel>
+					<text>II. ANARŞİZM NEDİR?</text>
+				</navLabel>
+				<content src="Text/4_split5.html#toc_marker-5-2"/>
+			</navPoint>
+			<navPoint id="navpoint22" playOrder="22">
+				<navLabel>
+					<text>III. KÜRESEL MAFYALAŞMA DÖNEMİNDE  ANARŞİZMİN GÖREVİ</text>
+				</navLabel>
+				<content src="Text/4_split4.html#toc_marker-5-3"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint23" playOrder="23">
+			<navLabel>
+				<text>ALTINCI BÖLÜM - ÖNÜMÜZDEKİ KAVŞAK</text>
+			</navLabel>
+			<content src="Text/4_split6.html#toc_marker-6"/>
+			<navPoint id="navpoint24" playOrder="24">
+				<navLabel>
+					<text>I. ALTI KESİŞEN</text>
+				</navLabel>
+				<content src="Text/4_split6.html#toc_marker-6-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint25" playOrder="25">
+			<navLabel>
+				<text>SONUÇ: KUŞATMA NEREDEN VE NASIL YARILIR</text>
+			</navLabel>
+			<content src="Text/4_split7.html#toc_marker-7"/>
+			<navPoint id="navpoint26" playOrder="26">
+				<navLabel>
+					<text>I. KUŞATILMIŞ TÜRKİYE</text>
+				</navLabel>
+				<content src="Text/4_split7.html#toc_marker-7-1"/>
+			</navPoint>
+			<navPoint id="navpoint27" playOrder="27">
+				<navLabel>
+					<text>II. İKTİDAR MEVZİLERİNDEN KUŞATMA</text>
+				</navLabel>
+				<content src="Text/4_split7.html#toc_marker-7-2"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint28" playOrder="28">
+			<navLabel>
+				<text>KUŞATILMIŞ TÜRKİYE</text>
+			</navLabel>
+			<content src="Text/4_split7.html#toc_marker-8"/>
+			<navPoint id="navpoint29" playOrder="29">
+				<navLabel>
+					<text>IV. ZAMAN DAR</text>
+				</navLabel>
+				<content src="Text/4_split4.html#toc_marker-8-1"/>
+			</navPoint>
+			<navPoint id="navpoint30" playOrder="30">
+				<navLabel>
+					<text>V. KUŞATMA NEREDEN YARILIR</text>
+				</navLabel>
+				<content src="Text/4_split4.html#toc_marker-8-2"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint31" playOrder="31">
+			<navLabel>
+				<text> KUŞATMA NEREDEN YARILIR?</text>
+			</navLabel>
+			<content src="Text/4_split4.html#toc_marker-9"/>
+			<navPoint id="navpoint32" playOrder="32">
+				<navLabel>
+					<text>VI. KUŞATMA NASIL YARILIR</text>
+				</navLabel>
+				<content src="Text/4_split4.html#toc_marker-9-1"/>
+			</navPoint>
+			<navPoint id="navpoint33" playOrder="33">
+				<navLabel>
+					<text>VII. MİLLÎ HÜKÜMET</text>
+				</navLabel>
+				<content src="Text/4_split4.html#toc_marker-9-2"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint34" playOrder="34">
+			<navLabel>
+				<text>MİLLÎ HÜKÜMETİN  PROGRAM VE STRATEJİSİ</text>
+			</navLabel>
+			<content src="Text/4_split7.html#toc_marker-10"/>
+		</navPoint>
+		<navPoint id="navpoint35" playOrder="35">
+			<navLabel>
+				<text>KİTABIN TEZLERİ</text>
+			</navLabel>
+			<content src="Text/4_split7.html#toc_marker-11"/>
+		</navPoint>
+	</navMap>
+</ncx>

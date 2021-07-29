@@ -1,0 +1,93 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Zola, Êmile">Êmile Zola</dc:creator>
+<dc:identifier id="uuid">{6712B641-B29C-417C-8BB3-586801D0AD76}</dc:identifier>
+    <dc:date>2007-05-02T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="x0.jpg"/>
+  <dc:title>Suçluyorum</dc:title>
+<meta name="calibre:title_sort" content="Suçluyorum"/>
+<dc:publisher>Can Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Fransız Edebiyatı</dc:subject>
+<dc:description>&lt;p&gt;19. yüzyıl sonları Fransa'sında, Yahudi kökenli bir subayın, Yüzbaşı Alfred Dreyfus'ün haksız yere casuslukla suçlanmasıyla patlak veren Dreyfus Davası, yalnızca bir hukuk ve ayrımcılık skandalı değil, aynı zamanda başta ordu ve yargı olmak üzere ülkenin tüm kurumlarını temellerinden sarsan bir toplum olayıydı. Tam 12 yıl sonra Dreyfus'ün aklanmasıyla sonuçlansa da, Üçüncü Cumhuriyet ve çağdaş Fransa'nın tarihinde önemli bir dönüm noktası oldu. Bu dava çevresinde gelişen çalkantıların keskinleştirdiği güçler dağılımı, kilise ve devlet işlerinin ayrılması gibi sarsıcı önlemlerin alınmasına, sağdaki milliyetçiler ile soldaki antimilitaristler arasında uzun sürecek bir bölünmenin doğmasına yol açtı.
+
+Büyük romancı Émile Zola, 13 Ocak 1898 günü bir gazetede yayınladığı Suçluyorum başlıklı açık mektubuyla, Dreyfus'e yapılan haksızlığın karşısına dikilen Fransız aydınlarının sözcüsü oldu. Artık bir klasik niteliği kazanan ve onurlu aydın başkaldırısının görkemli bir örneği olan Suçluyorum'u Tahsin Yücel'in çevirisi ve önsözüyle sunuyoruz.
+&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Êmile Zola&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">0a5089f8-5992-4c72-aff5-3675194537d2</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750708497</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/S-005.xhtml" id="S-005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-019.xhtml" id="S-019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id10" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/S-001.xhtml" id="S-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-002.xhtml" id="S-002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-003.xhtml" id="S-003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-004.xhtml" id="S-004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-007.xhtml" id="S-007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-012.xhtml" id="S-012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-014.xhtml" id="S-014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/CAN.bmp" id="CAN.bmp" media-type="image/bmp"/>
+    <item href="Images/0.jpg" id="x0.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/DiPNOTLAR.xhtml" id="DiPNOTLAR.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/R4.jpg" id="R4.jpg" media-type="image/jpeg"/>
+    <item href="Images/R5.jpg" id="R5.jpg" media-type="image/jpeg"/>
+    <item href="Text/S-013.xhtml" id="S-013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/R6.jpg" id="R6.jpg" media-type="image/jpeg"/>
+    <item href="Text/S-017.xhtml" id="S-017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-018.xhtml" id="S-018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-015.xhtml" id="S-015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-016.xhtml" id="S-016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-010.xhtml" id="S-010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-011.xhtml" id="S-011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-008.xhtml" id="S-008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-009.xhtml" id="S-009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-006.xhtml" id="S-006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/R1.jpg" id="R1.jpg" media-type="image/jpeg"/>
+    <item href="Images/R2.jpg" id="R2.jpg" media-type="image/jpeg"/>
+    <item href="Images/R3.jpg" id="R3.jpg" media-type="image/jpeg"/>
+    <item href="Images/1 - 0008.jpg" id="x1_-_0008.jpg" media-type="image/jpeg"/>
+    <item href="Images/1 - 0007.jpg" id="x1_-_0007.jpg" media-type="image/jpeg"/>
+    <item href="Images/1 - 0010.jpg" id="x1_-_0010.jpg" media-type="image/jpeg"/>
+    <item href="Images/1 - 0011.jpg" id="x1_-_0011.jpg" media-type="image/jpeg"/>
+    <item href="Images/1 - 0021.jpg" id="x1_-_0021.jpg" media-type="image/jpeg"/>
+    <item href="Images/1 - 0023.jpg" id="x1_-_0023.jpg" media-type="image/jpeg"/>
+    <item href="Styles/SM.css" id="SM.css" media-type="text/css"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id10">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="S-001.xhtml"/>
+    <itemref idref="S-002.xhtml"/>
+    <itemref idref="S-003.xhtml"/>
+    <itemref idref="S-004.xhtml"/>
+    <itemref idref="S-005.xhtml"/>
+    <itemref idref="S-006.xhtml"/>
+    <itemref idref="S-007.xhtml"/>
+    <itemref idref="S-008.xhtml"/>
+    <itemref idref="S-009.xhtml"/>
+    <itemref idref="S-010.xhtml"/>
+    <itemref idref="S-011.xhtml"/>
+    <itemref idref="S-012.xhtml"/>
+    <itemref idref="S-013.xhtml"/>
+    <itemref idref="S-014.xhtml"/>
+    <itemref idref="S-015.xhtml"/>
+    <itemref idref="S-016.xhtml"/>
+    <itemref idref="S-017.xhtml"/>
+    <itemref idref="S-018.xhtml"/>
+    <itemref idref="S-019.xhtml"/>
+    <itemref idref="DiPNOTLAR.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

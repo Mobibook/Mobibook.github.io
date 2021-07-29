@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Pamuk, Orhan">Orhan Pamuk</dc:creator>
+<dc:identifier id="uuid">{CEB89585-6CE0-43E2-B940-4E51CFE4EAA4}</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>2011-11-07T22:00:00+00:00</dc:date>
+  <dc:title>Saf ve Düşünceli Romancı</dc:title>
+<meta name="calibre:title_sort" content="Saf ve Düşünceli Romancı"/>
+<dc:publisher>İletişim Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>İnceleme</dc:subject>
+<dc:subject>Edebiyat</dc:subject>
+<dc:description>&lt;p&gt;Pamuk, yazı yazmanın ve romancılığın otuz beş yıllık meslek sırlarını, Harvard Üniversitesi’nde verdiği Norton derslerinde açıklıyor. Daha önce T. S. Eliot, Borges, Calvino ve Umberto Eco gibi yazarların da verdiği bu derslerde, Pamuk edebiyat ve sanat anlayışını bir bütün olarak sunuyor.
+
+Bir romanı okurken kafamızda ne gibi işlemler yaparız? Roman kahramanlarıyla gerçek insanlar arasındaki ilişki nedir? Roman sanatı ile şiirin, resmin ve siyasetin ilişkisi nedir? Yazarın kendi sesi, imzası, özel dünyası nasıl oluşur? Romancı nerede kendisini, nerede başkalarını anlatır? Romanı gerçek yapan “gizli merkez” nedir ve nasıl kurulur? Pamuk bütün hayatı boyunca meşgul olduğu bu soruları Türk ve dünya edebiyatından örneklerle cevaplıyor.
+Pamuk, bu kitapta roman okurken ve yazarken karşılaştığı harikaları, kendi kişisel deneyimleri ve hatıralarından aldığı güçle, herkesin anlayacağı bir konuşma dili ve rahatlığıyla hikâye ediyor.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Orhan Pamuk&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">7143112c-cc4d-408c-988c-c83d64a5ce2c</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main-title.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main-info.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id3" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

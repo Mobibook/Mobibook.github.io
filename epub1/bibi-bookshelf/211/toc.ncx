@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr-TR">
+<head><meta name="uid" content="{43BDAC4F-9D8C-43F1-8254-92F7A5B41520}"/></head>
+<docTitle><text>Dodie Smith - 101 Dalmacyalı e</text></docTitle>
+<navMap>
+<navPoint playOrder="1" id="{900463C0-27BD-4C5D-825E-DE000158DEC6}"><navLabel><text>ÇOCUK KLASİKLERİ</text></navLabel><content src="main-1.xhtml"/></navPoint>
+<navPoint playOrder="2" id="{F5C87188-C7FC-44D2-B44B-093805C591E1}"><navLabel><text>OALiyAAÇY ALI</text></navLabel><content src="main-2.xhtml"/></navPoint>
+</navMap></ncx>

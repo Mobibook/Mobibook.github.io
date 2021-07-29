@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr-TR">
+<head><meta content="{5D5FD2C2-741C-4DA0-B4C9-0F5442F2C443}" name="uid"/></head>
+<docTitle><text>Şeytanın Fısıldadıkları</text></docTitle>
+<navMap>
+
+<navPoint id="{21D2A2EE-D417-4738-83FC-A1B9C04407C0}" playOrder="2"><navLabel><text>Kötülük ve Kötülüğün Büyüsü</text></navLabel><content src="Text/main-1.xhtml"/></navPoint>
+<navPoint id="{3812B0D3-7FA2-4EDF-A13B-8FD00F891B17}" playOrder="3"><navLabel><text>Ahlâkın Altın Kuralı</text></navLabel><content src="Text/main-2.xhtml"/></navPoint>
+<navPoint id="{88E4527C-682F-4096-85D1-AE1049081A0C}" playOrder="4"><navLabel><text>iyilik, İyiler ve Hayırsever İşadamları</text></navLabel><content src="Text/main-3.xhtml"/></navPoint>
+<navPoint id="{0ADD6E30-4382-4F76-93A3-E83337D899E1}" playOrder="5"><navLabel><text>İkiyüzlülük, Sahtekârlık ve Yalancılık</text></navLabel><content src="Text/main-4.xhtml"/></navPoint>
+<navPoint id="{95879B97-B7C6-4021-A70B-DA5B8A0CE47A}" playOrder="6"><navLabel><text>Yüksek Sosyete</text></navLabel><content src="Text/main-5.xhtml"/></navPoint>
+<navPoint id="{763A6798-A872-48B0-8158-DED45A7E6F4A}" playOrder="7"><navLabel><text>Efendiler Sefaleti</text></navLabel><content src="Text/main-6.xhtml"/></navPoint>
+<navPoint id="{EE37965D-1791-4503-9F0C-0F315DDD3381}" playOrder="8"><navLabel><text>Çalışmak</text></navLabel><content src="Text/main-7.xhtml"/></navPoint>
+<navPoint id="{306AFF49-1325-44BE-AF2D-3661B19A832E}" playOrder="9"><navLabel><text>Gelen Dünya</text></navLabel><content src="Text/main-8.xhtml"/></navPoint>
+<navPoint id="{3D65A723-E685-4CFF-81CF-C0AB3C65F894}" playOrder="10"><navLabel><text>Ve Aylaklık</text></navLabel><content src="Text/main-9.xhtml"/></navPoint>
+<navPoint id="{3E76E8C4-235E-40A4-ACCA-6D17BED3D6B0}" playOrder="11"><navLabel><text>Geniş Zaman</text></navLabel><content src="Text/main-10.xhtml"/></navPoint>
+<navPoint id="{EF6915CB-C950-4A55-B66B-2F640276A5C1}" playOrder="12"><navLabel><text>Hayatın Anlamı</text></navLabel><content src="Text/main-11.xhtml"/></navPoint>
+<navPoint id="{99A68F7B-EC2C-40D3-BF2F-3C7811572436}" playOrder="13"><navLabel><text>Anlamsızlığın Keyfî</text></navLabel><content src="Text/main-12.xhtml"/></navPoint>
+<navPoint id="{EB6413C4-A551-4AA5-AF00-6E9375B2D33F}" playOrder="14"><navLabel><text>Kader, Kısmet ve Talih</text></navLabel><content src="Text/main-13.xhtml"/></navPoint>
+<navPoint id="{716977B5-CDA8-4A40-B710-D71F0B3B72E8}" playOrder="15"><navLabel><text>Ölüm</text></navLabel><content src="Text/main-14.xhtml"/></navPoint>
+<navPoint id="{D80218B5-06F5-4621-A618-F56A9234634C}" playOrder="16"><navLabel><text>Tutarsızlığın Kanatları</text></navLabel><content src="Text/main-15.xhtml"/></navPoint>
+</navMap></ncx>

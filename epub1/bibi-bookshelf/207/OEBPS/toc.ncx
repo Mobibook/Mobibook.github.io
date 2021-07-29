@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="25c5c562-ca09-4ece-9095-b888895a4859" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Direnişi Nasıl Dokuduk</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="35bd8d57-cacc-41b3-b33a-5f8e1140ccf5" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/direnisinasildokuduk_split_002.html"/>
+    </navPoint>
+    <navPoint id="79425016-a364-4ea2-b8b8-5693e0531ee5" playOrder="2">
+      <navLabel>
+        <text>İlk Adım ya da ‘Yürüyün Yürüyün Alırsınız!’</text>
+      </navLabel>
+      <content src="Text/direnisinasildokuduk_split_003.html"/>
+    </navPoint>
+    <navPoint id="7720b3fc-afd5-4e45-a279-bc5ac435c5fc" playOrder="3">
+      <navLabel>
+        <text>Dokumacının Direniş Güncesi</text>
+      </navLabel>
+      <content src="Text/direnisinasildokuduk_split_016.html"/>
+      <navPoint id="f0fe0833-579d-421c-b3ac-d1bfbd328017" playOrder="4">
+        <navLabel>
+          <text>1. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_017.html"/>
+      </navPoint>
+      <navPoint id="080e7603-f2a5-4b51-a142-1f8b9c0e76ed" playOrder="5">
+        <navLabel>
+          <text>2. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_018.html"/>
+      </navPoint>
+      <navPoint id="4aa8f866-5283-46f7-8e82-8b9cd5cb14b1" playOrder="6">
+        <navLabel>
+          <text>3. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_019.html"/>
+      </navPoint>
+      <navPoint id="de3d3b23-9a83-4c3a-b8eb-5586641d0ae4" playOrder="7">
+        <navLabel>
+          <text>4. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_020.html"/>
+      </navPoint>
+      <navPoint id="5ec3b5a4-fd43-42ce-a904-51834b1bd6ca" playOrder="8">
+        <navLabel>
+          <text>5. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_021.html"/>
+      </navPoint>
+      <navPoint id="a8ed2615-5408-4bef-95ae-75af3aa43e07" playOrder="9">
+        <navLabel>
+          <text>6. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_022.html"/>
+      </navPoint>
+      <navPoint id="d647803d-1dd6-4b73-aa37-8bd3a8a25276" playOrder="10">
+        <navLabel>
+          <text>7. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_023.html"/>
+      </navPoint>
+      <navPoint id="f1a674b4-828d-4908-85ea-7cfba77bb685" playOrder="11">
+        <navLabel>
+          <text>8. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_024.html"/>
+      </navPoint>
+      <navPoint id="59e170c6-d784-48f6-a916-5906ba27209c" playOrder="12">
+        <navLabel>
+          <text>9. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_025.html"/>
+      </navPoint>
+      <navPoint id="a3de40e2-9580-4400-998b-1e91e21200b5" playOrder="13">
+        <navLabel>
+          <text>10. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_026.html"/>
+      </navPoint>
+      <navPoint id="57b758a3-f3c9-4da3-9515-9fb3abf1c42e" playOrder="14">
+        <navLabel>
+          <text>11. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_027.html"/>
+      </navPoint>
+      <navPoint id="c9fbbfd4-39f0-4501-9805-dcc30a8eeca3" playOrder="15">
+        <navLabel>
+          <text>12. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_028.html"/>
+      </navPoint>
+      <navPoint id="d0faf604-8139-4694-a936-11a8c9196ca3" playOrder="16">
+        <navLabel>
+          <text>13. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_029.html"/>
+      </navPoint>
+      <navPoint id="38abc3be-0716-4994-934d-39cd78a74fd4" playOrder="17">
+        <navLabel>
+          <text>14. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_030.html"/>
+      </navPoint>
+      <navPoint id="d1e7689d-74f1-4669-8915-60dc264a1f4f" playOrder="18">
+        <navLabel>
+          <text>15. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_031.html"/>
+      </navPoint>
+      <navPoint id="55843b01-0976-4ecd-b467-381ca41e5f36" playOrder="19">
+        <navLabel>
+          <text>16. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_032.html"/>
+      </navPoint>
+      <navPoint id="7ec76012-b360-40af-90c0-c6a57371c894" playOrder="20">
+        <navLabel>
+          <text>17. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_033.html"/>
+      </navPoint>
+      <navPoint id="de5daa89-3eea-4491-8160-a473ad034cf0" playOrder="21">
+        <navLabel>
+          <text>18. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_034.html"/>
+      </navPoint>
+      <navPoint id="e4a7d094-2441-453c-b99e-1ba7f234e567" playOrder="22">
+        <navLabel>
+          <text>19. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_035.html"/>
+      </navPoint>
+      <navPoint id="4e684600-92de-4401-b545-02f085fe3e15" playOrder="23">
+        <navLabel>
+          <text>20. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_036.html"/>
+      </navPoint>
+      <navPoint id="99945d01-c95f-4a19-b20c-a73eea65329b" playOrder="24">
+        <navLabel>
+          <text>21. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_037.html"/>
+      </navPoint>
+      <navPoint id="517a50b8-854e-4705-8691-c0f88027d680" playOrder="25">
+        <navLabel>
+          <text>22. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_038.html"/>
+      </navPoint>
+      <navPoint id="972cfcd6-8da9-4e84-98dc-514c5934b8fd" playOrder="26">
+        <navLabel>
+          <text>23. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_039.html"/>
+      </navPoint>
+      <navPoint id="b9e8b999-4015-4344-a83c-29d4b281f79b" playOrder="27">
+        <navLabel>
+          <text>24. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_040.html"/>
+      </navPoint>
+      <navPoint id="fc327034-0971-44f0-9c35-91513168a27b" playOrder="28">
+        <navLabel>
+          <text>25. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_041.html"/>
+      </navPoint>
+      <navPoint id="ccc69cb2-10a1-4926-bfb2-eda369d351ba" playOrder="29">
+        <navLabel>
+          <text>26. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_042.html"/>
+      </navPoint>
+      <navPoint id="5854cca1-81eb-4487-8194-99e63060f452" playOrder="30">
+        <navLabel>
+          <text>27. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_043.html"/>
+      </navPoint>
+      <navPoint id="57558b32-2eb2-4682-bff6-8a895f1994e1" playOrder="31">
+        <navLabel>
+          <text>28. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_044.html"/>
+      </navPoint>
+      <navPoint id="f0e49cd3-bbe0-49da-9dfb-eb6903e31330" playOrder="32">
+        <navLabel>
+          <text>29. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_045.html"/>
+      </navPoint>
+      <navPoint id="6721ba52-f2b1-4bd7-b504-2bbeac393e10" playOrder="33">
+        <navLabel>
+          <text>30. Gün</text>
+        </navLabel>
+        <content src="Text/direnisinasildokuduk_split_046.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="1281520c-4ec3-4b15-add2-28c84c281566" playOrder="34">
+      <navLabel>
+        <text>Direnişçi Dokuma İşçilerine Gelen Destek Mesajları</text>
+      </navLabel>
+      <content src="Text/direnisinasildokuduk_split_050.html"/>
+    </navPoint>
+    <navPoint id="eca5641e-0cd7-4a85-a17f-dd5b8731ebb8" playOrder="35">
+      <navLabel>
+        <text>Ünaldı Direnişine Dair Yazılanlar</text>
+      </navLabel>
+      <content src="Text/direnisinasildokuduk_split_053.html"/>
+    </navPoint>
+    <navPoint id="c1683fd2-23bf-4649-9b21-96954e0d10da" playOrder="36">
+      <navLabel>
+        <text>ALBÜM</text>
+      </navLabel>
+      <content src="Text/direnisinasildokuduk_split_082.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

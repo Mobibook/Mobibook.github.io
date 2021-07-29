@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="e4156901-0172-49ca-82b3-1483ef9b0e9b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.43)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yerçekimli Karanfil</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>Title page</text>
+      </navLabel>
+      <content src="Text/001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-2" playOrder="2">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/002.html#ncx53"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>DİRLİK DÜZENLİK (1954)</text>
+      </navLabel>
+      <content src="Text/004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-4" playOrder="4">
+      <navLabel>
+        <text>MASA DA MASAYMIŞ HA</text>
+      </navLabel>
+      <content src="Text/005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-5" playOrder="5">
+      <navLabel>
+        <text>DİPSİZ TESTİ</text>
+      </navLabel>
+      <content src="Text/006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-6" playOrder="6">
+      <navLabel>
+        <text>MESİRE YERLERİ</text>
+      </navLabel>
+      <content src="Text/007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-7" playOrder="7">
+      <navLabel>
+        <text>ŞEKERLİ GERÇEK</text>
+      </navLabel>
+      <content src="Text/008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-8" playOrder="8">
+      <navLabel>
+        <text>YERÇEKİMLİ KARANFİL (1957)</text>
+      </navLabel>
+      <content src="Text/009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-9" playOrder="9">
+      <navLabel>
+        <text>EY</text>
+      </navLabel>
+      <content src="Text/010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-10" playOrder="10">
+      <navLabel>
+        <text>KESİN</text>
+      </navLabel>
+      <content src="Text/011.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-11" playOrder="11">
+      <navLabel>
+        <text>Aaaa</text>
+      </navLabel>
+      <content src="Text/012.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-12" playOrder="12">
+      <navLabel>
+        <text>AŞKIN RADYOAKTİVİTESİ</text>
+      </navLabel>
+      <content src="Text/013.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-13" playOrder="13">
+      <navLabel>
+        <text>VAR VAR</text>
+      </navLabel>
+      <content src="Text/014.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-14" playOrder="14">
+      <navLabel>
+        <text>YANGIN</text>
+      </navLabel>
+      <content src="Text/015.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-15" playOrder="15">
+      <navLabel>
+        <text>TÜFEKKK</text>
+      </navLabel>
+      <content src="Text/017.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-16" playOrder="16">
+      <navLabel>
+        <text>YERÇEKİMLİ KARANFİL</text>
+      </navLabel>
+      <content src="Text/019.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-17" playOrder="17">
+      <navLabel>
+        <text>GÜZEL ATOMLARIN YAPTIĞI AYAK</text>
+      </navLabel>
+      <content src="Text/020.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-18" playOrder="18">
+      <navLabel>
+        <text>ALÜMİNYUM DÜKKÂN</text>
+      </navLabel>
+      <content src="Text/021.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-19" playOrder="19">
+      <navLabel>
+        <text>HOROZLA MERDİVEN</text>
+      </navLabel>
+      <content src="Text/022.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-20" playOrder="20">
+      <navLabel>
+        <text>KAYBOLA</text>
+      </navLabel>
+      <content src="Text/023.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-21" playOrder="21">
+      <navLabel>
+        <text>BUZ GİBİ</text>
+      </navLabel>
+      <content src="Text/025.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-22" playOrder="22">
+      <navLabel>
+        <text>GÖZLERİ</text>
+      </navLabel>
+      <content src="Text/026.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-23" playOrder="23">
+      <navLabel>
+        <text>UYANINCA ÇOCUK OLMAK</text>
+      </navLabel>
+      <content src="Text/027.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-24" playOrder="24">
+      <navLabel>
+        <text>BAKMALAR DENİZİ</text>
+      </navLabel>
+      <content src="Text/028.html#ncx572"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-25" playOrder="25">
+      <navLabel>
+        <text>BORAZAN</text>
+      </navLabel>
+      <content src="Text/028.html#ncx603"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-26" playOrder="26">
+      <navLabel>
+        <text>UMUTSUZLAR PARKI</text>
+      </navLabel>
+      <content src="Text/028.html#ncx638"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-27" playOrder="27">
+      <navLabel>
+        <text>AMERİKAN BİLARDOSUYLA PENGUEN!</text>
+      </navLabel>
+      <content src="Text/028.html#ncx683"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-28" playOrder="28">
+      <navLabel>
+        <text>ÇEMBER</text>
+      </navLabel>
+      <content src="Text/028.html#ncx906"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-29" playOrder="29">
+      <navLabel>
+        <text>UMUTSUZLAR PARKI</text>
+      </navLabel>
+      <content src="Text/032.html#ncx1137"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-30" playOrder="30">
+      <navLabel>
+        <text>ÇOĞULLAMA</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx1828"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-31" playOrder="31">
+      <navLabel>
+        <text>ÇOĞULLAMA</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx1844"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-32" playOrder="32">
+      <navLabel>
+        <text>ÇOĞULLAMA</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx1884"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-33" playOrder="33">
+      <navLabel>
+        <text>PETROL</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx1917"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-34" playOrder="34">
+      <navLabel>
+        <text>(1959)</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx1918"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-35" playOrder="35">
+      <navLabel>
+        <text>PETROL</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx1958"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-36" playOrder="36">
+      <navLabel>
+        <text>BEYAZ ATLAR SURLARA</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx2000"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-37" playOrder="37">
+      <navLabel>
+        <text>BİR AY ALDIM DİYARBAKIRDAN TOKATTA BİRİ ÖLDÜ O ZAMAN</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx2037"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-38" playOrder="38">
+      <navLabel>
+        <text>ŞEY ŞEY ŞEY VE ŞEYLERDEN</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx2070"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-39" playOrder="39">
+      <navLabel>
+        <text>PHOENİX</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx2111"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-40" playOrder="40">
+      <navLabel>
+        <text>KONYAK</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx2150"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-41" playOrder="41">
+      <navLabel>
+        <text>ACI BAHRİYELİ</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx2196"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-42" playOrder="42">
+      <navLabel>
+        <text>SESLİ HARFLER</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx2273"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-43" playOrder="43">
+      <navLabel>
+        <text>BEN BU KADAR DEĞİLİM</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx2315"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-44" playOrder="44">
+      <navLabel>
+        <text>TAHTAKALE</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx2357"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-45" playOrder="45">
+      <navLabel>
+        <text>İNFİLAK</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx2400"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-46" playOrder="46">
+      <navLabel>
+        <text>ROBESPIERRE</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx2439"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-47" playOrder="47">
+      <navLabel>
+        <text>KAVGA</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx2481"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-48" playOrder="48">
+      <navLabel>
+        <text>UZUN</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx2531"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-49" playOrder="49">
+      <navLabel>
+        <text>NERDE ANTİGONE (1961)</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx2583"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-50" playOrder="50">
+      <navLabel>
+        <text>BAŞIM DÖNÜYOR İKİMİZDEN</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx2633"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-51" playOrder="51">
+      <navLabel>
+        <text>KAR YANGINI</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx2678"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-52" playOrder="52">
+      <navLabel>
+        <text>KUMCUL</text>
+      </navLabel>
+      <content src="Text/052_split_000.html#ncx2722"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-53" playOrder="53">
+      <navLabel>
+        <text>MEDÜZA</text>
+      </navLabel>
+      <content src="Text/052_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-54" playOrder="54">
+      <navLabel>
+        <text>BEDEVİ</text>
+      </navLabel>
+      <content src="Text/052_split_001.html#ncx2817"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-55" playOrder="55">
+      <navLabel>
+        <text>YILKI</text>
+      </navLabel>
+      <content src="Text/052_split_001.html#ncx2867"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-56" playOrder="56">
+      <navLabel>
+        <text>BAKIR HEYKEL</text>
+      </navLabel>
+      <content src="Text/052_split_001.html#ncx2921"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-57" playOrder="57">
+      <navLabel>
+        <text>ÖLÜ ÖLDÜ</text>
+      </navLabel>
+      <content src="Text/052_split_001.html#ncx2974"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-58" playOrder="58">
+      <navLabel>
+        <text>ŞAİRİN KANI</text>
+      </navLabel>
+      <content src="Text/052_split_001.html#ncx3016"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-59" playOrder="59">
+      <navLabel>
+        <text>SEVİŞEN</text>
+      </navLabel>
+      <content src="Text/052_split_001.html#ncx3058"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-60" playOrder="60">
+      <navLabel>
+        <text>DAĞILGAN</text>
+      </navLabel>
+      <content src="Text/052_split_001.html#ncx3102"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-61" playOrder="61">
+      <navLabel>
+        <text>NE GELİR ELİMİZDEN İNSAN OLMAKTAN BAŞKA</text>
+      </navLabel>
+      <content src="Text/052_split_001.html#ncx3326"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-62" playOrder="62">
+      <navLabel>
+        <text>TRAGEDYALAR</text>
+      </navLabel>
+      <content src="Text/060.html#ncx3884"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-63" playOrder="63">
+      <navLabel>
+        <text>(1964)</text>
+      </navLabel>
+      <content src="Text/060.html#ncx3885"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-64" playOrder="64">
+      <navLabel>
+        <text>TRAGEDYALAR I</text>
+      </navLabel>
+      <content src="Text/060.html#ncx3907"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-65" playOrder="65">
+      <navLabel>
+        <text>TRAGEDYALAR II</text>
+      </navLabel>
+      <content src="Text/064.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-66" playOrder="66">
+      <navLabel>
+        <text>TRAGEDYALAR III</text>
+      </navLabel>
+      <content src="Text/067.html#ncx4078"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-67" playOrder="67">
+      <navLabel>
+        <text>TRAGEDYALAR IV</text>
+      </navLabel>
+      <content src="Text/072.html#ncx4167"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-68" playOrder="68">
+      <navLabel>
+        <text>TRAGEDYALAR V</text>
+      </navLabel>
+      <content src="Text/076.html#ncx4257"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-69" playOrder="69">
+      <navLabel>
+        <text>ÇAĞRILMAYAN YAKUP (1966)</text>
+      </navLabel>
+      <content src="Text/123.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-70" playOrder="70">
+      <navLabel>
+        <text>ÇAĞRILMAYAN YAKUP</text>
+      </navLabel>
+      <content src="Text/124.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-71" playOrder="71">
+      <navLabel>
+        <text>CADI AĞACI</text>
+      </navLabel>
+      <content src="Text/130.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-72" playOrder="72">
+      <navLabel>
+        <text>PESÜS</text>
+      </navLabel>
+      <content src="Text/140.html#ncx6036"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-73" playOrder="73">
+      <navLabel>
+        <text>DÖKÜMCÜ NİKO VE ARKADAŞLARI</text>
+      </navLabel>
+      <content src="Text/146.html#ncx6315"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-74" playOrder="74">
+      <navLabel>
+        <text>KİRLİ AĞUSTOS (1970)</text>
+      </navLabel>
+      <content src="Text/160.html#ncx6793"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-75" playOrder="75">
+      <navLabel>
+        <text>ODA</text>
+      </navLabel>
+      <content src="Text/161.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-76" playOrder="76">
+      <navLabel>
+        <text>CİN</text>
+      </navLabel>
+      <content src="Text/161.html#ncx6817"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-77" playOrder="77">
+      <navLabel>
+        <text>OTEL</text>
+      </navLabel>
+      <content src="Text/162.html#ncx6857"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-78" playOrder="78">
+      <navLabel>
+        <text>UÇURUM</text>
+      </navLabel>
+      <content src="Text/165.html#ncx7102"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-79" playOrder="79">
+      <navLabel>
+        <text>DÖRT GÜNEŞ</text>
+      </navLabel>
+      <content src="Text/166.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-80" playOrder="80">
+      <navLabel>
+        <text>O YALNIZ</text>
+      </navLabel>
+      <content src="Text/167.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-81" playOrder="81">
+      <navLabel>
+        <text>KİRLİ AĞUSTOS</text>
+      </navLabel>
+      <content src="Text/168.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-82" playOrder="82">
+      <navLabel>
+        <text>UÇAK ALANI</text>
+      </navLabel>
+      <content src="Text/169.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-83" playOrder="83">
+      <navLabel>
+        <text>KIRDA KARANLIK</text>
+      </navLabel>
+      <content src="Text/170.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-84" playOrder="84">
+      <navLabel>
+        <text>KESİT</text>
+      </navLabel>
+      <content src="Text/170.html#ncx7177"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-85" playOrder="85">
+      <navLabel>
+        <text>YILAN</text>
+      </navLabel>
+      <content src="Text/171.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-86" playOrder="86">
+      <navLabel>
+        <text>CÜCELER</text>
+      </navLabel>
+      <content src="Text/172.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-87" playOrder="87">
+      <navLabel>
+        <text>ÜRPERTİ</text>
+      </navLabel>
+      <content src="Text/173.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-88" playOrder="88">
+      <navLabel>
+        <text>ÖĞLE SONU</text>
+      </navLabel>
+      <content src="Text/174.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-89" playOrder="89">
+      <navLabel>
+        <text>ÖLÜMÜN KONUMU</text>
+      </navLabel>
+      <content src="Text/174.html#ncx7236"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-90" playOrder="90">
+      <navLabel>
+        <text>ESKİ BİR TAKVİM İÇİN ŞİİRLER</text>
+      </navLabel>
+      <content src="Text/175.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-91" playOrder="91">
+      <navLabel>
+        <text>ESKİ BİR TAKVİM İÇİN ŞİİRLER</text>
+      </navLabel>
+      <content src="Text/176.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-92" playOrder="92">
+      <navLabel>
+        <text>ESKİ BİR TAKVİM İÇİN ŞİİRLER</text>
+      </navLabel>
+      <content src="Text/176.html#ncx7279"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-93" playOrder="93">
+      <navLabel>
+        <text>YENGEÇ</text>
+      </navLabel>
+      <content src="Text/177.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-94" playOrder="94">
+      <navLabel>
+        <text>ÖLÜ SİRENLER</text>
+      </navLabel>
+      <content src="Text/178.html#ncx7401"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-95" playOrder="95">
+      <navLabel>
+        <text>GÖKANLAM</text>
+      </navLabel>
+      <content src="Text/179.html#ncx7526"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-96" playOrder="96">
+      <navLabel>
+        <text>GÖKANLAM</text>
+      </navLabel>
+      <content src="Text/180.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-97" playOrder="97">
+      <navLabel>
+        <text>GÖKANLAM</text>
+      </navLabel>
+      <content src="Text/181.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-98" playOrder="98">
+      <navLabel>
+        <text>GÖKANLAM</text>
+      </navLabel>
+      <content src="Text/182.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-99" playOrder="99">
+      <navLabel>
+        <text>GÖKANLAM</text>
+      </navLabel>
+      <content src="Text/182.html#ncx7630"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-100" playOrder="100">
+      <navLabel>
+        <text>GÖKANLAM</text>
+      </navLabel>
+      <content src="Text/182.html#ncx7650"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-101" playOrder="101">
+      <navLabel>
+        <text>GÖKANLAM</text>
+      </navLabel>
+      <content src="Text/183.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-102" playOrder="102">
+      <navLabel>
+        <text>GÖKANLAM</text>
+      </navLabel>
+      <content src="Text/184.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-103" playOrder="103">
+      <navLabel>
+        <text>GÖKANLAM</text>
+      </navLabel>
+      <content src="Text/184.html#ncx7702"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-104" playOrder="104">
+      <navLabel>
+        <text>GÖKANLAM</text>
+      </navLabel>
+      <content src="Text/185.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-105" playOrder="105">
+      <navLabel>
+        <text>GÖKANLAM</text>
+      </navLabel>
+      <content src="Text/185.html#ncx7764"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-106" playOrder="106">
+      <navLabel>
+        <text>GÖKANLAM</text>
+      </navLabel>
+      <content src="Text/186.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-107" playOrder="107">
+      <navLabel>
+        <text>HA YANIP SÖNDÜ</text>
+      </navLabel>
+      <content src="Text/186.html#ncx7815"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-108" playOrder="108">
+      <navLabel>
+        <text>HA YANIP SÖNMEDİ BİR ATEŞ BÖCEĞİ</text>
+      </navLabel>
+      <content src="Text/186.html#ncx7816"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-109" playOrder="109">
+      <navLabel>
+        <text>BİR YİTİŞTEN SONRA</text>
+      </navLabel>
+      <content src="Text/189.html#ncx7988"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-110" playOrder="110">
+      <navLabel>
+        <text>KAR YAĞACAK</text>
+      </navLabel>
+      <content src="Text/192.html#ncx8099"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-111" playOrder="111">
+      <navLabel>
+        <text>KUŞ SÜRÜLERİNDEN BİR DUVAR</text>
+      </navLabel>
+      <content src="Text/193.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-112" playOrder="112">
+      <navLabel>
+        <text>NACİ İLE TURGUT’UN AKŞAMI</text>
+      </navLabel>
+      <content src="Text/194.html#ncx8156"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-113" playOrder="113">
+      <navLabel>
+        <text>METİNİN AKŞAMI</text>
+      </navLabel>
+      <content src="Text/195.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-114" playOrder="114">
+      <navLabel>
+        <text>ŞAHİNİN KOPARDIĞI ELMAS</text>
+      </navLabel>
+      <content src="Text/195.html#ncx8193"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-115" playOrder="115">
+      <navLabel>
+        <text>DÜŞ SUDA</text>
+      </navLabel>
+      <content src="Text/200.html#ncx8321"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-116" playOrder="116">
+      <navLabel>
+        <text>GÜL DÖNÜYOR AVUCUMDA</text>
+      </navLabel>
+      <content src="Text/206.html#ncx8479"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-117" playOrder="117">
+      <navLabel>
+        <text>AKDENİZ SALGINI</text>
+      </navLabel>
+      <content src="Text/207.html#ncx8554"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-118" playOrder="118">
+      <navLabel>
+        <text>KÜL</text>
+      </navLabel>
+      <content src="Text/212.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-119" playOrder="119">
+      <navLabel>
+        <text>SONRASI KALIR (1974)</text>
+      </navLabel>
+      <content src="Text/217.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-120" playOrder="120">
+      <navLabel>
+        <text>SU</text>
+      </navLabel>
+      <content src="Text/218.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-121" playOrder="121">
+      <navLabel>
+        <text>ELMAS YÜKLÜ BİR GEMİ</text>
+      </navLabel>
+      <content src="Text/219.html#ncx8877"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-122" playOrder="122">
+      <navLabel>
+        <text>PAS</text>
+      </navLabel>
+      <content src="Text/222.html#ncx8939"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-123" playOrder="123">
+      <navLabel>
+        <text>SAATE BAKMAK</text>
+      </navLabel>
+      <content src="Text/223.html#ncx8982"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-124" playOrder="124">
+      <navLabel>
+        <text>SUÇTUR ÇOCUĞUN OLMAK</text>
+      </navLabel>
+      <content src="Text/225.html#ncx9044"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-125" playOrder="125">
+      <navLabel>
+        <text>İDRİS’LE KONUŞMA</text>
+      </navLabel>
+      <content src="Text/226.html#ncx9143"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-126" playOrder="126">
+      <navLabel>
+        <text>GELİNCİKLER</text>
+      </navLabel>
+      <content src="Text/227.html#ncx9195"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-127" playOrder="127">
+      <navLabel>
+        <text>DOSTLAR</text>
+      </navLabel>
+      <content src="Text/229.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-128" playOrder="128">
+      <navLabel>
+        <text>FLAŞ</text>
+      </navLabel>
+      <content src="Text/234.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-129" playOrder="129">
+      <navLabel>
+        <text>DALLARDAN YAPRAKLARA</text>
+      </navLabel>
+      <content src="Text/237.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-130" playOrder="130">
+      <navLabel>
+        <text>YOK MU, VAR</text>
+      </navLabel>
+      <content src="Text/238.html#ncx9512"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-131" playOrder="131">
+      <navLabel>
+        <text>MENDİLİMDE KAN SESLERİ</text>
+      </navLabel>
+      <content src="Text/240.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-132" playOrder="132">
+      <navLabel>
+        <text>O MAVİLİK DERDİ</text>
+      </navLabel>
+      <content src="Text/242.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-133" playOrder="133">
+      <navLabel>
+        <text>GÜL KOKUYORSUN</text>
+      </navLabel>
+      <content src="Text/242.html#ncx9660"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-134" playOrder="134">
+      <navLabel>
+        <text>ÖLÜ KALMIŞ BİRİ YAŞIYOR HER İKİSİ DE</text>
+      </navLabel>
+      <content src="Text/244.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-135" playOrder="135">
+      <navLabel>
+        <text>AŞKLAR İÇİNDE</text>
+      </navLabel>
+      <content src="Text/244.html#ncx9718"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-136" playOrder="136">
+      <navLabel>
+        <text>UZAK YAKINLIK</text>
+      </navLabel>
+      <content src="Text/247.html#ncx9788"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-137" playOrder="137">
+      <navLabel>
+        <text>KURT</text>
+      </navLabel>
+      <content src="Text/248.html#ncx9824"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-138" playOrder="138">
+      <navLabel>
+        <text>GÜNLERDEN</text>
+      </navLabel>
+      <content src="Text/248.html#ncx9883"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-139" playOrder="139">
+      <navLabel>
+        <text>YAZ MUTLULUĞU</text>
+      </navLabel>
+      <content src="Text/249.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-140" playOrder="140">
+      <navLabel>
+        <text>SONRASI KALIR</text>
+      </navLabel>
+      <content src="Text/250.html#ncx9982"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-141" playOrder="141">
+      <navLabel>
+        <text>ALAŞIM</text>
+      </navLabel>
+      <content src="Text/252.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-142" playOrder="142">
+      <navLabel>
+        <text>YER DEĞİŞTİRİYOR KORKU</text>
+      </navLabel>
+      <content src="Text/254.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-143" playOrder="143">
+      <navLabel>
+        <text>ÖLÜ MÜ DENİR</text>
+      </navLabel>
+      <content src="Text/257.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
