@@ -1,0 +1,23 @@
+@font-face {
+	src: url(fonts/Book-Antiqua.ttf);
+	font-family: "Book Antiqua"
+}
+
+@font-face {
+	src: url(fonts/Book-Antiqua-Bold.ttf);
+	font-family: "Book Antiqua";
+	font-weight: bold
+}
+
+@font-face {
+	src: url(fonts/Book-Antiqua-Bold-Italic.ttf);
+	font-family: "Book Antiqua";
+	font-weight: bold;
+	font-style: italic
+}
+
+@font-face {
+	src: url(fonts/Book-Antiqua-Italic.ttf);
+	font-family: "Book Antiqua";
+	font-style: italic
+}

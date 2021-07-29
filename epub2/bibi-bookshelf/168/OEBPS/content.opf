@@ -1,0 +1,77 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Büyü Geçişleri</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Abelar, Taisha">Taisha Abelar</dc:creator>
+    <dc:identifier id="bookid">urn:uuid:a271ad82-7f41-2cb6-f42a-de10edd2df48</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Dharma Yayınları</dc:publisher>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">71ae34aa-1d5c-4ad1-bcaa-01ff8de67a82</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta content="0.9.2" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Büyü Geçişleri"/>
+    <meta name="calibre:author_link_map" content="{&quot;Taisha Abelar&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/Kapak.xhtml" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="Text/İthaf.xhtml" id="ithaf" media-type="application/xhtml+xml"/>
+    <item href="Text/Carlos Castaneda'nın Önsözü.xhtml" id="carlos-castaneda-n-n-ns-z-" media-type="application/xhtml+xml"/>
+    <item href="Text/Önsöz.xhtml" id="x-ns-z" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 01.xhtml" id="b-l-m-01" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 02.xhtml" id="b-l-m-02" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 03.xhtml" id="b-l-m-03" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 04.xhtml" id="b-l-m-04" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 05.xhtml" id="b-l-m-05" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 06.xhtml" id="b-l-m-06" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 07.xhtml" id="b-l-m-07" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 08.xhtml" id="b-l-m-08" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 09.xhtml" id="b-l-m-09" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 10.xhtml" id="b-l-m-10" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 11.xhtml" id="b-l-m-11" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 12.xhtml" id="b-l-m-12" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 13.xhtml" id="b-l-m-13" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 14.xhtml" id="b-l-m-14" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 15.xhtml" id="b-l-m-15" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 16.xhtml" id="b-l-m-16" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 17.xhtml" id="b-l-m-17" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 18.xhtml" id="b-l-m-18" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 19.xhtml" id="b-l-m-19" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 20.xhtml" id="b-l-m-20" media-type="application/xhtml+xml"/>
+    <item href="Text/Bölüm 21.xhtml" id="b-l-m-21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak"/>
+    <itemref idref="ithaf"/>
+    <itemref idref="carlos-castaneda-n-n-ns-z-"/>
+    <itemref idref="x-ns-z"/>
+    <itemref idref="b-l-m-01"/>
+    <itemref idref="b-l-m-02"/>
+    <itemref idref="b-l-m-03"/>
+    <itemref idref="b-l-m-04"/>
+    <itemref idref="b-l-m-05"/>
+    <itemref idref="b-l-m-06"/>
+    <itemref idref="b-l-m-07"/>
+    <itemref idref="b-l-m-08"/>
+    <itemref idref="b-l-m-09"/>
+    <itemref idref="b-l-m-10"/>
+    <itemref idref="b-l-m-11"/>
+    <itemref idref="b-l-m-12"/>
+    <itemref idref="b-l-m-13"/>
+    <itemref idref="b-l-m-14"/>
+    <itemref idref="b-l-m-15"/>
+    <itemref idref="b-l-m-16"/>
+    <itemref idref="b-l-m-17"/>
+    <itemref idref="b-l-m-18"/>
+    <itemref idref="b-l-m-19"/>
+    <itemref idref="b-l-m-20"/>
+    <itemref idref="b-l-m-21"/>
+  </spine>
+  <guide>
+    </guide>
+</package>

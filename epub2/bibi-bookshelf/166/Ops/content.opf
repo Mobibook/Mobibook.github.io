@@ -1,0 +1,83 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:creator opf:role="aut" opf:file-as="Yücel, Tahsin">Tahsin Yücel</dc:creator>
+<dc:date>2012-12-12T22:00:00+00:00</dc:date>
+<dc:identifier id="BookId">AWP-369144ED-6FCA-4793-A896-81288B18F789</dc:identifier>
+<meta name="cover" content="cover"/>
+<meta name="calibre:title_sort" content="Yazının Sınırları"/>
+<dc:publisher>Adam Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Tahsin Yücel'in yapıtlarını sunduğu alanların çokluğu konusu sıklıkla konuşulur. Ancak romandan siyasete, denemeden öyküye kadar çeşitlilik gösteren bu çokluğun değeri, önemi kabul edilir her zaman. Onun çalışkanlığı, salt Türk kültürüne katkı yapmakla kalmaz, peşinden evrensel bir yankıyı da getirir. Yazının Sınırları bu anlamda, belki de Tahsin Yücel'in varsıllığını en üst düzeyde yansıtıyor. Barthes, Proust, Greimas, Mauppasant, Camus, Butor eşliğinde keyifli bir okuma deneyimi, Yazının Sınırları.&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;"Yazının sınırları çok geniş ve değişkendir kuşkusuz, ama, durmadan biçim değiştirmekle bulutun bulut, kumun kum olmaktan çıkmaması gibi, yazın da sürekli değişimleri içinde varlığını hep sürdürür: biçimiyle içeriğinin örgensel birliği içinde özgün bir bildirişim türü olarak kalır."&lt;/span&gt;&lt;/div&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Tahsin Yücel&quot;: &quot;&quot;}"/>
+<dc:title>Yazının Sınırları</dc:title>
+<dc:subject>Deneme</dc:subject>
+<dc:subject>İnceleme</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">f6c198b0-6bd4-4985-8973-f15fb294eee7</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786055765156</dc:identifier>
+</metadata>
+<manifest>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="style" href="style.css" media-type="text/css"/>
+<item id="coverstyle" href="cover.css" media-type="text/css"/>
+<item id="id001" href="001.html" media-type="application/xhtml+xml"/>
+<item id="id002" href="002.html" media-type="application/xhtml+xml"/>
+<item id="id003" href="003.html" media-type="application/xhtml+xml"/>
+<item id="id004" href="004.html" media-type="application/xhtml+xml"/>
+<item id="id005" href="005.html" media-type="application/xhtml+xml"/>
+<item id="id006" href="006.html" media-type="application/xhtml+xml"/>
+<item id="id007" href="007.html" media-type="application/xhtml+xml"/>
+<item id="id008" href="008.html" media-type="application/xhtml+xml"/>
+<item id="id009" href="009.html" media-type="application/xhtml+xml"/>
+<item id="id010" href="010.html" media-type="application/xhtml+xml"/>
+<item id="id011" href="011.html" media-type="application/xhtml+xml"/>
+<item id="id012" href="012.html" media-type="application/xhtml+xml"/>
+<item id="id013" href="013.html" media-type="application/xhtml+xml"/>
+<item id="id014" href="014.html" media-type="application/xhtml+xml"/>
+<item id="id015" href="015.html" media-type="application/xhtml+xml"/>
+<item id="id016" href="016.html" media-type="application/xhtml+xml"/>
+<item id="id017" href="017.html" media-type="application/xhtml+xml"/>
+<item id="id018" href="018.html" media-type="application/xhtml+xml"/>
+<item id="id019" href="019.html" media-type="application/xhtml+xml"/>
+<item id="id020" href="020.html" media-type="application/xhtml+xml"/>
+<item id="id021" href="021.html" media-type="application/xhtml+xml"/>
+<item id="id022" href="022.html" media-type="application/xhtml+xml"/>
+<item id="id023" href="023.html" media-type="application/xhtml+xml"/>
+<item id="id024" href="024.html" media-type="application/xhtml+xml"/>
+<item id="idnotes" href="notes.html" media-type="application/xhtml+xml"/>
+<item id="cover" href="images/cover.jpg" media-type="image/jpeg"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="id001" linear="no"/>
+<itemref idref="id002"/>
+<itemref idref="id003"/>
+<itemref idref="id004"/>
+<itemref idref="id005"/>
+<itemref idref="id006"/>
+<itemref idref="id007"/>
+<itemref idref="id008"/>
+<itemref idref="id009"/>
+<itemref idref="id010"/>
+<itemref idref="id011"/>
+<itemref idref="id012"/>
+<itemref idref="id013"/>
+<itemref idref="id014"/>
+<itemref idref="id015"/>
+<itemref idref="id016"/>
+<itemref idref="id017"/>
+<itemref idref="id018"/>
+<itemref idref="id019"/>
+<itemref idref="id020"/>
+<itemref idref="id021"/>
+<itemref idref="id022"/>
+<itemref idref="id023"/>
+<itemref idref="id024"/>
+<itemref idref="idnotes"/>
+</spine>
+<guide>
+<reference type="cover" title="Cover" href="001.html"/>
+</guide>
+</package>

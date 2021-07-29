@@ -1,0 +1,72 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>Büyük Efendi'nin Sarayı</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Withers, Robert">Robert Withers</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:publisher>Yeditepe Yayınevi</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-12-07</dc:date>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.85.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en-GB</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">68548285-f494-4851-b45c-0f9ba911c981</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="x186.jpg"/>
+    <meta content="0.9.1" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Büyük Efendi'nin Sarayı"/>
+    <meta name="calibre:author_link_map" content="{&quot;Robert Withers&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="Text/7.html" id="x7" media-type="application/xhtml+xml"/>
+    <item href="Text/8.html" id="x8" media-type="application/xhtml+xml"/>
+    <item href="Text/9.html" id="x9" media-type="application/xhtml+xml"/>
+    <item href="Text/10.html" id="x10" media-type="application/xhtml+xml"/>
+    <item href="Text/10-1.html" id="x10-1" media-type="application/xhtml+xml"/>
+    <item href="Text/10-2.html" id="x10-2" media-type="application/xhtml+xml"/>
+    <item href="Text/10-3.html" id="x10-3" media-type="application/xhtml+xml"/>
+    <item href="Text/10-4.html" id="x10-4" media-type="application/xhtml+xml"/>
+    <item href="Text/10-5.html" id="x10-5" media-type="application/xhtml+xml"/>
+    <item href="Text/10-6.html" id="x10-6" media-type="application/xhtml+xml"/>
+    <item href="Text/10-7.html" id="x10-7" media-type="application/xhtml+xml"/>
+    <item href="Text/10-8.html" id="x10-8" media-type="application/xhtml+xml"/>
+    <item href="Text/10-9.html" id="x10-9" media-type="application/xhtml+xml"/>
+    <item href="Text/10-10.html" id="x10-10" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="Images/kitapadresi_fmt.jpeg" id="kitapadresi_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r1_fmt.jpeg" id="r1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r2_fmt.jpeg" id="r2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r8_fmt.jpeg" id="r8_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/yeditepe_fmt.jpeg" id="yeditepe_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/yeditepe_fmt1.jpeg" id="yeditepe_fmt1.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x7"/>
+    <itemref idref="x8"/>
+    <itemref idref="x9"/>
+    <itemref idref="x10"/>
+    <itemref idref="x10-1"/>
+    <itemref idref="x10-2"/>
+    <itemref idref="x10-3"/>
+    <itemref idref="x10-4"/>
+    <itemref idref="x10-5"/>
+    <itemref idref="x10-6"/>
+    <itemref idref="x10-7"/>
+    <itemref idref="x10-8"/>
+    <itemref idref="x10-9"/>
+    <itemref idref="x10-10"/>
+  </spine>
+</package>

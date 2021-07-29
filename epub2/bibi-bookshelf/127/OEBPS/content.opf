@@ -1,0 +1,79 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Bolano, Roberto">Roberto Bolano</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">1a8690ae-0597-4c18-8f63-30ce3b67a5e8</dc:identifier>
+    <dc:publisher>Pegasus Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Tılsım bir güç gösterisi. Bu yarı sanrı yarı gerçek anlatıda, melankoli ile Latin Amerika'nın kanlı yakın tarihi, bir kadının, Meksika şiirinin anasının sesinde hayat buluyor. On iki gün boyunca üniversitenin dördüncü katındaki kadınlar tuvaletinde kapalı kalan bir kadının aklından neler geçer? Doğrusal zamandan kurtulur ve geçmiş, gelecek ve şimdinin birbirine girdiği kâbusta hayatını, kayıp dişini, genç şairleri, yitik ressamları, "Meksiko'nun ruhunun karanlık gecesini", olmuş olanları ve bin yıl sonra olacakları hatırlar. 2 Ekim 1968'de Tlatelolco Meydanı'nda ordunun halka ateş açmasının ve yüzlerce kişinin ölümüyle son bulacak bir dizi hükümet karşıtı gösterinin kıvılcımını üniversiteden şehre yayılan öğrenci hareketleri çakmıştı. Meksika Ordusu, halkın da katılımıyla büyüyen protestoları durdurmak için üniversiteyi işgal ettiğinde Felsefe ve Edebiyat Fakültesi'nin tuvaletinde olan ve yaşadığı dehşetle oradan çıkamayan Auxilio'nun, gözlerini yerdeki fayanslara ve fayanslar üzerinde oynaşan ay ışığına dikerek hummalı bir şekilde anlattığı hikâyeye kulak verin. "Roberto Bolaño 2666 adlı başyapıtıyla romanın sınırlarını yeniden tanımlamıştı; sanrılarla dolu Tılsım'la ise edebiyatın ne olabileceğini yeniden tahayyül ediyor." -New Statesman- "Bolaño'nun eserleri Marquez ile Burroughs'un, Borges ile Mailer'ın kesiştiği noktaya denk düşüyor ve ortaya azgın bir şamata çıkıyor." -Guardian- "Çağının en etkili ve hayranlık uyandıran Latin Amerikalı yazarı." -Susan Sontag- (Tanıtım Bülteninden) &lt;/p&gt;</dc:description>
+    <dc:date>2013-01-08T22:00:00+00:00</dc:date>
+    <meta content="Tılsım" name="calibre:title_sort"/>
+    <meta content="2014-12-08T12:38:45.990000+00:00" name="calibre:timestamp"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Roberto Bolano&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover.jpg"/>
+  <dc:title>Tılsım</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:subject>İspanyol Edebiyatı</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">2d34d683-e394-47c9-979d-67113dbe701e</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786053431947</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/baslik.html" id="baslik.html" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.html" id="ithaf.html" media-type="application/xhtml+xml"/>
+    <item href="Text/quote.html" id="quote.html" media-type="application/xhtml+xml"/>
+    <item href="Text/sunu.html" id="sunu.html" media-type="application/xhtml+xml"/>
+    <item href="Text/01.html" id="x01.html" media-type="application/xhtml+xml"/>
+    <item href="Text/02.html" id="x02.html" media-type="application/xhtml+xml"/>
+    <item href="Text/03.html" id="x03.html" media-type="application/xhtml+xml"/>
+    <item href="Text/04.html" id="x04.html" media-type="application/xhtml+xml"/>
+    <item href="Text/05.html" id="x05.html" media-type="application/xhtml+xml"/>
+    <item href="Text/06.html" id="x06.html" media-type="application/xhtml+xml"/>
+    <item href="Text/07.html" id="x07.html" media-type="application/xhtml+xml"/>
+    <item href="Text/08.html" id="x08.html" media-type="application/xhtml+xml"/>
+    <item href="Text/09.html" id="x09.html" media-type="application/xhtml+xml"/>
+    <item href="Text/10.html" id="x10.html" media-type="application/xhtml+xml"/>
+    <item href="Text/11.html" id="x11.html" media-type="application/xhtml+xml"/>
+    <item href="Text/12.html" id="x12.html" media-type="application/xhtml+xml"/>
+    <item href="Text/13.html" id="x13.html" media-type="application/xhtml+xml"/>
+    <item href="Text/14.html" id="x14.html" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnot.html" id="dipnot.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style.css" media-type="text/css"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+    <item href="Text/logo.xhtml" id="logo.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="logo.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="baslik.html"/>
+    <itemref idref="ithaf.html"/>
+    <itemref idref="quote.html"/>
+    <itemref idref="sunu.html"/>
+    <itemref idref="x01.html"/>
+    <itemref idref="x02.html"/>
+    <itemref idref="x03.html"/>
+    <itemref idref="x04.html"/>
+    <itemref idref="x05.html"/>
+    <itemref idref="x06.html"/>
+    <itemref idref="x07.html"/>
+    <itemref idref="x08.html"/>
+    <itemref idref="x09.html"/>
+    <itemref idref="x10.html"/>
+    <itemref idref="x11.html"/>
+    <itemref idref="x12.html"/>
+    <itemref idref="x13.html"/>
+    <itemref idref="x14.html"/>
+    <itemref idref="dipnot.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

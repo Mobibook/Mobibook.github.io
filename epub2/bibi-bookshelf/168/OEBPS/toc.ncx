@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="a271ad82-7f41-2cb6-f42a-de10edd2df48" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text></text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/Kapak.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-1" playOrder="2">
+      <navLabel>
+        <text>İthaf</text>
+      </navLabel>
+      <content src="Text/İthaf.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-2" playOrder="3">
+      <navLabel>
+        <text>Carlos Castaneda'nın Önsözü</text>
+      </navLabel>
+      <content src="Text/Carlos%20Castaneda%27nın%20Önsözü.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-3" playOrder="4">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/Önsöz.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-4" playOrder="5">
+      <navLabel>
+        <text>Bölüm 01</text>
+      </navLabel>
+      <content src="Text/Bölüm%2001.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-5" playOrder="6">
+      <navLabel>
+        <text>Bölüm 02</text>
+      </navLabel>
+      <content src="Text/Bölüm%2002.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-6" playOrder="7">
+      <navLabel>
+        <text>Bölüm 03</text>
+      </navLabel>
+      <content src="Text/Bölüm%2003.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-7" playOrder="8">
+      <navLabel>
+        <text>Bölüm 04</text>
+      </navLabel>
+      <content src="Text/Bölüm%2004.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-8" playOrder="9">
+      <navLabel>
+        <text>Bölüm 05</text>
+      </navLabel>
+      <content src="Text/Bölüm%2005.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-9" playOrder="10">
+      <navLabel>
+        <text>Bölüm 06</text>
+      </navLabel>
+      <content src="Text/Bölüm%2006.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-10" playOrder="11">
+      <navLabel>
+        <text>Bölüm 07</text>
+      </navLabel>
+      <content src="Text/Bölüm%2007.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-11" playOrder="12">
+      <navLabel>
+        <text>Bölüm 08</text>
+      </navLabel>
+      <content src="Text/Bölüm%2008.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-12" playOrder="13">
+      <navLabel>
+        <text>Bölüm 09</text>
+      </navLabel>
+      <content src="Text/Bölüm%2009.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-13" playOrder="14">
+      <navLabel>
+        <text>Bölüm 10</text>
+      </navLabel>
+      <content src="Text/Bölüm%2010.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-14" playOrder="15">
+      <navLabel>
+        <text>Bölüm 11</text>
+      </navLabel>
+      <content src="Text/Bölüm%2011.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-15" playOrder="16">
+      <navLabel>
+        <text>Bölüm 12</text>
+      </navLabel>
+      <content src="Text/Bölüm%2012.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-16" playOrder="17">
+      <navLabel>
+        <text>Bölüm 13</text>
+      </navLabel>
+      <content src="Text/Bölüm%2013.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-17" playOrder="18">
+      <navLabel>
+        <text>Bölüm 14</text>
+      </navLabel>
+      <content src="Text/Bölüm%2014.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-18" playOrder="19">
+      <navLabel>
+        <text>Bölüm 15</text>
+      </navLabel>
+      <content src="Text/Bölüm%2015.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-19" playOrder="20">
+      <navLabel>
+        <text>Bölüm 16</text>
+      </navLabel>
+      <content src="Text/Bölüm%2016.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-20" playOrder="21">
+      <navLabel>
+        <text>Bölüm 17</text>
+      </navLabel>
+      <content src="Text/Bölüm%2017.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-21" playOrder="22">
+      <navLabel>
+        <text>Bölüm 18</text>
+      </navLabel>
+      <content src="Text/Bölüm%2018.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-22" playOrder="23">
+      <navLabel>
+        <text>Bölüm 19</text>
+      </navLabel>
+      <content src="Text/Bölüm%2019.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-23" playOrder="24">
+      <navLabel>
+        <text>Bölüm 20</text>
+      </navLabel>
+      <content src="Text/Bölüm%2020.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-24" playOrder="25">
+      <navLabel>
+        <text>Bölüm 21</text>
+      </navLabel>
+      <content src="Text/Bölüm%2021.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,203 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Stendhal">Stendhal</dc:creator>
+<dc:description>&lt;p&gt;Stendhal'in yaşanmış bir ya da iki olayı birleştirerek kaleme aldığı bu romanın baş kahramanı Julien Sorel'in yazar ile birçok yönden örtüştüğü ileri sürülür. Orta sınıftan bir genç olan Julien, papaz okuluna devam ederken çocuklarına ders verdiği belediye başkanının karısı ile dedikodulara yol açan bir ilişki kurar. Paris'e gider. Orada kendine kapılarını açan aristokrat bir ailenin kızı ile yaşadığı aşk, onu hayatın girdaplarına sürükleyecektir. Gururlu, kibirli, asi, ödünsüz bu genç adam, kendi bireysel değerleri soylu sınıfın değer yargılarına çarptıkça geri püskürtülür. Hastalıklı gibi görünen psikolojisi, belki de toplumsal yarılmışlıklara bir isyandır. Hayatı, yanından ayırmadığı iki bavuluna sıkıştırmış, ömrünün son yıllarını küçük bir İtalyan kentinde konsolosluk görevinden aldığı üç beş kuruşla sürdürmek zorunda kalmış Henri Beyle (Stendhal), aynen Julien Sorel gibi ödünsüz, aksi, ömür boyu aşkı aramış, kendini kabul ettirmek istemiş ve hep yalnız kalmış, istediği, düşündüğü gibi değil, yaşayabildiği gibi yaşamıştır.
+&lt;/p&gt;</dc:description>
+    <dc:publisher>Bordo-Siyah</dc:publisher>
+    <dc:date>2012-12-10T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:2B3FD57A-2E2A-4186-BBE4-11D5869CEEFB</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-09-10</dc:date>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="kapak_fmt.jpeg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Kırmızı ve Siyah"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Stendhal&quot;: &quot;&quot;}"/>
+  <dc:title>Kırmızı ve Siyah</dc:title>
+<dc:subject>Klasik</dc:subject>
+<dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">6b5b0c5e-d624-464a-af9f-34910e09bce9</dc:identifier>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9786053540601</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/2-1.html" id="x2-1" media-type="application/xhtml+xml"/>
+    <item href="Text/2-2.html" id="x2-2" media-type="application/xhtml+xml"/>
+    <item href="Text/2-3.html" id="x2-3" media-type="application/xhtml+xml"/>
+    <item href="Text/2-4.html" id="x2-4" media-type="application/xhtml+xml"/>
+    <item href="Text/2-5.html" id="x2-5" media-type="application/xhtml+xml"/>
+    <item href="Text/2-6.html" id="x2-6" media-type="application/xhtml+xml"/>
+    <item href="Text/2-7.html" id="x2-7" media-type="application/xhtml+xml"/>
+    <item href="Text/2-8.html" id="x2-8" media-type="application/xhtml+xml"/>
+    <item href="Text/2-9.html" id="x2-9" media-type="application/xhtml+xml"/>
+    <item href="Text/2-10.html" id="x2-10" media-type="application/xhtml+xml"/>
+    <item href="Text/2-11.html" id="x2-11" media-type="application/xhtml+xml"/>
+    <item href="Text/2-12.html" id="x2-12" media-type="application/xhtml+xml"/>
+    <item href="Text/2-13.html" id="x2-13" media-type="application/xhtml+xml"/>
+    <item href="Text/2-14.html" id="x2-14" media-type="application/xhtml+xml"/>
+    <item href="Text/2-15.html" id="x2-15" media-type="application/xhtml+xml"/>
+    <item href="Text/2-16.html" id="x2-16" media-type="application/xhtml+xml"/>
+    <item href="Text/2-17.html" id="x2-17" media-type="application/xhtml+xml"/>
+    <item href="Text/2-18.html" id="x2-18" media-type="application/xhtml+xml"/>
+    <item href="Text/2-19.html" id="x2-19" media-type="application/xhtml+xml"/>
+    <item href="Text/2-20.html" id="x2-20" media-type="application/xhtml+xml"/>
+    <item href="Text/2-21.html" id="x2-21" media-type="application/xhtml+xml"/>
+    <item href="Text/2-22.html" id="x2-22" media-type="application/xhtml+xml"/>
+    <item href="Text/2-23.html" id="x2-23" media-type="application/xhtml+xml"/>
+    <item href="Text/2-24.html" id="x2-24" media-type="application/xhtml+xml"/>
+    <item href="Text/2-25.html" id="x2-25" media-type="application/xhtml+xml"/>
+    <item href="Text/2-26.html" id="x2-26" media-type="application/xhtml+xml"/>
+    <item href="Text/2-27.html" id="x2-27" media-type="application/xhtml+xml"/>
+    <item href="Text/2-28.html" id="x2-28" media-type="application/xhtml+xml"/>
+    <item href="Text/2-29.html" id="x2-29" media-type="application/xhtml+xml"/>
+    <item href="Text/2-30.html" id="x2-30" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/3-1.html" id="x3-1" media-type="application/xhtml+xml"/>
+    <item href="Text/3-2.html" id="x3-2" media-type="application/xhtml+xml"/>
+    <item href="Text/3-3.html" id="x3-3" media-type="application/xhtml+xml"/>
+    <item href="Text/3-4.html" id="x3-4" media-type="application/xhtml+xml"/>
+    <item href="Text/3-5.html" id="x3-5" media-type="application/xhtml+xml"/>
+    <item href="Text/3-6.html" id="x3-6" media-type="application/xhtml+xml"/>
+    <item href="Text/3-7.html" id="x3-7" media-type="application/xhtml+xml"/>
+    <item href="Text/3-8.html" id="x3-8" media-type="application/xhtml+xml"/>
+    <item href="Text/3-9.html" id="x3-9" media-type="application/xhtml+xml"/>
+    <item href="Text/3-10.html" id="x3-10" media-type="application/xhtml+xml"/>
+    <item href="Text/3-11.html" id="x3-11" media-type="application/xhtml+xml"/>
+    <item href="Text/3-12.html" id="x3-12" media-type="application/xhtml+xml"/>
+    <item href="Text/3-13.html" id="x3-13" media-type="application/xhtml+xml"/>
+    <item href="Text/3-14.html" id="x3-14" media-type="application/xhtml+xml"/>
+    <item href="Text/3-15.html" id="x3-15" media-type="application/xhtml+xml"/>
+    <item href="Text/3-16.html" id="x3-16" media-type="application/xhtml+xml"/>
+    <item href="Text/3-17.html" id="x3-17" media-type="application/xhtml+xml"/>
+    <item href="Text/3-18.html" id="x3-18" media-type="application/xhtml+xml"/>
+    <item href="Text/3-19.html" id="x3-19" media-type="application/xhtml+xml"/>
+    <item href="Text/3-20.html" id="x3-20" media-type="application/xhtml+xml"/>
+    <item href="Text/3-21.html" id="x3-21" media-type="application/xhtml+xml"/>
+    <item href="Text/3-22.html" id="x3-22" media-type="application/xhtml+xml"/>
+    <item href="Text/3-23.html" id="x3-23" media-type="application/xhtml+xml"/>
+    <item href="Text/3-24.html" id="x3-24" media-type="application/xhtml+xml"/>
+    <item href="Text/3-25.html" id="x3-25" media-type="application/xhtml+xml"/>
+    <item href="Text/3-26.html" id="x3-26" media-type="application/xhtml+xml"/>
+    <item href="Text/3-27.html" id="x3-27" media-type="application/xhtml+xml"/>
+    <item href="Text/3-28.html" id="x3-28" media-type="application/xhtml+xml"/>
+    <item href="Text/3-29.html" id="x3-29" media-type="application/xhtml+xml"/>
+    <item href="Text/3-30.html" id="x3-30" media-type="application/xhtml+xml"/>
+    <item href="Text/3-31.html" id="x3-31" media-type="application/xhtml+xml"/>
+    <item href="Text/3-32.html" id="x3-32" media-type="application/xhtml+xml"/>
+    <item href="Text/3-33.html" id="x3-33" media-type="application/xhtml+xml"/>
+    <item href="Text/3-34.html" id="x3-34" media-type="application/xhtml+xml"/>
+    <item href="Text/3-35.html" id="x3-35" media-type="application/xhtml+xml"/>
+    <item href="Text/3-36.html" id="x3-36" media-type="application/xhtml+xml"/>
+    <item href="Text/3-37.html" id="x3-37" media-type="application/xhtml+xml"/>
+    <item href="Text/3-38.html" id="x3-38" media-type="application/xhtml+xml"/>
+    <item href="Text/3-39.html" id="x3-39" media-type="application/xhtml+xml"/>
+    <item href="Text/3-40.html" id="x3-40" media-type="application/xhtml+xml"/>
+    <item href="Text/3-41.html" id="x3-41" media-type="application/xhtml+xml"/>
+    <item href="Text/3-42.html" id="x3-42" media-type="application/xhtml+xml"/>
+    <item href="Text/3-43.html" id="x3-43" media-type="application/xhtml+xml"/>
+    <item href="Text/3-44.html" id="x3-44" media-type="application/xhtml+xml"/>
+    <item href="Text/3-45.html" id="x3-45" media-type="application/xhtml+xml"/>
+    <item href="Text/3-46.html" id="x3-46" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="Images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x2-1"/>
+    <itemref idref="x2-2"/>
+    <itemref idref="x2-3"/>
+    <itemref idref="x2-4"/>
+    <itemref idref="x2-5"/>
+    <itemref idref="x2-6"/>
+    <itemref idref="x2-7"/>
+    <itemref idref="x2-8"/>
+    <itemref idref="x2-9"/>
+    <itemref idref="x2-10"/>
+    <itemref idref="x2-11"/>
+    <itemref idref="x2-12"/>
+    <itemref idref="x2-13"/>
+    <itemref idref="x2-14"/>
+    <itemref idref="x2-15"/>
+    <itemref idref="x2-16"/>
+    <itemref idref="x2-17"/>
+    <itemref idref="x2-18"/>
+    <itemref idref="x2-19"/>
+    <itemref idref="x2-20"/>
+    <itemref idref="x2-21"/>
+    <itemref idref="x2-22"/>
+    <itemref idref="x2-23"/>
+    <itemref idref="x2-24"/>
+    <itemref idref="x2-25"/>
+    <itemref idref="x2-26"/>
+    <itemref idref="x2-27"/>
+    <itemref idref="x2-28"/>
+    <itemref idref="x2-29"/>
+    <itemref idref="x2-30"/>
+    <itemref idref="x3"/>
+    <itemref idref="x3-1"/>
+    <itemref idref="x3-2"/>
+    <itemref idref="x3-3"/>
+    <itemref idref="x3-4"/>
+    <itemref idref="x3-5"/>
+    <itemref idref="x3-6"/>
+    <itemref idref="x3-7"/>
+    <itemref idref="x3-8"/>
+    <itemref idref="x3-9"/>
+    <itemref idref="x3-10"/>
+    <itemref idref="x3-11"/>
+    <itemref idref="x3-12"/>
+    <itemref idref="x3-13"/>
+    <itemref idref="x3-14"/>
+    <itemref idref="x3-15"/>
+    <itemref idref="x3-16"/>
+    <itemref idref="x3-17"/>
+    <itemref idref="x3-18"/>
+    <itemref idref="x3-19"/>
+    <itemref idref="x3-20"/>
+    <itemref idref="x3-21"/>
+    <itemref idref="x3-22"/>
+    <itemref idref="x3-23"/>
+    <itemref idref="x3-24"/>
+    <itemref idref="x3-25"/>
+    <itemref idref="x3-26"/>
+    <itemref idref="x3-27"/>
+    <itemref idref="x3-28"/>
+    <itemref idref="x3-29"/>
+    <itemref idref="x3-30"/>
+    <itemref idref="x3-31"/>
+    <itemref idref="x3-32"/>
+    <itemref idref="x3-33"/>
+    <itemref idref="x3-34"/>
+    <itemref idref="x3-35"/>
+    <itemref idref="x3-36"/>
+    <itemref idref="x3-37"/>
+    <itemref idref="x3-38"/>
+    <itemref idref="x3-39"/>
+    <itemref idref="x3-40"/>
+    <itemref idref="x3-41"/>
+    <itemref idref="x3-42"/>
+    <itemref idref="x3-43"/>
+    <itemref idref="x3-44"/>
+    <itemref idref="x3-45"/>
+    <itemref idref="x3-46"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

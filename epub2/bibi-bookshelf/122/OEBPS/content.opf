@@ -1,0 +1,75 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Sabatier, Robert">Robert Sabatier</dc:creator>
+<dc:date>2016-05-09T21:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2016-05-13</dc:date>
+    <dc:identifier id="BookId">awp2016-05-10T22:37:01Z</dc:identifier>
+    <dc:publisher>Sel Yayıncılık</dc:publisher>
+    <dc:description>&lt;p&gt;İsveç Kibritleri, Olivier’nin (aslında, Robert Sabatier’nin) çocukluk 
+yıllarının ve o dönem Paris’inin, yetim Olivier ile anarşist ruhlu 
+Bougras arasındaki dostluğun unutulmaz öyküsü. Geçmiş zamana, sokaklar diyarına, sevinçlerle, kederlerle sarmaş dolaş, göz kamaştırıcı, benzersiz bir yolculuk. Okunduktan sonra da etkisi, büyüsü devam eden, insan sıcaklığı ile sarmalanmış bir sokaktan başlıyor bu yolculuk.Gözkamaştırıcıydı sokağım.Yıllar akıp geçti. Bir hayli şey öğrendim, başka ışıklar gördüm; bitkilere olduğu kadar insanlara da gerekli aydınlığın göklere, güneşlere ve denizlere göre değişen eşsiz renklerini bir bir saydım. Ama hiçbir şey, ne doğa, ne de kitaplar, sokağımdaki güneşin o amansız, o değişmez beyazlığı kadar yer etmedi anılarımda.&lt;/p&gt;</dc:description>
+    <meta content="0.9.5" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="İsveç Kibritleri"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Robert Sabatier&quot;: &quot;&quot;}"/>
+  <dc:title>İsveç Kibritleri</dc:title>
+<dc:subject>Fransız Edebiyatı</dc:subject>
+<dc:subject>Logolu</dc:subject>
+<dc:contributor opf:role="bkp">calibre (2.56.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">8b6805f4-c2b4-4a3a-a0d3-a1ea9bf07f74</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/R.Sabatier.html" id="R.Sabatier.html" media-type="application/xhtml+xml"/>
+    <item href="Text/EKDG_logo.xhtml" id="EKDG_logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Kunye.html" id="Kunye.html" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.html" id="ickapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.html" id="ithaf.html" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="Text/014.html" id="id014" media-type="application/xhtml+xml"/>
+    <item href="Text/015.html" id="id015" media-type="application/xhtml+xml"/>
+    <item href="Text/DiPNOTLAR.xhtml" id="DiPNOTLAR.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/igormrdn.css" id="igormrdn.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+    <item href="Fonts/ANTQUAB.TTF" id="idfont1" media-type="application/vnd-ms-opentype"/>
+    <item href="Fonts/ANTQUABI.TTF" id="idfont4" media-type="application/vnd-ms-opentype"/>
+    <item href="Fonts/ANTQUAI.TTF" id="idfont3" media-type="application/vnd-ms-opentype"/>
+    <item href="Fonts/BKANT.TTF" id="idfont2" media-type="application/vnd-ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="EKDG_logo.xhtml"/>
+    <itemref idref="R.Sabatier.html"/>
+    <itemref idref="Kunye.html"/>
+    <itemref idref="ickapak.html"/>
+    <itemref idref="ithaf.html"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="DiPNOTLAR.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

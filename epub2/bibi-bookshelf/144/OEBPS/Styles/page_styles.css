@@ -1,0 +1,34 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+  }
+
+
+@font-face {
+  font-family: Calibri;
+  font-weight: normal;
+  font-style: normal;
+  src: url(OEBPS/Styles/OEBPS/Fonts/calibri.ttf);
+  }
+@font-face {
+  font-family: Calibri;
+  font-weight: normal;
+  font-style: italic;
+  src: url(OEBPS/Styles/OEBPS/Fonts/calibrii.ttf);
+  }
+@font-face {
+  font-family: Calibri;
+  font-weight: bold;
+  font-style: italic;
+  src: url(OEBPS/Styles/OEBPS/Fonts/calibriz.ttf);
+  }
+@font-face {
+  font-weight: bold;
+  font-style: normal;
+  src: url(OEBPS/Styles/OEBPS/Fonts/upckb.ttf);
+  }
+@font-face {
+  font-weight: bold;
+  font-style: italic;
+  src: url(OEBPS/Styles/OEBPS/Fonts/browauz.ttf);
+  }

@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+<head>
+<meta content="AWP-E7DA43C6-46F4-475E-89B7-8AD480CE5500" name="dtb:uid"/>
+<meta content="3" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Felsefeye Giriş</text>
+</docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1">
+<navLabel>
+<text>Title page</text>
+</navLabel>
+<content src="Text/001.html"/>
+</navPoint>
+<navPoint id="navpoint-2" playOrder="2">
+<navLabel>
+<text>Önsöz</text>
+</navLabel>
+<content src="Text/002.html#ncx11"/>
+</navPoint>
+<navPoint id="navpoint-3" playOrder="3">
+<navLabel>
+<text>I. Çeşitli Felsefi Disiplinlerin Fenomenolojik Bir Tasviri</text>
+</navLabel>
+<content src="Text/002.html#ncx30"/>
+</navPoint>
+<navPoint id="navpoint-4" playOrder="4">
+<navLabel>
+<text>II. Bilim Nazariyesi</text>
+</navLabel>
+<content src="Text/003.html#ncx71"/>
+<navPoint id="navpoint-5" playOrder="5">
+<navLabel>
+<text>1. Bilimlerin tasnifi ve metot problemi</text>
+</navLabel>
+<content src="Text/003.html#ncx72"/>
+</navPoint>
+<navPoint id="navpoint-6" playOrder="6">
+<navLabel>
+<text>2. W.Windelband’a göre bilimlerin tasnifi</text>
+</navLabel>
+<content src="Text/003.html#ncx100"/>
+</navPoint>
+<navPoint id="navpoint-7" playOrder="7">
+<navLabel>
+<text>3. W.Dilthey’a göre bilimlerin tasnifi</text>
+</navLabel>
+<content src="Text/003.html#ncx137"/>
+</navPoint>
+<navPoint id="navpoint-8" playOrder="8">
+<navLabel>
+<text>4. Bilimlerin ontolojik tasnifi</text>
+</navLabel>
+<content src="Text/003.html#ncx158"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-9" playOrder="9">
+<navLabel>
+<text>III. Bilgi Teorisi</text>
+</navLabel>
+<content src="Text/004.html#ncx184"/>
+<navPoint id="navpoint-10" playOrder="10">
+<navLabel>
+<text>A. Bilgi Fenomeni</text>
+</navLabel>
+<content src="Text/004.html#ncx185"/>
+<navPoint id="navpoint-11" playOrder="11">
+<navLabel>
+<text>1. Bilgi fenomeninin tasviri</text>
+</navLabel>
+<content src="Text/004.html#ncx186"/>
+</navPoint>
+<navPoint id="navpoint-12" playOrder="12">
+<navLabel>
+<text>2. Süje ve objenin varlık karakteri</text>
+</navLabel>
+<content src="Text/004.html#ncx190"/>
+</navPoint>
+<navPoint id="navpoint-13" playOrder="13">
+<navLabel>
+<text>3. Süje ve obje münasebetinden ortaya çıkan felsefi teoriler</text>
+</navLabel>
+<content src="Text/004.html#ncx197"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-14" playOrder="14">
+<navLabel>
+<text>B. Bilgi Edimleri</text>
+</navLabel>
+<content src="Text/005.html#ncx220"/>
+<navPoint id="navpoint-15" playOrder="15">
+<navLabel>
+<text>1. İdrak edimleri</text>
+</navLabel>
+<content src="Text/005.html#ncx221"/>
+</navPoint>
+<navPoint id="navpoint-16" playOrder="16">
+<navLabel>
+<text>2. Düşünme edimi</text>
+</navLabel>
+<content src="Text/005.html#ncx241"/>
+</navPoint>
+<navPoint id="navpoint-17" playOrder="17">
+<navLabel>
+<text>3. Anlama edimi</text>
+</navLabel>
+<content src="Text/005.html#ncx266"/>
+</navPoint>
+<navPoint id="navpoint-18" playOrder="18">
+<navLabel>
+<text>4. İzah etme edimi</text>
+</navLabel>
+<content src="Text/005.html#ncx287"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-19" playOrder="19">
+<navLabel>
+<text>C. Bilgi Edimlerinin Başarısı</text>
+</navLabel>
+<content src="Text/005.html#ncx292"/>
+<navPoint id="navpoint-20" playOrder="20">
+<navLabel>
+<text>1. Edimlerin sağladığı bilginin karakteri</text>
+</navLabel>
+<content src="Text/005.html#ncx293"/>
+</navPoint>
+<navPoint id="navpoint-21" playOrder="21">
+<navLabel>
+<text>2. Apriori bilginin temellendirilmesi hakkındaki felsefi görüşler</text>
+</navLabel>
+<content src="Text/005.html#ncx313"/>
+</navPoint>
+<navPoint id="navpoint-22" playOrder="22">
+<navLabel>
+<text>3. Ontolojik görüş bakımından apriori, aposteriori bilgi</text>
+</navLabel>
+<content src="Text/005.html#ncx318"/>
+</navPoint>
+<navPoint id="navpoint-23" playOrder="23">
+<navLabel>
+<text>4. Bilgi edimlerinin objeye uygun gelmesi veya gelmemesi (hakikat-hata problemi)</text>
+</navLabel>
+<content src="Text/005.html#ncx327"/>
+</navPoint>
+<navPoint id="navpoint-24" playOrder="24">
+<navLabel>
+<text>5. Hakikatin “bir”liği ve “mutlak’’lığı</text>
+</navLabel>
+<content src="Text/005.html#ncx348"/>
+</navPoint>
+<navPoint id="navpoint-25" playOrder="25">
+<navLabel>
+<text>6. İçkin ve aşkın hakikat</text>
+</navLabel>
+<content src="Text/005.html#ncx367"/>
+</navPoint>
+<navPoint id="navpoint-26" playOrder="26">
+<navLabel>
+<text>7. Bilgi edimleri ile obje arasındaki uygunluğun işareti (hakikat ölçütü)</text>
+</navLabel>
+<content src="Text/005.html#ncx376"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-27" playOrder="27">
+<navLabel>
+<text>D. Bilgi Edimlerinin Hedefi: Bilgide Araştırma ve İlerleme Problemi</text>
+</navLabel>
+<content src="Text/005.html#ncx393"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-28" playOrder="28">
+<navLabel>
+<text>IV. MANTIK</text>
+</navLabel>
+<content src="Text/006.html#ncx415"/>
+<navPoint id="navpoint-29" playOrder="29">
+<navLabel>
+<text>1. Mantığın araştırma sahasının sınırlandırılması ve düşünce ile düşünme arasındaki münasebet</text>
+</navLabel>
+<content src="Text/006.html#ncx416"/>
+</navPoint>
+<navPoint id="navpoint-30" playOrder="30">
+<navLabel>
+<text>2. Mantık hakkında ortaya konulan yanlış görüşler</text>
+</navLabel>
+<content src="Text/006.html#ncx435"/>
+</navPoint>
+<navPoint id="navpoint-31" playOrder="31">
+<navLabel>
+<text>3. Mantığın prensipleri</text>
+</navLabel>
+<content src="Text/006.html#ncx446"/>
+</navPoint>
+<navPoint id="navpoint-32" playOrder="32">
+<navLabel>
+<text>4. Hükmün unsurları; hükümlerden çıkarılan neticeler;  kavramlar</text>
+</navLabel>
+<content src="Text/006.html#ncx463"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-33" playOrder="33">
+<navLabel>
+<text>V. ONTOLOJİ</text>
+</navLabel>
+<content src="Text/007.html#ncx482"/>
+<navPoint id="navpoint-34" playOrder="34">
+<navLabel>
+<text>A. Ontolojinin Umumi Bir Tasviri</text>
+</navLabel>
+<content src="Text/007.html#ncx483"/>
+<navPoint id="navpoint-35" playOrder="35">
+<navLabel>
+<text>1. Ontolojinin vazifesi ve ontoloji kavramı</text>
+</navLabel>
+<content src="Text/007.html#ncx484"/>
+</navPoint>
+<navPoint id="navpoint-36" playOrder="36">
+<navLabel>
+<text>2. Varlık fenomenleri</text>
+</navLabel>
+<content src="Text/007.html#ncx496"/>
+</navPoint>
+<navPoint id="navpoint-37" playOrder="37">
+<navLabel>
+<text>3. Ontolojik tavırla bilimsel tavır arasındaki münasebet</text>
+</navLabel>
+<content src="Text/007.html#ncx512"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-38" playOrder="38">
+<navLabel>
+<text>B. Ontolojinin Araştırma Sahasının Sınırlandırılması.</text>
+</navLabel>
+<content src="Text/007.html#ncx517"/>
+<navPoint id="navpoint-39" playOrder="39">
+<navLabel>
+<text>1. Varlık-prensipleri</text>
+</navLabel>
+<content src="Text/007.html#ncx518"/>
+</navPoint>
+<navPoint id="navpoint-40" playOrder="40">
+<navLabel>
+<text>2. Varlık-türlerinin tasviri</text>
+</navLabel>
+<content src="Text/007.html#ncx552"/>
+</navPoint>
+<navPoint id="navpoint-41" playOrder="41">
+<navLabel>
+<text>3. Reel varlıkla ideal varlığın veriliş - tarzı</text>
+</navLabel>
+<content src="Text/007.html#ncx572"/>
+</navPoint>
+<navPoint id="navpoint-42" playOrder="42">
+<navLabel>
+<text>4. Varlık-tarzları</text>
+</navLabel>
+<content src="Text/007.html#ncx592"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-43" playOrder="43">
+<navLabel>
+<text>C. Eski ve Yeni Ontoloji</text>
+</navLabel>
+<content src="Text/007.html#ncx645"/>
+<navPoint id="navpoint-44" playOrder="44">
+<navLabel>
+<text>1. Eski ve yeni ontolojinin kısaca mukayesesi</text>
+</navLabel>
+<content src="Text/007.html#ncx646"/>
+</navPoint>
+<navPoint id="navpoint-45" playOrder="45">
+<navLabel>
+<text>2. Eski ontoloji ile mantık arasındaki münasebet</text>
+</navLabel>
+<content src="Text/007.html#ncx649"/>
+</navPoint>
+<navPoint id="navpoint-46" playOrder="46">
+<navLabel>
+<text>3. Yeni ve eski ontoloji arasında hususi bir yer alan “mahiyet ontolojisi”</text>
+</navLabel>
+<content src="Text/007.html#ncx657"/>
+</navPoint>
+<navPoint id="navpoint-47" playOrder="47">
+<navLabel>
+<text>4. Var olanı “mevcudiyet” ve “hiçliğe” irca eden  metafizik ontoloji</text>
+</navLabel>
+<content src="Text/007.html#ncx664"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-48" playOrder="48">
+<navLabel>
+<text>VI. Tabiat Felsefesi</text>
+</navLabel>
+<content src="Text/008.html#ncx677"/>
+<navPoint id="navpoint-49" playOrder="49">
+<navLabel>
+<text>1. Tabiat felsefesinin doğuşu</text>
+</navLabel>
+<content src="Text/008.html#ncx678"/>
+</navPoint>
+<navPoint id="navpoint-50" playOrder="50">
+<navLabel>
+<text>2. Anorganik varlıkla organik varlık arasındaki münasebet</text>
+</navLabel>
+<content src="Text/008.html#ncx688"/>
+</navPoint>
+<navPoint id="navpoint-51" playOrder="51">
+<navLabel>
+<text>3. Tabiat kategorileri</text>
+</navLabel>
+<content src="Text/008.html#ncx699"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-52" playOrder="52">
+<navLabel>
+<text>VII. Tarihi Varlık-Sahasının Felsefesi</text>
+</navLabel>
+<content src="Text/008.html#ncx707"/>
+<navPoint id="navpoint-53" playOrder="53">
+<navLabel>
+<text>A. Tarihi varlık-sahası ve prensipleri</text>
+</navLabel>
+<content src="Text/008.html#ncx708"/>
+</navPoint>
+<navPoint id="navpoint-54" playOrder="54">
+<navLabel>
+<text>B. Tarihi Varlık-Sahasını Determine Eden Prensipler</text>
+</navLabel>
+<content src="Text/008.html#ncx736"/>
+<navPoint id="navpoint-55" playOrder="55">
+<navLabel>
+<text>1. Zaman kategorisi</text>
+</navLabel>
+<content src="Text/008.html#ncx737"/>
+</navPoint>
+<navPoint id="navpoint-56" playOrder="56">
+<navLabel>
+<text>2. Mekân kategorisi</text>
+</navLabel>
+<content src="Text/008.html#ncx746"/>
+</navPoint>
+<navPoint id="navpoint-57" playOrder="57">
+<navLabel>
+<text>3. İrsi hususiyetler - kategorisi</text>
+</navLabel>
+<content src="Text/008.html#ncx758"/>
+</navPoint>
+<navPoint id="navpoint-58" playOrder="58">
+<navLabel>
+<text>4. Nedensellik kategorisi</text>
+</navLabel>
+<content src="Text/008.html#ncx770"/>
+</navPoint>
+<navPoint id="navpoint-59" playOrder="59">
+<navLabel>
+<text>5. Karşılıklı tesir - kategorisi</text>
+</navLabel>
+<content src="Text/008.html#ncx782"/>
+</navPoint>
+<navPoint id="navpoint-60" playOrder="60">
+<navLabel>
+<text>6. Görüş - tarzı kategorisi</text>
+</navLabel>
+<content src="Text/008.html#ncx798"/>
+</navPoint>
+<navPoint id="navpoint-61" playOrder="61">
+<navLabel>
+<text>7. Eğitim - kategorisi</text>
+</navLabel>
+<content src="Text/008.html#ncx821"/>
+</navPoint>
+<navPoint id="navpoint-62" playOrder="62">
+<navLabel>
+<text>8. Gelenek - kategorisi</text>
+</navLabel>
+<content src="Text/008.html#ncx837"/>
+</navPoint>
+<navPoint id="navpoint-63" playOrder="63">
+<navLabel>
+<text>9. Kıymetlerin determinasyonu</text>
+</navLabel>
+<content src="Text/008.html#ncx873"/>
+</navPoint>
+<navPoint id="navpoint-64" playOrder="64">
+<navLabel>
+<text>10. Oluş - kategorisi</text>
+</navLabel>
+<content src="Text/008.html#ncx900"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-65" playOrder="65">
+<navLabel>
+<text>VIII. SANAT FELSEFESİ</text>
+</navLabel>
+<content src="Text/009.html#ncx922"/>
+<navPoint id="navpoint-66" playOrder="66">
+<navLabel>
+<text>1. Estetik ve sanat felsefesi</text>
+</navLabel>
+<content src="Text/009.html#ncx923"/>
+</navPoint>
+<navPoint id="navpoint-67" playOrder="67">
+<navLabel>
+<text>2. Bilgi ve sanat</text>
+</navLabel>
+<content src="Text/009.html#ncx933"/>
+</navPoint>
+<navPoint id="navpoint-68" playOrder="68">
+<navLabel>
+<text>3. Sanattaki devirlerin hususiyetleri</text>
+</navLabel>
+<content src="Text/009.html#ncx953"/>
+</navPoint>
+<navPoint id="navpoint-69" playOrder="69">
+<navLabel>
+<text>4. Sanattaki “izm”lerin manası</text>
+</navLabel>
+<content src="Text/009.html#ncx962"/>
+</navPoint>
+<navPoint id="navpoint-70" playOrder="70">
+<navLabel>
+<text>5. Sanatın sağladığı bilgiye müşahhas, bilim ve felsefe bilgisine mücerret denmesinin sebebi</text>
+</navLabel>
+<content src="Text/009.html#ncx973"/>
+</navPoint>
+<navPoint id="navpoint-71" playOrder="71">
+<navLabel>
+<text>6. Sanattaki gerçekleştirme fonksiyonu</text>
+</navLabel>
+<content src="Text/009.html#ncx980"/>
+</navPoint>
+<navPoint id="navpoint-72" playOrder="72">
+<navLabel>
+<text>7. Sanatla hayat arasındaki münasebet</text>
+</navLabel>
+<content src="Text/009.html#ncx988"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-73" playOrder="73">
+<navLabel>
+<text>IX. DİL FELSEFESİ</text>
+</navLabel>
+<content src="Text/010.html#ncx1005"/>
+<navPoint id="navpoint-74" playOrder="74">
+<navLabel>
+<text>1. Dil felsefesinin problem sahası</text>
+</navLabel>
+<content src="Text/010.html#ncx1006"/>
+</navPoint>
+<navPoint id="navpoint-75" playOrder="75">
+<navLabel>
+<text>2. Dilin varlık - yapısı, dil ile varlık - âlemi, dil ile insan başarıları arasındaki münasebet</text>
+</navLabel>
+<content src="Text/010.html#ncx1011"/>
+</navPoint>
+<navPoint id="navpoint-76" playOrder="76">
+<navLabel>
+<text>3. Bir imkânlar sahası olarak dil</text>
+</navLabel>
+<content src="Text/010.html#ncx1025"/>
+</navPoint>
+<navPoint id="navpoint-77" playOrder="77">
+<navLabel>
+<text>4. Dil ile hayat, dil ile sübjektif alan arasındaki münasebet</text>
+</navLabel>
+<content src="Text/010.html#ncx1036"/>
+</navPoint>
+<navPoint id="navpoint-78" playOrder="78">
+<navLabel>
+<text>5. Dilin insan için ifade ettiği mana</text>
+</navLabel>
+<content src="Text/010.html#ncx1042"/>
+</navPoint>
+<navPoint id="navpoint-79" playOrder="79">
+<navLabel>
+<text>6. Dil hakkındaki teoriler</text>
+</navLabel>
+<content src="Text/010.html#ncx1055"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-80" playOrder="80">
+<navLabel>
+<text>X. FELSEFİ ANTROPOLOJİ</text>
+</navLabel>
+<content src="Text/011.html#ncx1087"/>
+<navPoint id="navpoint-81" playOrder="81">
+<navLabel>
+<text>1. Felsefi antropolojinin problem sahasının kısaca tasviri</text>
+</navLabel>
+<content src="Text/011.html#ncx1088"/>
+</navPoint>
+<navPoint id="navpoint-82" playOrder="82">
+<navLabel>
+<text>2. Zamanımızdaki antropolojik teorilerden bazıları</text>
+</navLabel>
+<content src="Text/011.html#ncx1093"/>
+</navPoint>
+<navPoint id="navpoint-83" playOrder="83">
+<navLabel>
+<text>3. Ontolojik esaslardan hareket eden felsefi antropoloji</text>
+</navLabel>
+<content src="Text/011.html#ncx1104"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-84" playOrder="84">
+<navLabel>
+<text>XI. ETİK</text>
+</navLabel>
+<content src="Text/012.html#ncx1127"/>
+<navPoint id="navpoint-85" playOrder="85">
+<navLabel>
+<text>1. Etiğin problem sahası</text>
+</navLabel>
+<content src="Text/012.html#ncx1128"/>
+</navPoint>
+<navPoint id="navpoint-86" playOrder="86">
+<navLabel>
+<text>2. Etik tarihinde ortaya atılan mühim görüşler</text>
+</navLabel>
+<content src="Text/012.html#ncx1139"/>
+</navPoint>
+<navPoint id="navpoint-87" playOrder="87">
+<navLabel>
+<text>3. Antropolojik ve ontolojik esaslara dayanan etik</text>
+</navLabel>
+<content src="Text/012.html#ncx1174"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-88" playOrder="88">
+<navLabel>
+<text>XII. HUKUK VE DEVLET FELSEFESİ</text>
+</navLabel>
+<content src="Text/013.html#ncx1207"/>
+<navPoint id="navpoint-89" playOrder="89">
+<navLabel>
+<text>1. Devlet ve hukuk felsefesinin problem ve fenomen sahası</text>
+</navLabel>
+<content src="Text/013.html#ncx1208"/>
+</navPoint>
+<navPoint id="navpoint-90" playOrder="90">
+<navLabel>
+<text>2. Devlet ve hukuk fenomenleri hakkında ortaya atılan spekülatif görüşler</text>
+</navLabel>
+<content src="Text/013.html#ncx1221"/>
+</navPoint>
+<navPoint id="navpoint-91" playOrder="91">
+<navLabel>
+<text>3. Antropolojik, ontolojik esaslardan hareket eden devlet ve hukuk felsefesi</text>
+</navLabel>
+<content src="Text/013.html#ncx1229"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-92" playOrder="92">
+<navLabel>
+<text>XIII. DİN FELSEFESİ</text>
+</navLabel>
+<content src="Text/014.html#ncx1251"/>
+<navPoint id="navpoint-93" playOrder="93">
+<navLabel>
+<text>1. Spekülatif bir problem olarak din</text>
+</navLabel>
+<content src="Text/014.html#ncx1252"/>
+</navPoint>
+<navPoint id="navpoint-94" playOrder="94">
+<navLabel>
+<text>2. Din felsefesinin fenomen ve problemleri</text>
+</navLabel>
+<content src="Text/014.html#ncx1258"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-95" playOrder="95">
+<navLabel>
+<text>XIV. METAFİZİK</text>
+</navLabel>
+<content src="Text/015.html#ncx1275"/>
+<navPoint id="navpoint-96" playOrder="96">
+<navLabel>
+<text>1. Eski metafizik</text>
+</navLabel>
+<content src="Text/015.html#ncx1276"/>
+</navPoint>
+<navPoint id="navpoint-97" playOrder="97">
+<navLabel>
+<text>2. Problem metafiziği</text>
+</navLabel>
+<content src="Text/015.html#ncx1288"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-98" playOrder="98">
+<navLabel>
+<text>XV. PROBLEM OLARAK FELSEFE  TARİHİ</text>
+</navLabel>
+<content src="Text/016.html#ncx1302"/>
+<navPoint id="navpoint-99" playOrder="99">
+<navLabel>
+<text>1. Tarih</text>
+</navLabel>
+<content src="Text/016.html#ncx1303"/>
+</navPoint>
+<navPoint id="navpoint-100" playOrder="100">
+<navLabel>
+<text>2. İlim ve felsefe tarihinin hususiyetleri</text>
+</navLabel>
+<content src="Text/016.html#ncx1310"/>
+</navPoint>
+<navPoint id="navpoint-101" playOrder="101">
+<navLabel>
+<text>3. Felsefe tarihinin karşılaştığı güçlükler</text>
+</navLabel>
+<content src="Text/016.html#ncx1318"/>
+</navPoint>
+<navPoint id="navpoint-102" playOrder="102">
+<navLabel>
+<text>4. Felsefe tarihinin doğru yolda yürümesine engel olan motifler</text>
+</navLabel>
+<content src="Text/016.html#ncx1327"/>
+</navPoint>
+</navPoint>
+</navMap>
+</ncx>
