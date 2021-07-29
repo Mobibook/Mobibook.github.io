@@ -1,0 +1,633 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="de">
+  <head>
+    <meta content="a2ddcdbd-f85d-4602-9a86-81d012cf6a4c" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (2.28.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ufak Şeyleri Dert Etmeyin</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Richard Carlson - Ufak Şeyleri Dert Etmeyin</text>
+      </navLabel>
+      <content src="titlepage.xhtml#u06c9b5d7-bc20-427f-8fdd-48c0c1d4ea59"/>
+      <navPoint id="num_2" playOrder="2">
+        <navLabel>
+          <text>İçindekiler</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u39543579-6c4c-4b7c-a0ee-4319895e6ce0"/>
+      </navPoint>
+      <navPoint id="num_3" playOrder="3">
+        <navLabel>
+          <text>Önsöz</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u5e532dd5-6385-4f1d-a65a-aeb7e07b7b57"/>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>1-Ufak Şeyleri Dert Etmeyin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u05e5166a-bb74-480a-96ad-026fa1abadba"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>2-Kusursuz Olmayabileceğinizi Kabullenin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u36a26240-ac0e-46b2-a412-b7cf4bb79a0e"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>3-Rahat ve Ilımlı İnsanların Çok Başarılı Olamayacakları Düşüncesini Bırakın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u0056119d-5294-4bea-86f9-526a3f6c588c"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>4-Düşünme Sürecindeki Çığ Gibi Büyüme Etkisi</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u0ac411c5-d702-4fce-843c-eafdcd8880c0"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>5-Sevgi Kapasitenizi Geliştirin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u033613dd-d810-4e37-be79-2e6b3f1fca36"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>6-Unutmayın: Öldüğünüz Zaman, Yapılacak İşler Listeniz Hâlâ Dolu Olacaktır</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u29a08cf3-38a8-4015-8111-925aafb7f0b9"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>7-Kimsenin Sözünü Kesmeyin; Cümlesini Siz Bitirmeyin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u5a43a8c0-5ac7-46d2-9bb2-288fa9a40f74"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>8-Birisine Bir İyilik Yapın... Ve Kimseye Bundan Bahsetmeyin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u0f8dde25-a43a-4005-829f-60fa846bf78f"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>9-Bırakın İlgiyi Başkaları Toplasın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#ud7d0f8c1-6de9-45e4-9965-d563962e016b"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>10-İçinde Bulunduğunuz Anı Yaşamayı Öğrenin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#ubffd36c2-872a-45c2-ae3d-fa97d650cc43"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14">
+        <navLabel>
+          <text>11-Sizden Başka Herkesin Bilgili Olduğunu Düşünün</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#ucc56d1e2-3104-4355-8fb9-a8896dc330f7"/>
+      </navPoint>
+      <navPoint id="num_15" playOrder="15">
+        <navLabel>
+          <text>12-Bırakın Çoğu Zaman Başkaları Haklı Olsun</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u4dbed3ee-637a-4d02-86cd-30d93ebc1135"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>13-Daha Sabırlı Olun</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u944e2c8b-46d5-4c61-a8ac-e4d3d404de92"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>14-Sabır Geliştirme Egzersizleri Yapın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#uf5eed00d-927b-4822-93eb-a59eb9ff364b"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>15-Sevgi Elini Önce Siz Uzatın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#uca64221f-ffd1-489e-909c-7949f1d2141f"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19">
+        <navLabel>
+          <text>16-Kendinize Sorun: Bir Yıl Sonra Bunun Bir Önemi Olacak mı?</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u44a03fbf-e6d1-4dcd-93e8-c97d2b4ce759"/>
+      </navPoint>
+      <navPoint id="num_20" playOrder="20">
+        <navLabel>
+          <text>17-Gerçeği Kabul Edin: Hayat Adil Değildir</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#ua1a4f33e-cc0e-4614-8228-ab28d34cceaf"/>
+      </navPoint>
+      <navPoint id="num_21" playOrder="21">
+        <navLabel>
+          <text>18-Bırakın Canınız Sıkılsın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#ua307ff35-7352-4f33-8bef-da8a132bfa67"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22">
+        <navLabel>
+          <text>19-Strese Dayanma Gücünüzü Azaltın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#uedaffc88-ee26-4831-b529-b9355a455b8b"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="23">
+        <navLabel>
+          <text>20-Haftada Bir Kez Yürekten Gelen Bir Mektup Yazın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u67c0b64a-43bf-4742-99f4-9fd2c7929cc1"/>
+      </navPoint>
+      <navPoint id="num_24" playOrder="24">
+        <navLabel>
+          <text>21-Kendi Cenazenize Katıldığınızı Farzedin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u9a77cfb3-85a1-488d-a174-e01761b8028f"/>
+      </navPoint>
+      <navPoint id="num_25" playOrder="25">
+        <navLabel>
+          <text>22-Sık Sık Tekrar Edin "Hayat Bir Acil Durum Değildir"</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u72e5b889-e62f-41e2-bdbe-c70e7d9fcdee"/>
+      </navPoint>
+      <navPoint id="num_26" playOrder="26">
+        <navLabel>
+          <text>23-Zihninizde Özel Bir Bölüm Açın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u5aa1ad07-cbaf-4e98-ac3c-a7c1b4ccddc5"/>
+      </navPoint>
+      <navPoint id="num_27" playOrder="27">
+        <navLabel>
+          <text>24-Her Gün Bir Dakikanızı Teşekkür Edecek Birini Düşünmek İçin Harcayın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u5abc7edd-5808-4a47-bb77-fbbeadc00d03"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="28">
+        <navLabel>
+          <text>25-Tanımadığınız İnsanların Gözlerine Bakın ve Gülümseyerek, Merhaba, Deyin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u7289024f-e43c-4b7d-99ac-374d79de0981"/>
+      </navPoint>
+      <navPoint id="num_29" playOrder="29">
+        <navLabel>
+          <text>26-Her Gün Kendinize Biraz "Sessiz Zaman" Ayırın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u9eda8a81-6a73-487b-aab1-96c9c45cecb4"/>
+      </navPoint>
+      <navPoint id="num_30" playOrder="30">
+        <navLabel>
+          <text>27-Yaşamınızdaki İnsanları Minik Çocuklar ve Yüz Yaşında İhtiyarlar olarak Düşünün</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u32ea09bf-7340-4eff-8d42-522ea565fab9"/>
+      </navPoint>
+      <navPoint id="num_31" playOrder="31">
+        <navLabel>
+          <text>28-Önce Karşınızdaki Kimseyi Anlamayı Hedefleyin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#ua88d99ea-70d4-49ad-b4b4-4979be770ade"/>
+      </navPoint>
+      <navPoint id="num_32" playOrder="32">
+        <navLabel>
+          <text>29-Daha İyi Bir Dinleyici Olun</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u3f9222f6-7602-41e1-aad0-5587be44d97d"/>
+      </navPoint>
+      <navPoint id="num_33" playOrder="33">
+        <navLabel>
+          <text>30-Savaşlarınızı Akıllıca Seçin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#ud5db9d24-f318-49a8-9dec-8187c422b5a8"/>
+      </navPoint>
+      <navPoint id="num_34" playOrder="34">
+        <navLabel>
+          <text>31-Ruh Durumunuzu Dikkate Alın; Moralinizin Bozuk olduğu Zamanlar Sizi Yanıltmasın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#ud8f4929b-bca0-48e1-af3f-25a4a380ee67"/>
+      </navPoint>
+      <navPoint id="num_35" playOrder="35">
+        <navLabel>
+          <text>32-Hayat Bir Sınavdır. Altı Üstü Bir Sınav</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u7f4e4f92-0c58-4398-b07a-b384b052119e"/>
+      </navPoint>
+      <navPoint id="num_36" playOrder="36">
+        <navLabel>
+          <text>33-Övgü ve Yergi Aynı Şeydir</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u7067f9e8-6943-4e6d-9d08-c38df385b831"/>
+      </navPoint>
+      <navPoint id="num_37" playOrder="37">
+        <navLabel>
+          <text>34-Rastgele İyilikler Yapın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u83fc2f1a-87cb-4c8d-90c5-c6f4b43bfa51"/>
+      </navPoint>
+      <navPoint id="num_38" playOrder="38">
+        <navLabel>
+          <text>35-Bir Davranışın Ardındakini Görmeye Çalışın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u9b74576e-a4d2-4d08-93ba-12321a9187bf"/>
+      </navPoint>
+      <navPoint id="num_39" playOrder="39">
+        <navLabel>
+          <text>36-Masumiyeti Görün</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u64f5c55b-c46d-42a8-aa00-969562e8ca37"/>
+      </navPoint>
+      <navPoint id="num_40" playOrder="40">
+        <navLabel>
+          <text>37-Gönlübol Olmayı Haklı Olmaya Yeğleyin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u9fe6fe31-6c59-44c1-8262-d07dd016878c"/>
+      </navPoint>
+      <navPoint id="num_41" playOrder="41">
+        <navLabel>
+          <text>38-Bugün Üç Kişiye Onları Ne Çok Sevdiğinizi Söyleyin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u7a57fa02-bfca-4ebc-9e4d-d621feea1f1d"/>
+      </navPoint>
+      <navPoint id="num_42" playOrder="42">
+        <navLabel>
+          <text>39-Alçakgönüllü Olmaya Çalışın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u4d01f39b-96e5-42ba-96d2-0a6eb43a7ddf"/>
+      </navPoint>
+      <navPoint id="num_43" playOrder="43">
+        <navLabel>
+          <text>40-Çöpü Çıkarma Sırasının Kimde Olduğunu Hatırlamıyorsanız, Gidip Siz Çıkarın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#ud3632f0c-aad1-4ce3-9a4b-2a01d54ac928"/>
+      </navPoint>
+      <navPoint id="num_44" playOrder="44">
+        <navLabel>
+          <text>41-"Kışa Hazırlık" Telaşından Kaçının</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#uf9c7ded6-f19f-4a4f-b367-9d14a39afadd"/>
+      </navPoint>
+      <navPoint id="num_45" playOrder="45">
+        <navLabel>
+          <text>42-Her Gün Birkaç Dakikanızı Sevecek Birini Düşünmeye Ayırın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_000.htm#u436008b3-ba93-47f7-b1fd-53221ec18953"/>
+      </navPoint>
+      <navPoint id="num_46" playOrder="46">
+        <navLabel>
+          <text>43-Antropolog Olun</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u2bbbe25d-9b6d-4442-9883-81ec6035b914"/>
+      </navPoint>
+      <navPoint id="num_47" playOrder="47">
+        <navLabel>
+          <text>44-Farklı Gerçekleri Anlayın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u9cfbb0fb-8992-4834-b9ca-4d5e0e1acc51"/>
+      </navPoint>
+      <navPoint id="num_48" playOrder="48">
+        <navLabel>
+          <text>45-Kendinize Bir Yardım Düzeni Geliştirin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#ufda81873-ec92-4e5a-b9ae-4f595a70e249"/>
+      </navPoint>
+      <navPoint id="num_49" playOrder="49">
+        <navLabel>
+          <text>46-Her Gün En Az Bir Kişiye Beğendiğiniz Bir Özelliğini Söyleyin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u83dc1df4-5e2e-4f74-9084-c970f7311e1d"/>
+      </navPoint>
+      <navPoint id="num_50" playOrder="50">
+        <navLabel>
+          <text>47-Sınırlarınızı Öne Sürmeyin, Yoksa Sınırlı Olursunuz</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#ua453dc7b-3254-4631-9889-2f7cbd53e3d9"/>
+      </navPoint>
+      <navPoint id="num_51" playOrder="51">
+        <navLabel>
+          <text>48-Gördüğünüz Her Şeyde Tanrının Parmak İzi Vardır</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u0b464c1f-1e9d-46f3-a05d-1fe8805f72d1"/>
+      </navPoint>
+      <navPoint id="num_52" playOrder="52">
+        <navLabel>
+          <text>49-Eleştirme İsteğinizi Bastırın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#udf8b7cc8-c32a-4532-b7ed-78e23bc65367"/>
+      </navPoint>
+      <navPoint id="num_53" playOrder="53">
+        <navLabel>
+          <text>50-En İnatla Savunduğunuz Beş İddianızı Sıralayın ve Bu Konularda Yumuşamaya Çalışın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#uaea57487-d5f1-40a8-9928-e49ea1d0735f"/>
+      </navPoint>
+      <navPoint id="num_54" playOrder="54">
+        <navLabel>
+          <text>51-Sırf Gırgır Olsun Diye, Size Yöneltilen Eleştiriyi Kabul Edin (Göreceksiniz, Canınız Yanmayacak)</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#ub010f39a-12d4-418b-ae1b-ab4443103d21"/>
+      </navPoint>
+      <navPoint id="num_55" playOrder="55">
+        <navLabel>
+          <text>52-Başkalarının Fikirlerinde Biraz Olsun Doğruluk Payı Arayın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u86a33059-3844-4799-a2eb-ddde19a18404"/>
+      </navPoint>
+      <navPoint id="num_56" playOrder="56">
+        <navLabel>
+          <text>53-Bardağın Kırılmış Olduğunu Farzedin (Ve Başka Her Şeyin de...)</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#ued8a3cf4-bffd-4588-bf16-dea41be3af58"/>
+      </navPoint>
+      <navPoint id="num_57" playOrder="57">
+        <navLabel>
+          <text>54-Bu İfadeyi İyi Anlayın:"Nereye Giderseniz, Siz Oradasınız"</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u026a89a9-9869-4ac4-8c52-6fc221754a3e"/>
+      </navPoint>
+      <navPoint id="num_58" playOrder="58">
+        <navLabel>
+          <text>55-Konuşmadan Önce Soluk Alın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u2b49105a-99f0-4912-b0d6-fde91aa5d78d"/>
+      </navPoint>
+      <navPoint id="num_59" playOrder="59">
+        <navLabel>
+          <text>56-Kendinizi İyi Hissettiğiniz Zaman Şükredin Kötü Hissettiğiniz Zaman Ilımlı Olun</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#uabeb6bd7-690c-4a65-8e53-182681e0b4e1"/>
+      </navPoint>
+      <navPoint id="num_60" playOrder="60">
+        <navLabel>
+          <text>57-Daha Ilımlı Bir Sürücü Olun</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#uddf62c0a-e8ef-462f-8f85-19806b4a7be5"/>
+      </navPoint>
+      <navPoint id="num_61" playOrder="61">
+        <navLabel>
+          <text>58-Gevşeyin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#ub3c53b28-c69f-480c-9a16-c6fca98d7e01"/>
+      </navPoint>
+      <navPoint id="num_62" playOrder="62">
+        <navLabel>
+          <text>59-Postayla Evlat Edinin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#ud55ef81f-05a3-4fb5-a17b-c0e3f4a5314a"/>
+      </navPoint>
+      <navPoint id="num_63" playOrder="63">
+        <navLabel>
+          <text>60-Yaşamı Melodram Olarak Görmeyin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#ubd12b29c-63d4-4f06-91d0-9068ee0b1287"/>
+      </navPoint>
+      <navPoint id="num_64" playOrder="64">
+        <navLabel>
+          <text>61-Kendi Görüşlerinizden Tamamen Farklı Makale ve Kitaplar Okuyun ve Bir Şeyler Öğrenmeye Çalışın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u2a8a2676-aa2d-4540-b335-941f42d8be55"/>
+      </navPoint>
+      <navPoint id="num_65" playOrder="65">
+        <navLabel>
+          <text>62-Aynı Anda Birkaç Şey Yapmaya Kalkmayın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u20f2cff0-6987-48dc-ab04-c1d40089becf"/>
+      </navPoint>
+      <navPoint id="num_66" playOrder="66">
+        <navLabel>
+          <text>63-Ona Kadar Sayın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#uf8d779a9-776f-4013-bb85-5b895f2d4e86"/>
+      </navPoint>
+      <navPoint id="num_67" playOrder="67">
+        <navLabel>
+          <text>64-Kendinizi "Fırtınanın Gözü'nde" Bulunmaya Alıştırın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#ud49c9f6b-1032-4d51-ba91-6b9d7a272753"/>
+      </navPoint>
+      <navPoint id="num_68" playOrder="68">
+        <navLabel>
+          <text>65-Planlarınızda Esnek Olun</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u57291aac-a187-4dd0-9872-af267073b6d7"/>
+      </navPoint>
+      <navPoint id="num_69" playOrder="69">
+        <navLabel>
+          <text>66-Sahip Olmak İstediğiniz Şeyleri Değil,Elde Etmiş Olduklarınızı Düşünün</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#ub79e9a4f-a62d-4d44-9f08-295e8e3ed24a"/>
+      </navPoint>
+      <navPoint id="num_70" playOrder="70">
+        <navLabel>
+          <text>67-Olumsuz Düşüncelerinize Yüz Vermemeye Alışın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u2de752cd-ffb3-426b-9d5b-d6ddf0238f86"/>
+      </navPoint>
+      <navPoint id="num_71" playOrder="71">
+        <navLabel>
+          <text>68-Dostlarınızdan ve Ailenizden Bir ŞeylerÖğrenmeye Açık Olun</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u2e98567b-7979-4264-b76f-7b9c059ca38e"/>
+      </navPoint>
+      <navPoint id="num_72" playOrder="72">
+        <navLabel>
+          <text>69-Bulunduğunuz Konumda Mutlu Olmaya Bakın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u6c6d21dc-ed75-4bbb-9766-70f2d650ba9e"/>
+      </navPoint>
+      <navPoint id="num_73" playOrder="73">
+        <navLabel>
+          <text>70-Unutmayın: İnsanı Edindiği Huylar Oluşturur</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#uc81463a9-886c-4da5-a586-fb7288b1900e"/>
+      </navPoint>
+      <navPoint id="num_74" playOrder="74">
+        <navLabel>
+          <text>71-Zihninizi Sessizleştirin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#uae6917b9-8d67-4fef-88c1-2afb735d759f"/>
+      </navPoint>
+      <navPoint id="num_75" playOrder="75">
+        <navLabel>
+          <text>72-Yoga'ya Başlayın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#ud4072bf8-cbb7-482c-8530-7777c63d36a4"/>
+      </navPoint>
+      <navPoint id="num_76" playOrder="76">
+        <navLabel>
+          <text>73-Hizmet Vermeyi Yaşamınızın Değişmez Bir Parçası Haline Getirin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u4063e16c-cfef-4c93-b4de-6e805eb843c0"/>
+      </navPoint>
+      <navPoint id="num_77" playOrder="77">
+        <navLabel>
+          <text>74-Bir İyilik Yapın ve Karşılığını Ne İsteyin Ne de Bekleyin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#udf05ffe0-563e-4ccf-a026-1cbebe4aa489"/>
+      </navPoint>
+      <navPoint id="num_78" playOrder="78">
+        <navLabel>
+          <text>75-Sorunlarınızı Öğretmeniniz Olarak Görün</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u6983c7f6-065b-457c-9fb8-cd58471157c1"/>
+      </navPoint>
+      <navPoint id="num_79" playOrder="79">
+        <navLabel>
+          <text>76-Bilmemenin Rahatlığını Duyun</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#udbe6d32a-dd80-4ecc-b6ae-bbaeb4c45098"/>
+      </navPoint>
+      <navPoint id="num_80" playOrder="80">
+        <navLabel>
+          <text>77-Varlığınızı Bütünüyle Kabullenin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u6a0a6a13-44e5-48c2-8c42-d9dcd8dd68f9"/>
+      </navPoint>
+      <navPoint id="num_81" playOrder="81">
+        <navLabel>
+          <text>78-İpin Ucunu Biraz Bırakın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#ud8afe3e4-111b-467f-a722-29c959600a89"/>
+      </navPoint>
+      <navPoint id="num_82" playOrder="82">
+        <navLabel>
+          <text>79-Başkalarını Suçlamayı Bırakın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u4c06bc3b-b5ac-47c9-9935-cf95bdfbddc5"/>
+      </navPoint>
+      <navPoint id="num_83" playOrder="83">
+        <navLabel>
+          <text>80-Erken Kalkmaya Alışın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#ufea664fb-7050-4e9b-8d89-c04ec94b2971"/>
+      </navPoint>
+      <navPoint id="num_84" playOrder="84">
+        <navLabel>
+          <text>81-Yardım Etmeye Çalışırken Dikkatinizi Küçük Şeylere Yöneltin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u6b533888-341a-412c-b30a-8bc724ddf15d"/>
+      </navPoint>
+      <navPoint id="num_85" playOrder="85">
+        <navLabel>
+          <text>82-Unutmayın; Bundan Yüz Yıl Sonra Dünyada Bambaşka İnsanlar Olacak</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#uf4a81cc9-5cc1-4180-937c-215ea942f83d"/>
+      </navPoint>
+      <navPoint id="num_86" playOrder="86">
+        <navLabel>
+          <text>83-Biraz Yüzünüz Gülsün</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#ub82212dd-bd39-4cf8-8a6f-fc565c76b93c"/>
+      </navPoint>
+      <navPoint id="num_87" playOrder="87">
+        <navLabel>
+          <text>84-Bir Bitki Yetiştirin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u3762c25c-2d81-4735-9e8a-22827d2c8f86"/>
+      </navPoint>
+      <navPoint id="num_88" playOrder="88">
+        <navLabel>
+          <text>85-Sorunlarınıza Olan Bakışınızı Değiştirin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u040ae392-a67e-4250-a345-398c671a82d2"/>
+      </navPoint>
+      <navPoint id="num_89" playOrder="89">
+        <navLabel>
+          <text>86-Bir Daha Bir Tartışmaya Girecek Olursanız Kendi Görüşünüzü Savunmadan Önce Karşı Tarafın Savını Anlamaya Çalışın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#uc6f9368c-e967-4f98-8f67-05d217ebdca9"/>
+      </navPoint>
+      <navPoint id="num_90" playOrder="90">
+        <navLabel>
+          <text>87-"Anlamlı Başarı" Bunun Tanımını Bir Kez Daha Yapın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#ue89fd58e-0389-4bf6-9dff-a3a82f5a8583"/>
+      </navPoint>
+      <navPoint id="num_91" playOrder="91">
+        <navLabel>
+          <text>88-Duygularınıza Kulak Verin (Size Bir Şey Söylemeye Çalışıyorlar)</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u9ec1b1c1-50b4-4c65-9091-17e1507ea7d3"/>
+      </navPoint>
+      <navPoint id="num_92" playOrder="92">
+        <navLabel>
+          <text>89-Birisi Topu Size Atarsa, Bunu Tutmak Zorunda Değilsiniz</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u45d5306b-f786-4713-9276-d848dff842e9"/>
+      </navPoint>
+      <navPoint id="num_93" playOrder="93">
+        <navLabel>
+          <text>90-Bu da Geçer</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#ub4657a6e-caf3-4b21-b73c-cfa26963ce8b"/>
+      </navPoint>
+      <navPoint id="num_94" playOrder="94">
+        <navLabel>
+          <text>91-Yaşamınızı Sevgiyle Doldurun</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u2300cf69-652a-4a78-83b4-10851adde4bb"/>
+      </navPoint>
+      <navPoint id="num_95" playOrder="95">
+        <navLabel>
+          <text>92-Kendi Düşüncelerinizin Gücünü Bilin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u2419f6e0-ff51-4170-a44c-6a6aa2f97919"/>
+      </navPoint>
+      <navPoint id="num_96" playOrder="96">
+        <navLabel>
+          <text>93-"Daha Fazlası Daha İyidir" Böyle Düşünmekten Vazgeçin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u88d7d9b8-0e74-4aee-baa2-bf279ab5eda8"/>
+      </navPoint>
+      <navPoint id="num_97" playOrder="97">
+        <navLabel>
+          <text>94-Kendinize Hep Şu Soruyu Sorun: "Gerçekten Önemli Olan Nedir?"</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#ucd1e0e38-11da-4edf-bf06-fdb4f89ee668"/>
+      </navPoint>
+      <navPoint id="num_98" playOrder="98">
+        <navLabel>
+          <text>95-Yüreğinizin Sezgisine Güvenin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#ub25cf52a-67e5-405e-898a-b92d3d1e072f"/>
+      </navPoint>
+      <navPoint id="num_99" playOrder="99">
+        <navLabel>
+          <text>96-Hayatı Olduğu Gibi Kabul Edin</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u211d0e4d-9371-47e2-a001-f093a73e6836"/>
+      </navPoint>
+      <navPoint id="num_100" playOrder="100">
+        <navLabel>
+          <text>97-Kendi İşinize Bakın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u1a3e7dc7-739e-4ae4-9ec5-82a16e9ccd28"/>
+      </navPoint>
+      <navPoint id="num_101" playOrder="101">
+        <navLabel>
+          <text>98-Olağan Şeylerdeki Olağanüstülüğü Arayın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#ubd50fb78-160d-4a81-b61b-bbcafa566e47"/>
+      </navPoint>
+      <navPoint id="num_102" playOrder="102">
+        <navLabel>
+          <text>99-İç Dünyanız İçin Zaman Ayırın</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#uee785657-9957-4ac9-8b49-9346527c9ebc"/>
+      </navPoint>
+      <navPoint id="num_103" playOrder="103">
+        <navLabel>
+          <text>100-Bugünü Son Gününüzmüş Gibi Yaşayın. Öyle Olabilir!</text>
+        </navLabel>
+        <content src="Richard%20Carlson%20-%20Ufak%20Seyleri%20Dert%20Etmeyin_split_001.htm#u98f3a825-4dd7-45fd-a3cf-ce7ba08986a9"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

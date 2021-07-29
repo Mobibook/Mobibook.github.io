@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="2be1c68e-389f-4043-8d82-463f5c258f77"/>
+        <meta name="dtb:depth" content="1"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>Kırmızı Piramit</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>1. Kleopatra'nın İğnesi'nde Ölüm</text>
+            </navLabel>
+            <content src="Text/Kleopatra%27nin%20Ignesi%27nde%20Olum.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>2. Noel Hediyemiz Bir Patlama</text>
+            </navLabel>
+            <content src="Text/Noel%20Hediyemiz%20Bir%20Patlama.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>3. Kedimle Mahsur Kalıyorum</text>
+            </navLabel>
+            <content src="Text/Kendimle%20Mahsur%20Kaliyorum.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>4. Pek de Yabancı Olmayan Biri Bizi Kaçırıyor</text>
+            </navLabel>
+            <content src="Text/Pek%20de%20Yabanci%20Olmayan%20Biri%20Bizi%20Kaciriyor.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>5. Maymunla Tanışıyoruz</text>
+            </navLabel>
+            <content src="Text/Maymunla%20Tanisiyoruz.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>6. Bir Timsahla Kahvaltı Ediyoruz</text>
+            </navLabel>
+            <content src="Text/Bir%20Timsahla%20Kahvalti%20Ediyoruz.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>7. Minik Bir Adamı Kafa Üstü Yere Düşürüyorum</text>
+            </navLabel>
+            <content src="Text/Minik%20Bir%20Adami%20Kafa%20Ustu%20Yere%20Dusuruyorum.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>8. Çörek Bıçaklarla Oynuyor</text>
+            </navLabel>
+            <content src="Text/Corek%20Bicaklarla%20Oynuyor.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>9. Etek Giymiş Dört Adamdan Kaçıyoruz</text>
+            </navLabel>
+            <content src="Text/Etek%20Giymis%20Dort%20Adamdan%20Kaciyoruz.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>10. Bastet Yeşeriyor</text>
+            </navLabel>
+            <content src="Text/Bastet%20Yeseriyor.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>11. Alev Makinesiyle Tanışıyoruz</text>
+            </navLabel>
+            <content src="Text/Alev%20Makinesiyle%20Tanisiyoruz.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+                <text>12. Kum Saatinden İçeri Atlıyoruz</text>
+            </navLabel>
+            <content src="Text/Kum%20Saatinden%20Iceri%20Atliyoruz.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+                <text>13. Katil Hindiyle Karşılaşıyorum</text>
+            </navLabel>
+            <content src="Text/Katil%20Hindiyle%20Karsilasiyorum.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+                <text>14. Bir Fransız Neredeyse Bizi Öldürüyor</text>
+            </navLabel>
+            <content src="Text/Bir%20Fransiz%20Neredeyse%20Bizi%20Olduruyor.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+                <text>15. İlahi Bir Doğum Günü Kutlaması</text>
+            </navLabel>
+            <content src="Text/Ilahi%20Bir%20Dogum%20Gunu%20Kutlamasi.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+                <text>16. Zia'nın Kaşları Yanıyor</text>
+            </navLabel>
+            <content src="Text/Zia%27nin%20Kaslari%20Yaniyor.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+                <text>17. Berbat Bir Paris Yolculuğu</text>
+            </navLabel>
+            <content src="Text/Berbat%20Bir%20Paris%20Yolculugu.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+                <text>18. Meyveler ÇürüyünceBaşımıza Gelenler</text>
+            </navLabel>
+            <content src="Text/Meyveler%20Curuyunce%20Basimiza%20Gelenler.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+            <navLabel>
+                <text>19. Gökyüzünde Piknik</text>
+            </navLabel>
+            <content src="Text/Gokyuzunde%20Piknik.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+                <text>20. Yıldızlarla Bezeli Tanrıçayı Ziyaret Ediyorum</text>
+            </navLabel>
+            <content src="Text/Yildizlarla%20Bezeli%20Tanricayi%20Ziyaret%20Ediyorum.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+                <text>21. Kedi Teyze Yardıma Koşuyor</text>
+            </navLabel>
+            <content src="Text/Kedi%20Teyze%20Yardima%20Kosuyor.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+                <text>22. Leroy Dehşet DolabıylaKarşılaşıyor</text>
+            </navLabel>
+            <content src="Text/Leroy%20Dehset%20Dolabiyla%20Karsilasiyor.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+            <navLabel>
+                <text>23. Profesör Tot'un Final Sınavı</text>
+            </navLabel>
+            <content src="Text/Profesor%20Tot%27un%20Final%20Sinavi.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+            <navLabel>
+                <text>24. Mavi Süet Ayakkabıları Havaya Uçuruyorum</text>
+            </navLabel>
+            <content src="Text/Mavi%20Suet%20Ayakkabilari%20Havaya%20Ucuruyorum.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+            <navLabel>
+                <text>25. Ölüme Bedava Giriş Bileti Kazanıyoruz</text>
+            </navLabel>
+            <content src="Text/Olume%20Bedava%20Giris%20Bileti%20Kazaniyoruz.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+            <navLabel>
+                <text>26. Mısır Kraliçesi Adlı Gemi</text>
+            </navLabel>
+            <content src="Text/Misir%20Kralicesi%20Adli%20Gemi.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+            <navLabel>
+                <text>27. Eşantiyonlu Bir İblis</text>
+            </navLabel>
+            <content src="Text/Esantiyonlu%20Bir%20Iblis.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+            <navLabel>
+                <text>28. Tuvalet Kağıdı Tanrısıyla Randevu</text>
+            </navLabel>
+            <content src="Text/Tuvalet%20Kagidi%20Tanrisiyle%20Randevu.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+            <navLabel>
+                <text>29. Zia Bir Randevu Ayarlıyor</text>
+            </navLabel>
+            <content src="Text/Zia%20Bir%20Randevu%20Ayarliyor.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+            <navLabel>
+                <text>30. Bastet Verdiği Sözü Tutuyor</text>
+            </navLabel>
+            <content src="Text/Bastet%20Verdigi%20Sozu%20Tutuyor.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+            <navLabel>
+                <text>31. Bir Aşk Mektubu Teslim Ediyorum</text>
+            </navLabel>
+            <content src="Text/Bir%20Ask%20Mektubu%20Teslim%20Ediyorum.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+            <navLabel>
+                <text>32. Haçlar Şehri</text>
+            </navLabel>
+            <content src="Text/Haclar%20Sehri.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+            <navLabel>
+                <text>33. Salsa İşine Giriyoruz</text>
+            </navLabel>
+            <content src="Text/Salsa%20Isine%20Giriyoruz.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+            <navLabel>
+                <text>34. Hamurçocuk Tır Kullanıyor</text>
+            </navLabel>
+            <content src="Text/Hamur%20Cocuk%20Tir%20Kullaniyor.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+            <navLabel>
+                <text>35. Erkekler Yol Tarifi Soruyor(ve Diğer Kıyamet Alametleri)</text>
+            </navLabel>
+            <content src="Text/Erkekler%20Yol%20Tarifi%20Soruyor.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+            <navLabel>
+                <text>36. Ailemiz Buharlaşıyor</text>
+            </navLabel>
+            <content src="Text/Ailemiz%20Buharlasiyor.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-37" playOrder="37">
+            <navLabel>
+                <text>37. Leroy İntikam Alıyor</text>
+            </navLabel>
+            <content src="Text/Leroy%20Intikam%20Aliyor.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+            <navLabel>
+                <text>38. Hayat Evi Hayatta</text>
+            </navLabel>
+            <content src="Text/Hayat%20Evi%20Hayatta.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+            <navLabel>
+                <text>39. Zia Bana Bir Sır Veriyor</text>
+            </navLabel>
+            <content src="Text/Zia%20Bana%20Bir%20Sir%20Veriyor.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+            <navLabel>
+                <text>40. Çok Önemli Bir Büyüyü Mahvediyorum</text>
+            </navLabel>
+            <content src="Text/Cok%20Onemli%20Bir%20Buyuyu%20Mahvediyorum.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+            <navLabel>
+                <text>41. Şimdilik Kayda Ara Veriyoruz</text>
+            </navLabel>
+            <content src="Text/Simdilik%20Kayda%20Ara%20Veriyoruz.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>

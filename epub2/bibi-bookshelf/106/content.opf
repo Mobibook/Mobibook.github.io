@@ -1,0 +1,57 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Yaban Diyarlardaki Yabancı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Heinlein, Robert A.">Robert A. Heinlein</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.70.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">5282290f-5f85-4d41-a380-b459281ac69c</dc:identifier>
+    <dc:publisher>Artemis Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Amerika'da yıllarca 'sakıncalı' bulunarak sansürlü ve değiştirilmiş versiyonuyla okura sunulan Yaban Diyarlardaki Yabancı, Türkçe'ye tam metin olarak kazandırıldı. 
+
+1962 Hugo Ödülü'nü alan Yaban Diyarlardaki Yabancı, Mars'tan Gelen Adam Valentine Smith'in insanlara groklamayı, su paylaşmayı ve Sevgiyi öğretmesinin öyküsü... 
+
+60 kuşağını da yaratan bu kült eser, insanlığı toplumsal değerleri yeniden yargılamaya zorluyor. 
+
+İşte size, bugüne kadar yazılmış en popüler bilimkurgu romanla tanışma fırsatı!
+
+&lt;/p&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">38594f76-d444-419b-be22-2d7d2c5fcafe</dc:identifier>
+    <meta name="calibre:title_sort" content="Yaban Diyarlardaki Yabancı"/>
+    <meta name="calibre:timestamp" content="2013-07-15T04:59:55+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Robert A. Heinlein&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

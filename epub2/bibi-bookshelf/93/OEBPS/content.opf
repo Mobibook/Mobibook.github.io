@@ -1,0 +1,152 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kırmızı Piramit</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Riordan, Rick">Rick Riordan</dc:creator>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:2be1c68e-389f-4043-8d82-463f5c258f77</dc:identifier>
+    <dc:publisher>Doğan Egmont Yayınları</dc:publisher>
+    <dc:date>2010-05-03T21:00:00+00:00</dc:date>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:subject>Macera</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:description>&lt;div&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Antik Mısır tanrıları birer birer uyanıyor! Akıl almaz bir intikam&lt;/span&gt;&lt;br style="box-sizing: border-box; orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;planını durdurmak, Carter ve Sadie’ye düşüyor.Çok satan Percy Jackson ve Olimposlular serisinin yazarından bir Mısır Mitolojisi efsanesi! Kane Günceleri serisinin ilk kitabı olan Kırmızı Piramit, gerilimi ve mizahı bir araya getiren, bir kahramanlık ve sadakat öyküsü.&lt;/span&gt;&lt;br style="box-sizing: border-box; orphans: 2; widows: 2;"&gt;&lt;br style="box-sizing: border-box; orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Carter Kane, annesini altı yaşındayken kaybettiğinden beri babası, ünlü Mısır Bilimcisi, arkeolog Dr. Julius Kane ile dünyayı dolaşmaktadır ve evi, bir valizden ibarettir. Carter böyle bir hayat sürerken kız kardeşi Sadie Kane Londra’da, anneannesi ve dedesiyle yaşamaktadır. Ayrı geçen altı yıldan sonra iki kardeşin ortak hiçbir noktası kalmamıştır. Ancak artık her şey değişmek üzeredir. Bir Noel gecesi, iki kardeş babaları sayesinde Londra’da yeniden bir araya gelirler. Babaları, her şeyi yoluna koymaya kararlıdır ve onları nedeni belirsiz bir şekilde British Museum’a götürür. Ancak işler beklendiği gibi gitmez ve Julius Kane, kulakları sağır eden, devasa bir patlamayla aniden sırra kadem basar.&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.68.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">430f1de2-c8eb-4806-9d21-7b805afd32c8</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051117799</dc:identifier>
+    <meta name="cover" content="x0000000345480-1.jpg"/>
+    <meta name="Sigil version" content="0.3.2"/>
+    <meta name="calibre:title_sort" content="Kırmızı Piramit"/>
+    <meta name="calibre:series" content="Kane Günceleri"/>
+    <meta name="calibre:series_index" content="1.0"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Rick Riordan&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="Cover.xhtml" href="Text/Cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="IcKapak.xhtml" href="Text/Ic Kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1.xhtml" href="Text/1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Uyari.xhtml" href="Text/Uyari.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KleopatraninIgnesindeOlum.xhtml" href="Text/Kleopatra'nin Ignesi'nde Olum.xhtml" media-type="application/xhtml+xml"/>
+    <item id="NoelHediyemizBirPatlama.xhtml" href="Text/Noel Hediyemiz Bir Patlama.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KendimleMahsurKaliyorum.xhtml" href="Text/Kendimle Mahsur Kaliyorum.xhtml" media-type="application/xhtml+xml"/>
+    <item id="PekdeYabanciOlmayanBiriBiziKaciriyor.xhtml" href="Text/Pek de Yabanci Olmayan Biri Bizi Kaciriyor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MaymunlaTanisiyoruz.xhtml" href="Text/Maymunla Tanisiyoruz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BirTimsahlaKahvaltiEdiyoruz.xhtml" href="Text/Bir Timsahla Kahvalti Ediyoruz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MinikBirAdamiKafaUstuYereDusuruyorum.xhtml" href="Text/Minik Bir Adami Kafa Ustu Yere Dusuruyorum.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CorekBicaklarlaOynuyor.xhtml" href="Text/Corek Bicaklarla Oynuyor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EtekGiymisDortAdamdanKaciyoruz.xhtml" href="Text/Etek Giymis Dort Adamdan Kaciyoruz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BastetYeseriyor.xhtml" href="Text/Bastet Yeseriyor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AlevMakinesiyleTanisiyoruz.xhtml" href="Text/Alev Makinesiyle Tanisiyoruz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KumSaatindenIceriAtliyoruz.xhtml" href="Text/Kum Saatinden Iceri Atliyoruz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KatilHindiyleKarsilasiyorum.xhtml" href="Text/Katil Hindiyle Karsilasiyorum.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BirFransizNeredeyseBiziOlduruyor.xhtml" href="Text/Bir Fransiz Neredeyse Bizi Olduruyor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="IlahiBirDogumGunuKutlamasi.xhtml" href="Text/Ilahi Bir Dogum Gunu Kutlamasi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ZianinKaslariYaniyor.xhtml" href="Text/Zia'nin Kaslari Yaniyor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BerbatBirParisYolculugu.xhtml" href="Text/Berbat Bir Paris Yolculugu.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MeyvelerCuruyunceBasimizaGelenler.xhtml" href="Text/Meyveler Curuyunce Basimiza Gelenler.xhtml" media-type="application/xhtml+xml"/>
+    <item id="GokyuzundePiknik.xhtml" href="Text/Gokyuzunde Piknik.xhtml" media-type="application/xhtml+xml"/>
+    <item id="YildizlarlaBezeliTanricayiZiyaretEdiyorum.xhtml" href="Text/Yildizlarla Bezeli Tanricayi Ziyaret Ediyorum.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KediTeyzeYardimaKosuyor.xhtml" href="Text/Kedi Teyze Yardima Kosuyor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="LeroyDehsetDolabiylaKarsilasiyor.xhtml" href="Text/Leroy Dehset Dolabiyla Karsilasiyor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ProfesorTotunFinalSinavi.xhtml" href="Text/Profesor Tot'un Final Sinavi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MaviSuetAyakkabilariHavayaUcuruyorum.xhtml" href="Text/Mavi Suet Ayakkabilari Havaya Ucuruyorum.xhtml" media-type="application/xhtml+xml"/>
+    <item id="OlumeBedavaGirisBiletiKazaniyoruz.xhtml" href="Text/Olume Bedava Giris Bileti Kazaniyoruz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MisirKralicesiAdliGemi.xhtml" href="Text/Misir Kralicesi Adli Gemi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EsantiyonluBirIblis.xhtml" href="Text/Esantiyonlu Bir Iblis.xhtml" media-type="application/xhtml+xml"/>
+    <item id="TuvaletKagidiTanrisiyleRandevu.xhtml" href="Text/Tuvalet Kagidi Tanrisiyle Randevu.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ZiaBirRandevuAyarliyor.xhtml" href="Text/Zia Bir Randevu Ayarliyor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BastetVerdigiSozuTutuyor.xhtml" href="Text/Bastet Verdigi Sozu Tutuyor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BirAskMektubuTeslimEdiyorum.xhtml" href="Text/Bir Ask Mektubu Teslim Ediyorum.xhtml" media-type="application/xhtml+xml"/>
+    <item id="HaclarSehri.xhtml" href="Text/Haclar Sehri.xhtml" media-type="application/xhtml+xml"/>
+    <item id="SalsaIsineGiriyoruz.xhtml" href="Text/Salsa Isine Giriyoruz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="HamurCocukTirKullaniyor.xhtml" href="Text/Hamur Cocuk Tir Kullaniyor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ErkeklerYolTarifiSoruyor.xhtml" href="Text/Erkekler Yol Tarifi Soruyor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AilemizBuharlasiyor.xhtml" href="Text/Ailemiz Buharlasiyor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="LeroyIntikamAliyor.xhtml" href="Text/Leroy Intikam Aliyor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="HayatEviHayatta.xhtml" href="Text/Hayat Evi Hayatta.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ZiaBanaBirSirVeriyor.xhtml" href="Text/Zia Bana Bir Sir Veriyor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CokOnemliBirBuyuyuMahvediyorum.xhtml" href="Text/Cok Onemli Bir Buyuyu Mahvediyorum.xhtml" media-type="application/xhtml+xml"/>
+    <item id="SimdilikKaydaAraVeriyoruz.xhtml" href="Text/Simdilik Kayda Ara Veriyoruz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="YazarinNotu.xhtml" href="Text/Yazarin Notu.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="x0000000345480-1.jpg" href="Images/0000000345480-1.jpg" media-type="image/jpeg"/>
+    <item id="Rickriot-1.png" href="Images/Rick riot-1.png" media-type="image/png"/>
+    <item id="Rickriot-10.png" href="Images/Rick riot-10.png" media-type="image/png"/>
+    <item id="Rickriot-11.png" href="Images/Rick riot-11.png" media-type="image/png"/>
+    <item id="Rickriot-12.png" href="Images/Rick riot-12.png" media-type="image/png"/>
+    <item id="Rickriot-13.png" href="Images/Rick riot-13.png" media-type="image/png"/>
+    <item id="Rickriot-14.png" href="Images/Rick riot-14.png" media-type="image/png"/>
+    <item id="Rickriot-15.png" href="Images/Rick riot-15.png" media-type="image/png"/>
+    <item id="Rickriot-16.png" href="Images/Rick riot-16.png" media-type="image/png"/>
+    <item id="Rickriot-17.png" href="Images/Rick riot-17.png" media-type="image/png"/>
+    <item id="Rickriot-18.png" href="Images/Rick riot-18.png" media-type="image/png"/>
+    <item id="Rickriot-19.png" href="Images/Rick riot-19.png" media-type="image/png"/>
+    <item id="Rickriot-2.png" href="Images/Rick riot-2.png" media-type="image/png"/>
+    <item id="Rickriot-20.png" href="Images/Rick riot-20.png" media-type="image/png"/>
+    <item id="Rickriot-21.png" href="Images/Rick riot-21.png" media-type="image/png"/>
+    <item id="Rickriot-22.png" href="Images/Rick riot-22.png" media-type="image/png"/>
+    <item id="Rickriot-24.png" href="Images/Rick riot-24.png" media-type="image/png"/>
+    <item id="Rickriot-25.png" href="Images/Rick riot-25.png" media-type="image/png"/>
+    <item id="Rickriot-26.png" href="Images/Rick riot-26.png" media-type="image/png"/>
+    <item id="Rickriot-3.png" href="Images/Rick riot-3.png" media-type="image/png"/>
+    <item id="Rickriot-5.png" href="Images/Rick riot-5.png" media-type="image/png"/>
+    <item id="Rickriot-6.png" href="Images/Rick riot-6.png" media-type="image/png"/>
+    <item id="Rickriot-7.png" href="Images/Rick riot-7.png" media-type="image/png"/>
+    <item id="Rickriot-8.png" href="Images/Rick riot-8.png" media-type="image/png"/>
+    <item id="Rickriot-9.png" href="Images/Rick riot-9.png" media-type="image/png"/>
+    <item id="Untitled.FR11-1.png" href="Images/Untitled.FR11-1.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Cover.xhtml"/>
+    <itemref idref="IcKapak.xhtml"/>
+    <itemref idref="x1.xhtml"/>
+    <itemref idref="Uyari.xhtml"/>
+    <itemref idref="KleopatraninIgnesindeOlum.xhtml"/>
+    <itemref idref="NoelHediyemizBirPatlama.xhtml"/>
+    <itemref idref="KendimleMahsurKaliyorum.xhtml"/>
+    <itemref idref="PekdeYabanciOlmayanBiriBiziKaciriyor.xhtml"/>
+    <itemref idref="MaymunlaTanisiyoruz.xhtml"/>
+    <itemref idref="BirTimsahlaKahvaltiEdiyoruz.xhtml"/>
+    <itemref idref="MinikBirAdamiKafaUstuYereDusuruyorum.xhtml"/>
+    <itemref idref="CorekBicaklarlaOynuyor.xhtml"/>
+    <itemref idref="EtekGiymisDortAdamdanKaciyoruz.xhtml"/>
+    <itemref idref="BastetYeseriyor.xhtml"/>
+    <itemref idref="AlevMakinesiyleTanisiyoruz.xhtml"/>
+    <itemref idref="KumSaatindenIceriAtliyoruz.xhtml"/>
+    <itemref idref="KatilHindiyleKarsilasiyorum.xhtml"/>
+    <itemref idref="BirFransizNeredeyseBiziOlduruyor.xhtml"/>
+    <itemref idref="IlahiBirDogumGunuKutlamasi.xhtml"/>
+    <itemref idref="ZianinKaslariYaniyor.xhtml"/>
+    <itemref idref="BerbatBirParisYolculugu.xhtml"/>
+    <itemref idref="MeyvelerCuruyunceBasimizaGelenler.xhtml"/>
+    <itemref idref="GokyuzundePiknik.xhtml"/>
+    <itemref idref="YildizlarlaBezeliTanricayiZiyaretEdiyorum.xhtml"/>
+    <itemref idref="KediTeyzeYardimaKosuyor.xhtml"/>
+    <itemref idref="LeroyDehsetDolabiylaKarsilasiyor.xhtml"/>
+    <itemref idref="ProfesorTotunFinalSinavi.xhtml"/>
+    <itemref idref="MaviSuetAyakkabilariHavayaUcuruyorum.xhtml"/>
+    <itemref idref="OlumeBedavaGirisBiletiKazaniyoruz.xhtml"/>
+    <itemref idref="MisirKralicesiAdliGemi.xhtml"/>
+    <itemref idref="EsantiyonluBirIblis.xhtml"/>
+    <itemref idref="TuvaletKagidiTanrisiyleRandevu.xhtml"/>
+    <itemref idref="ZiaBirRandevuAyarliyor.xhtml"/>
+    <itemref idref="BastetVerdigiSozuTutuyor.xhtml"/>
+    <itemref idref="BirAskMektubuTeslimEdiyorum.xhtml"/>
+    <itemref idref="HaclarSehri.xhtml"/>
+    <itemref idref="SalsaIsineGiriyoruz.xhtml"/>
+    <itemref idref="HamurCocukTirKullaniyor.xhtml"/>
+    <itemref idref="ErkeklerYolTarifiSoruyor.xhtml"/>
+    <itemref idref="AilemizBuharlasiyor.xhtml"/>
+    <itemref idref="LeroyIntikamAliyor.xhtml"/>
+    <itemref idref="HayatEviHayatta.xhtml"/>
+    <itemref idref="ZiaBanaBirSirVeriyor.xhtml"/>
+    <itemref idref="CokOnemliBirBuyuyuMahvediyorum.xhtml"/>
+    <itemref idref="SimdilikKaydaAraVeriyoruz.xhtml"/>
+    <itemref idref="YazarinNotu.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/Cover.xhtml"/>
+  </guide>
+</package>

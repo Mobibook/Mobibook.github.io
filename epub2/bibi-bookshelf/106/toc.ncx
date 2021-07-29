@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="5282290f-5f85-4d41-a380-b459281ac69c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.39)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yaban Diyarlardaki Yabancı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ua98bfd10-4ccb-4e75-b7de-ba90cbf14375" playOrder="1">
+      <navLabel>
+        <text>ROBERT A. HEINLEIN</text>
+      </navLabel>
+      <content src="index_split_000.html#toc_id_1"/>
+    </navPoint>
+    <navPoint id="ua9b57528-7d7c-4811-9541-f4988e1220e9" playOrder="2">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="index_split_000.html#toc_id_2"/>
+    </navPoint>
+    <navPoint id="u9090142d-8efb-40ed-8ca0-337406bd9ee2" playOrder="3">
+      <navLabel>
+        <text>BÖLÜM BİR - KİRLİ KÖKENLERİ</text>
+      </navLabel>
+      <content src="index_split_001.html"/>
+    </navPoint>
+    <navPoint id="u2c3772b3-9fdb-4588-a8dc-9a04ff044ec6" playOrder="4">
+      <navLabel>
+        <text>BÖLÜM İKİ - AKIL ALMAZ MİRASI</text>
+      </navLabel>
+      <content src="index_split_002.html"/>
+    </navPoint>
+    <navPoint id="ua6e67afd-b453-481e-8938-0558d178617b" playOrder="5">
+      <navLabel>
+        <text>BÖLÜM ÜÇ - GARİP EĞİTİMİ</text>
+      </navLabel>
+      <content src="index_split_005.html"/>
+    </navPoint>
+    <navPoint id="u32dd2885-5c08-459a-a2a3-6b2f990d9213" playOrder="6">
+      <navLabel>
+        <text>BÖLÜM DÖRT - SKANDALLARLA DOLU KARİYERİ</text>
+      </navLabel>
+      <content src="index_split_007.html"/>
+    </navPoint>
+    <navPoint id="u20b5773c-1417-44ce-ad4b-e142e15e0a01" playOrder="7">
+      <navLabel>
+        <text>BÖLÜM BEŞ - MUTLU KADERİ</text>
+      </navLabel>
+      <content src="index_split_008.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

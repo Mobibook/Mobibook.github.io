@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Ilgaz, Rıfat">Rıfat Ilgaz</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:90b5a7bd-a052-4043-ae3d-13a3a1bb39f5</dc:identifier>
+    <dc:date>2002-06-30T21:00:00+00:00</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:date opf:event="modification">2015-01-17</dc:date>
+    <dc:publisher>Çınar Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Sarı Yazma, Rıfat Ilgaz'ın otobiyografik bir romanıdır, ama orada
+anlatılan aslında bir kuşağın öyküsüdür. Keskin toplumsal çelişkilerden kaynaklanan hoyrat bir iklimin yıprattığı, kırıp döktüğü bir kuşağın öyküsü. Roman, bir dönüşle başlar. Yıpratıcı mücadelelerle geçen uzun yılların sonunda, yorgun ama inançlı bir yürekle ve her şeye yeniden başlamak kararlılığıyla doğduğu kente, Cide'ye dönüş. Bu yaşam dönemecinde tüm geçmişiyle açık ve içten bir hesaplaşma ve bu sıradaortaya çıkan, serüven dolu, uzun bir yaşamdan kesitler. Abartmayan, doğal ve duru bir anlatım içinde, inanılmaz dirençli bir mücadele ve mutlu umutlu bir son. Romanın adı olan Sarı Yazma, Karadeniz'in çalışkan kadınları için, yazarın bir saygı duruşu..&lt;/p&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="x13019557_101492254.jpg"/>
+    <meta name="calibre:title_sort" content="Sarı Yazma"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Rıfat Ilgaz&quot;: &quot;&quot;}"/>
+  <dc:title>Sarı Yazma</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Türk Edebiyatı</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">d1ddbdd5-4f87-49e5-af65-c25d69a416fb</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9753480261</dc:identifier>
+<dc:identifier opf:scheme="GOODREADS">12415001</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet1.css" id="stylesheet1.css" media-type="text/css"/>
+    <item href="Images/13019557_101492254.jpg" id="x13019557_101492254.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0002_split1.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002_split2.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002_split3.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002_split4.xhtml" id="id3" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="id1"/>
+    <itemref idref="id"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="Section0004.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

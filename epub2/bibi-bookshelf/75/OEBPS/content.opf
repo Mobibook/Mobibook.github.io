@@ -1,0 +1,114 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<ns0:package xmlns:ns0="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <ns0:metadata>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" ns0:role="aut" ns0:file-as="Güntekin, Reşat Nuri">Reşat Nuri Güntekin</dc:creator>
+<ns1:identifier xmlns:ns1="http://purl.org/dc/elements/1.1/" id="uuid_id" ns0:scheme="uuid">5182e3e8-19c8-4681-aa00-1c421d40ee17</ns1:identifier>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">1981-12-31T22:00:00+00:00</dc:date>
+    <ns0:meta content="1" name="calibre:series_index"/>
+    <ns0:meta content="2010-12-04T20:01:24+00:00" name="calibre:timestamp"/>
+    <ns0:meta name="cover" content="cover"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf">Kızılcık Dalları</dc:title>
+<meta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" name="calibre:title_sort" content="Kızılcık Dalları"/>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf">İnkılâp Kitabevi</dc:publisher>
+<meta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" name="calibre:rating" content="10.0"/>
+<dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf">Roman</dc:subject>
+<dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf">Edebiyat</dc:subject>
+<dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf">&lt;p class="description"&gt;KIZILCIK DALLARI'ında, bir evlatlığın başına gelen olayları, kendi diliyle eşleşen bir masal diliyle anlatışı göze çarpar. Mutlu bir aile yaşantısına özlem, büyük bir anlam zenginliğiyle dile getirilmiştir. Kızı erken yaşta ölen bir ninenin, yüreği yanarak ve kızının yadigarına bakarak hatırladıkça çoğalan o mazlum yakarışları başarıyla verilmiştir. Yazar, besleme kızcağızın anılarının dibindeki kimsesizlik ve çaresizliği hayatındaki o dramı bağlayarak, bu romanın eksenine yerleştiriyor.&lt;/p&gt;</dc:description>
+<meta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" name="calibre:user_categories" content="{}"/>
+<meta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" name="calibre:author_link_map" content="{&quot;Reşat Nuri Güntekin&quot;: &quot;&quot;}"/>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf">tr</dc:language>
+<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" ns0:scheme="calibre">45fc76af-57bc-40e2-997f-96a425fd4302</dc:identifier>
+<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" ns0:scheme="ISBN">9751002001</dc:identifier>
+<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" ns0:scheme="GOODREADS">15755854</dc:identifier>
+</ns0:metadata>
+  <ns0:manifest>
+    <ns0:item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <ns0:item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <ns0:item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0017.xhtml" id="Section0017.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0018.xhtml" id="Section0018.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0000.xhtml" id="Section0000.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0019.xhtml" id="Section0019.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0020.xhtml" id="Section0020.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0021.xhtml" id="Section0021.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0022.xhtml" id="Section0022.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0023.xhtml" id="Section0023.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0024.xhtml" id="Section0024.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0025.xhtml" id="Section0025.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0026.xhtml" id="Section0026.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0027.xhtml" id="Section0027.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0028.xhtml" id="Section0028.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0029.xhtml" id="Section0029.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0030.xhtml" id="Section0030.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0031.xhtml" id="Section0031.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0032.xhtml" id="Section0032.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0033.xhtml" id="Section0033.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0034.xhtml" id="Section0034.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0035.xhtml" id="Section0035.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0036.xhtml" id="Section0036.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/Section0037.xhtml" id="Section0037.xhtml" media-type="application/xhtml+xml"/>
+    <item xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </ns0:manifest>
+  <ns0:spine toc="ncx">
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="cover.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0000.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0001.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0002.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0003.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0004.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0005.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0006.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0007.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0008.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0009.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0010.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0011.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0012.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0013.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0014.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0015.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0016.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0017.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0018.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0019.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0020.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0021.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0022.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0023.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0024.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0025.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0026.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0027.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0028.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0029.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0030.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0031.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0032.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0033.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0034.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0035.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0036.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="Section0037.xhtml"/>
+  </ns0:spine>
+  <ns0:guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </ns0:guide>
+</ns0:package>

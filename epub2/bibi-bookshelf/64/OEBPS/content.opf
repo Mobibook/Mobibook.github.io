@@ -1,0 +1,119 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="APUHAN, RECEP ŞÜKRÜ">Recep Şükrü Apuhan</dc:creator>
+<meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="canakkalegecilmez-dis.jpg"/>
+    <dc:description>&lt;div&gt;&lt;span style="widows: 1;"&gt;Harita ve fotoğraflarla desteklenen Çanakale Geçilmez, titiz bir çalışmanın ürünü. Kitapta, "Bu vatan ya senindir ya da hiç kimsenin!" şiarıyla kazanılan Çanakkale Savaşı'nın sebepleri, sonuçları, düşman kuvvetlerin sahip olduğu muazzam silah gücü, savaşta yaşanan duygulu anlar, Anadolu insanının cesareti, fedakârlığı, vatan sevgisi ve sabrı tüm canlılığı ile satırlara yansıtılıyor. &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Mehmetçiğin eşsiz kahramanlığını ve fedakârlığını ortaya koyan Çanakale Geçilmez, tarihini araştırmayı sevenler, ecdadının fedakârlıklarını, o engin merhametini merak edenler ve atalarına vefa borcunu bir parça da olsa ödemek isteyenler için vazgeçilmez bir eser.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; widows: 1; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Timaş Yayınları</dc:publisher>
+    <dc:date>2012-06-29T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">975-263-140-1</dc:identifier>
+    <meta content="0.8.4" name="Sigil version"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-05-01</dc:date>
+  <meta name="calibre:title_sort" content="Çanakkale Geçilmez"/>
+<meta name="calibre:rating" content="8.0"/>
+<dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:author_link_map" content="{&quot;Recep Şükrü Apuhan&quot;: &quot;&quot;}"/>
+<dc:title>Çanakkale Geçilmez</dc:title>
+<dc:subject>Tarih</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">9c73f049-79c5-4e5b-8c83-bb9480396375</dc:identifier>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789752631403</dc:identifier>
+<meta name="calibre:user_metadata:#mm_annotations" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#mm_annotations&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;comments&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;mm_annotations&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Annotations&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Text/canakkalegecilmez-kapak.html" id="canakkalegecilmez-kapak" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalegecilmez-epub.html" id="canakkalegecilmez-epub" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalegecilmez-epub-1.html" id="canakkalegecilmez-epub-1" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalegecilmez-epub-2.html" id="canakkalegecilmez-epub-2" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalegecilmez-epub-3.html" id="canakkalegecilmez-epub-3" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalegecilmez-epub-4.html" id="canakkalegecilmez-epub-4" media-type="application/xhtml+xml"/>
+    <item href="Images/107A_fmt.jpeg" id="x107A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/116A_fmt.jpeg" id="x116A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/119_fmt.png" id="x119_fmt.png" media-type="image/png"/>
+    <item href="Images/11TABU1_fmt.jpeg" id="x11TABU1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/131_fmt.jpeg" id="x131_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/134_fmt.jpeg" id="x134_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/145_fmt.png" id="x145_fmt.png" media-type="image/png"/>
+    <item href="Images/149B_fmt.jpeg" id="x149B_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/14A_fmt.jpeg" id="x14A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/155_fmt.png" id="x155_fmt.png" media-type="image/png"/>
+    <item href="Images/169_fmt.png" id="x169_fmt.png" media-type="image/png"/>
+    <item href="Images/20A_fmt.jpeg" id="x20A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/26A_fmt.png" id="x26A_fmt.png" media-type="image/png"/>
+    <item href="Images/36A_fmt.jpeg" id="x36A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/36B_fmt.jpeg" id="x36B_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/36C_fmt.jpeg" id="x36C_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/36D_fmt.jpeg" id="x36D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/36F_fmt.jpeg" id="x36F_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/46A_fmt.jpeg" id="x46A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/52A_fmt.jpeg" id="x52A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/54A_fmt.png" id="x54A_fmt.png" media-type="image/png"/>
+    <item href="Images/58A_fmt.jpeg" id="x58A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/62A_fmt.jpeg" id="x62A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/67A_fmt.jpeg" id="x67A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/88A_fmt.png" id="x88A_fmt.png" media-type="image/png"/>
+    <item href="Images/94A_fmt.jpeg" id="x94A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/98A_fmt.jpeg" id="x98A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/98B_fmt.jpeg" id="x98B_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/anzak_fmt.jpeg" id="anzak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ataturk_fmt.jpeg" id="ataturk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/canakkalegecilmez-dis.jpg" id="canakkalegecilmez-dis.jpg" media-type="image/jpeg"/>
+    <item href="Images/canakkalegecilmez-ic_fmt.jpeg" id="canakkalegecilmez-ic_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ek10_fmt.png" id="ek10_fmt.png" media-type="image/png"/>
+    <item href="Images/ek2_fmt.jpeg" id="ek2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ek4_fmt.jpeg" id="ek4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ek5_fmt.png" id="ek5_fmt.png" media-type="image/png"/>
+    <item href="Images/ek6_fmt.jpeg" id="ek6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ek7_fmt.png" id="ek7_fmt.png" media-type="image/png"/>
+    <item href="Images/ek8_fmt.jpeg" id="ek8_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ek9_fmt.png" id="ek9_fmt.png" media-type="image/png"/>
+    <item href="Images/enson01_fmt.jpeg" id="enson01_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/enson02_fmt.png" id="enson02_fmt.png" media-type="image/png"/>
+    <item href="Images/nokta_fmt.png" id="nokta_fmt.png" media-type="image/png"/>
+    <item href="Images/nokta_fmt1.png" id="nokta_fmt1.png" media-type="image/png"/>
+    <item href="Images/nokta_fmt2.png" id="nokta_fmt2.png" media-type="image/png"/>
+    <item href="Images/nokta_fmt3.png" id="nokta_fmt3.png" media-type="image/png"/>
+    <item href="Images/nusret_fmt.jpeg" id="nusret_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/sf105_fmt.jpeg" id="sf105_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/sf109_fmt.png" id="sf109_fmt.png" media-type="image/png"/>
+    <item href="Images/sf146_fmt.png" id="sf146_fmt.png" media-type="image/png"/>
+    <item href="Images/sf15_fmt.jpeg" id="sf15_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/sf163_fmt.jpeg" id="sf163_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/sf176_fmt.jpeg" id="sf176_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/sf181_fmt.png" id="sf181_fmt.png" media-type="image/png"/>
+    <item href="Images/sf18_fmt.jpeg" id="sf18_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/sf23_fmt.jpeg" id="sf23_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/sf28_fmt.png" id="sf28_fmt.png" media-type="image/png"/>
+    <item href="Images/sf29_fmt.jpeg" id="sf29_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/sf32_fmt.png" id="sf32_fmt.png" media-type="image/png"/>
+    <item href="Images/sf33_fmt.png" id="sf33_fmt.png" media-type="image/png"/>
+    <item href="Images/sf35_fmt.png" id="sf35_fmt.png" media-type="image/png"/>
+    <item href="Images/sf41_fmt.jpeg" id="sf41_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/sf49_fmt.jpeg" id="sf49_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/sf60_fmt.jpeg" id="sf60_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/sf63_fmt.png" id="sf63_fmt.png" media-type="image/png"/>
+    <item href="Images/sf65_fmt.jpeg" id="sf65_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/sf69_fmt.png" id="sf69_fmt.png" media-type="image/png"/>
+    <item href="Images/sf70_fmt.png" id="sf70_fmt.png" media-type="image/png"/>
+    <item href="Images/sf76_fmt.jpeg" id="sf76_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/sf83_fmt.png" id="sf83_fmt.png" media-type="image/png"/>
+    <item href="Images/sf89_fmt.jpeg" id="sf89_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/timaslogo_fmt.jpeg" id="timaslogo_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="canakkalegecilmez-kapak"/>
+    <itemref idref="canakkalegecilmez-epub"/>
+    <itemref idref="canakkalegecilmez-epub-1"/>
+    <itemref idref="canakkalegecilmez-epub-2"/>
+    <itemref idref="canakkalegecilmez-epub-3"/>
+    <itemref idref="canakkalegecilmez-epub-4"/>
+  </spine>
+</package>

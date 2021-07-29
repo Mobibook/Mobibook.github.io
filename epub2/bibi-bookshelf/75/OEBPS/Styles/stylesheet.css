@@ -1,0 +1,38 @@
+.calibre {
+    display: block;
+    font-size: 1.29167em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    page-break-before: always
+    }
+.calibre1 {
+    display: block;
+    
+    font-size: 1em;
+    margin-bottom: 0.5em;
+    margin-left: 0.5;
+    margin-right: 0.5;
+    margin-top: 0.5em;
+    text-indent: 1em;
+	text-align: justify;
+	
+    }
+.calibre2 {
+    font-weight: bolder
+    }
+.calibre3 {
+    font-style: italic
+    }
+.t {
+    font-size: 1.66667em
+    }
+.t1 {
+    font-size: 1em
+    }
+.t2 {
+    font-size: 1.29167em
+    }

@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Ludlum, Robert">Robert Ludlum</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:92b46910-2928-454c-9296-f466029bd53d</dc:identifier>
+    <dc:date>2002-04-10T21:00:00+00:00</dc:date>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:description>&lt;p&gt;Jason Bourne.
+Geçmişi yoktu. Geleceği de olmayacaktı.
+Geçmişi bilinmeyen ve geleceği de şüpheli olan adam canını dişine takmış kaçıyor, kaçıyordu.
+
+Denizden yaralı çıkan Jason, onu seven ve katil olduğuna inanmayan kadını bir kalkan gibi kullanıyordu. Günün birinde dünyanın en acımasız teröristinin adını anımsadı: Carlos.&lt;/p&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="x101746.jpg"/>
+    <meta name="calibre:title_sort" content="Geçmişi Olmayan Adam"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Robert Ludlum&quot;: &quot;&quot;}"/>
+  <dc:title>Geçmişi Olmayan Adam</dc:title>
+<dc:subject>Macera</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">a893982f-49ca-42f5-8f99-be172d041fc8</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789752102941</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/Cover.xhtml" id="Cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/101746.jpg" id="x101746.jpg" media-type="image/jpeg"/>
+    <item href="Images/5125Yy2XX5L.jpg" id="x5125Yy2XX5L.jpg" media-type="image/jpeg"/>
+    <item href="Images/book_177_on_kapak.jpg" id="book_177_on_kapak.jpg" media-type="image/jpeg"/>
+    <item href="../fonts/Times-New-Roman.ttf" id="font" media-type="application/x-font-truetype"/>
+    <item href="../fonts/Times-New-Roman-Bold.ttf" id="font1" media-type="application/x-font-truetype"/>
+    <item href="../fonts/Times-New-Roman-Bold-Italic.ttf" id="font2" media-type="application/x-font-truetype"/>
+    <item href="../fonts.css" id="font_embed" media-type="text/css"/>
+    <item href="Text/Section0004_split1.xhtml" id="id" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="id"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/Section0001.xhtml" title="Title Page" type="title-page"/>
+    <reference href="Text/Cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

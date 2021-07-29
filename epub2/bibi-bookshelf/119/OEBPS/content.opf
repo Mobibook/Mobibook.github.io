@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Niteliksiz Adam - 1</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Musil, Robert">Robert Musil</dc:creator>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:date>2015-10-01T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:E9157327-6617-4509-BE13-248BDFCC6CD3</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (3.0.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">4d86571d-9384-4f7f-80ea-55ca871d8e96</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="1.xhtml" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.xhtml" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.xhtml" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.xhtml" id="x4" media-type="application/xhtml+xml"/>
+    <item href="5.xhtml" id="x5" media-type="application/xhtml+xml"/>
+    <item href="6.xhtml" id="x6" media-type="application/xhtml+xml"/>
+    <item href="6-1.xhtml" id="x6-1" media-type="application/xhtml+xml"/>
+    <item href="6-2.xhtml" id="x6-2" media-type="application/xhtml+xml"/>
+    <item href="6-3.xhtml" id="x6-3" media-type="application/xhtml+xml"/>
+    <item href="6-4.xhtml" id="x6-4" media-type="application/xhtml+xml"/>
+    <item href="6-5.xhtml" id="x6-5" media-type="application/xhtml+xml"/>
+    <item href="6-6.xhtml" id="x6-6" media-type="application/xhtml+xml"/>
+    <item href="6-7.xhtml" id="x6-7" media-type="application/xhtml+xml"/>
+    <item href="6-8.xhtml" id="x6-8" media-type="application/xhtml+xml"/>
+    <item href="6-9.xhtml" id="x6-9" media-type="application/xhtml+xml"/>
+    <item href="6-10.xhtml" id="x6-10" media-type="application/xhtml+xml"/>
+    <item href="6-11.xhtml" id="x6-11" media-type="application/xhtml+xml"/>
+    <item href="6-12.xhtml" id="x6-12" media-type="application/xhtml+xml"/>
+    <item href="6-13.xhtml" id="x6-13" media-type="application/xhtml+xml"/>
+    <item href="6-14.xhtml" id="x6-14" media-type="application/xhtml+xml"/>
+    <item href="6-15.xhtml" id="x6-15" media-type="application/xhtml+xml"/>
+    <item href="6-16.xhtml" id="x6-16" media-type="application/xhtml+xml"/>
+    <item href="6-17.xhtml" id="x6-17" media-type="application/xhtml+xml"/>
+    <item href="6-18.xhtml" id="x6-18" media-type="application/xhtml+xml"/>
+    <item href="6-19.xhtml" id="x6-19" media-type="application/xhtml+xml"/>
+    <item href="6-20.xhtml" id="x6-20" media-type="application/xhtml+xml"/>
+    <item href="6-21.xhtml" id="x6-21" media-type="application/xhtml+xml"/>
+    <item href="6-22.xhtml" id="x6-22" media-type="application/xhtml+xml"/>
+    <item href="6-23.xhtml" id="x6-23" media-type="application/xhtml+xml"/>
+    <item href="6-24.xhtml" id="x6-24" media-type="application/xhtml+xml"/>
+    <item href="6-25.xhtml" id="x6-25" media-type="application/xhtml+xml"/>
+    <item href="6-26.xhtml" id="x6-26" media-type="application/xhtml+xml"/>
+    <item href="6-27.xhtml" id="x6-27" media-type="application/xhtml+xml"/>
+    <item href="6-28.xhtml" id="x6-28" media-type="application/xhtml+xml"/>
+    <item href="6-29.xhtml" id="x6-29" media-type="application/xhtml+xml"/>
+    <item href="6-30.xhtml" id="x6-30" media-type="application/xhtml+xml"/>
+    <item href="6-31.xhtml" id="x6-31" media-type="application/xhtml+xml"/>
+    <item href="6-32.xhtml" id="x6-32" media-type="application/xhtml+xml"/>
+    <item href="6-33.xhtml" id="x6-33" media-type="application/xhtml+xml"/>
+    <item href="6-34.xhtml" id="x6-34" media-type="application/xhtml+xml"/>
+    <item href="6-35.xhtml" id="x6-35" media-type="application/xhtml+xml"/>
+    <item href="6-36.xhtml" id="x6-36" media-type="application/xhtml+xml"/>
+    <item href="6-37.xhtml" id="x6-37" media-type="application/xhtml+xml"/>
+    <item href="6-38.xhtml" id="x6-38" media-type="application/xhtml+xml"/>
+    <item href="6-39.xhtml" id="x6-39" media-type="application/xhtml+xml"/>
+    <item href="6-40.xhtml" id="x6-40" media-type="application/xhtml+xml"/>
+    <item href="6-41.xhtml" id="x6-41" media-type="application/xhtml+xml"/>
+    <item href="6-42.xhtml" id="x6-42" media-type="application/xhtml+xml"/>
+    <item href="6-43.xhtml" id="x6-43" media-type="application/xhtml+xml"/>
+    <item href="6-44.xhtml" id="x6-44" media-type="application/xhtml+xml"/>
+    <item href="6-45.xhtml" id="x6-45" media-type="application/xhtml+xml"/>
+    <item href="6-46.xhtml" id="x6-46" media-type="application/xhtml+xml"/>
+    <item href="6-47.xhtml" id="x6-47" media-type="application/xhtml+xml"/>
+    <item href="6-48.xhtml" id="x6-48" media-type="application/xhtml+xml"/>
+    <item href="6-49.xhtml" id="x6-49" media-type="application/xhtml+xml"/>
+    <item href="6-50.xhtml" id="x6-50" media-type="application/xhtml+xml"/>
+    <item href="6-51.xhtml" id="x6-51" media-type="application/xhtml+xml"/>
+    <item href="6-52.xhtml" id="x6-52" media-type="application/xhtml+xml"/>
+    <item href="6-53.xhtml" id="x6-53" media-type="application/xhtml+xml"/>
+    <item href="6-54.xhtml" id="x6-54" media-type="application/xhtml+xml"/>
+    <item href="6-55.xhtml" id="x6-55" media-type="application/xhtml+xml"/>
+    <item href="6-56.xhtml" id="x6-56" media-type="application/xhtml+xml"/>
+    <item href="6-57.xhtml" id="x6-57" media-type="application/xhtml+xml"/>
+    <item href="6-58.xhtml" id="x6-58" media-type="application/xhtml+xml"/>
+    <item href="6-59.xhtml" id="x6-59" media-type="application/xhtml+xml"/>
+    <item href="6-60.xhtml" id="x6-60" media-type="application/xhtml+xml"/>
+    <item href="6-61.xhtml" id="x6-61" media-type="application/xhtml+xml"/>
+    <item href="6-62.xhtml" id="x6-62" media-type="application/xhtml+xml"/>
+    <item href="6-63.xhtml" id="x6-63" media-type="application/xhtml+xml"/>
+    <item href="6-64.xhtml" id="x6-64" media-type="application/xhtml+xml"/>
+    <item href="6-65.xhtml" id="x6-65" media-type="application/xhtml+xml"/>
+    <item href="6-66.xhtml" id="x6-66" media-type="application/xhtml+xml"/>
+    <item href="6-67.xhtml" id="x6-67" media-type="application/xhtml+xml"/>
+    <item href="6-68.xhtml" id="x6-68" media-type="application/xhtml+xml"/>
+    <item href="6-69.xhtml" id="x6-69" media-type="application/xhtml+xml"/>
+    <item href="6-70.xhtml" id="x6-70" media-type="application/xhtml+xml"/>
+    <item href="6-71.xhtml" id="x6-71" media-type="application/xhtml+xml"/>
+    <item href="6-72.xhtml" id="x6-72" media-type="application/xhtml+xml"/>
+    <item href="6-73.xhtml" id="x6-73" media-type="application/xhtml+xml"/>
+    <item href="6-74.xhtml" id="x6-74" media-type="application/xhtml+xml"/>
+    <item href="6-75.xhtml" id="x6-75" media-type="application/xhtml+xml"/>
+    <item href="6-76.xhtml" id="x6-76" media-type="application/xhtml+xml"/>
+    <item href="6-77.xhtml" id="x6-77" media-type="application/xhtml+xml"/>
+    <item href="6-78.xhtml" id="x6-78" media-type="application/xhtml+xml"/>
+    <item href="6-79.xhtml" id="x6-79" media-type="application/xhtml+xml"/>
+    <item href="6-80.xhtml" id="x6-80" media-type="application/xhtml+xml"/>
+    <item href="6-81.xhtml" id="x6-81" media-type="application/xhtml+xml"/>
+    <item href="6-82.xhtml" id="x6-82" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="image/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="image/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/yky_2_fmt.jpeg" id="yky_2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x6-1"/>
+    <itemref idref="x6-2"/>
+    <itemref idref="x6-3"/>
+    <itemref idref="x6-4"/>
+    <itemref idref="x6-5"/>
+    <itemref idref="x6-6"/>
+    <itemref idref="x6-7"/>
+    <itemref idref="x6-8"/>
+    <itemref idref="x6-9"/>
+    <itemref idref="x6-10"/>
+    <itemref idref="x6-11"/>
+    <itemref idref="x6-12"/>
+    <itemref idref="x6-13"/>
+    <itemref idref="x6-14"/>
+    <itemref idref="x6-15"/>
+    <itemref idref="x6-16"/>
+    <itemref idref="x6-17"/>
+    <itemref idref="x6-18"/>
+    <itemref idref="x6-19"/>
+    <itemref idref="x6-20"/>
+    <itemref idref="x6-21"/>
+    <itemref idref="x6-22"/>
+    <itemref idref="x6-23"/>
+    <itemref idref="x6-24"/>
+    <itemref idref="x6-25"/>
+    <itemref idref="x6-26"/>
+    <itemref idref="x6-27"/>
+    <itemref idref="x6-28"/>
+    <itemref idref="x6-29"/>
+    <itemref idref="x6-30"/>
+    <itemref idref="x6-31"/>
+    <itemref idref="x6-32"/>
+    <itemref idref="x6-33"/>
+    <itemref idref="x6-34"/>
+    <itemref idref="x6-35"/>
+    <itemref idref="x6-36"/>
+    <itemref idref="x6-37"/>
+    <itemref idref="x6-38"/>
+    <itemref idref="x6-39"/>
+    <itemref idref="x6-40"/>
+    <itemref idref="x6-41"/>
+    <itemref idref="x6-42"/>
+    <itemref idref="x6-43"/>
+    <itemref idref="x6-44"/>
+    <itemref idref="x6-45"/>
+    <itemref idref="x6-46"/>
+    <itemref idref="x6-47"/>
+    <itemref idref="x6-48"/>
+    <itemref idref="x6-49"/>
+    <itemref idref="x6-50"/>
+    <itemref idref="x6-51"/>
+    <itemref idref="x6-52"/>
+    <itemref idref="x6-53"/>
+    <itemref idref="x6-54"/>
+    <itemref idref="x6-55"/>
+    <itemref idref="x6-56"/>
+    <itemref idref="x6-57"/>
+    <itemref idref="x6-58"/>
+    <itemref idref="x6-59"/>
+    <itemref idref="x6-60"/>
+    <itemref idref="x6-61"/>
+    <itemref idref="x6-62"/>
+    <itemref idref="x6-63"/>
+    <itemref idref="x6-64"/>
+    <itemref idref="x6-65"/>
+    <itemref idref="x6-66"/>
+    <itemref idref="x6-67"/>
+    <itemref idref="x6-68"/>
+    <itemref idref="x6-69"/>
+    <itemref idref="x6-70"/>
+    <itemref idref="x6-71"/>
+    <itemref idref="x6-72"/>
+    <itemref idref="x6-73"/>
+    <itemref idref="x6-74"/>
+    <itemref idref="x6-75"/>
+    <itemref idref="x6-76"/>
+    <itemref idref="x6-77"/>
+    <itemref idref="x6-78"/>
+    <itemref idref="x6-79"/>
+    <itemref idref="x6-80"/>
+    <itemref idref="x6-81"/>
+    <itemref idref="x6-82"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

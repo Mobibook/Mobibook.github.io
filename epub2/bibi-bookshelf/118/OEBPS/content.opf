@@ -1,0 +1,107 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Maksimum Güvenlik</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Muchamore, Robert">Robert Muchamore</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c842aab0-77e1-46fc-82f8-45a92c03c66b</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Kelime Yayınları</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">650e6c94-89c4-4052-bee8-a947de8ee0c0</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="2016-03-08T20:09:59+00:00" name="calibre:timestamp"/>
+    <meta content="1" name="calibre:series_index"/>
+    <meta content="Maksimum Güvenlik" name="calibre:title_sort"/>
+    <meta content="0.8.6" name="Sigil version"/>
+    <meta name="calibre:author_link_map" content="{&quot;Robert Muchamore&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0001.html" id="max_guv_0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0002.html" id="max_guv_0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0003.html" id="max_guv_0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0004.html" id="max_guv_0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0005.html" id="max_guv_0005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0006.html" id="max_guv_0006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0007.html" id="max_guv_0007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0008.html" id="max_guv_0008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0009.html" id="max_guv_0009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0010.html" id="max_guv_0010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0011.html" id="max_guv_0011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0012.html" id="max_guv_0012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0013.html" id="max_guv_0013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0014.html" id="max_guv_0014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0015.html" id="max_guv_0015.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0016.html" id="max_guv_0016.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0017.html" id="max_guv_0017.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0018.html" id="max_guv_0018.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0019.html" id="max_guv_0019.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0020.html" id="max_guv_0020.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0021.html" id="max_guv_0021.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0022.html" id="max_guv_0022.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0023.html" id="max_guv_0023.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0024.html" id="max_guv_0024.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0025.html" id="max_guv_0025.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0026.html" id="max_guv_0026.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0027.html" id="max_guv_0027.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0028.html" id="max_guv_0028.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0029.html" id="max_guv_0029.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0030.html" id="max_guv_0030.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0031.html" id="max_guv_0031.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0032.html" id="max_guv_0032.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0033.html" id="max_guv_0033.html" media-type="application/xhtml+xml"/>
+    <item href="Text/max_guv_0034.html" id="max_guv_0034.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/Style_Hoca.css" id="Style_Hoca.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="max_guv_0001.html"/>
+    <itemref idref="max_guv_0002.html"/>
+    <itemref idref="max_guv_0003.html"/>
+    <itemref idref="max_guv_0004.html"/>
+    <itemref idref="max_guv_0005.html"/>
+    <itemref idref="max_guv_0006.html"/>
+    <itemref idref="max_guv_0007.html"/>
+    <itemref idref="max_guv_0008.html"/>
+    <itemref idref="max_guv_0009.html"/>
+    <itemref idref="max_guv_0010.html"/>
+    <itemref idref="max_guv_0011.html"/>
+    <itemref idref="max_guv_0012.html"/>
+    <itemref idref="max_guv_0013.html"/>
+    <itemref idref="max_guv_0014.html"/>
+    <itemref idref="max_guv_0015.html"/>
+    <itemref idref="max_guv_0016.html"/>
+    <itemref idref="max_guv_0017.html"/>
+    <itemref idref="max_guv_0018.html"/>
+    <itemref idref="max_guv_0019.html"/>
+    <itemref idref="max_guv_0020.html"/>
+    <itemref idref="max_guv_0021.html"/>
+    <itemref idref="max_guv_0022.html"/>
+    <itemref idref="max_guv_0023.html"/>
+    <itemref idref="max_guv_0024.html"/>
+    <itemref idref="max_guv_0025.html"/>
+    <itemref idref="max_guv_0026.html"/>
+    <itemref idref="max_guv_0027.html"/>
+    <itemref idref="max_guv_0028.html"/>
+    <itemref idref="max_guv_0029.html"/>
+    <itemref idref="max_guv_0030.html"/>
+    <itemref idref="max_guv_0031.html"/>
+    <itemref idref="max_guv_0032.html"/>
+    <itemref idref="max_guv_0033.html"/>
+    <itemref idref="max_guv_0034.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

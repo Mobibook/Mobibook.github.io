@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta name="calibre:title_sort" content="Otorite"/>
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="Sennett, Richard" opf:role="aut">Richard Sennett</dc:creator>
+    <meta name="calibre:timestamp" content="2011-06-21T12:45:37+00:00"/>
+    <dc:title>Otorite</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2011-06-21T12:45:37+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.8.6) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">587b08ba-9348-46b4-bcf1-19bde11413c9</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="stylesheet1.css" id="css1" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

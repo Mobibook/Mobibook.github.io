@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="b4a85299-8288-4949-81f7-7f461aeb40a4" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Robenson</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u3ac4deb0-1a8a-40de-b916-a6652350173a" playOrder="1">
+      <navLabel>
+        <text>İFADE-İ MÜTERCİM</text>
+      </navLabel>
+      <content src="robenson_split_003.html"/>
+    </navPoint>
+    <navPoint id="u486df6f5-9d9f-4bb5-b0d9-c37f6185dadc" playOrder="2">
+      <navLabel>
+        <text>-1-</text>
+      </navLabel>
+      <content src="robenson_split_005.html"/>
+    </navPoint>
+    <navPoint id="u8526b31d-251e-455b-9282-755018d26462" playOrder="3">
+      <navLabel>
+        <text>-2-</text>
+      </navLabel>
+      <content src="robenson_split_006.html"/>
+    </navPoint>
+    <navPoint id="uc3b843c8-4d8b-4544-9d82-f9b82e64888d" playOrder="4">
+      <navLabel>
+        <text>-3-</text>
+      </navLabel>
+      <content src="robenson_split_007.html"/>
+    </navPoint>
+    <navPoint id="ubccb2200-43b0-407c-b835-7104d54a18b4" playOrder="5">
+      <navLabel>
+        <text>-4-</text>
+      </navLabel>
+      <content src="robenson_split_008.html"/>
+    </navPoint>
+    <navPoint id="udc57391d-806c-4134-909c-bd7404e598fe" playOrder="6">
+      <navLabel>
+        <text>-5-</text>
+      </navLabel>
+      <content src="robenson_split_009.html"/>
+    </navPoint>
+    <navPoint id="u95d5c4fd-3b52-4684-b460-9e4e69119d5a" playOrder="7">
+      <navLabel>
+        <text>-6-</text>
+      </navLabel>
+      <content src="robenson_split_010.html"/>
+    </navPoint>
+    <navPoint id="ue8c4cd27-7e82-4b07-a4fb-6e1e42d93d70" playOrder="8">
+      <navLabel>
+        <text>-7-</text>
+      </navLabel>
+      <content src="robenson_split_011.html"/>
+    </navPoint>
+    <navPoint id="u73ecd394-6972-46e1-a4af-22e7ea431acd" playOrder="9">
+      <navLabel>
+        <text>-8-</text>
+      </navLabel>
+      <content src="robenson_split_012.html"/>
+    </navPoint>
+    <navPoint id="u26a2ef40-02f1-4cc9-868c-d6708784188d" playOrder="10">
+      <navLabel>
+        <text>-9-</text>
+      </navLabel>
+      <content src="robenson_split_013.html"/>
+    </navPoint>
+    <navPoint id="ud983f3f6-6cf1-4496-b1cd-b5169e414a1d" playOrder="11">
+      <navLabel>
+        <text>-10-</text>
+      </navLabel>
+      <content src="robenson_split_014.html"/>
+    </navPoint>
+    <navPoint id="ufe2f912b-20e0-430f-bfc6-88fb6ceb6412" playOrder="12">
+      <navLabel>
+        <text>-11-</text>
+      </navLabel>
+      <content src="robenson_split_015.html"/>
+    </navPoint>
+    <navPoint id="uc5d995c2-deb3-42b6-9f2f-42e424691900" playOrder="13">
+      <navLabel>
+        <text>-12-</text>
+      </navLabel>
+      <content src="robenson_split_016.html"/>
+    </navPoint>
+    <navPoint id="u94ee6d61-b646-4c2a-8ed9-5ba6ccaf1954" playOrder="14">
+      <navLabel>
+        <text>-13-</text>
+      </navLabel>
+      <content src="robenson_split_017.html"/>
+    </navPoint>
+    <navPoint id="ud9a4f60e-6878-418c-b7d8-5c9fa9b5ba52" playOrder="15">
+      <navLabel>
+        <text>-14-</text>
+      </navLabel>
+      <content src="robenson_split_018.html"/>
+    </navPoint>
+    <navPoint id="u3f955a7e-770c-4ac4-ac50-9459525b4af2" playOrder="16">
+      <navLabel>
+        <text>-15-</text>
+      </navLabel>
+      <content src="robenson_split_019.html"/>
+    </navPoint>
+    <navPoint id="ucd67c4eb-a951-4d06-9b42-6d07b0b271de" playOrder="17">
+      <navLabel>
+        <text>-16-</text>
+      </navLabel>
+      <content src="robenson_split_020.html"/>
+    </navPoint>
+    <navPoint id="u00e00013-8993-45f1-ac8b-2f8bc5ba977f" playOrder="18">
+      <navLabel>
+        <text>-17-</text>
+      </navLabel>
+      <content src="robenson_split_021.html"/>
+    </navPoint>
+    <navPoint id="u61bc4b9e-9dc5-428e-bf82-1af06d6f62c3" playOrder="19">
+      <navLabel>
+        <text>-18-</text>
+      </navLabel>
+      <content src="robenson_split_022.html"/>
+    </navPoint>
+    <navPoint id="ucf7fe4a2-db20-4a3d-8805-5f4240a5ca3f" playOrder="20">
+      <navLabel>
+        <text>-19-</text>
+      </navLabel>
+      <content src="robenson_split_023.html"/>
+    </navPoint>
+    <navPoint id="uafb6b835-d9fb-468d-9d03-1ca7fe553459" playOrder="21">
+      <navLabel>
+        <text>-20-</text>
+      </navLabel>
+      <content src="robenson_split_024.html"/>
+    </navPoint>
+    <navPoint id="uaeb42dce-9987-4839-9526-4a24c7d09561" playOrder="22">
+      <navLabel>
+        <text>-21-</text>
+      </navLabel>
+      <content src="robenson_split_025.html"/>
+    </navPoint>
+    <navPoint id="ud5472edb-db24-4bd9-9f69-563d717c3d9a" playOrder="23">
+      <navLabel>
+        <text>-22-</text>
+      </navLabel>
+      <content src="robenson_split_026.html"/>
+    </navPoint>
+    <navPoint id="ub4dc7ef9-4370-499f-bb83-0d03aabfecf2" playOrder="24">
+      <navLabel>
+        <text>-23-</text>
+      </navLabel>
+      <content src="robenson_split_027.html"/>
+    </navPoint>
+    <navPoint id="u0f38e929-0b63-4984-b8ac-8971a1a5341b" playOrder="25">
+      <navLabel>
+        <text>-24-</text>
+      </navLabel>
+      <content src="robenson_split_028.html"/>
+    </navPoint>
+    <navPoint id="u2b69b1c8-870a-4b47-b05c-7f7ca02f3bdb" playOrder="26">
+      <navLabel>
+        <text>-25-</text>
+      </navLabel>
+      <content src="robenson_split_029.html"/>
+    </navPoint>
+    <navPoint id="u4ba43ec4-49ab-42e5-9e94-2019d4b6024a" playOrder="27">
+      <navLabel>
+        <text>-26-</text>
+      </navLabel>
+      <content src="robenson_split_030.html"/>
+    </navPoint>
+    <navPoint id="u495ad23f-49d1-464b-8f86-321528f1c42c" playOrder="28">
+      <navLabel>
+        <text>-27-</text>
+      </navLabel>
+      <content src="robenson_split_031.html"/>
+    </navPoint>
+    <navPoint id="u5b63f0e6-e434-4515-af17-3884231f9a24" playOrder="29">
+      <navLabel>
+        <text>-28-</text>
+      </navLabel>
+      <content src="robenson_split_032.html"/>
+    </navPoint>
+    <navPoint id="u6fee7f70-e1fa-435f-b98f-8d518efac392" playOrder="30">
+      <navLabel>
+        <text>-29-</text>
+      </navLabel>
+      <content src="robenson_split_033.html"/>
+    </navPoint>
+    <navPoint id="u735b1af3-8004-43b0-8bcf-cfd4dd018f8f" playOrder="31">
+      <navLabel>
+        <text>-30-</text>
+      </navLabel>
+      <content src="robenson_split_034.html"/>
+    </navPoint>
+    <navPoint id="ua238b046-ea78-47b9-bba7-a11c0b4d1d0c" playOrder="32">
+      <navLabel>
+        <text>-31-</text>
+      </navLabel>
+      <content src="robenson_split_035.html"/>
+    </navPoint>
+    <navPoint id="u2ce9187c-172b-4af6-ade5-58a79bd725d7" playOrder="33">
+      <navLabel>
+        <text>-32-</text>
+      </navLabel>
+      <content src="robenson_split_036.html"/>
+    </navPoint>
+    <navPoint id="uea2e828a-46bb-49fe-9ed7-4833ffbd3ec0" playOrder="34">
+      <navLabel>
+        <text>-33-</text>
+      </navLabel>
+      <content src="robenson_split_037.html"/>
+    </navPoint>
+    <navPoint id="u2dea51f0-92e0-404d-aa08-2a3844c543c3" playOrder="35">
+      <navLabel>
+        <text>-34-</text>
+      </navLabel>
+      <content src="robenson_split_038.html"/>
+    </navPoint>
+    <navPoint id="ua243ca0f-5b1d-42d8-b39c-1129e7e87f2f" playOrder="36">
+      <navLabel>
+        <text>-35-</text>
+      </navLabel>
+      <content src="robenson_split_039.html"/>
+    </navPoint>
+    <navPoint id="u3da8cabe-a81f-40f5-89b2-487bbd5b9450" playOrder="37">
+      <navLabel>
+        <text>-36-</text>
+      </navLabel>
+      <content src="robenson_split_040.html"/>
+    </navPoint>
+    <navPoint id="u0739f9cd-ebf5-4e3c-8d0a-1bce89f206c2" playOrder="38">
+      <navLabel>
+        <text>-37-</text>
+      </navLabel>
+      <content src="robenson_split_041.html"/>
+    </navPoint>
+    <navPoint id="uc639fa5e-7e9d-4b62-9f81-3e2c8823db21" playOrder="39">
+      <navLabel>
+        <text>-38-</text>
+      </navLabel>
+      <content src="robenson_split_042.html"/>
+    </navPoint>
+    <navPoint id="u471fe351-c9ba-4401-8226-251678510c04" playOrder="40">
+      <navLabel>
+        <text>DİPNOTLAR</text>
+      </navLabel>
+      <content src="robenson_split_043.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

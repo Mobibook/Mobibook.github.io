@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="587b08ba-9348-46b4-bcf1-19bde11413c9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.6)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Otorite</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="cb6e2925-585f-4d93-8ed3-71143728bfad" playOrder="1">
+      <navLabel>
+        <text>Start</text>
+      </navLabel>
+      <content src="index.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Uzayda İlk Oyun</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Heinlein, Robert A.">Robert A. Heinlein</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:383aa5b5-5eab-fae2-2888-0a987bfe222a</dc:identifier>
+    <dc:publisher>Okat Yayınevi</dc:publisher>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">719f83db-07e1-44b4-a6a0-150079e90140</dc:identifier>
+    <meta name="generator" content="Adobe InDesign"/>
+    <meta name="calibre:title_sort" content="Uzayda İlk Oyun"/>
+    <meta name="calibre:author_link_map" content="{&quot;Robert A. Heinlein&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="../cover.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item id="x01" href="01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02" href="02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03" href="03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04" href="04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05" href="05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06" href="06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07" href="07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08" href="08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x09" href="09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x10" href="10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11" href="11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12" href="12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x13" href="13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x14" href="14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="css" href="template.css" media-type="text/css"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id"/>
+    <itemref idref="x01"/>
+    <itemref idref="x02"/>
+    <itemref idref="x03"/>
+    <itemref idref="x04"/>
+    <itemref idref="x05"/>
+    <itemref idref="x06"/>
+    <itemref idref="x07"/>
+    <itemref idref="x08"/>
+    <itemref idref="x09"/>
+    <itemref idref="x10"/>
+    <itemref idref="x11"/>
+    <itemref idref="x12"/>
+    <itemref idref="x13"/>
+    <itemref idref="x14"/>
+  </spine>
+</package>
