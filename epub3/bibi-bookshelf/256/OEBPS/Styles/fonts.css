@@ -1,0 +1,10 @@
+@font-face {
+	font-style: italic;
+	font-family: "Georgia";
+	src: url(../Fonts/Georgia-Italic.ttf)
+}
+
+@font-face {
+	font-family: "Georgia";
+	src: url(../Fonts/Georgia.ttf)
+}

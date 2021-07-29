@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta content="urn:isbn:9789750828287" name="dtb:uid"/>
+	</head>
+	<docTitle>
+		<text>Filler Sultanı İle Kırmızı Sakallı Topal Karınca</text>
+	</docTitle>
+	<docAuthor>
+		<text>Yaşar Kemal</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="part-1" playOrder="1">
+			<navLabel>
+				<text>1. Bölüm</text>
+			</navLabel>
+			<content src="part1.xhtml"/>
+		</navPoint>
+		<navPoint id="part-2" playOrder="2">
+			<navLabel>
+				<text>2. Bölüm</text>
+			</navLabel>
+			<content src="part2.xhtml"/>
+		</navPoint>
+		<navPoint id="part-3" playOrder="3">
+			<navLabel>
+				<text>3. Bölüm</text>
+			</navLabel>
+			<content src="part3.xhtml"/>
+		</navPoint>
+		<navPoint id="part-4" playOrder="4">
+			<navLabel>
+				<text>4. Bölüm</text>
+			</navLabel>
+			<content src="part4.xhtml"/>
+		</navPoint>
+		<navPoint id="part-5" playOrder="5">
+			<navLabel>
+				<text>5. Bölüm</text>
+			</navLabel>
+			<content src="part5.xhtml"/>
+		</navPoint>
+		<navPoint id="part-6" playOrder="6">
+			<navLabel>
+				<text>6. Bölüm</text>
+			</navLabel>
+			<content src="part6.xhtml"/>
+		</navPoint>
+		<navPoint id="part-7" playOrder="7">
+			<navLabel>
+				<text>7. Bölüm</text>
+			</navLabel>
+			<content src="part7.xhtml"/>
+		</navPoint>
+		<navPoint id="part-8" playOrder="8">
+			<navLabel>
+				<text>8. Bölüm</text>
+			</navLabel>
+			<content src="part8.xhtml"/>
+		</navPoint>
+	</navMap>
+</ncx>

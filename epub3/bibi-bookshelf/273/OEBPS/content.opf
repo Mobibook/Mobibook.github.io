@@ -1,0 +1,80 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Kemal, Yaşar">Yaşar Kemal</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">84c4de52-80ca-4f75-a95c-d53bcd5ae770</dc:identifier>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2003-06-13T21:00:00+00:00</dc:date>
+    <meta content="2014-06-12T22:34:24.640000+00:00" name="calibre:timestamp"/>
+    <meta content="Karıncanın Su İçtiği" name="calibre:title_sort"/>
+    <meta content="0.8.2" name="Sigil version"/>
+    <meta name="cover" content="x1034-Karincanin-Su-Ictigi--Bir-Ada-Hikayesi-2.jpg"/>
+    <meta content="Bir Ada Hikayesi" name="calibre:series"/>
+    <meta content="2.0" name="calibre:series_index"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <dc:description>&lt;p&gt;Bir Ada Hikayesi dörtlüsü, savaşlardan, kırımlardan, sürgünlerden arta kalan insanların, Yunanistan'a gönderilen Rumların boşalttığı bir adada yeni bir yaşam kurma çabalarını konu alır. Umut romanın baş kahramanıdır. 
+
+Karıncanın Su İçtiği, beklemenin ve sabrın romanıdır. Savaştan dönmeyen yakınlarını bekleyen kadınların, yurduna dönmeyi bekleyen sürgünlerin, denizi bekleyen balıkçıların, aşkı bekleyen yüreklerin sonsuz bir sabırla hayata duydukları inanç, adanın doğasına, insanlarına duyulan sevgiyle aydınlanır. 
+
+"Yaşar Kemal'in romanı vahşi ve muhteşem bir türküye benziyor. Güçlü, yalın ve insanı deli eden..." 
+- Die Weltwoche, (İsviçre) 
+
+"Yaşar Kemal büyük bir yazardır. Onun eserlerini okumak, zengin kazanımlar sağlayan büyük bir serüvendir." 
+- Fönstet, (İsveç) 
+
+"Yaşar Kemal'in eseri, büyük bir tuval üzerinde her santimine ayrı titizlik gösterilerek hazırlanmış bir tablo gibidir."&lt;/p&gt;</dc:description>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Yaşar Kemal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date opf:event="modification">2015-02-12</dc:date>
+  <dc:title>Karıncanın Su İçtiği</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">004e5fb4-3820-4fed-ab60-aa1633f459bc</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750807077</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/2.jpg" id="x2.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Split0004.html" id="Split0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Split0003.html" id="Split0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Split0005.html" id="Split0005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Split0002.html" id="Split0002.html" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/1034-Karincanin-Su-Ictigi--Bir-Ada-Hikayesi-2.jpg" id="x1034-Karincanin-Su-Ictigi--Bir-Ada-Hikayesi-2.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Split0001.html" id="Split0001.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Split0001.html"/>
+    <itemref idref="Split0002.html"/>
+    <itemref idref="Split0003.html"/>
+    <itemref idref="Split0004.html"/>
+    <itemref idref="Split0005.html"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

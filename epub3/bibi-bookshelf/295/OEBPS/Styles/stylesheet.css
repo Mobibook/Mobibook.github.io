@@ -1,0 +1,41 @@
+.heading1 { text-align: center; font-weight: bold; font-size: 2em; }
+.heading2 { text-align: center; font-weight: bold; font-size: 1.5em; }n.heading0 { text-indent: 2em; text-align: justify; font-size: 1em; }
+.image_inline { vertical-align: baseline; }
+.image_block { vertical-align: baseline; }
+p {text-indent: 1.5em; margin:5px;}
+.main { display: block; font-size: 1em; margin-bottom: 0; margin-left: 5pt; margin-right: 5pt; margin-top: 0; padding-left: 0; padding-right: 0; text-align: justify }
+.hyper { text-decoration: underline; }
+
+
+.ufak {
+    font-size: 68%;
+}
+
+.mini{
+font-size: 80%;
+}
+
+.not {
+    margin-left: 5%;
+    margin-right 10%;
+}
+
+
+.uzunara {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+.merkez {
+    text-align: center
+}
+
+.ufakcaps {
+    font-variant: small-caps;
+}
+
+p.noind {
+    text-align: justify;
+    text-indent: 0;
+}

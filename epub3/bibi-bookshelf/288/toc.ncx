@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="f102599f-1492-4ccb-9a7b-39931d7f1cda" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.24)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Topal Kasırga</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="90879ef7-f495-44bd-be44-8475ec946025" playOrder="1">
+      <navLabel>
+        <text>Topal Kasırga</text>
+      </navLabel>
+      <content src="NYG0136_split_000.html"/>
+    </navPoint>
+    <navPoint id="bb334cfa-7bc9-423f-a7e3-f0b307c8301c" playOrder="2">
+      <navLabel>
+        <text>Jenerik</text>
+      </navLabel>
+      <content src="NYG0136_split_001.html"/>
+    </navPoint>
+    <navPoint id="ae82d433-ce23-4426-b984-7884ef6a2ba1" playOrder="3">
+      <navLabel>
+        <text>Yavuz Bahadıroğlu</text>
+      </navLabel>
+      <content src="NYG0136_split_002.html"/>
+    </navPoint>
+    <navPoint id="c4021d77-9507-4fa0-91d5-817586922462" playOrder="4">
+      <navLabel>
+        <text>Timur Geliyor!</text>
+      </navLabel>
+      <content src="NYG0136_split_003.html"/>
+    </navPoint>
+    <navPoint id="944b9c53-c87f-44fe-a626-626e87dcba4d" playOrder="5">
+      <navLabel>
+        <text>Belâ Kapıya Dayandı</text>
+      </navLabel>
+      <content src="NYG0136_split_004.html"/>
+    </navPoint>
+    <navPoint id="65bd98c6-96ab-4079-929d-ab240f3e1601" playOrder="6">
+      <navLabel>
+        <text>Yallah Yola!</text>
+      </navLabel>
+      <content src="NYG0136_split_005.html"/>
+    </navPoint>
+    <navPoint id="306cd963-8d5f-4323-866c-5e57b41d0aab" playOrder="7">
+      <navLabel>
+        <text>Topal Kasırga</text>
+      </navLabel>
+      <content src="NYG0136_split_006.html"/>
+    </navPoint>
+    <navPoint id="318ce8e7-0672-40c5-ab4d-286da1142d20" playOrder="8">
+      <navLabel>
+        <text>Felâketin Yüreği</text>
+      </navLabel>
+      <content src="NYG0136_split_007.html"/>
+    </navPoint>
+    <navPoint id="826493cc-114b-49a0-866a-9a2d4b405af8" playOrder="9">
+      <navLabel>
+        <text>Eski Peşteli</text>
+      </navLabel>
+      <content src="NYG0136_split_008.html"/>
+    </navPoint>
+    <navPoint id="47d2814f-689a-4a0f-b2d0-af23cc5aae0c" playOrder="10">
+      <navLabel>
+        <text>Kara Çadırda Şenlik</text>
+      </navLabel>
+      <content src="NYG0136_split_009.html"/>
+    </navPoint>
+    <navPoint id="568cfe9f-cb47-4c31-8887-5da6e472dfb3" playOrder="11">
+      <navLabel>
+        <text>Hain</text>
+      </navLabel>
+      <content src="NYG0136_split_010.html"/>
+    </navPoint>
+    <navPoint id="4ddfc7f3-258e-46bf-a3ab-0e802ab3632a" playOrder="12">
+      <navLabel>
+        <text>Teslim Almanın Şartı</text>
+      </navLabel>
+      <content src="NYG0136_split_011.html"/>
+    </navPoint>
+    <navPoint id="dc6242ea-2598-48f2-8c78-520e5f69166f" playOrder="13">
+      <navLabel>
+        <text>Talih Her Zaman Gülmez</text>
+      </navLabel>
+      <content src="NYG0136_split_012.html"/>
+    </navPoint>
+    <navPoint id="314b7cae-4916-43ff-bb76-7650e3462e16" playOrder="14">
+      <navLabel>
+        <text>Esaret Halkası</text>
+      </navLabel>
+      <content src="NYG0136_split_013.html"/>
+    </navPoint>
+    <navPoint id="4b9134e8-c215-4ebc-8bc2-fbd3d72bf4a7" playOrder="15">
+      <navLabel>
+        <text>Feryat Gecesi</text>
+      </navLabel>
+      <content src="NYG0136_split_014.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,202 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="title">Filler Sultanı İle Kırmızı Sakallı Topal Karınca</dc:title>
+    <dc:creator id="id">Yaşar Kemal</dc:creator>
+    <dc:identifier>calibre:120</dc:identifier>
+    <dc:identifier>uuid:5fe72a4d-d42c-401d-baad-03c043eb3e94</dc:identifier>
+    <dc:identifier id="pub-id">urn:uuid:f9cc7973-8cef-400f-a176-f2df25ecdbf9</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:contributor id="id-1">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <meta refines="#title" property="title-type">main</meta>
+    <meta refines="#title" property="file-as">Filler Sultanı İle Kırmızı Sakallı Topal Karınca</meta>
+    <meta property="dcterms:modified">2019-12-23T10:40:12Z</meta>
+    <meta property="identifier-type" refines="#pub-id" scheme="onix:codelist5">15</meta>
+    <meta property="role" refines="#id-1" scheme="marc:relators">bkp</meta>
+    <meta property="role" refines="#id" scheme="marc:relators">aut</meta>
+    <meta property="file-as" refines="#id">Kemal, Yaşar</meta>
+    <meta property="calibre:author_link_map">{"Yaşar Kemal": ""}</meta>
+    <meta property="calibre:user_metadata">{
+  "#isbn": {
+    "#extra#": null, 
+    "#value#": "", 
+    "category_sort": "value", 
+    "colnum": 8, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{identifiers:select(isbn)}", 
+      "contains_html": false, 
+      "description": "", 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "isbn", 
+    "link_column": "value", 
+    "name": "ISBN", 
+    "rec_index": 22, 
+    "search_terms": [
+      "#isbn"
+    ], 
+    "table": "custom_column_8"
+  }
+}</meta>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="title-image.xhtml" id="title-imagexhtml" media-type="application/xhtml+xml"/>
+    <item href="part1.xhtml" id="part1xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="part2.xhtml" id="part2xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="part3.xhtml" id="part3xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="part4.xhtml" id="part4xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="part5.xhtml" id="part5xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter5.xhtml" id="chapter5xhtml" media-type="application/xhtml+xml"/>
+    <item href="part6.xhtml" id="part6xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter6.xhtml" id="chapter6xhtml" media-type="application/xhtml+xml"/>
+    <item href="part7.xhtml" id="part7xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter7.xhtml" id="chapter7xhtml" media-type="application/xhtml+xml"/>
+    <item href="part8.xhtml" id="part8xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter8.xhtml" id="chapter8xhtml" media-type="application/xhtml+xml"/>
+    <item href="biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="main.css" id="maincss" media-type="text/css"/>
+    <item href="image/cover.jpg" id="image__coverjpg" media-type="image/jpeg" properties="cover-image"/>
+    <item href="image/gap-1.jpg" id="image__gap-1jpg" media-type="image/jpeg"/>
+    <item href="image/gap-2.jpg" id="image__gap-2jpg" media-type="image/jpeg"/>
+    <item href="image/gap-3.jpg" id="image__gap-3jpg" media-type="image/jpeg"/>
+    <item href="image/gap-4.jpg" id="image__gap-4jpg" media-type="image/jpeg"/>
+    <item href="image/gap-5.jpg" id="image__gap-5jpg" media-type="image/jpeg"/>
+    <item href="image/gap-6.jpg" id="image__gap-6jpg" media-type="image/jpeg"/>
+    <item href="image/gap-7.jpg" id="image__gap-7jpg" media-type="image/jpeg"/>
+    <item href="image/gap-8.jpg" id="image__gap-8jpg" media-type="image/jpeg"/>
+    <item href="image/s-101.png" id="image__s-101png" media-type="image/png"/>
+    <item href="image/s-103.png" id="image__s-103png" media-type="image/png"/>
+    <item href="image/s-109.png" id="image__s-109png" media-type="image/png"/>
+    <item href="image/s-11.png" id="image__s-11png" media-type="image/png"/>
+    <item href="image/s-115.png" id="image__s-115png" media-type="image/png"/>
+    <item href="image/s-117.png" id="image__s-117png" media-type="image/png"/>
+    <item href="image/s-119.png" id="image__s-119png" media-type="image/png"/>
+    <item href="image/s-121.png" id="image__s-121png" media-type="image/png"/>
+    <item href="image/s-125.png" id="image__s-125png" media-type="image/png"/>
+    <item href="image/s-131.png" id="image__s-131png" media-type="image/png"/>
+    <item href="image/s-137.png" id="image__s-137png" media-type="image/png"/>
+    <item href="image/s-139.png" id="image__s-139png" media-type="image/png"/>
+    <item href="image/s-141.png" id="image__s-141png" media-type="image/png"/>
+    <item href="image/s-143.png" id="image__s-143png" media-type="image/png"/>
+    <item href="image/s-145.png" id="image__s-145png" media-type="image/png"/>
+    <item href="image/s-149-r.png" id="image__s-149-rpng" media-type="image/png"/>
+    <item href="image/s-149.png" id="image__s-149png" media-type="image/png"/>
+    <item href="image/s-155.png" id="image__s-155png" media-type="image/png"/>
+    <item href="image/s-158.png" id="image__s-158png" media-type="image/png"/>
+    <item href="image/s-163.png" id="image__s-163png" media-type="image/png"/>
+    <item href="image/s-167.png" id="image__s-167png" media-type="image/png"/>
+    <item href="image/s-169.png" id="image__s-169png" media-type="image/png"/>
+    <item href="image/s-171.png" id="image__s-171png" media-type="image/png"/>
+    <item href="image/s-173.png" id="image__s-173png" media-type="image/png"/>
+    <item href="image/s-179.png" id="image__s-179png" media-type="image/png"/>
+    <item href="image/s-18.png" id="image__s-18png" media-type="image/png"/>
+    <item href="image/s-183.png" id="image__s-183png" media-type="image/png"/>
+    <item href="image/s-185.png" id="image__s-185png" media-type="image/png"/>
+    <item href="image/s-19.png" id="image__s-19png" media-type="image/png"/>
+    <item href="image/s-193-1.png" id="image__s-193-1png" media-type="image/png"/>
+    <item href="image/s-193-2.png" id="image__s-193-2png" media-type="image/png"/>
+    <item href="image/s-195.png" id="image__s-195png" media-type="image/png"/>
+    <item href="image/s-201.png" id="image__s-201png" media-type="image/png"/>
+    <item href="image/s-207.png" id="image__s-207png" media-type="image/png"/>
+    <item href="image/s-210.png" id="image__s-210png" media-type="image/png"/>
+    <item href="image/s-211.png" id="image__s-211png" media-type="image/png"/>
+    <item href="image/s-215.png" id="image__s-215png" media-type="image/png"/>
+    <item href="image/s-219.png" id="image__s-219png" media-type="image/png"/>
+    <item href="image/s-221.png" id="image__s-221png" media-type="image/png"/>
+    <item href="image/s-226.png" id="image__s-226png" media-type="image/png"/>
+    <item href="image/s-23.png" id="image__s-23png" media-type="image/png"/>
+    <item href="image/s-231.png" id="image__s-231png" media-type="image/png"/>
+    <item href="image/s-233.png" id="image__s-233png" media-type="image/png"/>
+    <item href="image/s-235.png" id="image__s-235png" media-type="image/png"/>
+    <item href="image/s-237.png" id="image__s-237png" media-type="image/png"/>
+    <item href="image/s-241.png" id="image__s-241png" media-type="image/png"/>
+    <item href="image/s-243.png" id="image__s-243png" media-type="image/png"/>
+    <item href="image/s-245.png" id="image__s-245png" media-type="image/png"/>
+    <item href="image/s-247.png" id="image__s-247png" media-type="image/png"/>
+    <item href="image/s-249.png" id="image__s-249png" media-type="image/png"/>
+    <item href="image/s-250.png" id="image__s-250png" media-type="image/png"/>
+    <item href="image/s-255.png" id="image__s-255png" media-type="image/png"/>
+    <item href="image/s-256.png" id="image__s-256png" media-type="image/png"/>
+    <item href="image/s-261.png" id="image__s-261png" media-type="image/png"/>
+    <item href="image/s-265-2.png" id="image__s-265-2png" media-type="image/png"/>
+    <item href="image/s-265-3.png" id="image__s-265-3png" media-type="image/png"/>
+    <item href="image/s-265.png" id="image__s-265png" media-type="image/png"/>
+    <item href="image/s-269.png" id="image__s-269png" media-type="image/png"/>
+    <item href="image/s-27.png" id="image__s-27png" media-type="image/png"/>
+    <item href="image/s-275.png" id="image__s-275png" media-type="image/png"/>
+    <item href="image/s-279.png" id="image__s-279png" media-type="image/png"/>
+    <item href="image/s-281.png" id="image__s-281png" media-type="image/png"/>
+    <item href="image/s-287.png" id="image__s-287png" media-type="image/png"/>
+    <item href="image/s-31.png" id="image__s-31png" media-type="image/png"/>
+    <item href="image/s-33.png" id="image__s-33png" media-type="image/png"/>
+    <item href="image/s-39.png" id="image__s-39png" media-type="image/png"/>
+    <item href="image/s-41.png" id="image__s-41png" media-type="image/png"/>
+    <item href="image/s-45.png" id="image__s-45png" media-type="image/png"/>
+    <item href="image/s-48.png" id="image__s-48png" media-type="image/png"/>
+    <item href="image/s-49.png" id="image__s-49png" media-type="image/png"/>
+    <item href="image/s-5.png" id="image__s-5png" media-type="image/png"/>
+    <item href="image/s-53.png" id="image__s-53png" media-type="image/png"/>
+    <item href="image/s-55.png" id="image__s-55png" media-type="image/png"/>
+    <item href="image/s-61.png" id="image__s-61png" media-type="image/png"/>
+    <item href="image/s-63.png" id="image__s-63png" media-type="image/png"/>
+    <item href="image/s-67.png" id="image__s-67png" media-type="image/png"/>
+    <item href="image/s-7.png" id="image__s-7png" media-type="image/png"/>
+    <item href="image/s-71-r.png" id="image__s-71-rpng" media-type="image/png"/>
+    <item href="image/s-71.png" id="image__s-71png" media-type="image/png"/>
+    <item href="image/s-76.png" id="image__s-76png" media-type="image/png"/>
+    <item href="image/s-77.png" id="image__s-77png" media-type="image/png"/>
+    <item href="image/s-8.png" id="image__s-8png" media-type="image/png"/>
+    <item href="image/s-83-2.png" id="image__s-83-2png" media-type="image/png"/>
+    <item href="image/s-83.png" id="image__s-83png" media-type="image/png"/>
+    <item href="image/s-89.png" id="image__s-89png" media-type="image/png"/>
+    <item href="image/s-9.png" id="image__s-9png" media-type="image/png"/>
+    <item href="image/s-91.png" id="image__s-91png" media-type="image/png"/>
+    <item href="image/s-93.png" id="image__s-93png" media-type="image/png"/>
+    <item href="image/s-95.png" id="image__s-95png" media-type="image/png"/>
+    <item href="image/s-99.png" id="image__s-99png" media-type="image/png"/>
+    <item href="image/title-image.jpg" id="image__title-imagejpg" media-type="image/jpeg"/>
+    <item href="image/ykylogo.png" id="image__ykylogopng" media-type="image/png"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="title-imagexhtml"/>
+    <itemref idref="part1xhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="part2xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="part3xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="part4xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="part5xhtml"/>
+    <itemref idref="chapter5xhtml"/>
+    <itemref idref="part6xhtml"/>
+    <itemref idref="chapter6xhtml"/>
+    <itemref idref="part7xhtml"/>
+    <itemref idref="chapter7xhtml"/>
+    <itemref idref="part8xhtml"/>
+    <itemref idref="chapter8xhtml"/>
+    <itemref idref="biographyxhtml"/>
+  </spine>
+</package>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Yaşar Nuri Öztürk</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>CB089D7A55EAD145FABE51E483947ECF</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>C47BBC15746DB116AF195B07B684A16B</string>
+		<key>publisher-unique-id</key>
+		<string>24d3e1fe-25f8-4180-8e35-a809576a5641</string>
+		<key>unique-id</key>
+		<integer>-7705392145623904416</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Allah ile Aldatmak</string>
+	<key>playlistName</key>
+	<string>Allah ile Aldatmak</string>
+	<key>releaseDate</key>
+	<string>2010-11-22T08:00:00+00:00</string>
+</dict>
+</plist>
