@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="f4d5191c-6646-4bf1-af27-9258c3958c5e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.29.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Seyahatnâme 2. Kitap</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u58e0cc31-c336-45b2-bd24-5fb0836d7ab4" playOrder="1">
+      <navLabel>
+        <text>Sunuş</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%202.%20Kitap_split_001.htm"/>
+    </navPoint>
+    <navPoint id="u6c51e114-2508-4e95-8b54-0b80c75fbd25" playOrder="2">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%202.%20Kitap_split_002.htm"/>
+    </navPoint>
+    <navPoint id="u6b53edae-c3f3-41a3-b027-259c8f379a5d" playOrder="3">
+      <navLabel>
+        <text>Bazı İşaretler</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%202.%20Kitap_split_003.htm"/>
+    </navPoint>
+    <navPoint id="u9ca8b07c-ccd3-470a-8599-09a3b801e714" playOrder="4">
+      <navLabel>
+        <text>Hâzâ Seyâhatnâme Fihris‑i Cild‑i Sânî</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%202.%20Kitap_split_005.htm"/>
+    </navPoint>
+    <navPoint id="u1a9e7801-7775-4267-b8e2-2e352008217f" playOrder="5">
+      <navLabel>
+        <text>Metin</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%202.%20Kitap_split_006.htm"/>
+    </navPoint>
+    <navPoint id="u7ea43b29-cbc8-4123-b795-0b22ff0a5d3d" playOrder="6">
+      <navLabel>
+        <text>Dizin</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%202.%20Kitap_split_013.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Banks, Iain">Iain Banks</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:4281eeea-ee6b-4f31-ae92-52651a354ad3</dc:identifier>
+    <dc:date>1996-10-27T22:00:00+00:00</dc:date>
+    <dc:type>Epub</dc:type>
+    <dc:publisher>Ayrıntı Yayınları</dc:publisher>
+    <dc:format>Epub</dc:format>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+  <dc:title>Eşekarısı Fabrikası</dc:title>
+<meta name="calibre:title_sort" content="Eşekarısı Fabrikası"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Korku</dc:subject>
+<dc:subject>Gerilim</dc:subject>
+<dc:subject>Yeraltı Edebiyatı</dc:subject>
+<dc:subject>İngiliz Edebiyatı</dc:subject>
+<dc:description>&lt;p&gt;Fay Weldon´ ın "çağdaş İngiliz edebiyatının büyük beyaz umudu" diyerek selamladığı İskoç yazar Iain Banks´ in ilk romanı Eşekarısı Fabrikası , 1980´ li yıllarda İngiltere´ de yayımlanan tüm romanlar arasında en çok tartışılan kitaplarından biri oldu. Gazete ve dergilerde abartılı yergi ve övgülerle sürdürülen tartışmaların harareti dindikten ve Banks yazdığı diğer romanlarla yeteneğini kanıtladıktan sonra kitaba gerçek değeri verilebildi: Metin, çocuk ve şiddet temasını işleyişindeki başarısı açısından Sineklerin Tanrısı ve Teneke Trampet gibi başyapıtlarla kıyaslanıyor artık.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Iain Banks&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">e96fa918-f48c-4a1c-ac98-3d4d55224f3e</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755391304</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/EAF01.xhtml" id="EAF01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/EAF02.xhtml" id="EAF02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/EAF03.xhtml" id="EAF03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/EAF04.xhtml" id="EAF04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/EAF05.xhtml" id="EAF05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/EAF09.xhtml" id="EAF09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/EAF08.xhtml" id="EAF08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/EAF11.xhtml" id="EAF11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/EAF12.xhtml" id="EAF12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/EAF06.xhtml" id="EAF06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/EAF07.xhtml" id="EAF07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/EAF10.xhtml" id="EAF10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="EAF01.xhtml"/>
+    <itemref idref="EAF02.xhtml"/>
+    <itemref idref="EAF03.xhtml"/>
+    <itemref idref="EAF04.xhtml"/>
+    <itemref idref="EAF05.xhtml"/>
+    <itemref idref="EAF06.xhtml"/>
+    <itemref idref="EAF07.xhtml"/>
+    <itemref idref="EAF08.xhtml"/>
+    <itemref idref="EAF09.xhtml"/>
+    <itemref idref="EAF10.xhtml"/>
+    <itemref idref="EAF11.xhtml"/>
+    <itemref idref="EAF12.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

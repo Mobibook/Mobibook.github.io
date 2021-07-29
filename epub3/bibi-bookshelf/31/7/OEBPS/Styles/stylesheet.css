@@ -1,0 +1,2332 @@
+.Balk {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 1cm 4pt 0;
+}
+.Balk1 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 12pt 15pt 4pt 12pt;
+}
+.Balk2 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 12pt 1cm 4pt 28pt;
+}
+.Balk3 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 1cm 4pt 28pt;
+}
+.Balk4 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 0 1cm 4pt 28pt;
+}
+.Balk5 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 16.25pt 4pt 15pt;
+}
+.Balk6 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 14.25pt 4pt 11pt;
+}
+.Balk7 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 1cm 4pt 19pt;
+}
+.Balk8 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 14.25pt 4pt 28pt;
+}
+.Balk9 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 21.25pt 4pt 19pt;
+}
+.Balk10 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 18pt 1cm 4pt 28pt;
+}
+.Balk11 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 15pt 4pt 14pt;
+}
+.Balk12 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 6pt 1cm 4pt 28pt;
+}
+.Balk13 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 10pt 1cm 4pt 28pt;
+}
+.Balk14 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 10pt 15pt 4pt;
+}
+.Balk15 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 11pt 1cm 4pt 28pt;
+}
+.Balk16 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 10pt 4pt 12pt;
+}
+.Balk17 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 0 1cm 2pt 28pt;
+}
+.Balk18 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 0 26pt 4pt 22pt;
+}
+.Balk19 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 18pt 12pt 4pt 14pt;
+}
+.Balk20 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 0 19.25pt 4pt 21pt;
+}
+.Balk21 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 12pt 14.25pt 4pt 18pt;
+}
+.Balk22 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 13.25pt 4pt 18pt;
+}
+.Balk23 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 16.25pt 4pt 18pt;
+}
+.Balk24 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 26.25pt 4pt 15pt;
+}
+.Balk25 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 14.25pt 4pt 15pt;
+}
+.Balk26 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 21.25pt 4pt 28pt;
+}
+.Balk27 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 10pt 29pt 4pt 26pt;
+}
+.Balk28 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 1cm 8pt 28pt;
+}
+.Balk29 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 14.25pt 4pt 17pt;
+}
+.Balk30 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 12pt 1cm 0.0001pt 28pt;
+}
+.Balk31 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 8pt 1cm 0.0001pt 28pt;
+}
+.Balk32 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 12pt 1cm 2pt 28pt;
+}
+.Balk33 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 12pt 19.25pt 4pt 28pt;
+}
+.Balk34 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 14.25pt 4pt 18pt;
+}
+.Balk35 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 0 46.25pt 4pt 56pt;
+}
+.Balk36 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 16.25pt 4pt 24pt;
+}
+.Balk37 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 19.25pt 4pt 28pt;
+}
+.Balk38 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 43.25pt 4pt 41pt;
+}
+.Balk39 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 19.25pt 4pt 19pt;
+}
+.Balk40 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 21.25pt 4pt 15pt;
+}
+.Balk41 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 13.25pt 4pt 22pt;
+}
+.Balk42 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 14.25pt 4pt 14pt;
+}
+.Balk43 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 17.25pt 4pt 18pt;
+}
+.Balk44 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 29pt 4pt 28pt;
+}
+.Balk45 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 14.25pt 4pt 22pt;
+}
+.Balk46 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 16.25pt 4pt 22pt;
+}
+.Balk47 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 14.25pt 4pt 19pt;
+}
+.Balk48 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 8pt 14.25pt 2pt 18pt;
+}
+.Balk49 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 19.25pt 4pt 15pt;
+}
+.Balk50 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 23.25pt 4pt 18pt;
+}
+.Balk51 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 0 13.25pt 4pt 18pt;
+}
+.Balk52 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 9.25pt 4pt 11pt;
+}
+.Balk53 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 19.25pt 4pt 12pt;
+}
+.Balk54 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 20.25pt 4pt 18pt;
+}
+.Balk55 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 12pt 21.25pt 4pt 17pt;
+}
+.Balk56 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 17.25pt 4pt 22pt;
+}
+.Balk57 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 42pt 4pt 41pt;
+}
+.Balk58 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 12.25pt 4pt 28pt;
+}
+.Balk59 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 17.25pt 4pt 15pt;
+}
+.Balk60 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 8pt 1cm 4pt 28pt;
+}
+.Balk61 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 16.25pt 4pt 14pt;
+}
+.Balk62 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 1cm 4pt 18pt;
+}
+.Balk63 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 21.25pt 4pt 18pt;
+}
+.Balk64 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 14.25pt 4pt 21pt;
+}
+.Balk65 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 19.25pt 4pt 21pt;
+}
+.Balk66 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 1cm 4pt 15pt;
+}
+.Beyit {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  page-break-after: avoid;
+  margin: 2pt -0.75pt 0.0001pt 0;
+}
+.Beyit1 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  margin: 0 0.25pt 4pt 0;
+}
+.Beyit2 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  margin: 0 -10.75pt 4pt 0;
+}
+.Beyit3 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  page-break-after: auto;
+  margin: 3pt -0.75pt 3pt 0;
+}
+.Beyit4 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 24pt;
+  page-break-after: avoid;
+  margin: 2pt -0.75pt 0.0001pt 0;
+}
+.Beyit5 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  page-break-after: avoid;
+  margin: 3pt -0.75pt 3pt 0;
+}
+.Beyit6 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  page-break-after: auto;
+  margin: 0 -0.75pt 3pt 0;
+}
+.Beyit7 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  page-break-after: avoid;
+  margin: 0 0.25pt 4pt 0;
+}
+.Beyit8 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  page-break-after: avoid;
+  margin: 6pt -0.75pt 0.0001pt 0;
+}
+.Beyit9 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  page-break-after: avoid;
+  margin: 0 -0.75pt 0.0001pt 0;
+}
+.Beyit10 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  page-break-after: avoid;
+  margin: 0 -14.75pt 0.0001pt 0;
+}
+.Beyit11 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  margin: 0 -14.75pt 4pt 0;
+}
+.Beyit12 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  page-break-after: avoid;
+  margin: 2pt -14.75pt 0.0001pt 0;
+}
+.Beyit13 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  page-break-after: avoid;
+  margin: 0 -14.75pt 4pt 0;
+}
+.Beyit14 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 24pt;
+  page-break-after: avoid;
+  margin: 0 -0.75pt 0.0001pt 0;
+}
+.Beyit15 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  margin: 0 -27.75pt 4pt 0;
+}
+.Beyit16 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 24pt;
+  page-break-after: avoid;
+  margin: 2pt -0.75pt 0.0001pt 14pt;
+}
+.Beyit17 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  margin: 0 0.25pt 4pt 14pt;
+}
+.Beyit18 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  page-break-after: avoid;
+  margin: 2pt -0.75pt 0.0001pt 14pt;
+}
+.Beyit19 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  page-break-after: avoid;
+  margin: 0 0.25pt 4pt 14pt;
+}
+.Beyit20 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  page-break-after: auto;
+  margin: 2pt -0.75pt 0.0001pt 0;
+}
+.Beyit21 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  page-break-after: avoid;
+  margin: 4pt -0.75pt 0.0001pt 0;
+}
+.Beyit22 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  page-break-after: avoid;
+  margin: 2pt -0.75pt 0.0001pt 12pt;
+}
+.Beyit23 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  margin: 0 0.25pt 4pt 12pt;
+}
+.Beyitara {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  page-break-after: avoid;
+  margin: 0 0.25pt 0.0001pt 0;
+}
+.calibre {
+  display: block;
+  font-size: 1.125em;
+  line-height: 1.2;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre1 {
+  font-weight: bold;
+}
+.calibre2 {
+  font-style: italic;
+}
+.calibre5 {
+  font-size: 1em;
+  line-height: 1.2;
+}
+.calibre7 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 0 0 6pt;
+}
+.calibre8 {
+  font-family: "Times New Roman", "serif";
+}
+.calibre9 {
+  font-weight: bold;
+  line-height: 1.2;
+}
+.calibre10 {
+  font-size: 0.77778em;
+  line-height: 1.2;
+}
+.calibre11 {
+  display: table-row-group;
+  vertical-align: middle;
+}
+.calibre12 {
+  display: table-row;
+  page-break-inside: avoid;
+  vertical-align: inherit;
+}
+.calibre13 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 113pt;
+  padding: 0 4pt;
+}
+.calibre14 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 324pt;
+  padding: 0 4pt;
+}
+.calibre15 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 3.75pt;
+  padding: 0;
+}
+.calibre16 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 117pt;
+  padding: 0 4pt;
+}
+.calibre17 {
+  font-size: 0.77778em;
+}
+.calibre18 {
+  height: 19px;
+  width: 12px;
+}
+.calibre19 {
+  display: table-row;
+  vertical-align: inherit;
+}
+.calibre20 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 113.25pt;
+  padding: 0;
+}
+.calibre21 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 320.25pt;
+  padding: 0;
+}
+.calibre22 {
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+}
+.calibre24 {
+  font-size: 1.22222em;
+  line-height: 1.2;
+}
+.calibre25 {
+  font-style: italic;
+  line-height: 1.2;
+}
+.calibre26 {
+  font-size: 1.28571em;
+  line-height: 1.2;
+}
+.calibre27 {
+  display: none;
+  line-height: 1.2;
+}
+.calibre28 {
+  line-height: 1.2;
+}
+.calibre29 {
+  line-height: 1.2;
+  position: relative;
+  top: 0;
+}
+.calibre30 {
+  font-size: 0.875em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.calibre31 {
+  position: relative;
+  top: 0;
+}
+.calibre32 {
+  font-family: "Times", "serif";
+  font-size: 0.85714em;
+  line-height: 1.2;
+}
+.calibre33 {
+  display: block;
+}
+.calibre34 {
+  font-weight: normal;
+}
+.calibre35 {
+  display: none;
+}
+.calibre36 {
+  font-size: 1.125em;
+  line-height: 1.2;
+}
+.calibre37 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 42pt;
+  padding: 0 4pt;
+}
+.calibre38 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 41pt;
+  padding: 0 4pt;
+}
+.calibre39 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 72pt;
+  padding: 0 4pt;
+}
+.calibre40 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 37.2pt;
+  padding: 0 4pt;
+}
+.calibre41 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 48.05pt;
+  padding: 0 4pt;
+}
+.calibre42 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 1.5pt;
+  padding: 0;
+}
+.calibre43 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 80.05pt;
+  padding: 0 4pt;
+}
+.calibre44 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 120.1pt;
+  padding: 0 4pt;
+}
+.calibre45 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 119pt;
+  padding: 0 4pt;
+}
+.calibre46 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 121.2pt;
+  padding: 0 4pt;
+}
+.calibre47 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 66pt;
+  padding: 0 4pt;
+}
+.calibre48 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 61.15pt;
+  padding: 0 4pt;
+}
+.calibre49 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 63pt;
+  padding: 0 4pt;
+}
+.calibre50 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 80pt;
+  padding: 0 4pt;
+}
+.calibre51 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 97.15pt;
+  padding: 0 4pt;
+}
+.calibre52 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 76pt;
+  padding: 0 4pt;
+}
+.calibre53 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 97pt;
+  padding: 0 4pt;
+}
+.calibre54 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 67.15pt;
+  padding: 0 4pt;
+}
+.calibre55 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 137pt;
+  padding: 0 4pt;
+}
+.calibre56 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 103.2pt;
+  padding: 0 4pt;
+}
+.calibre57 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 104pt;
+  padding: 0 4pt;
+}
+.calibre58 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 73pt;
+  padding: 0 4pt;
+}
+.calibre59 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 65pt;
+  padding: 0 4pt;
+}
+.calibre60 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 42pt;
+  padding: 0;
+}
+.calibre61 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 6pt;
+  padding: 0;
+}
+.calibre62 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 15pt;
+  padding: 0;
+}
+.calibre63 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 3pt;
+  padding: 0;
+}
+.calibre64 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 9.75pt;
+  padding: 0;
+}
+.calibre65 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 12.75pt;
+  padding: 0;
+}
+.calibre66 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 8.25pt;
+  padding: 0;
+}
+.calibre67 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 0.75pt;
+  padding: 0;
+}
+.calibre68 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 17.25pt;
+  padding: 0;
+}
+.calibre69 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 10.5pt;
+  padding: 0;
+}
+.calibre70 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 5.25pt;
+  padding: 0;
+}
+.calibre71 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 2.25pt;
+  padding: 0;
+}
+.calibre72 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 13.5pt;
+  padding: 0;
+}
+.calibre73 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 48pt;
+  padding: 0;
+}
+.calibre74 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 62pt;
+  padding: 0 4pt;
+}
+.calibre75 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 87pt;
+  padding: 0 4pt;
+}
+.calibre76 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 83pt;
+  padding: 0 4pt;
+}
+.calibre77 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 69pt;
+  padding: 0 4pt;
+}
+.calibre78 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 51pt;
+  padding: 0 4pt;
+}
+.calibre79 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 55pt;
+  padding: 0 4pt;
+}
+.calibre80 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 163.95pt;
+  padding: 0 4pt;
+}
+.calibre81 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 164pt;
+  padding: 0 4pt;
+}
+.calibre82 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 89pt;
+  padding: 0 4pt;
+}
+.calibre83 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 62.25pt;
+  padding: 0;
+}
+.calibre84 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 6.75pt;
+  padding: 0;
+}
+.calibre85 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 11.25pt;
+  padding: 0;
+}
+.calibre86 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 45.75pt;
+  padding: 0;
+}
+.calibre87 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 24pt;
+  padding: 0;
+}
+.calibre88 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 21.75pt;
+  padding: 0;
+}
+.calibre89 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 15.75pt;
+  padding: 0;
+}
+.calibre90 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 36.75pt;
+  padding: 0;
+}
+.calibre91 {
+  font-size: 0.875em;
+  line-height: 1.2;
+  vertical-align: sub;
+}
+.calibre92 {
+  font-size: 1em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.calibre93 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 91.1pt;
+  padding: 0 4pt;
+}
+.calibre94 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 18pt;
+  padding: 0;
+}
+.calibre95 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 102.15pt;
+  padding: 0 4pt;
+}
+.calibre96 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 56pt;
+  padding: 0 4pt;
+}
+.calibre97 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 59pt;
+  padding: 0 4pt;
+}
+.calibre98 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 160.1pt;
+  padding: 0 4pt;
+}
+.calibre99 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 160pt;
+  padding: 0 4pt;
+}
+.calibre100 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 79.05pt;
+  padding: 0 4pt;
+}
+.calibre101 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 140pt;
+  padding: 0 4pt;
+}
+.calibre102 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 100.2pt;
+  padding: 0 4pt;
+}
+.calibre103 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 240.25pt;
+  padding: 0 4pt;
+}
+.calibre104 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 153.2pt;
+  padding: 0 4pt;
+}
+.calibre105 {
+  display: block;
+  line-height: 1.2;
+}
+.calibre106 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 66pt;
+  padding: 0;
+}
+.calibre107 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 33pt;
+  padding: 0;
+}
+.calibre108 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 20.25pt;
+  padding: 0;
+}
+.calibre109 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 21pt;
+  padding: 0;
+}
+.calibre110 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 59.25pt;
+  padding: 0;
+}
+.calibre111 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 75pt;
+  padding: 0 4pt;
+}
+.calibre112 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 99pt;
+  padding: 0 4pt;
+}
+.calibre113 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 27pt;
+  padding: 0;
+}
+.calibre114 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 32.25pt;
+  padding: 0;
+}
+.calibre115 {
+  font-size: 0.875em;
+  line-height: 1.2;
+}
+.calibre116 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 40.1pt;
+  padding: 0 4pt;
+}
+.calibre117 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 92.2pt;
+  padding: 0 4pt;
+}
+.calibre118 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 143.2pt;
+  padding: 0 4pt;
+}
+.calibre119 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 157.2pt;
+  padding: 0 4pt;
+}
+.calibre120 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 14.25pt;
+  padding: 0;
+}
+.calibre121 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 12pt;
+  padding: 0;
+}
+.calibre122 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 68pt;
+  padding: 0 4pt;
+}
+.calibre123 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 60.05pt;
+  padding: 0 4pt;
+}
+.calibre124 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 84.1pt;
+  padding: 0 4pt;
+}
+.calibre125 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 98.15pt;
+  padding: 0 4pt;
+}
+.calibre126 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 9pt;
+  padding: 0;
+}
+.calibre127 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 19.5pt;
+  padding: 0;
+}
+.calibre128 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 28.5pt;
+  padding: 0;
+}
+.calibre129 {
+  color: gray;
+  display: block;
+  height: 2px;
+  text-align: left;
+  border-top: currentColor solid 1px;
+  border-right: currentColor none 1px;
+  border-bottom: currentColor none 1px;
+  border-left: currentColor none 1px;
+  margin: 0.5em auto;
+}
+.calibre130 {
+  font-size: 0.85714em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.calibre131 {
+  font-size: 0.77778em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.Evliyasatr {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 3pt -1pt 3pt 0;
+}
+.Evliyasatr1 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0 -1pt 3pt 0;
+}
+.Evliyasatr2 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 18pt;
+  text-align: center;
+  margin: 3pt -1pt 3pt 0;
+}
+.indeks {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-indent: -19pt;
+  margin: 1pt 0 0.0001pt 19pt;
+}
+.indeks1 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-indent: -19pt;
+  margin: 1pt -7pt 0.0001pt 19pt;
+}
+.indeks2 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-indent: -19pt;
+  margin: 1pt -5pt 0.0001pt 19pt;
+}
+.indeks3 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-indent: -19pt;
+  margin: 1pt -8pt 0.0001pt 19pt;
+}
+.indeks4 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-indent: -19pt;
+  margin: 1pt -11pt 0.0001pt 19pt;
+}
+.indeks5 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-indent: -19pt;
+  margin: 1pt -4pt 0.0001pt 19pt;
+}
+.indeks6 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-indent: -19pt;
+  margin: 0 0 0.0001pt 19pt;
+}
+.indeks7 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-indent: -19pt;
+  margin: 0 -7pt 0.0001pt 19pt;
+}
+.indeks8 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-indent: -19pt;
+  margin: 0 -11pt 0.0001pt 19pt;
+}
+.Metin {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 19.85pt;
+  margin: 0 0 0.0001pt;
+}
+.Metin1 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 19.85pt;
+  margin: 0 3pt 0.0001pt 0;
+}
+.Metin2 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0 0.0001pt;
+}
+.Metin3 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 19.85pt;
+  margin: 0 2.25pt 0.0001pt 0;
+}
+.Metin4 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 19.85pt;
+  margin: 3pt 0 0.0001pt;
+}
+.Metin5 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 19pt;
+  margin: 0 0 0.0001pt;
+}
+.Metin6 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: justify;
+  text-indent: 19.85pt;
+  margin: 0 0 0.0001pt;
+}
+.Metin7 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 19.85pt;
+  margin: 4pt 0 0.0001pt;
+}
+.Metin8 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 19.85pt;
+  margin: 0 -4pt 0.0001pt 0;
+}
+.Metin9 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 19.85pt;
+  margin: 0 -2pt 0.0001pt 0;
+}
+.Metin10 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 0 0 0.0001pt;
+}
+.Metin11 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 19.85pt;
+  margin: 0 -8pt 0.0001pt 0;
+}
+.Metin12 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 19.85pt;
+  margin: 12pt 0 0.0001pt;
+}
+.Metin13 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 19.85pt;
+  margin: 6pt 0 0.0001pt;
+}
+.Metin14 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: -1pt;
+  margin: 0 0 0.0001pt 1pt;
+}
+.Metin15 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 12pt -0.6pt 0.0001pt 0;
+}
+.Metin16 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 0 -0.6pt 0.0001pt 0;
+}
+.Metin17 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 0 10pt 0.0001pt 15pt;
+}
+.Metin18 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 19.85pt;
+  margin: 0 0 0.0001pt 1pt;
+}
+.Metin19 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 6pt 0 0.0001pt;
+}
+.Metin20 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: justify;
+  text-indent: 19.85pt;
+  margin: 12pt 0 0.0001pt;
+}
+.Metin21 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 19.85pt;
+  margin: 0 0.25pt 0.0001pt 0;
+}
+.Metin22 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 2pt;
+  margin: 0 0 0.0001pt;
+}
+.Metin23 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 19.85pt;
+  margin: 6pt -4pt 0.0001pt 0;
+}
+.Metin24 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 3pt 0 0.0001pt;
+}
+.Metin25 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 19.85pt;
+  margin: 0 0 0.0001pt;
+}
+.Metin26 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 12pt 0 0.0001pt;
+}
+.Metin27 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 19.85pt;
+  margin: 0 -5pt 0.0001pt 0;
+}
+.Metin28 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 0 -0.95pt 0.0001pt 0;
+}
+.Metin29 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 19.85pt;
+  margin: 0 -2.75pt 0.0001pt 0;
+}
+.Metin30 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 19.85pt;
+  margin: 8pt 0 0.0001pt;
+}
+.MsoFootnoteReference {
+  line-height: 1.2;
+  position: relative;
+  top: -3pt;
+}
+.MsoFootnoteReference1 {
+  position: relative;
+  top: -3pt;
+}
+.MsoFootnoteText {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -21pt;
+  margin: 1pt -0.75pt 1pt 21pt;
+}
+.MsoFootnoteText1 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -21pt;
+  margin: 1pt 0 1pt 21pt;
+}
+.MsoFootnoteText2 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -21pt;
+  margin: 1pt 0.25pt 1pt 21pt;
+}
+.MsoFootnoteText3 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -17pt;
+  margin: 1pt 0 1pt 17pt;
+}
+.MsoFootnoteText4 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -26pt;
+  margin: 1pt 0 1pt 26pt;
+}
+.MsoFootnoteText5 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -15pt;
+  margin: 1pt 0 1pt 15pt;
+}
+.MsoFootnoteText6 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -21pt;
+  margin: 1pt -3.75pt 1pt 21pt;
+}
+.MsoNormal {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0 0 0.0001pt;
+}
+.MsoNormal1 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 1pt;
+  margin: 0 0 0.0001pt;
+}
+.MsoNormal3 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: right;
+  text-indent: 28pt;
+  margin: 12pt 30pt 0.0001pt 0;
+}
+.MsoNormal4 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 0 0 0.0001pt;
+}
+.MsoNormal5 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 12pt 0 0.0001pt 1pt;
+}
+.MsoNormal6 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  margin: 12pt 0 0.0001pt 1pt;
+}
+.MsoNormal7 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 12pt 0 0.0001pt 1pt;
+}
+.MsoNormal8 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 12pt -5pt 0.0001pt 0;
+}
+.MsoNormal9 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 24pt;
+  text-align: justify;
+  margin: 16pt 0 0.0001pt 1pt;
+}
+.MsoNormal10 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-indent: -29pt;
+  margin: 2pt 0 0.0001pt 29pt;
+}
+.MsoNormal11 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -29pt;
+  margin: 6pt 0 0.0001pt 29pt;
+}
+.MsoNormal12 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  text-indent: -29pt;
+  margin: 6pt 0 0.0001pt 29pt;
+}
+.MsoNormal13 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-indent: -19pt;
+  margin: 1pt 0 0.0001pt 19pt;
+}
+.MsoNormal14 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -21pt;
+  margin: 1pt 0 1pt 21pt;
+}
+.MsoNormal15 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -21pt;
+  margin: 1pt -0.75pt 1pt 21pt;
+}
+.MsoNormal16 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -21pt;
+  margin: 1pt -8pt 1pt 21pt;
+}
+.MsoNormalTable {
+  border-collapse: collapse;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-left: 53pt;
+  margin-top: 0;
+  text-indent: 0;
+}
+.MsoNormalTable1 {
+  border-collapse: collapse;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-indent: 0;
+}
+.sunu {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 28pt;
+  margin: 2pt 28.9pt 2pt 29pt;
+}
+.sunu1 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: right;
+  text-indent: 28pt;
+  margin: 2pt 57pt 2pt 29pt;
+}
+.WordSection {
+  display: block;
+  page: WordSection1;
+}
+.pcalibre:visited {
+  color: purple;
+  text-decoration: underline;
+}
+.pcalibre1:link {
+  color: blue;
+  text-decoration: underline;
+}

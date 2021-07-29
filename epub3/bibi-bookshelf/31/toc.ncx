@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1"><head><meta content="epubmerge-uid-1396076858" name="dtb:uid"/><meta content="2" name="dtb:depth"/><meta content="0" name="dtb:totalPageCount"/><meta content="0" name="dtb:maxPageNumber"/></head><docTitle><text>Seyahatnâme 1. Kitap Anthology</text></docTitle><navMap><navPoint id="book000" playOrder="1"><navLabel><text>Seyahatnâme 1. Kitap</text></navLabel><content src="1/OEBPS/Text/titlepage.xhtml"/><navPoint id="a1navPoint-1" playOrder="2">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_001.htm"/>
+    </navPoint><navPoint id="a1navPoint-2" playOrder="3">
+      <navLabel>
+        <text>Bazı İşaretler</text>
+      </navLabel>
+      <content src="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_002.htm"/>
+    </navPoint><navPoint id="a1navPoint-3" playOrder="4">
+      <navLabel>
+        <text>Der-Fihris-i Müsevvedât-ı Mevcûdât</text>
+      </navLabel>
+      <content src="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_004.htm"/>
+    </navPoint><navPoint id="a1navPoint-4" playOrder="5">
+      <navLabel>
+        <text>Metin</text>
+      </navLabel>
+      <content src="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_005.htm"/>
+    </navPoint><navPoint id="a1navPoint-5" playOrder="6">
+      <navLabel>
+        <text>Dizin</text>
+      </navLabel>
+      <content src="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_020.htm"/>
+    </navPoint></navPoint><navPoint id="book001" playOrder="7"><navLabel><text>Seyahatnâme 2. Kitap</text></navLabel><content src="2/OEBPS/Text/titlepage.xhtml"/><navPoint id="a2u58e0cc31-c336-45b2-bd24-5fb0836d7ab4" playOrder="8">
+      <navLabel>
+        <text>Sunuş</text>
+      </navLabel>
+      <content src="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_001.htm"/>
+    </navPoint><navPoint id="a2u6c51e114-2508-4e95-8b54-0b80c75fbd25" playOrder="9">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_002.htm"/>
+    </navPoint><navPoint id="a2u6b53edae-c3f3-41a3-b027-259c8f379a5d" playOrder="10">
+      <navLabel>
+        <text>Bazı İşaretler</text>
+      </navLabel>
+      <content src="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_003.htm"/>
+    </navPoint><navPoint id="a2u9ca8b07c-ccd3-470a-8599-09a3b801e714" playOrder="11">
+      <navLabel>
+        <text>Hâzâ Seyâhatnâme Fihris‑i Cild‑i Sânî</text>
+      </navLabel>
+      <content src="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_005.htm"/>
+    </navPoint><navPoint id="a2u1a9e7801-7775-4267-b8e2-2e352008217f" playOrder="12">
+      <navLabel>
+        <text>Metin</text>
+      </navLabel>
+      <content src="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_006.htm"/>
+    </navPoint><navPoint id="a2u7ea43b29-cbc8-4123-b795-0b22ff0a5d3d" playOrder="13">
+      <navLabel>
+        <text>Dizin</text>
+      </navLabel>
+      <content src="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_013.htm"/>
+    </navPoint></navPoint><navPoint id="book002" playOrder="14"><navLabel><text>Seyahatnâme 3. Kitap</text></navLabel><content src="3/OEBPS/Text/titlepage.xhtml"/><navPoint id="a3u72b4aae8-5ead-42bb-ae18-2af2e1f51f25" playOrder="15">
+      <navLabel>
+        <text>Sunuş</text>
+      </navLabel>
+      <content src="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_001.htm"/>
+    </navPoint><navPoint id="a3ub2227b30-78f8-4d5e-814a-f56dcecdc9b5" playOrder="16">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_002.htm"/>
+    </navPoint><navPoint id="a3ud666ef52-13fb-47df-afeb-2c27eed29723" playOrder="17">
+      <navLabel>
+        <text>Bazı İşaretler</text>
+      </navLabel>
+      <content src="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_003.htm"/>
+    </navPoint><navPoint id="a3u8ceeabee-3506-407d-bba7-7b26a40e5fdb" playOrder="18">
+      <navLabel>
+        <text>Fihris-i Cild-i Sâlis</text>
+      </navLabel>
+      <content src="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_005.htm"/>
+    </navPoint><navPoint id="a3u2a210bd8-f341-4f64-aa90-9e6fae715929" playOrder="19">
+      <navLabel>
+        <text>Metin</text>
+      </navLabel>
+      <content src="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_006.htm"/>
+    </navPoint><navPoint id="a3ude85deb3-4648-4101-a079-98eb208c5035" playOrder="20">
+      <navLabel>
+        <text>Dizin</text>
+      </navLabel>
+      <content src="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_018.htm"/>
+    </navPoint></navPoint><navPoint id="book003" playOrder="21"><navLabel><text>Seyahatnâme 4. Kitap</text></navLabel><content src="4/OEBPS/Text/titlepage.xhtml"/><navPoint id="a4u1cab0be5-5f93-4620-9254-5592bb0858eb" playOrder="22">
+      <navLabel>
+        <text>Sunuş</text>
+      </navLabel>
+      <content src="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_001.htm"/>
+    </navPoint><navPoint id="a4u429129ca-6515-4979-b45e-68ce041429ad" playOrder="23">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_002.htm"/>
+    </navPoint><navPoint id="a4ubcd372d8-84ce-48eb-80c8-328d8b00ed3e" playOrder="24">
+      <navLabel>
+        <text>Bazı İşaretler</text>
+      </navLabel>
+      <content src="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_003.htm"/>
+    </navPoint><navPoint id="a4u256a53c8-d105-42bd-ad74-f0487eafa3d3" playOrder="25">
+      <navLabel>
+        <text>Fihris-i Cild-i Râbi’</text>
+      </navLabel>
+      <content src="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_005.htm"/>
+    </navPoint><navPoint id="a4u7e6b850f-2369-446b-9469-6f6dd0e21482" playOrder="26">
+      <navLabel>
+        <text>Metin</text>
+      </navLabel>
+      <content src="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_006.htm"/>
+    </navPoint><navPoint id="a4ud45b766d-ac15-462e-aeb0-ae96701611dd" playOrder="27">
+      <navLabel>
+        <text>Dizin</text>
+      </navLabel>
+      <content src="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_020.htm"/>
+    </navPoint></navPoint><navPoint id="book004" playOrder="28"><navLabel><text>Seyahatnâme 5. Kitap</text></navLabel><content src="5/OEBPS/Text/titlepage.xhtml"/><navPoint id="a5ucba3d2a7-7e33-40bf-9836-d9fcde4555bf" playOrder="29">
+      <navLabel>
+        <text>Sunuş</text>
+      </navLabel>
+      <content src="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_001.htm"/>
+    </navPoint><navPoint id="a5u17615160-fe1c-4ef5-a361-89474cf72760" playOrder="30">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_002.htm"/>
+    </navPoint><navPoint id="a5u1c9d7de2-1621-444b-88d7-36bf5dfe87f6" playOrder="31">
+      <navLabel>
+        <text>Bazı İşaretler</text>
+      </navLabel>
+      <content src="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_003.htm"/>
+    </navPoint><navPoint id="a5u45221633-cb56-463a-b613-f5b0fdc648f1" playOrder="32">
+      <navLabel>
+        <text>Metin</text>
+      </navLabel>
+      <content src="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_004.htm"/>
+    </navPoint><navPoint id="a5ud52a8043-3405-45a3-9337-086e046bd727" playOrder="33">
+      <navLabel>
+        <text>Dizin</text>
+      </navLabel>
+      <content src="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_017.htm"/>
+    </navPoint></navPoint><navPoint id="book005" playOrder="34"><navLabel><text>Seyahatnâme 6. Kitap</text></navLabel><content src="6/OEBPS/Text/titlepage.xhtml"/><navPoint id="a6u170cc202-35ba-4e25-bbdf-3453f8c55379" playOrder="35">
+      <navLabel>
+        <text>Sunuş</text>
+      </navLabel>
+      <content src="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_001.htm"/>
+    </navPoint><navPoint id="a6u4a1035dc-f587-4fc8-8a99-45202e4dfede" playOrder="36">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_002.htm"/>
+    </navPoint><navPoint id="a6ue320eb5e-bedb-46b8-a75c-bdc7dbb2e362" playOrder="37">
+      <navLabel>
+        <text>Bazı İşaretler</text>
+      </navLabel>
+      <content src="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_003.htm"/>
+    </navPoint><navPoint id="a6ub526d4e5-f915-40f1-ac26-5a637021b953" playOrder="38">
+      <navLabel>
+        <text>Metin</text>
+      </navLabel>
+      <content src="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_004.htm"/>
+    </navPoint><navPoint id="a6u9a262fe0-afbb-4812-8a31-c964ef991566" playOrder="39">
+      <navLabel>
+        <text>Dizin</text>
+      </navLabel>
+      <content src="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_019.htm"/>
+    </navPoint></navPoint><navPoint id="book006" playOrder="40"><navLabel><text>Seyahatnâme 7. Kitap</text></navLabel><content src="7/OEBPS/Text/titlepage.xhtml"/><navPoint id="a7u9470467d-0f66-43cf-a047-0b12fbf0a8b1" playOrder="41">
+      <navLabel>
+        <text>Sunuş</text>
+      </navLabel>
+      <content src="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_001.htm"/>
+    </navPoint><navPoint id="a7u194aaa0e-d413-4949-ba49-d2b019f4db07" playOrder="42">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_002.htm"/>
+    </navPoint><navPoint id="a7u55fad172-7bde-4a02-a7f2-f34e90371e2b" playOrder="43">
+      <navLabel>
+        <text>Bazı İşaretler</text>
+      </navLabel>
+      <content src="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_003.htm"/>
+    </navPoint><navPoint id="a7u71a73f93-eaf1-4615-b48a-4b3d5fb7abb8" playOrder="44">
+      <navLabel>
+        <text>Metin</text>
+      </navLabel>
+      <content src="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_004.htm"/>
+    </navPoint><navPoint id="a7u1a214b66-72c2-4ab1-91c7-6bd2ab2b15d9" playOrder="45">
+      <navLabel>
+        <text>Dizin</text>
+      </navLabel>
+      <content src="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_017.htm"/>
+    </navPoint></navPoint><navPoint id="book007" playOrder="46"><navLabel><text>Seyahatnâme 8. Kitap</text></navLabel><content src="8/OEBPS/Text/titlepage.xhtml"/><navPoint id="a8ud551980c-4ed1-4f87-898e-bf3fad2488fc" playOrder="47">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_001.htm"/>
+    </navPoint><navPoint id="a8u5fabfeff-9032-44ff-ba34-6ed8c6d2aa81" playOrder="48">
+      <navLabel>
+        <text>Bazı İşaretler</text>
+      </navLabel>
+      <content src="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_002.htm"/>
+    </navPoint><navPoint id="a8u3a66510e-8a07-45f5-b2c7-75cf873fa059" playOrder="49">
+      <navLabel>
+        <text>Metin</text>
+      </navLabel>
+      <content src="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_003.htm"/>
+    </navPoint><navPoint id="a8u04efe266-09f3-4141-92f4-c77479d220ba" playOrder="50">
+      <navLabel>
+        <text>Dizin</text>
+      </navLabel>
+      <content src="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_016.htm"/>
+    </navPoint></navPoint><navPoint id="book008" playOrder="51"><navLabel><text>Seyahatnâme 9. Kitap</text></navLabel><content src="9/OEBPS/Text/titlepage.xhtml"/><navPoint id="a9u59a9bbb9-2867-46be-95d4-58be6b5ad5cc" playOrder="52">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_001.htm"/>
+    </navPoint><navPoint id="a9ucc762231-f65f-46cf-9ab2-cb77d9cac41b" playOrder="53">
+      <navLabel>
+        <text>9. Cildin Yayına Hazırlanması</text>
+      </navLabel>
+      <content src="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_002.htm"/>
+    </navPoint><navPoint id="a9u84193b50-c002-40bb-a8b2-0f427a9d0656" playOrder="54">
+      <navLabel>
+        <text>Bazı İşaretler</text>
+      </navLabel>
+      <content src="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_003.htm"/>
+    </navPoint><navPoint id="a9u97072b40-f51d-4dec-9cea-28a52d1314df" playOrder="55">
+      <navLabel>
+        <text>Metin</text>
+      </navLabel>
+      <content src="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_004.htm"/>
+    </navPoint><navPoint id="a9u3ec169af-9a6e-401b-980b-85e8f0385be5" playOrder="56">
+      <navLabel>
+        <text>Dizin</text>
+      </navLabel>
+      <content src="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_019.htm"/>
+    </navPoint></navPoint><navPoint id="book009" playOrder="57"><navLabel><text>Seyahatnâme 10. Kitap</text></navLabel><content src="10/OEBPS/Text/titlepage.xhtml"/><navPoint class="chapter" id="a10u1aad7387-bd11-4a59-a34b-152edb8a18c9" playOrder="58">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_001.htm"/>
+    </navPoint><navPoint class="chapter" id="a10u7ad39106-c179-4cb9-9c87-38724225dfa6" playOrder="59">
+      <navLabel>
+        <text>10. Cildin Yayına Hazırlanması</text>
+      </navLabel>
+      <content src="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_002.htm"/>
+    </navPoint><navPoint class="chapter" id="a10u57731c71-55b3-4c28-b2b2-cd2fb3ab5fe2" playOrder="60">
+      <navLabel>
+        <text>Bazı İşaretler</text>
+      </navLabel>
+      <content src="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_003.htm"/>
+    </navPoint><navPoint class="chapter" id="a10u59a2654f-93a1-448d-a7e3-920dba6d340d" playOrder="61">
+      <navLabel>
+        <text>Metin</text>
+      </navLabel>
+      <content src="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_004.htm"/>
+    </navPoint></navPoint></navMap></ncx>

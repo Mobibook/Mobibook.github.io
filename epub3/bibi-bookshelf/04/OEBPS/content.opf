@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Geç Kapitalizm</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Mandel, Ernest">Ernest Mandel</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:ed685c11-14bd-4b2a-9931-58719541b514</dc:identifier>
+    <dc:publisher>Turkuvaz Kitap</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2007-12-31T22:00:00+00:00</dc:date>
+    <dc:description>&lt;p&gt;Geç Kapitalizm, Marx'ın Kapital'de geliştirdiği kapitalist üretim tarzının hareket yasalarının genel teorisini 20. yüzyıl kapitalizminin somut tarihine uygulayan ilk büyük Marksist sentezdir. Mandel, çözümlemesine kapitalist ekonomilerin nasıl incelenmesi gerektiğine dair Bauer, Grossman, Luxemburg ve Buharin'in yaklaşımlarının eleştirel bir değerlendirmesini de içeren bir tartışma ile başlıyor. Daha sonra yazar dünya pazarının yapısını ve artı-kârın çeşitli biçimlerini özetliyor. Yazar ayrıca Napoleon Savaşları'ndan bu yana kapitalist gelişmenin "uzun dalga"larının bir şemasını sunuyor.
+
+Mandel son uzun dalganın Avrupa'da faşizmin zaferi ile başladığını ileri sürüyor ve bu dalganın 1970'lere gelindiğinde neden geri çekilmek zorunda olduğunu anlatıyor. Yazar, geç kapitalizm teriminin kapitalizmin niteliğinde bir değişim ima etmediğini ve Lenin'in emperyalizm çözümlemesini değiştirmediğini vurguluyor. Kitap geç kapitalizmde devlet ve ideoloji üzerine bölümler de içeriyor. 1972-75'te yayınlamasından beri değerini yitirmeyen bu Marksist klasiği nihayet Türkçe okuyanlara sunmaktan gururluyuz.
+
+Ernest Mandel 1923 yılında Belçika'da doğdu, 1995 yılında öldü. 1945'ten itibaren Dördüncü Enternasyonal içinde önemli görevlerde bulundu.&lt;/p&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">73f79b7f-d7b7-4330-973c-54a03c596b66</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789944989640</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/gec10_split_000.html" id="html37" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_001.html" id="html36" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_002.html" id="html35" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_003.html" id="html34" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_004.html" id="html33" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_005.html" id="html32" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_006.html" id="html31" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_007.html" id="html30" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_008.html" id="html29" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_009.html" id="html28" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_010.html" id="html27" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_011.html" id="html26" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_012.html" id="html25" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_013.html" id="html24" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_014.html" id="html23" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_015.html" id="html22" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_016.html" id="html21" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_017.html" id="html20" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_018.html" id="html19" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_019.html" id="html18" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_020.html" id="html17" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_021.html" id="html16" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_022.html" id="html15" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_023.html" id="html14" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_024.html" id="html13" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_025.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_026.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_027.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_028.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_029.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_030.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_031.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_032.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_033.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_034.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_035.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/gec10_split_036.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="OEBPS/cover.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html37"/>
+    <itemref idref="html36"/>
+    <itemref idref="html35"/>
+    <itemref idref="html34"/>
+    <itemref idref="html33"/>
+    <itemref idref="html32"/>
+    <itemref idref="html31"/>
+    <itemref idref="html30"/>
+    <itemref idref="html29"/>
+    <itemref idref="html28"/>
+    <itemref idref="html27"/>
+    <itemref idref="html26"/>
+    <itemref idref="html25"/>
+    <itemref idref="html24"/>
+    <itemref idref="html23"/>
+    <itemref idref="html22"/>
+    <itemref idref="html21"/>
+    <itemref idref="html20"/>
+    <itemref idref="html19"/>
+    <itemref idref="html18"/>
+    <itemref idref="html17"/>
+    <itemref idref="html16"/>
+    <itemref idref="html15"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

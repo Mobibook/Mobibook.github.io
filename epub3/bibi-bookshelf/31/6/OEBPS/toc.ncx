@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="ed457db3-5979-4cb1-831c-ff86d6e7ea3a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.29.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Seyahatnâme 6. Kitap</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u170cc202-35ba-4e25-bbdf-3453f8c55379" playOrder="1">
+      <navLabel>
+        <text>Sunuş</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%206.%20Kitap_split_001.htm"/>
+    </navPoint>
+    <navPoint id="u4a1035dc-f587-4fc8-8a99-45202e4dfede" playOrder="2">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%206.%20Kitap_split_002.htm"/>
+    </navPoint>
+    <navPoint id="ue320eb5e-bedb-46b8-a75c-bdc7dbb2e362" playOrder="3">
+      <navLabel>
+        <text>Bazı İşaretler</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%206.%20Kitap_split_003.htm"/>
+    </navPoint>
+    <navPoint id="ub526d4e5-f915-40f1-ac26-5a637021b953" playOrder="4">
+      <navLabel>
+        <text>Metin</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%206.%20Kitap_split_004.htm"/>
+    </navPoint>
+    <navPoint id="u9a262fe0-afbb-4812-8a31-c964ef991566" playOrder="5">
+      <navLabel>
+        <text>Dizin</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%206.%20Kitap_split_019.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

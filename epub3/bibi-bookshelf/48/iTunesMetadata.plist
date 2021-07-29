@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Agatha Christie</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>521C593E561602BBD8757D4565BE6DCE</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>C5424541CA1E0C9087BFD2628BAD433E</string>
+		<key>publisher-unique-id</key>
+		<string>0d9f3476-1e84-4ad2-ae3a-39276c68c107</string>
+		<key>unique-id</key>
+		<integer>7092274414792183602</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Fare Kapanı</string>
+	<key>playlistName</key>
+	<string>Fare Kapanı</string>
+	<key>releaseDate</key>
+	<string>2011-10-16T10:01:53+00:00</string>
+	<key>sort-artist</key>
+	<string>Christie, Agatha</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

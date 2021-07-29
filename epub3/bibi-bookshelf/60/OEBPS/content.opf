@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Molnar, Ferenc">Ferenc Molnar</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:84af90e9-8cbe-4762-a0d5-70344f839463</dc:identifier>
+    <dc:date>2000-04-27T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+  <dc:title>Pal Sokağı Çocukları</dc:title>
+<meta name="calibre:title_sort" content="Pal Sokağı Çocukları"/>
+<dc:publisher>Cumhuriyet Gazetesi Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Çocuk edebiyatı</dc:subject>
+<dc:description>&lt;p&gt;Pal Sokağı Çocukları dünya çocuk edebiyatının başyapıtlarından biri. Macar yazarı Ferenc Molnar'ın çocuklar için yazdığı bu kitap, yıllardır dünya çocuklarının ellerinden düşmüyor. Büyük bir kentte yaşayan iki çocuk topluluğunun çatışması işleniyor bu kitapta. Bir yanda, Pal Sokağı'nda yaşayan yoksul ailelerin çocukları var, öte yanda da, Kızıl Gömlekliler diye anılan, daha seçkin ailelerin çocukları. Pal Sokağı Çocukları, odun deposu olarak kullanılan bir arsayı ele geçirmeye karar verirler. İşte her şey ondan sonra başlar. Bir yanda ele geçirilmesi planlanan, bir arsa, öte yandan düşman saldırısına karşı savunulacak bir yurt vardır. Bütün hazırlıklar, iki büyük ordunun savaş hazırlıkları gibidir. Akıl dolu, sevgi dolu bir roman. Yeniden yetmişe her yaşta insanın elinden bırakamayacağı bir kitap. Pal Sokağı Çocukları, kardeşliğin, dostluğun, dayanışmanın, dürüstlüğün, mertliğin, yurtseverliğin simgesi sayılabilir.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ferenc Molnar&quot;: &quot;&quot;}"/>
+<dc:language>en</dc:language>
+<dc:identifier opf:scheme="calibre">0ab38735-0008-4e3c-a917-1a7e8d9d594f</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755103440</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/HasanAY.xhtml" id="HasanAY.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sunus.xhtml" id="sunus.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/icindekiler.xhtml" id="icindekiler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.xhtml" id="giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="HasanAY.xhtml"/>
+    <itemref idref="sunus.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="icindekiler.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

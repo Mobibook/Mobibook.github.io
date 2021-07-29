@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:file-as="Bakırcı, Çağrı Mert" ns0:role="aut">Çağrı Mert Bakırcı</dc:creator>
+    <dc:identifier id="bookid" />
+    <dc:description>&lt;p&gt;Bu kitap, Türkiye'de popüler bilim sahasında, evrimin tüm mekanizmalarını bir arada ele alan ilk kitaptır. Dolayısıyla bugüne kadar okuduğunuz evrim kitaplarında aklınıza yatmayan bazı noktalar olduysa, bu kitap muhtemelen bu soru işaretlerini çözmenizi sağlayacaktır. Evrim Ağacı'nın kurucusu ve bilim konuşmacısı olan Çağrı Mert Bakırcı tarafından yazılan bu kitap, evrime yeni giriş yapacaklar ve bilgilerini genişletmek isteyenler için çok faydalı bir derleme olacaktır. Bilimin ağır dilini kırmak adına her bölüm başına eklenmiş ve bölüm içeriğini özetleyen kısa hikâyeler sayesinde kitabı bir solukta okuyacak ve her zaman yardımcı bir kaynak olarak kullanabileceksiniz&lt;/p&gt;</dc:description>
+    <dc:publisher>Evrensel Basım Yayın</dc:publisher>
+    <meta content="Adobe InDesign" name="generator" />
+    <meta content="Evrim Kuramı ve Mekanizmaları" name="calibre:title_sort" />
+    <meta content="{&quot;Çağrı Mert Bakırcı&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <meta content="0.7.4" name="Sigil version" />
+    <meta content="10.0" name="calibre:rating" />
+    <meta content="2014-03-29T18:40:14.913000+00:00" name="calibre:timestamp" />
+    <meta name="cover" content="_cover.jpg" />
+    <meta content="{}" name="calibre:user_categories" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf">2014-03-28T22:00:00+00:00</dc:date>
+    <dc:title>Evrim Kuramı ve Mekanizmaları</dc:title>
+    <dc:subject>Popüler Bilim</dc:subject>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (1.30.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">68aa7f8d-15c2-4ba8-854f-ceac6a0c5d29</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">2789785980087</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="GOODREADS">21397967</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-04-01</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml" />
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml" />
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml" />
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml" />
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml" />
+    <item href="Text/6.html" id="x6" media-type="application/xhtml+xml" />
+    <item href="Text/6-1.html" id="x6-1" media-type="application/xhtml+xml" />
+    <item href="Text/6-2.html" id="x6-2" media-type="application/xhtml+xml" />
+    <item href="Text/6-3.html" id="x6-3" media-type="application/xhtml+xml" />
+    <item href="Text/6-4.html" id="x6-4" media-type="application/xhtml+xml" />
+    <item href="Text/6-5.html" id="x6-5" media-type="application/xhtml+xml" />
+    <item href="Text/6-6.html" id="x6-6" media-type="application/xhtml+xml" />
+    <item href="Text/6-7.html" id="x6-7" media-type="application/xhtml+xml" />
+    <item href="Text/6-8.html" id="x6-8" media-type="application/xhtml+xml" />
+    <item href="Text/6-9.html" id="x6-9" media-type="application/xhtml+xml" />
+    <item href="Text/6-10.html" id="x6-10" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/template.css" id="css" media-type="text/css" />
+    <item href="Images/_cover.jpg" id="_cover.jpg" media-type="image/jpeg" />
+    <item href="Images/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/3_fmt.jpeg" id="x3_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/4_fmt.jpeg" id="x4_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/5_fmt.jpeg" id="x5_fmt.jpeg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="x1" />
+    <itemref idref="x2" />
+    <itemref idref="x3" />
+    <itemref idref="x4" />
+    <itemref idref="x5" />
+    <itemref idref="x6" />
+    <itemref idref="x6-1" />
+    <itemref idref="x6-2" />
+    <itemref idref="x6-3" />
+    <itemref idref="x6-4" />
+    <itemref idref="x6-5" />
+    <itemref idref="x6-6" />
+    <itemref idref="x6-7" />
+    <itemref idref="x6-8" />
+    <itemref idref="x6-9" />
+    <itemref idref="x6-10" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

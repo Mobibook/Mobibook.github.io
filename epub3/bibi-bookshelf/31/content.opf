@@ -1,0 +1,589 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="epubmerge-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Çelebi, Evliya">Evliya Çelebi</dc:creator>
+<dc:identifier id="epubmerge-id">epubmerge-uid-1396076858</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:rights>Copyrights as per source stories</dc:rights>
+    <dc:description>&lt;p&gt;1. Cilt: İstanbul ve civarı
+
+2. Cilt: Bursa ve civarı. Nisan 1640'ta yaptığı Amasya, Ünye, Batum, Trabzon, Samsun, Kafkasya, Girit seferi, 1645’te Erzurum, Azerbaycan ve Gürcistan.
+
+3. Cilt: Şam - Suriye, Filistin - Urmiye, Sivas, El-Cezire, Ermenistan, Rumeli, (Bulgaristan ve Dobruca)
+
+4. Cilt: Van, Tebriz, Bağdat, Basra Mardin seyahati.
+
+5. Cilt: Van ve Basra seyahatinin sonu, Oçakov seyahati, Rakoçzi’ye karşı sefer, Rusya seferi, Anadolu asilerine karşı hareket, Çanakkale yolu ile Bursa’ya avdet, Boğdan’a gidiş, Transilvanya seyahati, Bosna’ya gidiş, Dalmaçya seferi, Sofya’ya avdet.
+
+6. Cilt: Transilvanya seferi, Arnavutluk’a gidiş, İstanbul’a avdet. Macar seferi, Uyvar’ın muhasarası, müellifin 40.000 Tatarla, Avusturya, Almanya, Flemenk’e ve Baltık Denizi'ne kadar gitmesi. Uyvar’ın zaptı, Belgrad’a avdet. Hersek’e gönderilmesi, Ragusa seyahati, Karadağ seferi, Kanije seferi ve Kanizsa-Hırvat memleketi.
+
+7. Cilt: Avusturya, Kırım, Dağıstan, Deşt-i Kıpçak, Esterhan.
+
+8. Cilt: Kırım, Girit, Selanik, Rumeli.
+
+9. Cilt: Kütahya, Afyon, Manisa, İzmir, Sakız Adası, Kuşadası, Aydın, Amasya, Tire, Denizli, Muğla, Bodrum, Ege adaları, Isparta, Antalya, Alanya, Karaman, Silifke, Tarsus, Adana, Maraş, Antep, Kilis, Urfa, Rakka, Halep, Lazkiye, Şam, Beyrut, Sayda, Safed, Nablus, Kudüs, Medine, Mekke ve civar yerler.
+
+10. Cilt: Mısır ve Sudan.&lt;/p&gt;</dc:description>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:date>2006-03-04T22:00:00+00:00</dc:date>
+    <meta name="cover" content="coverimageid"/>
+    <meta name="calibre:title_sort" content="Seyahatname"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Evliya Çelebi&quot;: &quot;&quot;}"/>
+  <dc:title>Seyahatname</dc:title>
+<dc:subject>Gezi</dc:subject>
+<dc:subject>Osmanlı</dc:subject>
+<dc:subject>Tarih</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">cf327c58-aee0-445a-ade2-8a11cb222fb8</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750810589</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/titlepage.xhtml" id="a1titlepage" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_000.htm" id="a1html29" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_000.1.html" id="a1Evliya_Celebi_Seyahatnamesi_1._Kitap_split_000.1.html" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_001.htm" id="a1html28" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_002.htm" id="a1html27" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_003.htm" id="a1html26" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_004.htm" id="a1html25" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_005.htm" id="a1html24" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_006.htm" id="a1html23" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_007.htm" id="a1html22" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_008.htm" id="a1html21" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_009.htm" id="a1html20" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_010.htm" id="a1html19" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_011.htm" id="a1html18" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_012.htm" id="a1html17" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_013.htm" id="a1html16" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_014.htm" id="a1html15" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_015.htm" id="a1html14" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_016.htm" id="a1html13" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_017.htm" id="a1html12" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_018.htm" id="a1html11" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_019.htm" id="a1html10" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_020.htm" id="a1html9" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_021.htm" id="a1html8" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_022.htm" id="a1html7" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_023.htm" id="a1html6" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_024.htm" id="a1html5" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_025.htm" id="a1html4" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_026.htm" id="a1html3" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_027.htm" id="a1html2" media-type="application/xhtml+xml"/>
+    <item href="1/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_1._Kitap_split_028.htm" id="a1html1" media-type="application/xhtml+xml"/>
+    <item href="2/OEBPS/Text/titlepage.xhtml" id="a2titlepage" media-type="application/xhtml+xml"/>
+    <item href="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_000.htm" id="a2html16" media-type="application/xhtml+xml"/>
+    <item href="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_000.1.html" id="a2Evliya_Celebi_Seyahatnamesi_2._Kitap_split_000.1.html" media-type="application/xhtml+xml"/>
+    <item href="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_001.htm" id="a2html15" media-type="application/xhtml+xml"/>
+    <item href="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_002.htm" id="a2html14" media-type="application/xhtml+xml"/>
+    <item href="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_003.htm" id="a2html13" media-type="application/xhtml+xml"/>
+    <item href="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_004.htm" id="a2html12" media-type="application/xhtml+xml"/>
+    <item href="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_005.htm" id="a2html11" media-type="application/xhtml+xml"/>
+    <item href="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_006.htm" id="a2html10" media-type="application/xhtml+xml"/>
+    <item href="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_007.htm" id="a2html9" media-type="application/xhtml+xml"/>
+    <item href="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_008.htm" id="a2html8" media-type="application/xhtml+xml"/>
+    <item href="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_009.htm" id="a2html7" media-type="application/xhtml+xml"/>
+    <item href="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_010.htm" id="a2html6" media-type="application/xhtml+xml"/>
+    <item href="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_011.htm" id="a2html5" media-type="application/xhtml+xml"/>
+    <item href="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_012.htm" id="a2html4" media-type="application/xhtml+xml"/>
+    <item href="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_013.htm" id="a2html3" media-type="application/xhtml+xml"/>
+    <item href="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_014.htm" id="a2html2" media-type="application/xhtml+xml"/>
+    <item href="2/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_2._Kitap_split_015.htm" id="a2html1" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/titlepage.xhtml" id="a3titlepage" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_000.htm" id="a3html21" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_000.1.html" id="a3Evliya_Celebi_Seyahatnamesi_3._Kitap_split_000.1.html" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_001.htm" id="a3html20" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_002.htm" id="a3html19" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_003.htm" id="a3html18" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_004.htm" id="a3html17" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_005.htm" id="a3html16" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_006.htm" id="a3html15" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_007.htm" id="a3html14" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_008.htm" id="a3html13" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_009.htm" id="a3html12" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_010.htm" id="a3html11" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_011.htm" id="a3html10" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_012.htm" id="a3html9" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_013.htm" id="a3html8" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_014.htm" id="a3html7" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_015.htm" id="a3html6" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_016.htm" id="a3html5" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_017.htm" id="a3html4" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_018.htm" id="a3html3" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_019.htm" id="a3html2" media-type="application/xhtml+xml"/>
+    <item href="3/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_3._Kitap_split_020.htm" id="a3html1" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/titlepage.xhtml" id="a4titlepage" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_000.htm" id="a4html25" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_000.1.html" id="a4Evliya_Celebi_Seyahatnamesi_4._Kitap_split_000.1.html" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_001.htm" id="a4html24" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_002.htm" id="a4html23" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_003.htm" id="a4html22" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_004.htm" id="a4html21" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_005.htm" id="a4html20" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_006.htm" id="a4html19" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_007.htm" id="a4html18" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_008.htm" id="a4html17" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_009.htm" id="a4html16" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_010.htm" id="a4html15" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_011.htm" id="a4html14" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_012.htm" id="a4html13" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_013.htm" id="a4html12" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_014.htm" id="a4html11" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_015.htm" id="a4html10" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_016.htm" id="a4html9" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_017.htm" id="a4html8" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_018.htm" id="a4html7" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_019.htm" id="a4html6" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_020.htm" id="a4html5" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_021.htm" id="a4html4" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_022.htm" id="a4html3" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_023.htm" id="a4html2" media-type="application/xhtml+xml"/>
+    <item href="4/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_4._Kitap_split_024.htm" id="a4html1" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/titlepage.xhtml" id="a5titlepage" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_000.htm" id="a5html20" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_000.1.html" id="a5Evliya_Celebi_Seyahatnamesi_5._Kitap_split_000.1.html" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_001.htm" id="a5html19" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_002.htm" id="a5html18" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_003.htm" id="a5html17" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_004.htm" id="a5html16" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_005.htm" id="a5html15" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_006.htm" id="a5html14" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_007.htm" id="a5html13" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_008.htm" id="a5html12" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_009.htm" id="a5html11" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_010.htm" id="a5html10" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_011.htm" id="a5html9" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_012.htm" id="a5html8" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_013.htm" id="a5html7" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_014.htm" id="a5html6" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_015.htm" id="a5html5" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_016.htm" id="a5html4" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_017.htm" id="a5html3" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_018.htm" id="a5html2" media-type="application/xhtml+xml"/>
+    <item href="5/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_5._Kitap_split_019.htm" id="a5html1" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/titlepage.xhtml" id="a6titlepage" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_000.htm" id="a6html22" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_000.1.html" id="a6Evliya_Celebi_Seyahatnamesi_6._Kitap_split_000.1.html" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_001.htm" id="a6html21" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_002.htm" id="a6html20" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_003.htm" id="a6html19" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_004.htm" id="a6html18" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_005.htm" id="a6html17" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_006.htm" id="a6html16" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_007.htm" id="a6html15" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_008.htm" id="a6html14" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_009.htm" id="a6html13" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_010.htm" id="a6html12" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_011.htm" id="a6html11" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_012.htm" id="a6html10" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_013.htm" id="a6html9" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_014.htm" id="a6html8" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_015.htm" id="a6html7" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_016.htm" id="a6html6" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_017.htm" id="a6html5" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_018.htm" id="a6html4" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_019.htm" id="a6html3" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_020.htm" id="a6html2" media-type="application/xhtml+xml"/>
+    <item href="6/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_6._Kitap_split_021.htm" id="a6html1" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/titlepage.xhtml" id="a7titlepage" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_000.htm" id="a7html20" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_000.1.html" id="a7Evliya_Celebi_Seyahatnamesi_7._Kitap_split_000.1.html" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_001.htm" id="a7html19" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_002.htm" id="a7html18" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_003.htm" id="a7html17" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_004.htm" id="a7html16" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_005.htm" id="a7html15" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_006.htm" id="a7html14" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_007.htm" id="a7html13" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_008.htm" id="a7html12" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_009.htm" id="a7html11" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_010.htm" id="a7html10" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_011.htm" id="a7html9" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_012.htm" id="a7html8" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_013.htm" id="a7html7" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_014.htm" id="a7html6" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_015.htm" id="a7html5" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_016.htm" id="a7html4" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_017.htm" id="a7html3" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_018.htm" id="a7html2" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_7._Kitap_split_019.htm" id="a7html1" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/titlepage.xhtml" id="a8titlepage" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_000.htm" id="a8html21" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_000.1.html" id="a8Evliya_Celebi_Seyahatnamesi_8._Kitap_split_000.1.html" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_001.htm" id="a8html20" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_002.htm" id="a8html19" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_003.htm" id="a8html18" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_004.htm" id="a8html17" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_005.htm" id="a8html16" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_006.htm" id="a8html15" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_007.htm" id="a8html14" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_008.htm" id="a8html13" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_009.htm" id="a8html12" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_010.htm" id="a8html11" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_011.htm" id="a8html10" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_012.htm" id="a8html9" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_013.htm" id="a8html8" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_014.htm" id="a8html7" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_015.htm" id="a8html6" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_016.htm" id="a8html5" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_017.htm" id="a8html4" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_018.htm" id="a8html3" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_019.htm" id="a8html2" media-type="application/xhtml+xml"/>
+    <item href="8/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_8._Kitap_split_020.htm" id="a8html1" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/titlepage.xhtml" id="a9titlepage" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_000.htm" id="a9html24" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_000.1.html" id="a9Evliya_Celebi_Seyahatnamesi_9._Kitap_split_000.1.html" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_001.htm" id="a9html23" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_002.htm" id="a9html22" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_003.htm" id="a9html21" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_004.htm" id="a9html20" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_005.htm" id="a9html19" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_006.htm" id="a9html18" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_007.htm" id="a9html17" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_008.htm" id="a9html16" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_009.htm" id="a9html15" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_010.htm" id="a9html14" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_011.htm" id="a9html13" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_012.htm" id="a9html12" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_013.htm" id="a9html11" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_014.htm" id="a9html10" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_015.htm" id="a9html9" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_016.htm" id="a9html8" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_017.htm" id="a9html7" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_018.htm" id="a9html6" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_019.htm" id="a9html5" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_020.htm" id="a9html4" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_021.htm" id="a9html3" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_022.htm" id="a9html2" media-type="application/xhtml+xml"/>
+    <item href="9/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_9._Kitap_split_023.htm" id="a9html1" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/titlepage.xhtml" id="a10titlepage" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_000.htm" id="a10html22" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_000.1.html" id="a10Evliya_Celebi_Seyahatnamesi_10._Kitap_split_000.1.html" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_001.htm" id="a10html21" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_002.htm" id="a10html20" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_003.htm" id="a10html19" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_004.htm" id="a10html18" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_005.htm" id="a10html17" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_006.htm" id="a10html16" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_007.htm" id="a10html15" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_008.htm" id="a10html14" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_009.htm" id="a10html13" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_010.htm" id="a10html12" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_011.htm" id="a10html11" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_012.htm" id="a10html10" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_013.htm" id="a10html9" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_014.htm" id="a10html8" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_015.htm" id="a10html7" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_016.htm" id="a10html6" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_017.htm" id="a10html5" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_018.htm" id="a10html4" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_019.htm" id="a10html3" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_020.htm" id="a10html2" media-type="application/xhtml+xml"/>
+    <item href="10/OEBPS/Text/Evliya_Celebi_Seyahatnamesi_10._Kitap_split_021.htm" id="a10html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="1/OEBPS/Styles/page_styles.css" id="a1page_css" media-type="text/css"/>
+    <item href="1/OEBPS/Styles/stylesheet.css" id="a1css" media-type="text/css"/>
+    <item href="10/OEBPS/Styles/page_styles.css" id="a10page_css" media-type="text/css"/>
+    <item href="10/OEBPS/Styles/stylesheet.css" id="a10css" media-type="text/css"/>
+    <item href="2/OEBPS/Styles/page_styles.css" id="a2page_css" media-type="text/css"/>
+    <item href="2/OEBPS/Styles/stylesheet.css" id="a2css" media-type="text/css"/>
+    <item href="3/OEBPS/Styles/page_styles.css" id="a3page_css" media-type="text/css"/>
+    <item href="3/OEBPS/Styles/stylesheet.css" id="a3css" media-type="text/css"/>
+    <item href="4/OEBPS/Styles/page_styles.css" id="a4page_css" media-type="text/css"/>
+    <item href="4/OEBPS/Styles/stylesheet.css" id="a4css" media-type="text/css"/>
+    <item href="5/OEBPS/Styles/page_styles.css" id="a5page_css" media-type="text/css"/>
+    <item href="5/OEBPS/Styles/stylesheet.css" id="a5css" media-type="text/css"/>
+    <item href="6/OEBPS/Styles/page_styles.css" id="a6page_css" media-type="text/css"/>
+    <item href="6/OEBPS/Styles/stylesheet.css" id="a6css" media-type="text/css"/>
+    <item href="7/OEBPS/Styles/page_styles.css" id="a7page_css" media-type="text/css"/>
+    <item href="7/OEBPS/Styles/stylesheet.css" id="a7css" media-type="text/css"/>
+    <item href="8/OEBPS/Styles/page_styles.css" id="a8page_css" media-type="text/css"/>
+    <item href="8/OEBPS/Styles/stylesheet.css" id="a8css" media-type="text/css"/>
+    <item href="9/OEBPS/Styles/page_styles.css" id="a9page_css" media-type="text/css"/>
+    <item href="9/OEBPS/Styles/stylesheet.css" id="a9css" media-type="text/css"/>
+    <item href="1/OEBPS/Images/cover.jpeg" id="a1cover" media-type="image/jpeg"/>
+    <item href="10/OEBPS/Images/cover.jpeg" id="a10cover" media-type="image/jpeg"/>
+    <item href="2/OEBPS/Images/cover.jpeg" id="a2cover" media-type="image/jpeg"/>
+    <item href="3/OEBPS/Images/cover.jpeg" id="a3cover" media-type="image/jpeg"/>
+    <item href="4/OEBPS/Images/cover.jpeg" id="a4cover" media-type="image/jpeg"/>
+    <item href="5/OEBPS/Images/cover.jpeg" id="a5cover" media-type="image/jpeg"/>
+    <item href="6/OEBPS/Images/cover.jpeg" id="a6cover" media-type="image/jpeg"/>
+    <item href="7/OEBPS/Images/cover.jpeg" id="a7cover" media-type="image/jpeg"/>
+    <item href="8/OEBPS/Images/cover.jpeg" id="a8cover" media-type="image/jpeg"/>
+    <item href="8/OEBPS/Images/image001.gif" id="a8added" media-type="image/gif"/>
+    <item href="8/OEBPS/Images/image002.gif" id="a8added1" media-type="image/gif"/>
+    <item href="8/OEBPS/Images/image071.jpg" id="a8added2" media-type="image/jpeg"/>
+    <item href="9/OEBPS/Images/cover.jpeg" id="a9cover" media-type="image/jpeg"/>
+    <item href="9/OEBPS/Images/image001.gif" id="a9added" media-type="image/gif"/>
+    <item href="9/OEBPS/Images/image002.gif" id="a9added1" media-type="image/gif"/>
+    <item href="9/OEBPS/Images/image200.gif" id="a9added2" media-type="image/gif"/>
+    <item href="cover.jpg" id="coverimageid" media-type="image/jpeg"/>
+    <item href="1/OEBPS/content.opf" id="a1rootfile" media-type="application/oebps-package+xml"/>
+    <item href="1/OEBPS/toc.ncx" id="a1ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="10/OEBPS/content.opf" id="a10rootfile" media-type="application/oebps-package+xml"/>
+    <item href="10/OEBPS/toc.ncx" id="a10ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="2/OEBPS/content.opf" id="a2rootfile" media-type="application/oebps-package+xml"/>
+    <item href="2/OEBPS/toc.ncx" id="a2ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="3/OEBPS/content.opf" id="a3rootfile" media-type="application/oebps-package+xml"/>
+    <item href="3/OEBPS/toc.ncx" id="a3ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="4/OEBPS/content.opf" id="a4rootfile" media-type="application/oebps-package+xml"/>
+    <item href="4/OEBPS/toc.ncx" id="a4ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="5/OEBPS/content.opf" id="a5rootfile" media-type="application/oebps-package+xml"/>
+    <item href="5/OEBPS/toc.ncx" id="a5ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="6/OEBPS/content.opf" id="a6rootfile" media-type="application/oebps-package+xml"/>
+    <item href="6/OEBPS/toc.ncx" id="a6ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="7/OEBPS/content.opf" id="a7rootfile" media-type="application/oebps-package+xml"/>
+    <item href="7/OEBPS/toc.ncx" id="a7ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="8/OEBPS/content.opf" id="a8rootfile" media-type="application/oebps-package+xml"/>
+    <item href="8/OEBPS/toc.ncx" id="a8ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="9/OEBPS/content.opf" id="a9rootfile" media-type="application/oebps-package+xml"/>
+    <item href="9/OEBPS/toc.ncx" id="a9ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="yes"/>
+    <itemref idref="a1titlepage" linear="yes"/>
+    <itemref idref="a1html29" linear="yes"/>
+    <itemref idref="a1Evliya_Celebi_Seyahatnamesi_1._Kitap_split_000.1.html" linear="yes"/>
+    <itemref idref="a1html28" linear="yes"/>
+    <itemref idref="a1html27" linear="yes"/>
+    <itemref idref="a1html26" linear="yes"/>
+    <itemref idref="a1html25" linear="yes"/>
+    <itemref idref="a1html24" linear="yes"/>
+    <itemref idref="a1html23" linear="yes"/>
+    <itemref idref="a1html22" linear="yes"/>
+    <itemref idref="a1html21" linear="yes"/>
+    <itemref idref="a1html20" linear="yes"/>
+    <itemref idref="a1html19" linear="yes"/>
+    <itemref idref="a1html18" linear="yes"/>
+    <itemref idref="a1html17" linear="yes"/>
+    <itemref idref="a1html16" linear="yes"/>
+    <itemref idref="a1html15" linear="yes"/>
+    <itemref idref="a1html14" linear="yes"/>
+    <itemref idref="a1html13" linear="yes"/>
+    <itemref idref="a1html12" linear="yes"/>
+    <itemref idref="a1html11" linear="yes"/>
+    <itemref idref="a1html10" linear="yes"/>
+    <itemref idref="a1html9" linear="yes"/>
+    <itemref idref="a1html8" linear="yes"/>
+    <itemref idref="a1html7" linear="yes"/>
+    <itemref idref="a1html6" linear="yes"/>
+    <itemref idref="a1html5" linear="yes"/>
+    <itemref idref="a1html4" linear="yes"/>
+    <itemref idref="a1html3" linear="yes"/>
+    <itemref idref="a1html2" linear="yes"/>
+    <itemref idref="a1html1" linear="yes"/>
+    <itemref idref="a2titlepage" linear="yes"/>
+    <itemref idref="a2html16" linear="yes"/>
+    <itemref idref="a2Evliya_Celebi_Seyahatnamesi_2._Kitap_split_000.1.html" linear="yes"/>
+    <itemref idref="a2html15" linear="yes"/>
+    <itemref idref="a2html14" linear="yes"/>
+    <itemref idref="a2html13" linear="yes"/>
+    <itemref idref="a2html12" linear="yes"/>
+    <itemref idref="a2html11" linear="yes"/>
+    <itemref idref="a2html10" linear="yes"/>
+    <itemref idref="a2html9" linear="yes"/>
+    <itemref idref="a2html8" linear="yes"/>
+    <itemref idref="a2html7" linear="yes"/>
+    <itemref idref="a2html6" linear="yes"/>
+    <itemref idref="a2html5" linear="yes"/>
+    <itemref idref="a2html4" linear="yes"/>
+    <itemref idref="a2html3" linear="yes"/>
+    <itemref idref="a2html2" linear="yes"/>
+    <itemref idref="a2html1" linear="yes"/>
+    <itemref idref="a3titlepage" linear="yes"/>
+    <itemref idref="a3html21" linear="yes"/>
+    <itemref idref="a3Evliya_Celebi_Seyahatnamesi_3._Kitap_split_000.1.html" linear="yes"/>
+    <itemref idref="a3html20" linear="yes"/>
+    <itemref idref="a3html19" linear="yes"/>
+    <itemref idref="a3html18" linear="yes"/>
+    <itemref idref="a3html17" linear="yes"/>
+    <itemref idref="a3html16" linear="yes"/>
+    <itemref idref="a3html15" linear="yes"/>
+    <itemref idref="a3html14" linear="yes"/>
+    <itemref idref="a3html13" linear="yes"/>
+    <itemref idref="a3html12" linear="yes"/>
+    <itemref idref="a3html11" linear="yes"/>
+    <itemref idref="a3html10" linear="yes"/>
+    <itemref idref="a3html9" linear="yes"/>
+    <itemref idref="a3html8" linear="yes"/>
+    <itemref idref="a3html7" linear="yes"/>
+    <itemref idref="a3html6" linear="yes"/>
+    <itemref idref="a3html5" linear="yes"/>
+    <itemref idref="a3html4" linear="yes"/>
+    <itemref idref="a3html3" linear="yes"/>
+    <itemref idref="a3html2" linear="yes"/>
+    <itemref idref="a3html1" linear="yes"/>
+    <itemref idref="a4titlepage" linear="yes"/>
+    <itemref idref="a4html25" linear="yes"/>
+    <itemref idref="a4Evliya_Celebi_Seyahatnamesi_4._Kitap_split_000.1.html" linear="yes"/>
+    <itemref idref="a4html24" linear="yes"/>
+    <itemref idref="a4html23" linear="yes"/>
+    <itemref idref="a4html22" linear="yes"/>
+    <itemref idref="a4html21" linear="yes"/>
+    <itemref idref="a4html20" linear="yes"/>
+    <itemref idref="a4html19" linear="yes"/>
+    <itemref idref="a4html18" linear="yes"/>
+    <itemref idref="a4html17" linear="yes"/>
+    <itemref idref="a4html16" linear="yes"/>
+    <itemref idref="a4html15" linear="yes"/>
+    <itemref idref="a4html14" linear="yes"/>
+    <itemref idref="a4html13" linear="yes"/>
+    <itemref idref="a4html12" linear="yes"/>
+    <itemref idref="a4html11" linear="yes"/>
+    <itemref idref="a4html10" linear="yes"/>
+    <itemref idref="a4html9" linear="yes"/>
+    <itemref idref="a4html8" linear="yes"/>
+    <itemref idref="a4html7" linear="yes"/>
+    <itemref idref="a4html6" linear="yes"/>
+    <itemref idref="a4html5" linear="yes"/>
+    <itemref idref="a4html4" linear="yes"/>
+    <itemref idref="a4html3" linear="yes"/>
+    <itemref idref="a4html2" linear="yes"/>
+    <itemref idref="a4html1" linear="yes"/>
+    <itemref idref="a5titlepage" linear="yes"/>
+    <itemref idref="a5html20" linear="yes"/>
+    <itemref idref="a5Evliya_Celebi_Seyahatnamesi_5._Kitap_split_000.1.html" linear="yes"/>
+    <itemref idref="a5html19" linear="yes"/>
+    <itemref idref="a5html18" linear="yes"/>
+    <itemref idref="a5html17" linear="yes"/>
+    <itemref idref="a5html16" linear="yes"/>
+    <itemref idref="a5html15" linear="yes"/>
+    <itemref idref="a5html14" linear="yes"/>
+    <itemref idref="a5html13" linear="yes"/>
+    <itemref idref="a5html12" linear="yes"/>
+    <itemref idref="a5html11" linear="yes"/>
+    <itemref idref="a5html10" linear="yes"/>
+    <itemref idref="a5html9" linear="yes"/>
+    <itemref idref="a5html8" linear="yes"/>
+    <itemref idref="a5html7" linear="yes"/>
+    <itemref idref="a5html6" linear="yes"/>
+    <itemref idref="a5html5" linear="yes"/>
+    <itemref idref="a5html4" linear="yes"/>
+    <itemref idref="a5html3" linear="yes"/>
+    <itemref idref="a5html2" linear="yes"/>
+    <itemref idref="a5html1" linear="yes"/>
+    <itemref idref="a6titlepage" linear="yes"/>
+    <itemref idref="a6html22" linear="yes"/>
+    <itemref idref="a6Evliya_Celebi_Seyahatnamesi_6._Kitap_split_000.1.html" linear="yes"/>
+    <itemref idref="a6html21" linear="yes"/>
+    <itemref idref="a6html20" linear="yes"/>
+    <itemref idref="a6html19" linear="yes"/>
+    <itemref idref="a6html18" linear="yes"/>
+    <itemref idref="a6html17" linear="yes"/>
+    <itemref idref="a6html16" linear="yes"/>
+    <itemref idref="a6html15" linear="yes"/>
+    <itemref idref="a6html14" linear="yes"/>
+    <itemref idref="a6html13" linear="yes"/>
+    <itemref idref="a6html12" linear="yes"/>
+    <itemref idref="a6html11" linear="yes"/>
+    <itemref idref="a6html10" linear="yes"/>
+    <itemref idref="a6html9" linear="yes"/>
+    <itemref idref="a6html8" linear="yes"/>
+    <itemref idref="a6html7" linear="yes"/>
+    <itemref idref="a6html6" linear="yes"/>
+    <itemref idref="a6html5" linear="yes"/>
+    <itemref idref="a6html4" linear="yes"/>
+    <itemref idref="a6html3" linear="yes"/>
+    <itemref idref="a6html2" linear="yes"/>
+    <itemref idref="a6html1" linear="yes"/>
+    <itemref idref="a7titlepage" linear="yes"/>
+    <itemref idref="a7html20" linear="yes"/>
+    <itemref idref="a7Evliya_Celebi_Seyahatnamesi_7._Kitap_split_000.1.html" linear="yes"/>
+    <itemref idref="a7html19" linear="yes"/>
+    <itemref idref="a7html18" linear="yes"/>
+    <itemref idref="a7html17" linear="yes"/>
+    <itemref idref="a7html16" linear="yes"/>
+    <itemref idref="a7html15" linear="yes"/>
+    <itemref idref="a7html14" linear="yes"/>
+    <itemref idref="a7html13" linear="yes"/>
+    <itemref idref="a7html12" linear="yes"/>
+    <itemref idref="a7html11" linear="yes"/>
+    <itemref idref="a7html10" linear="yes"/>
+    <itemref idref="a7html9" linear="yes"/>
+    <itemref idref="a7html8" linear="yes"/>
+    <itemref idref="a7html7" linear="yes"/>
+    <itemref idref="a7html6" linear="yes"/>
+    <itemref idref="a7html5" linear="yes"/>
+    <itemref idref="a7html4" linear="yes"/>
+    <itemref idref="a7html3" linear="yes"/>
+    <itemref idref="a7html2" linear="yes"/>
+    <itemref idref="a7html1" linear="yes"/>
+    <itemref idref="a8titlepage" linear="yes"/>
+    <itemref idref="a8html21" linear="yes"/>
+    <itemref idref="a8Evliya_Celebi_Seyahatnamesi_8._Kitap_split_000.1.html" linear="yes"/>
+    <itemref idref="a8html20" linear="yes"/>
+    <itemref idref="a8html19" linear="yes"/>
+    <itemref idref="a8html18" linear="yes"/>
+    <itemref idref="a8html17" linear="yes"/>
+    <itemref idref="a8html16" linear="yes"/>
+    <itemref idref="a8html15" linear="yes"/>
+    <itemref idref="a8html14" linear="yes"/>
+    <itemref idref="a8html13" linear="yes"/>
+    <itemref idref="a8html12" linear="yes"/>
+    <itemref idref="a8html11" linear="yes"/>
+    <itemref idref="a8html10" linear="yes"/>
+    <itemref idref="a8html9" linear="yes"/>
+    <itemref idref="a8html8" linear="yes"/>
+    <itemref idref="a8html7" linear="yes"/>
+    <itemref idref="a8html6" linear="yes"/>
+    <itemref idref="a8html5" linear="yes"/>
+    <itemref idref="a8html4" linear="yes"/>
+    <itemref idref="a8html3" linear="yes"/>
+    <itemref idref="a8html2" linear="yes"/>
+    <itemref idref="a8html1" linear="yes"/>
+    <itemref idref="a9titlepage" linear="yes"/>
+    <itemref idref="a9html24" linear="yes"/>
+    <itemref idref="a9Evliya_Celebi_Seyahatnamesi_9._Kitap_split_000.1.html" linear="yes"/>
+    <itemref idref="a9html23" linear="yes"/>
+    <itemref idref="a9html22" linear="yes"/>
+    <itemref idref="a9html21" linear="yes"/>
+    <itemref idref="a9html20" linear="yes"/>
+    <itemref idref="a9html19" linear="yes"/>
+    <itemref idref="a9html18" linear="yes"/>
+    <itemref idref="a9html17" linear="yes"/>
+    <itemref idref="a9html16" linear="yes"/>
+    <itemref idref="a9html15" linear="yes"/>
+    <itemref idref="a9html14" linear="yes"/>
+    <itemref idref="a9html13" linear="yes"/>
+    <itemref idref="a9html12" linear="yes"/>
+    <itemref idref="a9html11" linear="yes"/>
+    <itemref idref="a9html10" linear="yes"/>
+    <itemref idref="a9html9" linear="yes"/>
+    <itemref idref="a9html8" linear="yes"/>
+    <itemref idref="a9html7" linear="yes"/>
+    <itemref idref="a9html6" linear="yes"/>
+    <itemref idref="a9html5" linear="yes"/>
+    <itemref idref="a9html4" linear="yes"/>
+    <itemref idref="a9html3" linear="yes"/>
+    <itemref idref="a9html2" linear="yes"/>
+    <itemref idref="a9html1" linear="yes"/>
+    <itemref idref="a10titlepage" linear="yes"/>
+    <itemref idref="a10html22" linear="yes"/>
+    <itemref idref="a10Evliya_Celebi_Seyahatnamesi_10._Kitap_split_000.1.html" linear="yes"/>
+    <itemref idref="a10html21" linear="yes"/>
+    <itemref idref="a10html20" linear="yes"/>
+    <itemref idref="a10html19" linear="yes"/>
+    <itemref idref="a10html18" linear="yes"/>
+    <itemref idref="a10html17" linear="yes"/>
+    <itemref idref="a10html16" linear="yes"/>
+    <itemref idref="a10html15" linear="yes"/>
+    <itemref idref="a10html14" linear="yes"/>
+    <itemref idref="a10html13" linear="yes"/>
+    <itemref idref="a10html12" linear="yes"/>
+    <itemref idref="a10html11" linear="yes"/>
+    <itemref idref="a10html10" linear="yes"/>
+    <itemref idref="a10html9" linear="yes"/>
+    <itemref idref="a10html8" linear="yes"/>
+    <itemref idref="a10html7" linear="yes"/>
+    <itemref idref="a10html6" linear="yes"/>
+    <itemref idref="a10html5" linear="yes"/>
+    <itemref idref="a10html4" linear="yes"/>
+    <itemref idref="a10html3" linear="yes"/>
+    <itemref idref="a10html2" linear="yes"/>
+    <itemref idref="a10html1" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="06d2c01b-5007-487c-ab99-471ea263abbe" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.29.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Seyahatnâme 10. Kitap</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="u1aad7387-bd11-4a59-a34b-152edb8a18c9" playOrder="1">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%2010.%20Kitap_split_001.htm"/>
+    </navPoint>
+    <navPoint class="chapter" id="u7ad39106-c179-4cb9-9c87-38724225dfa6" playOrder="2">
+      <navLabel>
+        <text>10. Cildin Yayına Hazırlanması</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%2010.%20Kitap_split_002.htm"/>
+    </navPoint>
+    <navPoint class="chapter" id="u57731c71-55b3-4c28-b2b2-cd2fb3ab5fe2" playOrder="3">
+      <navLabel>
+        <text>Bazı İşaretler</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%2010.%20Kitap_split_003.htm"/>
+    </navPoint>
+    <navPoint class="chapter" id="u59a2654f-93a1-448d-a7e3-920dba6d340d" playOrder="4">
+      <navLabel>
+        <text>Metin</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%2010.%20Kitap_split_004.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

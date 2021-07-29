@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="91269745-03f4-439c-b103-4f2376c2c8bb" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.29.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Seyahatnâme 4. Kitap</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u1cab0be5-5f93-4620-9254-5592bb0858eb" playOrder="1">
+      <navLabel>
+        <text>Sunuş</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%204.%20Kitap_split_001.htm"/>
+    </navPoint>
+    <navPoint id="u429129ca-6515-4979-b45e-68ce041429ad" playOrder="2">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%204.%20Kitap_split_002.htm"/>
+    </navPoint>
+    <navPoint id="ubcd372d8-84ce-48eb-80c8-328d8b00ed3e" playOrder="3">
+      <navLabel>
+        <text>Bazı İşaretler</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%204.%20Kitap_split_003.htm"/>
+    </navPoint>
+    <navPoint id="u256a53c8-d105-42bd-ad74-f0487eafa3d3" playOrder="4">
+      <navLabel>
+        <text>Fihris-i Cild-i Râbi’</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%204.%20Kitap_split_005.htm"/>
+    </navPoint>
+    <navPoint id="u7e6b850f-2369-446b-9469-6f6dd0e21482" playOrder="5">
+      <navLabel>
+        <text>Metin</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%204.%20Kitap_split_006.htm"/>
+    </navPoint>
+    <navPoint id="ud45b766d-ac15-462e-aeb0-ae96701611dd" playOrder="6">
+      <navLabel>
+        <text>Dizin</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%204.%20Kitap_split_020.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

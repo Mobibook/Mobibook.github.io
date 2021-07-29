@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="cd718682-1aa8-4d29-98d2-342be3d55cd1" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.29.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Seyahatnâme 9. Kitap</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u59a9bbb9-2867-46be-95d4-58be6b5ad5cc" playOrder="1">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%209.%20Kitap_split_001.htm"/>
+    </navPoint>
+    <navPoint id="ucc762231-f65f-46cf-9ab2-cb77d9cac41b" playOrder="2">
+      <navLabel>
+        <text>9. Cildin Yayına Hazırlanması</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%209.%20Kitap_split_002.htm"/>
+    </navPoint>
+    <navPoint id="u84193b50-c002-40bb-a8b2-0f427a9d0656" playOrder="3">
+      <navLabel>
+        <text>Bazı İşaretler</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%209.%20Kitap_split_003.htm"/>
+    </navPoint>
+    <navPoint id="u97072b40-f51d-4dec-9cea-28a52d1314df" playOrder="4">
+      <navLabel>
+        <text>Metin</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%209.%20Kitap_split_004.htm"/>
+    </navPoint>
+    <navPoint id="u3ec169af-9a6e-401b-980b-85e8f0385be5" playOrder="5">
+      <navLabel>
+        <text>Dizin</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%209.%20Kitap_split_019.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

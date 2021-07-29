@@ -1,0 +1,2705 @@
+.balkorta {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 14pt 56pt 4pt 55pt;
+}
+.balkorta1 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 12pt 27pt 4pt 26pt;
+}
+.balkorta2 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 0 0 0.0001pt 1pt;
+}
+.balkorta3 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 0 27pt 4pt 26pt;
+}
+.balkorta4 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 27pt 4pt 26pt;
+}
+.balkorta5 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 0 27pt 0.0001pt 26pt;
+}
+.balkorta6 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 16pt 4pt 18pt;
+}
+.balkorta7 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 27pt 4pt 28pt;
+}
+.balkorta8 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 12pt 27pt 0.0001pt 26pt;
+}
+.balkorta9 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 12pt 15pt 2pt 14pt;
+}
+.balkorta10 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 0 4pt 1pt;
+}
+.balkorta11 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 27pt 0.0001pt 26pt;
+}
+.balkorta12 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 8pt 27pt 4pt 26pt;
+}
+.balkorta13 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 17pt 4pt 12pt;
+}
+.balkorta14 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 12pt 0 4pt;
+}
+.balkorta15 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  text-indent: -1pt;
+  margin: 16pt 27pt 4pt 14pt;
+}
+.balkorta16 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 12.25pt 4pt 17pt;
+}
+.balkorta17 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 18pt 27pt 4pt 26pt;
+}
+.balkorta18 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 20pt 0 4pt 1pt;
+}
+.balkorta19 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 0 0 6pt 1pt;
+}
+.balkorta20 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 4pt 27pt 0.0001pt 26pt;
+}
+.balkorta21 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 12pt 27pt 2pt 26pt;
+}
+.balkorta22 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 4pt 27pt 6pt 26pt;
+}
+.balkorta23 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 8pt 13pt 2pt 11pt;
+}
+.balkorta24 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 6pt 15pt 0.0001pt 17pt;
+}
+.balkorta25 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 8pt 27pt 2pt 26pt;
+}
+.balkorta26 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 12pt -4pt 4pt 0;
+}
+.balkorta27 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 24pt;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 0 27pt 4pt 26pt;
+}
+.balkorta28 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 0 0 0.0001pt;
+}
+.balkorta29 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 2pt 4pt 0;
+}
+.balkorta30 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  text-indent: -8pt;
+  margin: 8pt 8pt 0.0001pt 26pt;
+}
+.balkorta31 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 15pt 4pt 12pt;
+}
+.balkorta32 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 13pt 4pt 14pt;
+}
+.balkorta33 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 12pt 8pt 4pt 4pt;
+}
+.balkorta34 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 17pt 4pt 15pt;
+}
+.balkorta35 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 17pt 4pt;
+}
+.balkorta36 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 17pt 4pt 18pt;
+}
+.balkorta37 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 8pt 27pt 0.0001pt 26pt;
+}
+.balkorta38 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 10pt 27pt 4pt 26pt;
+}
+.balkorta39 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 23pt 4pt 18pt;
+}
+.balkorta40 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 20pt 4pt 18pt;
+}
+.balkorta41 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  text-indent: -14pt;
+  margin: 16pt 13pt 4pt 26pt;
+}
+.balkorta42 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 13pt 4pt 17pt;
+}
+.balkorta43 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 12pt 4pt 15pt;
+}
+.balkorta44 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 0 13pt 4pt 14pt;
+}
+.balkorta45 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 8pt -2pt 2pt 0;
+}
+.balkorta46 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 15pt 4pt 26pt;
+}
+.balkorta47 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 12pt 8pt 0.0001pt 5pt;
+}
+.balkorta48 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 16pt 13pt 0.0001pt 11pt;
+}
+.beyit {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 3pt 0 1em;
+}
+.beyit1 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 0 0 1em;
+}
+.beyit2 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 1em 0 0.0001pt;
+}
+.beyit3 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 4pt 0 1em;
+}
+.beyit4 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: right;
+  margin: 0 0 1em;
+}
+.beyit5 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 8pt 0 1em;
+}
+.beyit6 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 1em -9pt 1em 0;
+}
+.beyit7 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 1em 0 4pt;
+}
+.beyit8 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 12pt 0 1em;
+}
+.beyit9 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 0 -0.75pt 4pt 0;
+}
+.beyit10 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 1pt 0.25pt 1pt 0;
+}
+.beyit11 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 1em 0 6pt;
+}
+.beyit12 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 0 -7.75pt 0.0001pt 0;
+}
+.beyit13 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 3pt -17.75pt 3pt 0;
+}
+.calibre {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre1 {
+  font-weight: bold;
+}
+.calibre2 {
+  font-style: italic;
+}
+.calibre5 {
+  font-size: 1.125em;
+  line-height: 1.2;
+}
+.calibre6 {
+  font-weight: bold;
+  line-height: 1.2;
+}
+.calibre8 {
+  display: block;
+  font-family: "Helvetica", "sans-serif";
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  margin: 12pt 0 0.0001pt;
+}
+.calibre9 {
+  font-family: "Times New Roman", "serif";
+}
+.calibre10 {
+  font-family: METimes;
+}
+.calibre11 {
+  display: table-row-group;
+  vertical-align: middle;
+}
+.calibre12 {
+  display: table-row;
+  page-break-inside: avoid;
+  vertical-align: inherit;
+}
+.calibre13 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 113pt;
+  padding: 0 4pt;
+}
+.calibre14 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 324pt;
+  padding: 0 4pt;
+}
+.calibre15 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 3.75pt;
+  padding: 0;
+}
+.calibre16 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 117pt;
+  padding: 0 4pt;
+}
+.calibre17 {
+  font-size: 0.875em;
+}
+.calibre18 {
+  font-size: 0.75em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.calibre19 {
+  font-family: ÈÚÏÇÏ;
+}
+.calibre20 {
+  display: table-row;
+  vertical-align: inherit;
+}
+.calibre21 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 113.25pt;
+  padding: 0;
+}
+.calibre22 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 320.25pt;
+  padding: 0;
+}
+.calibre23 {
+  font-size: 0.875em;
+  line-height: 1.2;
+}
+.calibre24 {
+  display: block;
+}
+.calibre25 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 432.35pt;
+  padding: 9pt;
+}
+.calibre26 {
+  font-size: 1.5em;
+  line-height: 1.2;
+}
+.calibre27 {
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+}
+.calibre28 {
+  display: block;
+}
+.calibre29 {
+  font-style: italic;
+  line-height: 1.2;
+}
+.calibre30 {
+  font-size: 1.16667em;
+  line-height: 1.2;
+}
+.calibre31 {
+  display: none;
+}
+.calibre32 {
+  line-height: 1.2;
+}
+.calibre33 {
+  font-family: Baghdad;
+  font-size: 1em;
+  line-height: 1.2;
+}
+.calibre34 {
+  display: block;
+  line-height: 1.2;
+}
+.calibre35 {
+  font-size: 0.75em;
+  line-height: 1.2;
+  vertical-align: sub;
+}
+.calibre36 {
+  display: none;
+  line-height: 1.2;
+}
+.calibre37 {
+  display: block;
+  text-align: center;
+}
+.calibre38 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 56.5pt;
+  padding: 0 4pt;
+  border: currentColor solid 1pt;
+}
+.calibre39 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 56.5pt;
+  padding: 0 4pt;
+  border-top: currentColor solid 1pt;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre40 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 79.1pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre41 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 79.1pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre42 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 68pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre43 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 45pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre44 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 70pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre45 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 43pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre46 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 56.5pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre47 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 77pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre48 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 120.7pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre49 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 118.3pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre50 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 79.4pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre51 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 151pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre52 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 112.7pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre53 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 131.85pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre54 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 131.85pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre55 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 109pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre56 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 113pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre57 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 173.55pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre58 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 197.75pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre59 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 197.75pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre60 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 56.25pt;
+  padding: 0;
+}
+.calibre61 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 11.25pt;
+  padding: 0;
+}
+.calibre62 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 9pt;
+  padding: 0;
+}
+.calibre63 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 2.25pt;
+  padding: 0;
+}
+.calibre64 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 30pt;
+  padding: 0;
+}
+.calibre65 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 18.75pt;
+  padding: 0;
+}
+.calibre66 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 19.5pt;
+  padding: 0;
+}
+.calibre67 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 7.5pt;
+  padding: 0;
+}
+.calibre68 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 13.5pt;
+  padding: 0;
+}
+.calibre69 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 15pt;
+  padding: 0;
+}
+.calibre70 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 24pt;
+  padding: 0;
+}
+.calibre71 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 26.25pt;
+  padding: 0;
+}
+.calibre72 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 33.75pt;
+  padding: 0;
+}
+.calibre73 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 0.3pt;
+  padding: 0;
+}
+.calibre74 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 22.5pt;
+  padding: 0;
+}
+.calibre75 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 28pt;
+  padding: 0 4pt;
+  border: currentColor solid 1pt;
+}
+.calibre76 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 32.95pt;
+  padding: 0 4pt;
+  border-top: currentColor solid 1pt;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre77 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 37.5pt;
+  padding: 0 4pt;
+  border-top: currentColor solid 1pt;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre78 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 0.75pt;
+  padding: 0;
+  border-top: currentColor none medium;
+  border-right: currentColor none medium;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre79 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 56.5pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre80 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 27.75pt;
+  padding: 0;
+}
+.calibre81 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 28.5pt;
+  padding: 0;
+}
+.calibre82 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 4.5pt;
+  padding: 0;
+}
+.calibre83 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 33pt;
+  padding: 0;
+}
+.calibre84 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 5.25pt;
+  padding: 0;
+}
+.calibre85 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 9.75pt;
+  padding: 0;
+}
+.calibre86 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 23.25pt;
+  padding: 0;
+}
+.calibre87 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 14.25pt;
+  padding: 0;
+}
+.calibre88 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 37.5pt;
+  padding: 0;
+}
+.calibre89 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 0.75pt;
+  padding: 0;
+}
+.calibre90 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 98.85pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre91 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 98.85pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre92 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 79.25pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre93 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 59.25pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre94 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 60.4pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre95 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 65.9pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre96 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 65.9pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre97 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 3.75pt;
+  padding: 0;
+  border-top: currentColor none medium;
+  border-right: currentColor none medium;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre98 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 52.05pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre99 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 83.25pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre100 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 64.9pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre101 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 51.75pt;
+  padding: 0;
+}
+.calibre102 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 3pt;
+  padding: 0;
+}
+.calibre103 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 1.5pt;
+  padding: 0;
+}
+.calibre104 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 27pt;
+  padding: 0;
+}
+.calibre105 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 18pt;
+  padding: 0;
+}
+.calibre106 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 20.25pt;
+  padding: 0;
+}
+.calibre107 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 12.75pt;
+  padding: 0;
+}
+.calibre108 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 57pt;
+  padding: 0;
+}
+.calibre109 {
+  font-size: 0.75em;
+}
+.calibre110 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 51.2pt;
+  padding: 0 4pt;
+  border-top: currentColor solid 1pt;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor none medium;
+  border-left: currentColor solid 1pt;
+}
+.calibre111 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 51.2pt;
+  padding: 0 4pt;
+  border-top: currentColor solid 1pt;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor none medium;
+  border-left: currentColor none medium;
+}
+.calibre112 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 51.2pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre113 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 51.2pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre114 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 71.7pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor none medium;
+  border-left: currentColor solid 1pt;
+}
+.calibre115 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 71.7pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor none medium;
+  border-left: currentColor none medium;
+}
+.calibre116 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 71.7pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre117 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 71.7pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre118 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 119.55pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor none medium;
+  border-left: currentColor solid 1pt;
+}
+.calibre119 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 119.55pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor none medium;
+  border-left: currentColor none medium;
+}
+.calibre120 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 119.55pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre121 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 119.55pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre122 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 179.35pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor none medium;
+  border-left: currentColor solid 1pt;
+}
+.calibre123 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 179.35pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor none medium;
+  border-left: currentColor none medium;
+}
+.calibre124 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 179.35pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre125 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 179.35pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre126 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 89.65pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor none medium;
+  border-left: currentColor solid 1pt;
+}
+.calibre127 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 89.65pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor none medium;
+  border-left: currentColor none medium;
+}
+.calibre128 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 89.65pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre129 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 89.65pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre130 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 358.6pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre131 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 51pt;
+  padding: 0;
+}
+.calibre132 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 16.5pt;
+  padding: 0;
+}
+.calibre133 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 24.75pt;
+  padding: 0;
+}
+.calibre134 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 12pt;
+  padding: 0;
+}
+.calibre135 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 21.75pt;
+  padding: 0;
+}
+.calibre136 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 50.25pt;
+  padding: 0;
+}
+.calibre137 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 128pt;
+  padding: 0 4pt;
+  border: currentColor solid 1pt;
+}
+.calibre138 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 114pt;
+  padding: 0 4pt;
+  border-top: currentColor solid 1pt;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre139 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 75pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre140 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 80pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre141 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 86pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre142 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 75pt;
+  padding: 0;
+}
+.calibre143 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 53.25pt;
+  padding: 0;
+}
+.calibre144 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 86.25pt;
+  padding: 0;
+}
+.calibre145 {
+  font-family: "Times", "serif";
+  font-size: 0.875em;
+  line-height: 1.2;
+}
+.calibre146 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 131.85pt;
+  padding: 0 4pt;
+  border: currentColor solid 1pt;
+}
+.calibre147 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 131.85pt;
+  padding: 0 4pt;
+  border-top: currentColor solid 1pt;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre148 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 98.8pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre149 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 81pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre150 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 66pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre151 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 69.7pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre152 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 3cm;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre153 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 3cm;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre154 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 224.9pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre155 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 66pt;
+  padding: 0;
+}
+.calibre156 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 6pt;
+  padding: 0;
+}
+.calibre157 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 39.75pt;
+  padding: 0;
+}
+.calibre158 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 52.5pt;
+  padding: 0;
+}
+.calibre159 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 65.25pt;
+  padding: 0;
+}
+.calibre160 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 49.4pt;
+  padding: 0 4pt;
+  border: currentColor solid 1pt;
+}
+.calibre161 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 49.4pt;
+  padding: 0 4pt;
+  border-top: currentColor solid 1pt;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre162 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 0.3pt;
+  padding: 0;
+  border-top: currentColor none medium;
+  border-right: currentColor none medium;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre163 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 104.8pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre164 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 84pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre165 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 78pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre166 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 128.7pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre167 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 150.25pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre168 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 131pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre169 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 114.15pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre170 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 49.5pt;
+  padding: 0;
+}
+.calibre171 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 6.75pt;
+  padding: 0;
+}
+.calibre172 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 8.25pt;
+  padding: 0;
+}
+.calibre173 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 43.95pt;
+  padding: 0 4pt;
+  border: currentColor solid 1pt;
+}
+.calibre174 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 43.95pt;
+  padding: 0 4pt;
+  border-top: currentColor solid 1pt;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre175 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 49.4pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre176 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 49.4pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre177 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 42.05pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre178 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 56.75pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre179 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 64.8pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre180 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 82pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre181 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 119pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre182 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 63.7pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre183 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 150.8pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre184 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 244.7pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor none medium;
+}
+.calibre185 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 44.25pt;
+  padding: 0;
+}
+.calibre186 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 43.5pt;
+  padding: 0;
+}
+.calibre187 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 406pt;
+  padding: 0 4pt;
+  border: currentColor solid 1pt;
+}
+.calibre188 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  width: 406pt;
+  padding: 0 4pt;
+  border-top: currentColor none medium;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.calibre189 {
+  color: gray;
+  display: block;
+  height: 2px;
+  text-align: left;
+  border-top: currentColor solid 1px;
+  border-right: currentColor none 1px;
+  border-bottom: currentColor none 1px;
+  border-left: currentColor none 1px;
+  margin: 0.5em auto;
+}
+.calibre190 {
+  font-size: 1em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.calibre191 {
+  font-size: 1em;
+  line-height: 1.2;
+}
+.evliya {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 1em 0;
+}
+.evliya1 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 1em 0;
+}
+.evliya2 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 1em -4pt 1em 0;
+}
+.evliya3 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 1em -5pt 1em 0;
+}
+.evliya4 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 1em -3.75pt 1em 0;
+}
+.evliya5 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  margin: 1em 0;
+}
+.evliya6 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 1em -2pt 1em 0;
+}
+.evliya7 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 1em 2pt 1em 0;
+}
+.evliya8 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 1em -14pt 1em 0;
+}
+.evliya9 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 2pt 0 1em;
+}
+.evliya10 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-indent: 17pt;
+  margin: 1em 0;
+}
+.evliya11 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-indent: 18pt;
+  margin: 1em -4pt 1em 0;
+}
+.evliya12 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 3pt -0.5pt 3pt 0;
+}
+.evliya13 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 3pt -5pt 3pt 0;
+}
+.evliya14 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-indent: 14pt;
+  margin: 1em -11pt 1em 0;
+}
+.evliya15 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-indent: 1pt;
+  margin: 1em 0;
+}
+.evliya16 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-indent: -1pt;
+  margin: 1em 0 1em 1pt;
+}
+.evliya17 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 3pt 1.5pt 3pt 0;
+}
+.evliya18 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 1em -7pt 1em 0;
+}
+.evliya19 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 1em -1pt 1em 0;
+}
+.evliya20 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 1pt;
+  margin: 1em 2.2pt 1em 0;
+}
+.evliya21 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 1em -2pt 1em 0;
+}
+.evliya22 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-indent: 18pt;
+  margin: 1em 0;
+}
+.evliya23 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 3pt 0.85pt 3pt 0;
+}
+.evliya24 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: -1pt;
+  margin: 0 -2.6pt 0.0001pt 1pt;
+}
+.evliya25 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 3pt 0;
+}
+.evliya26 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-indent: -1pt;
+  margin: 0 -8pt 4pt 1pt;
+}
+.evliya27 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-indent: 15pt;
+  margin: 1em 0;
+}
+.evliya28 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 1em 0.25pt 1em 0;
+}
+.evliyasatr {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 24pt;
+  margin: 1em 0;
+}
+.evliyasatr1 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 1em 0 2pt;
+}
+.evliyasatr2 {
+  display: block;
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 1em 0 3pt;
+}
+.MsoFootnoteReference {
+  position: relative;
+  top: -3pt;
+}
+.MsoFootnoteReference1 {
+  line-height: 1.2;
+  position: relative;
+  top: -3pt;
+}
+.MsoFootnoteText {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.75em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -14pt;
+  margin: 1pt 0 1pt 14pt;
+}
+.MsoFootnoteText1 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.75em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -14pt;
+  margin: 0 0 0.0001pt 14pt;
+}
+.MsoFootnoteText2 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.75em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -14pt;
+  margin: 0 -5pt 0.0001pt 14pt;
+}
+.MsoFootnoteText3 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.75em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -14pt;
+  margin: 1pt -5pt 1pt 14pt;
+}
+.MsoFootnoteText4 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.75em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -14pt;
+  margin: 1pt -4pt 1pt 14pt;
+}
+.MsoFootnoteText5 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.75em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -14pt;
+  margin: 1pt -7pt 1pt 14pt;
+}
+.MsoFootnoteText6 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.75em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -14pt;
+  margin: 0 -6.75pt 0.0001pt 14pt;
+}
+.MsoFootnoteText7 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 0.75em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -14pt;
+  margin: 0 0.25pt 0.0001pt 14pt;
+}
+.MsoNormal {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0 0 0.0001pt;
+}
+.MsoNormal2 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 1pt;
+  margin: 0 0 0.0001pt;
+}
+.MsoNormal3 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: right;
+  text-indent: 28pt;
+  margin: 12pt 30pt 0.0001pt 0;
+}
+.MsoNormal4 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 28pt;
+  margin: 12pt -32.45pt 0.0001pt 0;
+}
+.MsoNormal5 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 0 0 0.0001pt;
+}
+.MsoNormal6 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 24pt;
+  text-align: center;
+  text-indent: 1pt;
+  margin: 12pt 0 0.0001pt;
+}
+.MsoNormal7 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  margin: 12pt 0 0.0001pt;
+}
+.MsoNormal8 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 12pt 0 0.0001pt 1pt;
+}
+.MsoNormal9 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  margin: 12pt 0 0.0001pt 1pt;
+}
+.MsoNormal10 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 12pt -5pt 0.0001pt 0;
+}
+.MsoNormal11 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 24pt;
+  text-align: justify;
+  margin: 16pt 0 0.0001pt 1pt;
+}
+.MsoNormal12 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: right;
+  text-indent: 1pt;
+  margin: 0 0 0.0001pt;
+}
+.MsoNormal13 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  margin: 0 4.8pt 0.0001pt 0;
+}
+.MsoNormal14 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -26pt;
+  margin: 1pt 0 1pt 26pt;
+}
+.MsoNormal15 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: justify;
+  text-indent: -26pt;
+  margin: 1pt 0 1pt 26pt;
+}
+.MsoNormal16 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -26pt;
+  margin: 1pt -9pt 1pt 26pt;
+}
+.MsoNormal17 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 1cm;
+  margin: 0 0 0.0001pt;
+}
+.MsoNormal18 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-indent: -29pt;
+  margin: 2pt 0 0.0001pt 29pt;
+}
+.MsoNormal19 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -29pt;
+  margin: 6pt 0 0.0001pt 29pt;
+}
+.MsoNormal20 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  text-indent: -29pt;
+  margin: 6pt 0 0.0001pt 29pt;
+}
+.MsoNormal21 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-indent: -19pt;
+  margin: 1pt 0 0.0001pt 19pt;
+}
+.MsoNormal22 {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-indent: -19pt;
+  margin: 1pt -5pt 0.0001pt 19pt;
+}
+.MsoNormalTable {
+  border-collapse: collapse;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-left: 53pt;
+  margin-top: 0;
+  text-indent: 0;
+}
+.MsoNormalTable1 {
+  border-collapse: separate;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-indent: 0;
+}
+.MsoNormalTable2 {
+  border-collapse: collapse;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-indent: 0;
+}
+.sunu {
+  display: block;
+  font-family: "Times", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 28pt;
+  margin: 2pt 28.9pt 2pt 29pt;
+}
+.WordSection {
+  display: block;
+  page: WordSection1;
+}
+.pcalibre:visited {
+  color: purple;
+  text-decoration: underline;
+}
+.pcalibre1:link {
+  color: blue;
+  text-decoration: underline;
+}

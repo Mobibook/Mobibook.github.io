@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="f5145941-765f-469a-b5ef-1294ab39d395" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.29.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Seyahatnâme 3. Kitap</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u72b4aae8-5ead-42bb-ae18-2af2e1f51f25" playOrder="1">
+      <navLabel>
+        <text>Sunuş</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%203.%20Kitap_split_001.htm"/>
+    </navPoint>
+    <navPoint id="ub2227b30-78f8-4d5e-814a-f56dcecdc9b5" playOrder="2">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%203.%20Kitap_split_002.htm"/>
+    </navPoint>
+    <navPoint id="ud666ef52-13fb-47df-afeb-2c27eed29723" playOrder="3">
+      <navLabel>
+        <text>Bazı İşaretler</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%203.%20Kitap_split_003.htm"/>
+    </navPoint>
+    <navPoint id="u8ceeabee-3506-407d-bba7-7b26a40e5fdb" playOrder="4">
+      <navLabel>
+        <text>Fihris-i Cild-i Sâlis</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%203.%20Kitap_split_005.htm"/>
+    </navPoint>
+    <navPoint id="u2a210bd8-f341-4f64-aa90-9e6fae715929" playOrder="5">
+      <navLabel>
+        <text>Metin</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%203.%20Kitap_split_006.htm"/>
+    </navPoint>
+    <navPoint id="ude85deb3-4648-4101-a079-98eb208c5035" playOrder="6">
+      <navLabel>
+        <text>Dizin</text>
+      </navLabel>
+      <content src="Text/Evliya%20Celebi%20Seyahatnamesi%203.%20Kitap_split_018.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

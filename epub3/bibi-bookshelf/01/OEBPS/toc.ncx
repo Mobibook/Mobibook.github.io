@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+  
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.46)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Evvelotel</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="41e171b7-cf96-43e7-9213-bf77503cb26c" playOrder="1">
+      <navLabel>
+        <text>Evvelotel</text>
+      </navLabel>
+      <content src="Text/evvelotel_split_004.html"/>
+    </navPoint>
+    <navPoint id="0a778d6c-4d36-4adc-921d-be173d7c48ae" playOrder="2">
+      <navLabel>
+        <text>Kibir</text>
+      </navLabel>
+      <content src="Text/evvelotel_split_005.html"/>
+    </navPoint>
+    <navPoint id="64edff3e-7751-447d-bab2-8666d218b1c9" playOrder="3">
+      <navLabel>
+        <text>Halâs</text>
+      </navLabel>
+      <content src="Text/evvelotel_split_006.html"/>
+    </navPoint>
+    <navPoint id="015bf3f4-bd56-44e8-a66c-7058b1fa5310" playOrder="4">
+      <navLabel>
+        <text>Acılezzet</text>
+      </navLabel>
+      <content src="Text/evvelotel_split_007.html"/>
+    </navPoint>
+    <navPoint id="48cbf440-1c74-4ec8-8e42-3901d0a4d4ab" playOrder="5">
+      <navLabel>
+        <text>Hiçbir Hikâye Göründüğü Kadar Temiz Değildir</text>
+      </navLabel>
+      <content src="Text/evvelotel_split_008.html"/>
+    </navPoint>
+    <navPoint id="e92f1655-5888-4a69-8bb9-e96470f17aa7" playOrder="6">
+      <navLabel>
+        <text>Doğru</text>
+      </navLabel>
+      <content src="Text/evvelotel_split_009.html"/>
+    </navPoint>
+    <navPoint id="6a7fe814-0bfb-44be-b8d0-b37c8159fd05" playOrder="7">
+      <navLabel>
+        <text>Yanık Taşlar</text>
+      </navLabel>
+      <content src="Text/evvelotel_split_010.html"/>
+    </navPoint>
+    <navPoint id="570fa1fa-1c27-4abe-8fe3-19633f1488d3" playOrder="8">
+      <navLabel>
+        <text>Tevekkül</text>
+      </navLabel>
+      <content src="Text/evvelotel_split_011.html"/>
+    </navPoint>
+    <navPoint id="1dad1f20-8806-40de-830c-c855a973c33e" playOrder="9">
+      <navLabel>
+        <text>Serim-düğüm-çözüm</text>
+      </navLabel>
+      <content src="Text/evvelotel_split_012.html"/>
+    </navPoint>
+    <navPoint id="50935cea-4b1a-4970-bbc6-dd3fc58e2e6d" playOrder="10">
+      <navLabel>
+        <text>Saklı</text>
+      </navLabel>
+      <content src="Text/evvelotel_split_013.html"/>
+    </navPoint>
+    <navPoint id="2be672b5-7004-4865-97c4-b78c898a3c37" playOrder="11">
+      <navLabel>
+        <text>İhtilaller Neye Benzer</text>
+      </navLabel>
+      <content src="Text/evvelotel_split_014.html"/>
+    </navPoint>
+    <navPoint id="d6bc61be-5ecf-43a9-aa8c-6ef02c504c8c" playOrder="12">
+      <navLabel>
+        <text>Yaşadığımız Yerler</text>
+      </navLabel>
+      <content src="Text/evvelotel_split_015.html"/>
+    </navPoint>
+    <navPoint id="d128a238-9700-484c-b4ff-c94fd857692c" playOrder="13">
+      <navLabel>
+        <text>Önemsizlik</text>
+      </navLabel>
+      <content src="Text/evvelotel_split_016.html"/>
+    </navPoint>
+    <navPoint id="5b6bf68b-2227-4699-981f-eef1653c57e8" playOrder="14">
+      <navLabel>
+        <text>Ay Bakıyor</text>
+      </navLabel>
+      <content src="Text/evvelotel_split_017.html"/>
+    </navPoint>
+    <navPoint id="1e42fe5d-e4fb-4b45-9f09-1d1988ed2799" playOrder="15">
+      <navLabel>
+        <text>Mozart’ın Son Zartı</text>
+      </navLabel>
+      <content src="Text/evvelotel_split_018.html"/>
+    </navPoint>
+    <navPoint id="11074c30-bf53-449c-879a-ec947cc6874e" playOrder="16">
+      <navLabel>
+        <text>Su</text>
+      </navLabel>
+      <content src="Text/evvelotel_split_019.html"/>
+    </navPoint>
+    <navPoint id="772d856a-bb14-40e2-a4e7-1d0ffc72df24" playOrder="17">
+      <navLabel>
+        <text>Silentium</text>
+      </navLabel>
+      <content src="Text/evvelotel_split_020.html"/>
+    </navPoint>
+    <navPoint id="684d96c5-e741-4ff9-bbaa-7010e91684f0" playOrder="18">
+      <navLabel>
+        <text>Yüreğin Mahallesi</text>
+      </navLabel>
+      <content src="Text/evvelotel_split_021.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
