@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="2ed41640-1cac-4ee5-b8ce-38ca6edf07b3" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (2.12.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Leviathan</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/index_split_003.html#id_Toc406658452"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>YAZARIN SUNUŞU</text>
+      </navLabel>
+      <content src="Text/index_split_005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>BİRİNCİ KISIM İNSAN ÜZERİNE</text>
+      </navLabel>
+      <content src="Text/index_split_006.html"/>
+      <navPoint class="chapter" id="num_4" playOrder="4">
+        <navLabel>
+          <text>Bölüm 1 Algı üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_007.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_5" playOrder="5">
+        <navLabel>
+          <text>Bölüm 2 Tahayyül Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_007.html#id_Toc406658456"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_6" playOrder="6">
+        <navLabel>
+          <text>Bölüm 3 Tahayyüllerin Birbirini İzlemesi Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_008.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_7" playOrder="7">
+        <navLabel>
+          <text>Bölüm 4 Konuşma Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_009.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_8" playOrder="8">
+        <navLabel>
+          <text>Bölüm 5 Akıl ve Bilim Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_010.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_9" playOrder="9">
+        <navLabel>
+          <text>Bölüm 6 İradi Hareketlerin, Genellikle Duygular Denilen, İçsel Başlangıçları ve Bunların İfade Edildiği Sözler Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_011.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_10" playOrder="10">
+        <navLabel>
+          <text>Bölüm 7 Diskur Sonları Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_012.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_11" playOrder="11">
+        <navLabel>
+          <text>Bölüm 8 Genellikle Düşünsel Denilen Erdemler ve Bunların Karşıtı Olan Kusurlar Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_013.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_12" playOrder="12">
+        <navLabel>
+          <text>Bölüm 9 Değişik Bilgi Konuları Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_014.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_13" playOrder="13">
+        <navLabel>
+          <text>Bölüm 10 Kudret, Değer, Haysiyet, Şeref ve Liyakat Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_015.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_14" playOrder="14">
+        <navLabel>
+          <text>Bölüm 11 Davranışların Farklılığı Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_016.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_15" playOrder="15">
+        <navLabel>
+          <text>Bölüm 12 Din Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_017.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_16" playOrder="16">
+        <navLabel>
+          <text>Bölüm 13 Mutluluğu ve Mutsuzluğu Bakımından İnsanlığın Doğal Durumu Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_018.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_17" playOrder="17">
+        <navLabel>
+          <text>Bölüm 14 Birinci ve ikinci Doğa Yasaları ve Sözleşmeler Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_019.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_18" playOrder="18">
+        <navLabel>
+          <text>Bölüm 15 Diğer Doğa Yasaları Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_020.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_19" playOrder="19">
+        <navLabel>
+          <text>Bölüm 16  Kişiler, Amiller ve Kişileştirilmiş Nesneler Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_021.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>İKİNCİ KISIM DEVLET ÜZERİNE</text>
+      </navLabel>
+      <content src="Text/index_split_022.html"/>
+      <navPoint class="chapter" id="num_21" playOrder="21">
+        <navLabel>
+          <text>Bölüm 17 Bir Devletin Nedenleri, Doğuşu ve Tanımlanması Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_023.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_22" playOrder="22">
+        <navLabel>
+          <text>Bölüm 18 Sözleşme ile Kurulmuş Egemenlerin Hakları Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_024.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_23" playOrder="23">
+        <navLabel>
+          <text>Bölüm 19 Sözleşmeyle Kurulmuş Değişik Devlet Türleri ve Egemenliğin Tevarüs Edilmesi Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_025.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_24" playOrder="24">
+        <navLabel>
+          <text>Bölüm 20 Pederşahi ve Despotik Hâkimiyet üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_026.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_25" playOrder="25">
+        <navLabel>
+          <text>Bölüm 21 Uyrukların Özgürlüğü Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_027.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_26" playOrder="26">
+        <navLabel>
+          <text>Bölüm 22 Siyasal ve Özel Bağımlı Sistemler Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_028.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_27" playOrder="27">
+        <navLabel>
+          <text>Bölüm 23 Egemen Gücün Kamu Görevlileri Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_029.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_28" playOrder="28">
+        <navLabel>
+          <text>Bölüm 24 Bir Toplumun Beslenmesi ve Üremesi Üzerime</text>
+        </navLabel>
+        <content src="Text/index_split_030.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_29" playOrder="29">
+        <navLabel>
+          <text>Bölüm 25 Tavsiye Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_031.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_30" playOrder="30">
+        <navLabel>
+          <text>Bölüm 26 Toplum Yasaları Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_032.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_31" playOrder="31">
+        <navLabel>
+          <text>Bölüm 27 Suçlar, Mazeretler ve Hafifletici Nedenler Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_033.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_32" playOrder="32">
+        <navLabel>
+          <text>Bölüm 28 Cezalar ve Ödüller Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_034.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_33" playOrder="33">
+        <navLabel>
+          <text>Bölüm 29 Devleti Zayıflatan ve Çökmesine Yol Açan Şeyler Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_035.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_34" playOrder="34">
+        <navLabel>
+          <text>Bölüm 30 Egemen Temsilcinin Görevi Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_036.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_35" playOrder="35">
+        <navLabel>
+          <text>Bölüm 31 Tanrı’nın Doğal Krallığı Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_037.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_36" playOrder="36">
+      <navLabel>
+        <text>ÜÇÜNCÜ KISIM HIRİSTİYAN BİR DEVLET ÜZERİNE</text>
+      </navLabel>
+      <content src="Text/index_split_038.html"/>
+      <navPoint class="chapter" id="num_37" playOrder="37">
+        <navLabel>
+          <text>Bölüm 32 Hıristiyan Politikasının İlkeleri Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_039.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_38" playOrder="38">
+        <navLabel>
+          <text>Bölüm 33 Kutsal Kitab’ın Cüzlerinin Sayısı, Eskiliği, Amacı, Otoritesi ve Yorumcuları Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_040.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_39" playOrder="39">
+        <navLabel>
+          <text>Bölüm 34 Kutsal Kitab’ın Cüzlerinde Ruh, Melek ve İlhamın Anlamı Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_041.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_40" playOrder="40">
+        <navLabel>
+          <text>Bölüm 35 Kutsal Kitap’ta Tanrı’nın Krallığı, Kutsal, Mukaddes ve Ayinin Anlamı üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_042.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_41" playOrder="41">
+        <navLabel>
+          <text>Bölüm 36 Tanrının Sözü ve Peygamberler Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_043.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_42" playOrder="42">
+        <navLabel>
+          <text>Bölüm 37 Mucizeler ve Onların Faydası Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_044.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_43" playOrder="43">
+        <navLabel>
+          <text>Bölüm 38 Kutsal Kitap’ta Ebedi Hayat, Cehennem, Kurtuluş, Ahiret ve Günahtan Kurtulmanın Anlamı Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_045.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_44" playOrder="44">
+        <navLabel>
+          <text>Bölüm 39 Kutsal Kitap’ta Kilise Kelimesinin Anlamı Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_046.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_45" playOrder="45">
+        <navLabel>
+          <text>BöIüm 40 İbrahim, Musa, Yüksek Rahipler ve Yahuda Krallarında, Tanrı1nın krallığının Hakları Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_047.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_46" playOrder="46">
+        <navLabel>
+          <text>Bölüm 41 Mübarek Kurtarıcımız’ın Makamı Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_048.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_47" playOrder="47">
+        <navLabel>
+          <text>Bölüm 42 Ruhani İktidar Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_049.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_48" playOrder="48">
+        <navLabel>
+          <text>Bölüm 43 Bir İnsanın Gökyüzü Krallığına Kabul Edilmesi İçin Gerekenler Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_051.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_49" playOrder="49">
+      <navLabel>
+        <text>DÖRDÜNCÜ KISIM KARANLIĞIN KRALLIĞI ÜZERİNE</text>
+      </navLabel>
+      <content src="Text/index_split_053.html"/>
+      <navPoint class="chapter" id="num_50" playOrder="50">
+        <navLabel>
+          <text>Bölüm 44 Kutsal Kitab’ın Yanlış Yorumlanmasından Gelen Manevi Karanlık Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_054.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_51" playOrder="51">
+        <navLabel>
+          <text>Bölüm 45 Demonoloji ve Pagan Dininin Diğer Kalıntıları Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_055.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_52" playOrder="52">
+        <navLabel>
+          <text>Bölüm 46 Beyhude Felsefe ve Saçma Geleneklerden Gelen Karanlık Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_056.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_53" playOrder="53">
+        <navLabel>
+          <text>Bölüm 47 Bu Karanlıktan Elde Edilen Kazanç ve Bu Kazancın Kime Gittiği Üzerine</text>
+        </navLabel>
+        <content src="Text/index_split_057.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_54" playOrder="54">
+      <navLabel>
+        <text>DEĞERLENDİRME VE SONUÇ</text>
+      </navLabel>
+      <content src="Text/index_split_058.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

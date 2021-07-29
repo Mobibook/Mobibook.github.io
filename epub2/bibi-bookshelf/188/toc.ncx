@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr-TR">
+<head><meta name="uid" content="{437FBCC6-A2D1-4432-AE48-CD2B19F50139}"/></head>
+<docTitle><text>Terry Pratchett - Tiffany Aching II - Gokyuzu Dolu Sapka e</text></docTitle>
+<navMap>
+<navPoint playOrder="1" id="{6485C12A-5795-4DDF-B582-8146643B3CD3}"><navLabel><text>gökyüzü oolu</text></navLabel><content src="main.xhtml#caption1"/></navPoint>
+<navPoint playOrder="2" id="{8CE9ADAC-A425-4848-935C-3200D94E29CC}"><navLabel><text>AYRILIK</text></navLabel><content src="main-1.xhtml"/></navPoint>
+<navPoint playOrder="3" id="{5C12C619-1F6F-4E0F-853F-C803DDAAEE66}"><navLabel><text>Böfüm 2</text></navLabel><content src="main-2.xhtml"/></navPoint>
+<navPoint playOrder="4" id="{D045FC1F-5102-44F1-B4FB-0DB868FC7D7C}"><navLabel><text>Böfüm 3</text></navLabel><content src="main-3.xhtml"/></navPoint>
+<navPoint playOrder="5" id="{9B85A2EB-EDD3-4A40-9F92-1646B40B460A}"><navLabel><text>PLN</text></navLabel><content src="main-4.xhtml"/></navPoint>
+<navPoint playOrder="6" id="{B3219B97-0F81-413D-B637-284E769880B0}"><navLabel><text>HALKA</text></navLabel><content src="main-5.xhtml"/></navPoint>
+<navPoint playOrder="7" id="{881BAB72-4B28-4522-9B80-7BA904EBD79B}"><navLabel><text>KOVAN</text></navLabel><content src="main-6.xhtml"/></navPoint>
+<navPoint playOrder="8" id="{6D92A360-0DC7-45C7-9901-FE486FD34F81}"><navLabel><text>Böfüra T</text></navLabel><content src="main-7.xhtml"/></navPoint>
+<navPoint playOrder="9" id="{CB6B8AEF-F13F-4A10-8503-C5D68CB01120}"><navLabel><text>GİZLİ ÜLKE</text></navLabel><content src="main-8.xhtml"/></navPoint>
+<navPoint playOrder="10" id="{4CB923D5-DBCF-448F-B1C3-E7D9A401838C}"><navLabel><text>RUH VE ÖZ</text></navLabel><content src="main-9.xhtml"/></navPoint>
+<navPoint playOrder="11" id="{C1A8DF62-613D-4A18-B507-553C7EB5A046}"><navLabel><text>GEÇ AÇAN ÇİÇEK</text></navLabel><content src="main-10.xhtml"/></navPoint>
+<navPoint playOrder="12" id="{C3D931EE-A840-4241-BE8C-7F9BB25D4209}"><navLabel><text>flRTHUR</text></navLabel><content src="main-11.xhtml"/></navPoint>
+<navPoint playOrder="13" id="{7B5FE4AA-480C-4681-9CD9-DC155147FD50}"><navLabel><text>HARİÇ</text></navLabel><content src="main-12.xhtml"/></navPoint>
+<navPoint playOrder="14" id="{941F676F-D4C8-4F78-8A39-4B7D06F49FE6}"><navLabel><text>GflDI YARIŞLARI</text></navLabel><content src="main-13.xhtml"/></navPoint>
+<navPoint playOrder="15" id="{F2782EF1-330F-4DE3-93E1-52D79380BEB9}"><navLabel><text>KRALİÇE ARI</text></navLabel><content src="main-14.xhtml"/></navPoint>
+<navPoint playOrder="16" id="{AB9BC14F-7CF2-48A2-B7F7-F9A63B2526CA}"><navLabel><text>GÖKYÜZÜ DOLU</text></navLabel><content src="main-15.xhtml"/></navPoint>
+<navPoint playOrder="17" id="{F84058E8-8620-47DD-85B4-8F6CF86ED459}"><navLabel><text>YAZARIN NOTU</text></navLabel><content src="main-16.xhtml"/></navPoint>
+<navPoint playOrder="18" id="{AB3D06BC-7D32-497F-93A5-6F1BC469A90F}"><navLabel><text>KÜR FIRTLNÜSI</text></navLabel><content src="main-17.xhtml"/></navPoint>
+</navMap></ncx>

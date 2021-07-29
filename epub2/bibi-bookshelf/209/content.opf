@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">b054cebc-6ab1-48f6-aaa1-503ec8dfa11c</dc:identifier>
+    <dc:identifier opf:scheme="calibre">b054cebc-6ab1-48f6-aaa1-503ec8dfa11c</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <dc:publisher>YKY</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:title>Ungenach</dc:title>
+    <dc:contributor opf:role="bkp">calibre (2.40.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta name="calibre:timestamp" content="2016-01-23T18:20:20.440000+00:00"/>
+    <meta name="calibre:title_sort" content="Ungenach"/>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Ungenach, Thomas Bernhard'ın Avusturya'nın suçlu belleğine ilişkin saptamalarını başlatan kitabıdır; anlatının tümü "aidiyet travması" çevresinde gelişir. Ülke dışında yaşayan Avusturyalı bir akademisyen, büyük bir mirasın vârisi, bu mirası akrabalarına "bölüştürerek" ondan bir an önce kurtulmak ister. Genç adam miras meselesini halletmek için memlekete dönüp de geçmişle yüz yüze gelince, geçmişin karşısına çıkardığı sorulara verilecek yanıtların hepsine katlanması gerektiğini görecektir. Anlatıcı, üç sese de katlanmalıdır; Noter Moro'nun delicesine otoriter sesine de, kardeşi Karl'ın mektuplarının melankolisine de, Ungenach malikânesi ve arazisi dolayısıyla Avusturya ile tüm bağlarını koparmak isteyen kendi iç sesine de… &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Thomas Bernhard Ungenach'ta, istenmeyen bir mirası sırtından atma temasını, dolayısıyla gelenekten kopuşu ele alıyor, 1945'ten sonra Avusturya denen "ev'de artık eskisi kadar rahat yaşanamayacağı meselesiyle yüzleşiyor. &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:creator opf:file-as="Bernhard, Thomas" opf:role="aut">Thomas Bernhard</dc:creator>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

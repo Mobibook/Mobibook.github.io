@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Mann, Thomas">Thomas Mann</dc:creator>
+<dc:publisher>Arya</dc:publisher>
+    <dc:date>2012-10-22T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:F22965C1-BC01-46B2-A52D-8CA45E305097</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-09-20</dc:date>
+    <dc:description>&lt;p&gt;Ey, sonsuzlukta birleşmenin sevinci! Yanılma kurtulmanın, zamanın ve uzamın zincirlerinden kopmanın, seninle benim kaynaşmamızın sevinci, senin ve benim tanrısal sevincimiz! Günün aldatıcı işleri onları ayırabilir; ama büyülü içkinin gücüyle gözleri açılalı beri yalanı bağışlamasını öğrenen yüreklerini hiçbir şey aldatamaz artık. Ölüm gecesini aşkla geçiren- lere, bu tatlı gizi çözenlere gün ışığı yalnızca özlem duyurur; sonsuz, gerçek, tanrısal geceye kavuşma özlemi.
+
+Gel aşk gecesi, bize özlediğimiz, beklediğimiz unutuşu ver; bizi sevincinle sar; bu yalanlar dünyasından, ayrılıktan kurtar! Bak son ışık söndü! Dünyadan kurtularak acının sonsuzluğu üzerine gerilen o tanrısal alacakaranlıkta düşünce ve çekingenlik yiter, yalanlar biter; gözlerim sevinç içinde kapanır ve oluşun mucizesi başlar.
+&lt;/p&gt;</dc:description>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="_kapak.png"/>
+    <meta content="Alacakaranlıkta" name="calibre:title_sort"/>
+    <meta content="{&quot;Thomas Mann&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.1" name="Sigil version"/>
+    <meta content="10.0" name="calibre:rating"/>
+  <dc:title>Alacakaranlıkta</dc:title>
+<dc:subject>Deneme</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>en</dc:language>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">d2ea8204-aceb-4227-9d83-f03e6b4a52b9</dc:identifier>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789758491667</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/4-1.html" id="x4-1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/_kapak.png" id="_kapak.png" media-type="image/png"/>
+    <item href="Images/Image702_fmt.jpeg" id="Image702_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

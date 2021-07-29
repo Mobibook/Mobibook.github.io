@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Tuna Kiremitçi</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>292C300D19947125C4EC146FA0BB8A34</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>F7C8E2D40D26A470D3784AB3988764E7</string>
+		<key>publisher-unique-id</key>
+		<string>019ac6d6-bb71-4679-9939-2828d13db345</string>
+		<key>unique-id</key>
+		<integer>8421574768186474723</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Bu Işte Bir Yalnızlık Var</string>
+	<key>playlistName</key>
+	<string>Bu Işte Bir Yalnızlık Var</string>
+	<key>releaseDate</key>
+	<string>2010-10-04T17:50:29.452000+00:00</string>
+	<key>sort-artist</key>
+	<string>Kiremitçi, Tuna</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

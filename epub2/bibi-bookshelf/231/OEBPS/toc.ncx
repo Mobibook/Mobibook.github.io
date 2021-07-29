@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="AWP-1894E2C9-754E-4336-A053-11C53AFCB344" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Güneş Ülkesi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/004.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>ŞİİRİN SESİYLE GÜNEŞ ÜLKESİ FİLOZOFÇA BİR DEVLET TASARISI</text>
+      </navLabel>
+      <content src="Text/005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>EN İYİ DEVLET ÜZERİNE SORUNLAR</text>
+      </navLabel>
+      <content src="Text/006.html"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Bölüm l</text>
+        </navLabel>
+        <content src="Text/006.html#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Bölüm II</text>
+        </navLabel>
+        <content src="Text/007.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Bölüm III</text>
+        </navLabel>
+        <content src="Text/008.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

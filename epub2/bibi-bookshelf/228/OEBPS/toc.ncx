@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="8208f6a5-c2d9-4075-b9c4-7bcbdc9d29a8" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kızıl Ekim</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>BİRİNCİ GÜN</text>
+      </navLabel>
+      <content src="Text/main.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İKİNCİ GÜN</text>
+      </navLabel>
+      <content src="Text/main.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>ÜÇÜNCÜ GÜN</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>DÖRDÜNCÜ GÜN</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>BEŞİNCİ GÜN</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>ALTINCI GÜN</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml#sigil_toc_id_9"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>YEDİNCİ GÜN</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>SEKİZİNCİ GÜN</text>
+      </navLabel>
+      <content src="Text/main-4.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>DOKUZUNCU GÜN</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>ONUNCU GÜN</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml#sigil_toc_id_25"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>ON BİRİNCİ GÜN</text>
+      </navLabel>
+      <content src="Text/main-6.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>ON İKİNCİ GÜN</text>
+      </navLabel>
+      <content src="Text/main-6.xhtml#sigil_toc_id_29"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>ON ÜÇÜNCÜ GÜN</text>
+      </navLabel>
+      <content src="Text/main-7.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>ON DÖRDÜNCÜ GÜN</text>
+      </navLabel>
+      <content src="Text/main-7.xhtml#sigil_toc_id_40"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>ON BEŞİNCİ GÜN</text>
+      </navLabel>
+      <content src="Text/main-8.xhtml#sigil_toc_id_46"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>ON ALTINCI GÜN</text>
+      </navLabel>
+      <content src="Text/main-8.xhtml#sigil_toc_id_51"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>ON YEDİNCİ GÜN</text>
+      </navLabel>
+      <content src="Text/main-9.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>ON SEKİZİNCİ GÜN</text>
+      </navLabel>
+      <content src="Text/main-10.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

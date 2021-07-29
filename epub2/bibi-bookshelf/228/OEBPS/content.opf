@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Clancy, Tom">Tom Clancy</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">8208f6a5-c2d9-4075-b9c4-7bcbdc9d29a8</dc:identifier>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:description>&lt;p&gt;Sovyetlerin yeni buluşu olan ve en fazla değer verdikler ballistik füzeli denizaltı. Kızıl ekim Amerika'ya sığınma girişiminde bulunuyordu. Bu şimdiye kadar görülen en büyük ihanetti. Ve tüm Sovyet Atlantik filosu onu bulup ne pahasına olursa olsun yok etme emri almıştı. Kızıl ekim yepyeni bir anlayışla yazılmış, dahice kurgusuyla okurların soluğunu kesecek bir gerilim romanıdır.
+&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>1989-06-13T21:00:00+00:00</dc:date>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="2014-11-19T15:29:51+00:00" name="calibre:timestamp"/>
+    <meta content="Kızıl Ekim" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Kızıl Ekim</dc:title>
+<dc:subject>Politik Kurgu</dc:subject>
+<dc:subject>Savaş</dc:subject>
+<dc:subject>Casusluk</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Tom Clancy&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">0213ef87-d6a2-40a9-80f8-fd4dba61b6be</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-10.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main-7.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/main-8.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/main-9.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/kizil.JPG" id="kizil.JPG" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

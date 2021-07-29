@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr-TR">
+<head><meta name="uid" content="{DC83CEB5-7B7C-4B0E-B48F-8D8AD5E6C40D}"/></head>
+<docTitle><text>Terry Pratchett - Tiffany Aching I - Kucuk Ozgur Adamlar e</text></docTitle>
+<navMap>
+<navPoint playOrder="1" id="{00B956F6-79BB-4C07-8AC2-A715FBEB0D6A}"><navLabel><text>Tcrry Pratchctt</text></navLabel><content src="main.xhtml#caption1"/></navPoint>
+<navPoint playOrder="2" id="{FAD91BE6-68C7-4CA9-99ED-B47321FFBF9D}"><navLabel><text>www.tudem.com</text></navLabel><content src="main-1.xhtml"/></navPoint>
+<navPoint playOrder="3" id="{878F1F1B-8901-47C0-90A7-7F827D8ADFDE}"><navLabel><text>küçük. özçüTç</text></navLabel><content src="main-2.xhtml"/></navPoint>
+<navPoint playOrder="4" id="{D6D3C718-32EE-4631-892E-ADEB24D9D896}"><navLabel><text>Böfüm \</text></navLabel><content src="main-3.xhtml"/></navPoint>
+<navPoint playOrder="5" id="{C49DC878-BF79-491F-A476-971C33C4A02D}"><navLabel><text>“Aralarından hangisiyle evlenceeni bilmek istiyola</text></navLabel><content src="main-4.xhtml"/></navPoint>
+<navPoint playOrder="6" id="{238F5D9B-E207-48F5-893E-FA9F5D19BDE8}"><navLabel><text>Böfâra 1 1 UYANIŞ</text></navLabel><content src="main-5.xhtml"/></navPoint>
+<navPoint playOrder="7" id="{D0871DE3-72A1-46D9-AA5C-6D6AE8D41A39}"><navLabel><text>AodANIm!</text></navLabel><content src="main-6.xhtml"/></navPoint>
+</navMap></ncx>

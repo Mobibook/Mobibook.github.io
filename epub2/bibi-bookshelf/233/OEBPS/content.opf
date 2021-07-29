@@ -1,0 +1,109 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Morrison, Toni">Toni Morrison</dc:creator>
+<dc:identifier id="uuid">{1093DFE9-60EF-4ED1-9320-5C23963AEC96}</dc:identifier>
+    <dc:date>1994-08-06T21:00:00+00:00</dc:date>
+    <dc:publisher>Simavi Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;1988 Pulitzer Edebiyat Ödülü'nü kazanan bu romanın konusu, Amerika'nın iç savaşını izleyen yıllarda Ohio'da geçiyor; köle Sethe'nin ve ailesinin çevresinde dönüyor. Kentucky'de köle olarak bulunduğu bir çiftlikten kaçan Sethe, yakalanacağını anlayınca, beyazların eline geçmemesi için iki yaşındaki kızın öldürmeyi yeğler. Ölen küçük kızın ruhunun evde dolaştığına inanan güzel ve gururlu Sethe, bu olayın etkisenden kendisini kurtaramaz. Aradan on sekiz yıl geçtikten sonra Sethe'nin evine bir genç kız gelir. Yirmi yaşındaki bu ilginç konuk, nereden geldiğin bilmemekte, çatlak sesiyle bir çocuk gibi konuşmaktadır. Sethe'ye taparcasına bağlı olan genç kız, adının Sevgili olduğunu söylemektedir... &lt;/p&gt;</dc:description>
+    <meta name="cover" content="_kapak.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Sevgili"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Toni Morrison&quot;: &quot;&quot;}"/>
+  <dc:title>Sevgili</dc:title>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Tarihi Kurgu</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">8749993f-0f39-4d7b-8399-19367dc9464b</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9757408409</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/arkakapak.xhtml" id="arkakapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/quote.xhtml" id="quote.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/110.xhtml" id="x110.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/111.xhtml" id="x111.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/112.xhtml" id="x112.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/113.xhtml" id="x113.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/114.xhtml" id="x114.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/115.xhtml" id="x115.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/116.xhtml" id="x116.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/117.xhtml" id="x117.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/118.xhtml" id="x118.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/119.xhtml" id="x119.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/120.xhtml" id="x120.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/121.xhtml" id="x121.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/122.xhtml" id="x122.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/123.xhtml" id="x123.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/124.xhtml" id="x124.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/125.xhtml" id="x125.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/126.xhtml" id="x126.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/127.xhtml" id="x127.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="x02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/210.xhtml" id="x210.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/211.xhtml" id="x211.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/212.xhtml" id="x212.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/213.xhtml" id="x213.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/214.xhtml" id="x214.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/215.xhtml" id="x215.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="x03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/310.xhtml" id="x310.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/311.xhtml" id="x311.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/312.xhtml" id="x312.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id9" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style.css" id="Style.css" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/main-1.jpg" id="id1" media-type="image/jpeg"/>
+    <item href="Images/Morr_9780307388629_oeb_002_r1.jpg" id="Morr_9780307388629_oeb_002_r1.jpg" media-type="image/jpeg"/>
+    <item href="Images/Morr_9780307388629_oeb_004_r1.jpg" id="Morr_9780307388629_oeb_004_r1.jpg" media-type="image/jpeg"/>
+    <item href="Images/Morr_9780307388629_oeb_005_r1.jpg" id="Morr_9780307388629_oeb_005_r1.jpg" media-type="image/jpeg"/>
+    <item href="Images/quoteclose.gif" id="quoteclose.gif" media-type="image/gif"/>
+    <item href="Images/quoteopen.gif" id="quoteopen.gif" media-type="image/gif"/>
+  </manifest>
+  <spine toc="id9">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="arkakapak.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="quote.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x110.xhtml"/>
+    <itemref idref="x111.xhtml"/>
+    <itemref idref="x112.xhtml"/>
+    <itemref idref="x113.xhtml"/>
+    <itemref idref="x114.xhtml"/>
+    <itemref idref="x115.xhtml"/>
+    <itemref idref="x116.xhtml"/>
+    <itemref idref="x117.xhtml"/>
+    <itemref idref="x118.xhtml"/>
+    <itemref idref="x119.xhtml"/>
+    <itemref idref="x120.xhtml"/>
+    <itemref idref="x121.xhtml"/>
+    <itemref idref="x122.xhtml"/>
+    <itemref idref="x123.xhtml"/>
+    <itemref idref="x124.xhtml"/>
+    <itemref idref="x125.xhtml"/>
+    <itemref idref="x126.xhtml"/>
+    <itemref idref="x127.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x210.xhtml"/>
+    <itemref idref="x211.xhtml"/>
+    <itemref idref="x212.xhtml"/>
+    <itemref idref="x213.xhtml"/>
+    <itemref idref="x214.xhtml"/>
+    <itemref idref="x215.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x310.xhtml"/>
+    <itemref idref="x311.xhtml"/>
+    <itemref idref="x312.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

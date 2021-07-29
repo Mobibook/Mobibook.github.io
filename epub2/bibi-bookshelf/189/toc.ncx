@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr-TR">
+<head><meta name="uid" content="{1E0F5B3F-C62C-474C-9570-21A8AB6D1FBE}"/></head>
+<docTitle><text>Terry Pratchett - Tiffany Aching III - Kıs Ustası e</text></docTitle>
+<navMap>
+<navPoint playOrder="1" id="{453DAD98-1531-453C-B630-B2EDE8736DC2}"><navLabel><text>www.tudem.com</text></navLabel><content src="main-1.xhtml"/></navPoint>
+<navPoint playOrder="2" id="{3FA96894-5D87-4BEF-A6BA-1D171E59DEE0}"><navLabel><text>Böfürn 3</text></navLabel><content src="main-2.xhtml"/></navPoint>
+<navPoint playOrder="3" id="{61930B9B-8796-436E-947B-ECDE1A675F2F}"><navLabel><text>Sonunda yapacak başka şey kalmadı. Dar merdiveni t</text></navLabel><content src="main-3.xhtml"/></navPoint>
+<navPoint playOrder="4" id="{DE8E9520-8419-4240-9A76-5D60F37F42D9}"><navLabel><text>“Ben bir kulübeyi devralamazdım,” dedi. “Ah, günde</text></navLabel><content src="main-4.xhtml"/></navPoint>
+<navPoint playOrder="5" id="{769125CD-F6DA-475E-A960-1A5C377EC803}"><navLabel><text>“Fış fışaargg kayıkçı of kayıkçının fış fı^üreee</text></navLabel><content src="main-5.xhtml"/></navPoint>
+<navPoint playOrder="6" id="{4B065ADE-DFE3-4D8F-904E-54E47D9BDEF7}"><navLabel><text>Uzayın Derinliklerindeki Korküsüz Yüreklerin Dokunaklı Öyküsü</text></navLabel><content src="main-6.xhtml"/></navPoint>
+</navMap></ncx>

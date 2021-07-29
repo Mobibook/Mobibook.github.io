@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:02318697-a14e-4a0f-b105-fa4985eaf50f</dc:identifier>
+    <dc:title>Yaşamın Ucuna Yolculuk</dc:title>
+    <dc:creator opf:file-as="Özlü, Tezer" opf:role="aut">Tezer Özlü</dc:creator>
+    <dc:language>tr-TR</dc:language>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <meta content="Adobe InDesign 9.0" name="generator" xmlns="http://www.idpf.org/2007/opf" />
+    <meta name="cover" content="kapak_fmt.jpeg" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="0.8.7" name="Sigil version" />
+    <dc:date opf:event="modification">2015-12-29</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/on_kapak.xhtml" id="on_kapak" media-type="application/xhtml+xml" />
+    <item href="Text/1.xhtml" id="x1" media-type="application/xhtml+xml" />
+    <item href="Text/1-1.xhtml" id="x1-1" media-type="application/xhtml+xml" />
+    <item href="Text/1-2.xhtml" id="x1-2" media-type="application/xhtml+xml" />
+    <item href="Text/1-3.xhtml" id="x1-3" media-type="application/xhtml+xml" />
+    <item href="Text/1-4.xhtml" id="x1-4" media-type="application/xhtml+xml" />
+    <item href="Text/1-5.xhtml" id="x1-5" media-type="application/xhtml+xml" />
+    <item href="Text/1-6.xhtml" id="x1-6" media-type="application/xhtml+xml" />
+    <item href="Text/1-7.xhtml" id="x1-7" media-type="application/xhtml+xml" />
+    <item href="Text/1-8.xhtml" id="x1-8" media-type="application/xhtml+xml" />
+    <item href="Text/1-9.xhtml" id="x1-9" media-type="application/xhtml+xml" />
+    <item href="Text/1-10.xhtml" id="x1-10" media-type="application/xhtml+xml" />
+    <item href="Text/1-11.xhtml" id="x1-11" media-type="application/xhtml+xml" />
+    <item href="Text/1-12.xhtml" id="x1-12" media-type="application/xhtml+xml" />
+    <item href="Text/1-13.xhtml" id="x1-13" media-type="application/xhtml+xml" />
+    <item href="Text/1-14.xhtml" id="x1-14" media-type="application/xhtml+xml" />
+    <item href="Text/1-15.xhtml" id="x1-15" media-type="application/xhtml+xml" />
+    <item href="Text/1-16.xhtml" id="x1-16" media-type="application/xhtml+xml" />
+    <item href="Text/1-17.xhtml" id="x1-17" media-type="application/xhtml+xml" />
+    <item href="Text/1-18.xhtml" id="x1-18" media-type="application/xhtml+xml" />
+    <item href="Text/1-19.xhtml" id="x1-19" media-type="application/xhtml+xml" />
+    <item href="Styles/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css" />
+    <item href="Images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/yky_fmt.jpeg" id="yky_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="on_kapak" />
+    <itemref idref="x1" />
+    <itemref idref="x1-1" />
+    <itemref idref="x1-2" />
+    <itemref idref="x1-3" />
+    <itemref idref="x1-4" />
+    <itemref idref="x1-5" />
+    <itemref idref="x1-6" />
+    <itemref idref="x1-7" />
+    <itemref idref="x1-8" />
+    <itemref idref="x1-9" />
+    <itemref idref="x1-10" />
+    <itemref idref="x1-11" />
+    <itemref idref="x1-12" />
+    <itemref idref="x1-13" />
+    <itemref idref="x1-14" />
+    <itemref idref="x1-15" />
+    <itemref idref="x1-16" />
+    <itemref idref="x1-17" />
+    <itemref idref="x1-18" />
+    <itemref idref="x1-19" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover" xmlns="http://www.idpf.org/2007/opf" />
+  </guide>
+</package>

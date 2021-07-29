@@ -1,0 +1,52 @@
+p{text-indent:0;margin-left:1.4em;line-height:1.3em;margin-right:1.4em;text-align:justify;margin-top:.57em;margin-bottom:0;font-size:95%}
+.p1{text-indent:0;margin-left:0;line-height:100%;margin-right:.13em;text-align:center;margin-top:0}
+.p2{text-indent:0;margin-left:0;margin-right:.13em;text-align:center}
+.p3{text-indent:0;margin-left:0;margin-right:.13em}
+.p4{text-indent:0;margin-left:3.4em;text-align:right}
+.p6{text-indent:0;text-align:center}
+.p7{text-indent:0;margin-left:4.1em;line-height:100%;margin-right:4.1em;text-align:center;margin-top:.95em;margin-bottom:.76em}
+.p8{text-indent:0;text-align:right}
+.p9{text-indent:-1.4em;margin-left:2.7em;line-height:100%;margin-top:0}
+.p10{text-indent:-1.5em;margin-left:3.4em;line-height:100%;margin-right:0;text-align:left;margin-top:0}
+.p11{text-indent:0}
+h1{text-indent:0;margin-left:.89em;line-height:150%;margin-right:.89em;text-align:center;page-break-after:avoid;margin-top:.75em;margin-bottom:.75em;font-size:145%;font-weight:normal;color:#1f4e79}
+.h11{text-indent:0}
+h2{text-indent:0;margin-left:1.1em;line-height:1.1em;margin-right:1.1em;text-align:justify;page-break-after:avoid;margin-top:.15em;margin-bottom:0;font-size:118%;font-weight:normal;color:#2e74b5}
+.h21{text-indent:0}
+.t1{font-size:2.7em;line-height:100%;letter-spacing:-.018em}
+.t2{font-size:2.7em;line-height:100%;color:#993300;letter-spacing:-.018em}
+.t4{font-size:1em}
+.t5{font-size:1.3em;line-height:100%;letter-spacing:-.036em}
+.t7{font-size:1.1em;font-weight:bold}
+.t8{font-size:1.1em}
+.t9{font-size:1.1em;color:red}
+.t11{font-size:.65em;vertical-align:super}
+.t12{font-weight:bold}
+.t13{font-size:.95em;line-height:100%;font-style:italic;color:#404040}
+.t14{font-style:italic}
+.t15{font-size:.65em;color:red;vertical-align:super}
+.t16{font-size:.62em;color:red;vertical-align:super}
+.t17{font-size:.62em;line-height:100%;vertical-align:super}
+.t19{font-size:.86em;line-height:100%}
+body	{
+	background-color:#fcfff6;
+	margin:auto;
+	max-width:33em;
+	}
+@media screen and (orientation:landscape) {
+    html {
+	background:#fdfdfd fixed;
+	}
+    body {
+	-moz-box-shadow: 5px 5px 25px 10px #888;
+	-webkit-box-shadow: 5px 5px 25px 10px #888;
+	box-shadow: 5px 5px 25px 10px #888;
+    }
+}
+@media screen {
+    body {
+	margin:1em auto;
+	max-width:33em;
+	padding:3em 4em;
+    }
+}

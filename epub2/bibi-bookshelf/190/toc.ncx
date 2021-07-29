@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr-TR">
+<head><meta name="uid" content="{B0A7228F-2A44-4BD2-AC0F-D65B0F1C1175}"/></head>
+<docTitle><text>Terry Pratchett - Tiffany Aching IV - Geceye Burunecegim e</text></docTitle>
+<navMap>
+<navPoint playOrder="1" id="{EEDE9254-9190-45ED-91C8-2656C6F7A8B5}"><navLabel><text>qeceve</text></navLabel><content src="main-1.xhtml"/></navPoint>
+<navPoint playOrder="2" id="{DA62B77D-5290-4464-BAE7-ECFC73BEF2AF}"><navLabel><text>geceye</text></navLabel><content src="main-2.xhtml"/></navPoint>
+<navPoint playOrder="3" id="{463CF36B-497D-48A2-87F1-97A4C3B57EF9}"><navLabel><text>“Ah, Sızı Nine’nin torunu. Alçakgönüllülükle özür </text></navLabel><content src="main-3.xhtml"/></navPoint>
+<navPoint playOrder="4" id="{F1AA7D8E-E08C-43DE-8B1F-A92DA75E154E}"><navLabel><text>Böfüm 7</text></navLabel><content src="main-4.xhtml"/></navPoint>
+<navPoint playOrder="5" id="{BE8634C3-98A3-494C-B891-27F0887641BE}"><navLabel><text>DÜŞES İLE HŞÇI</text></navLabel><content src="main-5.xhtml"/></navPoint>
+<navPoint playOrder="6" id="{CB7EBF73-BD29-4755-9CE4-D520A54B0759}"><navLabel><text>“Büyüyse mantıklı olması gerekmiyor,” dedi Letitia</text></navLabel><content src="main-6.xhtml"/></navPoint>
+<navPoint playOrder="7" id="{4E21968A-88C4-401F-A742-5743C6D6B9C9}"><navLabel><text>JBöfâm 13</text></navLabel><content src="main-7.xhtml"/></navPoint>
+<navPoint playOrder="8" id="{4BFBE1AF-B329-43C5-A6F1-2286F656687C}"><navLabel><text>SONSÖZ</text></navLabel><content src="main-8.xhtml"/></navPoint>
+</navMap></ncx>
