@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Deniz Feneri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Woolf, Virginia">Virginia Woolf</dc:creator>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{EBCEF08B-74DA-482B-8F94-6AB338E8E998}</dc:identifier>
+    <dc:date opf:event="modification">2017-03-21</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.8.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">ea2311de-cabc-47f4-b228-4bc05776426a</dc:identifier>
+    <meta content="0.9.6" name="Sigil version"/>
+    <meta name="cover" content="denizfeneri.jpg"/>
+    <meta content="Deniz Feneri" name="calibre:title_sort"/>
+    <meta content="{&quot;Virginia Woolf&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part1.xhtml" href="Text/part1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part2.xhtml" href="Text/part2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part3.xhtml" href="Text/part3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notlar.xhtml" href="Text/notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id8" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id7" href="Styles/main.css" media-type="text/css"/>
+    <item id="denizfeneri.jpg" href="Images/denizfeneri.jpg" media-type="image/jpeg"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id8">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="part1.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="part2.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="part3.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

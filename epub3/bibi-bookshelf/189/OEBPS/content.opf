@@ -1,0 +1,46 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Pelevin, Viktor">Viktor Pelevin</dc:creator>
+<dc:description>&lt;p&gt;Yeryüzünün en sınır tanımaz ve yaratıcı romancılarından Pelevin bu kez uzaya el atıyor. Sovyet Uzay Programı üzerine acımasız bir hiciv ve tek hayali kozmonot olup uzaya çıkmak olan Omon'un kara mizahla yüklü öyküsü. Fantastik yazının eşsiz örnekleriyle tüm dünyada büyük ilgi uyandıran Viktor Pelevin, saçmalığı estetik sınırlarına vardıran ve eleştirmenlerin Gogol ve Bulgakov'un eserleriyle kıyasladığı şaşırtıcı bir yapıtla bir kez daha Türkçe'de. Yazın tarihinin unutulmayacak serüvenlerinden biri için geri sayım başlıyor.
+&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid">{C3021BBE-0060-442D-8855-F7BB16C988C4}</dc:identifier>
+    <dc:date>2003-01-08T22:00:00+00:00</dc:date>
+    <dc:publisher>Dost Kitabevi</dc:publisher>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Omon Ra"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Viktor Pelevin&quot;: &quot;&quot;}"/>
+  <dc:title>Omon Ra</dc:title>
+<dc:subject>Bilim Kurgu</dc:subject>
+<dc:subject>Çağdaş Edebiyat</dc:subject>
+<dc:subject>Mizah</dc:subject>
+<dc:subject>Rus Edebiyatı</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">d554b706-0676-4b99-839b-d8402e386e82</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789752980556</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id5" media-type="text/css"/>
+    <item href="Images/or.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

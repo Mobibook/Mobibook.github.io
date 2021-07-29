@@ -1,0 +1,89 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>Dalgalar</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Woolf, Virginia">Virginia Woolf</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:publisher>Kırmızı Kedi</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2016-03-26</dc:date>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (3.22.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">46c0f6e0-68d7-49e3-9794-e6b3ed02ab2f</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="x251.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Dalgalar"/>
+    <meta name="calibre:author_link_map" content="{&quot;Virginia Woolf&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/1-1.html" id="x1-1" media-type="application/xhtml+xml"/>
+    <item href="Text/1-2.html" id="x1-2" media-type="application/xhtml+xml"/>
+    <item href="Text/1-3.html" id="x1-3" media-type="application/xhtml+xml"/>
+    <item href="Text/1-4.html" id="x1-4" media-type="application/xhtml+xml"/>
+    <item href="Text/1-5.html" id="x1-5" media-type="application/xhtml+xml"/>
+    <item href="Text/1-6.html" id="x1-6" media-type="application/xhtml+xml"/>
+    <item href="Text/1-7.html" id="x1-7" media-type="application/xhtml+xml"/>
+    <item href="Text/1-8.html" id="x1-8" media-type="application/xhtml+xml"/>
+    <item href="Text/1-9.html" id="x1-9" media-type="application/xhtml+xml"/>
+    <item href="Text/1-10.html" id="x1-10" media-type="application/xhtml+xml"/>
+    <item href="Text/1-11.html" id="x1-11" media-type="application/xhtml+xml"/>
+    <item href="Text/1-12.html" id="x1-12" media-type="application/xhtml+xml"/>
+    <item href="Text/1-13.html" id="x1-13" media-type="application/xhtml+xml"/>
+    <item href="Text/1-14.html" id="x1-14" media-type="application/xhtml+xml"/>
+    <item href="Text/1-15.html" id="x1-15" media-type="application/xhtml+xml"/>
+    <item href="Text/1-16.html" id="x1-16" media-type="application/xhtml+xml"/>
+    <item href="Text/1-17.html" id="x1-17" media-type="application/xhtml+xml"/>
+    <item href="Text/1-18.html" id="x1-18" media-type="application/xhtml+xml"/>
+    <item href="Text/1-19.html" id="x1-19" media-type="application/xhtml+xml"/>
+    <item href="Text/1-20.html" id="x1-20" media-type="application/xhtml+xml"/>
+    <item href="Text/1-21.html" id="x1-21" media-type="application/xhtml+xml"/>
+    <item href="Text/1-22.html" id="x1-22" media-type="application/xhtml+xml"/>
+    <item href="Text/1-23.html" id="x1-23" media-type="application/xhtml+xml"/>
+    <item href="Text/1-24.html" id="x1-24" media-type="application/xhtml+xml"/>
+    <item href="Text/1-25.html" id="x1-25" media-type="application/xhtml+xml"/>
+    <item href="Text/1-26.html" id="x1-26" media-type="application/xhtml+xml"/>
+    <item href="Text/1-27.html" id="x1-27" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/251.jpg" id="x251.jpg" media-type="image/jpeg"/>
+    <item href="Images/kirmizikedi_fmt.jpeg" id="kirmizikedi_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/kirmizikedi_fmt1.jpeg" id="kirmizikedi_fmt1.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1"/>
+    <itemref idref="x1-1"/>
+    <itemref idref="x1-2"/>
+    <itemref idref="x1-3"/>
+    <itemref idref="x1-4"/>
+    <itemref idref="x1-5"/>
+    <itemref idref="x1-6"/>
+    <itemref idref="x1-7"/>
+    <itemref idref="x1-8"/>
+    <itemref idref="x1-9"/>
+    <itemref idref="x1-10"/>
+    <itemref idref="x1-11"/>
+    <itemref idref="x1-12"/>
+    <itemref idref="x1-13"/>
+    <itemref idref="x1-14"/>
+    <itemref idref="x1-15"/>
+    <itemref idref="x1-16"/>
+    <itemref idref="x1-17"/>
+    <itemref idref="x1-18"/>
+    <itemref idref="x1-19"/>
+    <itemref idref="x1-20"/>
+    <itemref idref="x1-21"/>
+    <itemref idref="x1-22"/>
+    <itemref idref="x1-23"/>
+    <itemref idref="x1-24"/>
+    <itemref idref="x1-25"/>
+    <itemref idref="x1-26"/>
+    <itemref idref="x1-27"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

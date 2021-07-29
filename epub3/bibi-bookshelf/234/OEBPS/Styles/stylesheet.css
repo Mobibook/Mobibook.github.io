@@ -1,0 +1,225 @@
+.block_ {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    line-height: 15.6pt;
+    text-align: justify;
+    text-indent: 1.5em;
+    padding: 0;
+    margin: 0
+    }
+.block_1 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times", serif;
+    font-size: 0.75em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 16.5pt;
+    padding: 0;
+    margin: 0 0 0 11.5pt
+    }
+.block_2 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times", serif;
+    font-size: 0.75em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 16.5pt;
+    padding: 0;
+    margin: 0 0 0 11.5pt
+    }
+.block_3 {
+    border-bottom: 0;
+    border-top: 0;
+    color: black;
+    display: block;
+    font-family: "Times", serif;
+    font-size: 0.75em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 17.2pt;
+    padding: 0;
+    margin: 0 0 0 11.5pt
+    }
+.block_4 {
+    border-bottom: 0;
+    border-top: 0;
+    color: #00F;
+    display: block;
+    font-family: "Times", serif;
+    font-size: 0.75em;
+    line-height: 1.2;
+    text-align: center;
+    text-decoration: underline;
+    text-indent: 17.2pt;
+    padding: 0;
+    margin: 0 0 0 11.5pt
+    }
+.block_5 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times", serif;
+    font-size: 1.41667em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 17.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block_6 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times", serif;
+    font-size: 2em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.block_7 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times", serif;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 11.5pt;
+    padding: 0;
+    margin: 0
+    }
+.block_8 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times", serif;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 11.5pt;
+    padding: 0;
+    margin: 0
+    }
+.block_9 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    line-height: 15.6pt;
+    text-align: justify;
+    text-indent: 1.5em;
+    padding: 0;
+    margin: 0
+    }
+.block_10 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-style: italic;
+    line-height: 15.6pt;
+    text-align: justify;
+    text-indent: 1.5em;
+    padding: 0;
+    margin: 0
+    }
+.block_11 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-style: italic;
+    line-height: 15.6pt;
+    text-align: justify;
+    text-indent: 1.5em;
+    padding: 0;
+    margin: 0
+    }
+.block_12 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    line-height: 15.6pt;
+    text-align: center;
+    text-indent: 18pt;
+    padding: 0;
+    margin: 0
+    }
+.block_13 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    line-height: 15.6pt;
+    text-align: center;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    height: 596pt;
+    margin-left: auto;
+    margin-right: auto;
+    width: 421pt
+    }
+.calibre2 {
+    line-height: 1.2
+    }
+.calibre3 {
+    height: 42.7pt;
+    line-height: 1.2;
+    width: 33.6pt
+    }
+.calibre4 {
+    white-space: pre-wrap
+    }
+.calibre5 {
+    height: 590pt;
+    width: 414pt
+    }
+.scenebreak {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    page-break-before: avoid;
+    text-align: center;
+    text-indent: 0%;
+    padding: 0;
+    margin: 0
+    }
+.softbreak {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    page-break-before: avoid;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.text_ {
+    color: #00F;
+    line-height: 1.2;
+    text-decoration: underline
+    }
+.whitespace {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="c67fd74b-3cf1-4b98-a554-1671a876ec68" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Havva</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="47801b95-0013-4351-b5c9-b674dc7665de" playOrder="1">
+      <navLabel>
+        <text>Sunuş</text>
+      </navLabel>
+      <content src="Text/havva_split_004.html"/>
+    </navPoint>
+    <navPoint id="6660ce20-d2ed-44ff-bc69-3c9f1c6b0b7e" playOrder="2">
+      <navLabel>
+        <text>Dost</text>
+      </navLabel>
+      <content src="Text/havva_split_005.html"/>
+    </navPoint>
+    <navPoint id="0bbafb89-768a-404c-8338-f85495772c47" playOrder="3">
+      <navLabel>
+        <text>Havva</text>
+      </navLabel>
+      <content src="Text/havva_split_006.html"/>
+    </navPoint>
+    <navPoint id="4eb3e7e6-df3a-4c3b-91c9-34c9d7bdfc73" playOrder="4">
+      <navLabel>
+        <text>Kibrit</text>
+      </navLabel>
+      <content src="Text/havva_split_007.html"/>
+    </navPoint>
+    <navPoint id="f2b98ee8-6ae0-4e5a-9c3d-ce3a8243a177" playOrder="5">
+      <navLabel>
+        <text>Boş Yücelik</text>
+      </navLabel>
+      <content src="Text/havva_split_008.html"/>
+    </navPoint>
+    <navPoint id="75bf796e-ec32-4b16-876d-638c6de2a7fa" playOrder="6">
+      <navLabel>
+        <text>İlki</text>
+      </navLabel>
+      <content src="Text/havva_split_009.html"/>
+    </navPoint>
+    <navPoint id="42f8fe24-b3b5-4631-bc93-338fae90711a" playOrder="7">
+      <navLabel>
+        <text>Sal</text>
+      </navLabel>
+      <content src="Text/havva_split_010.html"/>
+    </navPoint>
+    <navPoint id="f04d2ab7-6e25-4045-9205-60be6f282077" playOrder="8">
+      <navLabel>
+        <text>Leblebici</text>
+      </navLabel>
+      <content src="Text/havva_split_011.html"/>
+    </navPoint>
+    <navPoint id="5a831fa3-74c5-4be6-a631-e2e769c69919" playOrder="9">
+      <navLabel>
+        <text>Kuş</text>
+      </navLabel>
+      <content src="Text/havva_split_012.html"/>
+    </navPoint>
+    <navPoint id="93b67c45-a5a3-41b0-9e83-a181bf8b84e3" playOrder="10">
+      <navLabel>
+        <text>Biraz da Ağla Descartes</text>
+      </navLabel>
+      <content src="Text/havva_split_013.html"/>
+    </navPoint>
+    <navPoint id="3f4446dd-ccce-4eeb-b6d4-ddafae805641" playOrder="11">
+      <navLabel>
+        <text>Siyah-Beyaz</text>
+      </navLabel>
+      <content src="Text/havva_split_014.html"/>
+    </navPoint>
+    <navPoint id="61d4e735-2ad8-46b5-bf05-9befe06e87a3" playOrder="12">
+      <navLabel>
+        <text>Nihavent Saz Semaisi</text>
+      </navLabel>
+      <content src="Text/havva_split_015.html"/>
+    </navPoint>
+    <navPoint id="8c8b73a2-414d-4581-b0a4-7e804f20ee98" playOrder="13">
+      <navLabel>
+        <text>Bisiklet</text>
+      </navLabel>
+      <content src="Text/havva_split_016.html"/>
+    </navPoint>
+    <navPoint id="7879f788-2f04-44a2-92f1-5e55d2adabc4" playOrder="14">
+      <navLabel>
+        <text>Ergenekon</text>
+      </navLabel>
+      <content src="Text/havva_split_017.html"/>
+    </navPoint>
+    <navPoint id="fb39a6d3-3f92-41b1-a0f9-38a33589e508" playOrder="15">
+      <navLabel>
+        <text>Kara Tren</text>
+      </navLabel>
+      <content src="Text/havva_split_018.html"/>
+    </navPoint>
+    <navPoint id="e0b130a0-7de9-45c4-b305-488977481c81" playOrder="16">
+      <navLabel>
+        <text>Buluşma</text>
+      </navLabel>
+      <content src="Text/havva_split_019.html"/>
+    </navPoint>
+    <navPoint id="59ee3e1b-4536-4fc8-8bb3-3facd9fb745b" playOrder="17">
+      <navLabel>
+        <text>Uçak Korkusu</text>
+      </navLabel>
+      <content src="Text/havva_split_020.html"/>
+    </navPoint>
+    <navPoint id="18752b31-dbb9-40d7-9117-82ff9a1edeea" playOrder="18">
+      <navLabel>
+        <text>Sünnet</text>
+      </navLabel>
+      <content src="Text/havva_split_021.html"/>
+    </navPoint>
+    <navPoint id="f9663cea-51bf-49dd-b104-85c4f00ef592" playOrder="19">
+      <navLabel>
+        <text>Palto</text>
+      </navLabel>
+      <content src="Text/havva_split_022.html"/>
+    </navPoint>
+    <navPoint id="e09fc267-2b9b-4677-9ab2-be454435c2fc" playOrder="20">
+      <navLabel>
+        <text>Ya Herru Ya Merru</text>
+      </navLabel>
+      <content src="Text/havva_split_023.html"/>
+    </navPoint>
+    <navPoint id="e0bbdd45-a0ff-4907-8e48-2447b3b82064" playOrder="21">
+      <navLabel>
+        <text>Yorumsuz</text>
+      </navLabel>
+      <content src="Text/havva_split_024.html"/>
+    </navPoint>
+    <navPoint id="d4f3dac0-2d25-4185-a57b-5a6db9aecc29" playOrder="22">
+      <navLabel>
+        <text>Bir Bardak Sıcak Çay</text>
+      </navLabel>
+      <content src="Text/havva_split_025.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

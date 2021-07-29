@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="6ca243bd-0049-47fe-9dc2-441bc23cf1ba" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.8.57)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Sanatta Ruhsallık Üzerine</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="291d2c93-0985-445c-99d4-5d97fde6277b" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/Sanatta_Ruhsallik_Uzerine_split_003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="65f1bc3e-6b2f-4e13-844f-01223a293f33" playOrder="2">
+      <navLabel>
+        <text>İngilizceye Çevirenin Önsözü</text>
+      </navLabel>
+      <content src="Text/Sanatta_Ruhsallik_Uzerine_split_004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="0c5acac5-cda6-4ffc-a5ec-7f2c3a36c88e" playOrder="3">
+      <navLabel>
+        <text>Sanatta Ruhsallık Üzerine</text>
+      </navLabel>
+      <content src="Text/Sanatta_Ruhsallik_Uzerine_split_005.html"/>
+      <navPoint class="chapter" id="2b90276a-82b6-4216-aed8-fe7b08067731" playOrder="4">
+        <navLabel>
+          <text>Genel Estetik Üzerine</text>
+        </navLabel>
+        <content src="Text/Sanatta_Ruhsallik_Uzerine_split_006.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="28efe159-7bbb-49c5-bf93-922f70c3528d" playOrder="5">
+        <navLabel>
+          <text>Üçgenin Hareketi</text>
+        </navLabel>
+        <content src="Text/Sanatta_Ruhsallik_Uzerine_split_007.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="7621cb16-143a-46b6-831b-60291ba04328" playOrder="6">
+        <navLabel>
+          <text>Ruhsal Devrim</text>
+        </navLabel>
+        <content src="Text/Sanatta_Ruhsallik_Uzerine_split_008.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="d3455d06-b77d-4726-bcaf-e6ade5662d8c" playOrder="7">
+        <navLabel>
+          <text>Piramit</text>
+        </navLabel>
+        <content src="Text/Sanatta_Ruhsallik_Uzerine_split_009.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="d6037436-a633-4171-983c-a19002730edc" playOrder="8">
+      <navLabel>
+        <text>Resim Üzerine</text>
+      </navLabel>
+      <content src="Text/Sanatta_Ruhsallik_Uzerine_split_011.html"/>
+      <navPoint class="chapter" id="9441aa4f-2410-4d2c-be1c-fa49c38dea33" playOrder="9">
+        <navLabel>
+          <text>Rengin Psikolojik İşlevi</text>
+        </navLabel>
+        <content src="Text/Sanatta_Ruhsallik_Uzerine_split_012.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="a415f5e5-a5e0-41f2-becf-b511c68879c0" playOrder="10">
+        <navLabel>
+          <text>Formun ve Rengin Dili</text>
+        </navLabel>
+        <content src="Text/Sanatta_Ruhsallik_Uzerine_split_013.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="c4a13c81-4d9e-4dda-b2a5-63852ddda9f1" playOrder="11">
+        <navLabel>
+          <text>Teori</text>
+        </navLabel>
+        <content src="Text/Sanatta_Ruhsallik_Uzerine_split_022.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="f69cc1c5-4320-49e5-9072-cbfe1c2d7d22" playOrder="12">
+        <navLabel>
+          <text>sanat ve sanatçılar</text>
+        </navLabel>
+        <content src="Text/Sanatta_Ruhsallik_Uzerine_split_023.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="9bf5cf4a-5216-43b4-a431-35e2f6f6e1ca" playOrder="13">
+      <navLabel>
+        <text>SONUÇ</text>
+      </navLabel>
+      <content src="Text/Sanatta_Ruhsallik_Uzerine_split_024.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:identifier id="uuid_id" opf:scheme="uuid">2bf92d1f-28e4-4869-aaf0-e0663cac3946</dc:identifier>
+    <dc:title>Tuzak</dc:title>
+    <dc:creator opf:file-as="Smith, Wilbur" opf:role="aut">Wilbur Smith</dc:creator>
+    <dc:language>tr</dc:language>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <meta content="Courtney Serisi" name="calibre:series" />
+    <meta content="8" name="calibre:series_index" />
+    <meta content="Tuzak" name="calibre:title_sort" />
+    <meta content="2011-09-01T09:44:51+00:00" name="calibre:timestamp" />
+    <meta content="0.8.7" name="Sigil version" />
+    <meta name="cover" content="cover" />
+    <dc:date opf:event="modification">2015-12-27</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Images/cover_u1.jpeg" id="cover" media-type="image/jpeg" />
+    <item href="Fonts/Times-New-Roman-Italic.ttf" id="font1" media-type="application/x-font-truetype" />
+    <item href="Fonts/Times-New-Roman.ttf" id="font" media-type="application/x-font-truetype" />
+    <item href="Images/00003.jpeg" id="id3" media-type="image/jpeg" />
+    <item href="Images/Altin-Kitaplar.jpeg" id="id4" media-type="image/jpeg" />
+    <item href="Text/index_split_000.html" id="id213" media-type="application/xhtml+xml" />
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_007.html" id="id26" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_008.html" id="id25" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_009.html" id="id24" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_010.html" id="id23" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_011.html" id="id22" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_012.html" id="id21" media-type="application/xhtml+xml" />
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/Style_ayh.css" id="Style_ayh.css" media-type="text/css" />
+    <item href="Text/index_split_003.html" id="index_split_003.html" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="id213" />
+    <itemref idref="index_split_003.html" />
+    <itemref idref="Section0001.html" />
+    <itemref idref="id26" />
+    <itemref idref="id25" />
+    <itemref idref="id24" />
+    <itemref idref="id23" />
+    <itemref idref="id22" />
+    <itemref idref="id21" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

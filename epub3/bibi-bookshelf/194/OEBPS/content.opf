@@ -1,0 +1,61 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Woolf, Virginia">Virginia Woolf</dc:creator>
+<meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="x186.png"/>
+    <dc:description>&lt;p&gt;Birinci Dünya Savaşı'nın sonunda Londra. Sıcak bir yaz günü Clarissa Dalloway o akşam vereceği büyük partiye hazırlanmaktadır. Aynı gün Hindistan'dan beklenmedik bir ziyaretçi gelir: İlk aşkı Peter Walsh. Onun bu apansız gelişi uzak bir geçmişin anılarını, eski arkadaşlıkları ve Clarissa'nın gençliğinde yaptığı tercihleri canlandırır zihninde. Bütün yaşamı, ilişkileri ve sıradan, tekdüze evliliğine götüren olaylar bir bir geçer gözlerinin önünden.
+
+Clarissa çevresinde sürüp giden hayata ve o hayatın içindeki sayısız insana odaklanırken, yazar da çeşitli karakterler arasında gidip gelir ve onların yaşadıklarını Mrs. Dalloway'in akıp giden gününün içine yerleştirir. Virginia Woolf, 'Clarissa Dalloway'in hayatında bir gün' ü, en yetkin temsilcisi olduğu bilinçakışı tekniğiyle anlattığı bu romanında, erkekle kadın ve iki kadın arasındaki ilişkilere de bir pencere açıyor; karakterlerin her birinin iç dünyasına okuru da dahil ediyor; geçmişe ait benzersiz ama acı veren imgeleri bugünün imgelerine katıyor, toplumun dayattıklarının altında boğulan arzuları incelikle işliyor. Hayatı ve dış dünyayı her bir karakterinin gözünden ve zihninden muhteşem bir çözümlemeyle sunarken, zamanının ruhunu da başarıyla yansıtıyor.
+
+Mrs. Dalloway, Türkiye'de ilk yayımlanışından 35 yıl sonra İlknur Özdemir'in çevirisiyle yeniden okurlarıyla buluşuyor.&lt;/p&gt;</dc:description>
+    <dc:publisher>Kırmızı Kedi</dc:publisher>
+    <dc:date>2012-04-29T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:E25F60C4-8FAA-48C2-938F-7291480288E3</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2016-03-26</dc:date>
+  <dc:title>Mrs. Dalloway</dc:title>
+<meta name="calibre:title_sort" content="Mrs. Dalloway"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Orijinal</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Virginia Woolf&quot;: &quot;&quot;}"/>
+<dc:language>en</dc:language>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">ee7333b8-ff45-4977-8947-bbcdf19eb352</dc:identifier>
+<dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9786055340131</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="Images/kapak_fmt.png" id="kapak_fmt.png" media-type="image/png"/>
+    <item href="Images/KedigriLogo-1_fmt.jpeg" id="KedigriLogo-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/KedigriLogo-1_fmt1.jpeg" id="KedigriLogo-1_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="Fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/x-font-otf"/>
+    <item href="Fonts/MinionPro-It.otf" id="MinionPro-It.otf" media-type="application/x-font-otf"/>
+    <item href="Fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/x-font-otf"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

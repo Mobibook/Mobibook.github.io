@@ -1,0 +1,95 @@
+.Balk2Char {
+    font-weight: bold
+    }
+.calibre {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre1 {
+    line-height: 1.2
+    }
+.calibre2 {
+    line-height: 1.2
+    }
+.calibre3 {
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: center
+    }
+.calibre4 {
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: center
+    }
+.calibre6 {
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: justify
+    }
+.calibre7 {
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid
+    }
+.calibre8 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre9 {
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid
+    }
+.MsoNormal {
+    border-bottom: 0;
+    border-top: 0;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center
+    }
+.MsoNormal1 {
+    border-bottom: 0;
+    border-top: 0;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em
+    }
+.MsoNormal2 {
+    border-bottom: 0;
+    border-top: 0;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-indent: 1.5em
+    }
+.MsoNoSpacing {
+    border-bottom: 0;
+    border-top: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em
+    }
+.Section {
+    border-bottom: 0;
+    border-top: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    page: Section1;
+    text-indent: 1.5em
+    }

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="82f0a02c-d2c2-42e0-9d13-6a6fe4afbcdb" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Nisan Tezleri ve Ekim Devrimi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/E03.htm"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>NİSAN TEZLERİ</text>
+        </navLabel>
+        <content src="Text/E03.htm#calibre_toc_2"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>TEZLER</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>İKTİDAR İKİLİĞİ ÜZERİNE</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>GİRİŞ</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>BİRİNCİ MEKTUP GÜNCEL DURUMUN TAHLİLİ</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>DEVRİMİMİZDE PROLETARYANIN GÖREVLERİ (PROLETARYA PARTİSİ İÇİN PLATFORM TASARISI)</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>GERÇEKLEŞEN DEVRİMİN SINIF NİTELİĞİ</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>YENİ HÜKÜMETİN DIŞ SİYASETİ</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>ÖZGÜN İKTİDAR İKİLİĞİ VE BUNUN SINIFSAL ANLAMI</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>BURAYA DEĞİN SÖYLENENLERDEN ÇIKAN TAKTİĞİN ÖZGÜNLÜĞÜ</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>DEVRİMCİ AŞIRICILIK VE BUNUN SINIFSAL ANLAMI</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>SAVAŞ NASIL SONA ERDİRİLEBİLİR?</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>DEVRİMİMİZİN YARATTIĞI YENİ DEVLET TİPİ</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>TARIM PROGRAMI VE ULUSAL PROGRAM</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>KAPİTALİST BANKA VE SENDİKALARIN ULUSALLAŞTIRILMASI</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>SOSYALİST ENTERNASYONALDEKİ DURUM</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>ZİMMERWALD ENTERNASYONALİ BAŞARISIZLIĞA UĞRADI III. ENTERNASYONALİ KURMAK GEREKİR</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>BİLİMSEL BAKIMDAN DOĞRU OLMAK VE PROLETARYANIN</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>SİYASAL BİLİNCİNİ AYDINLATMAK İÇİN PARTİMİZİN ADI NE OLMALI?</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>SONSÖZ</text>
+        </navLabel>
+        <content src="Text/E03.htm#sigil_toc_id_19"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/E04.htm"/>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>EKİM ÖNGÜNÜNDE</text>
+        </navLabel>
+        <content src="Text/E04.htm#calibre_toc_4"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>RUSYA’DA SİYASAL PARTİLER VE PROLETARYANIN GÖREVLERİ</text>
+        </navLabel>
+        <content src="Text/E04.htm#calibre_toc_11"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>SORULAR, YANITLAR</text>
+        </navLabel>
+        <content src="Text/E04.htm#calibre_toc_24"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>ÜÇ BUNALIM</text>
+        </navLabel>
+        <content src="Text/E04.htm#calibre_toc_12"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>SİYASAL DURUM (DÖRT TEZ)</text>
+        </navLabel>
+        <content src="Text/E04.htm#calibre_toc_13"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>DEVRİMİN ÖĞRETTİKLERİ</text>
+        </navLabel>
+        <content src="Text/E04.htm#calibre_toc_14"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>SONSÖZ</text>
+        </navLabel>
+        <content src="Text/E04.htm#calibre_toc_25"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>BİR GAZETECİNİN GÜNLÜĞÜNDEN SAYFALAR KÖYLÜLER VE İŞÇİLER</text>
+        </navLabel>
+        <content src="Text/E04.htm#calibre_toc_15"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>RSDİP MERKEZ KOMİTESİNE</text>
+        </navLabel>
+        <content src="Text/E04.htm#calibre_toc_16"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>SİYASAL DURUM ÜZERİNE KARAR TASLAĞI</text>
+        </navLabel>
+        <content src="Text/E04.htm#calibre_toc_17"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/E05.htm"/>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>EKİM DEVRİMİNİN DÜZENLEYİCİSİ OLARAK PARTİ</text>
+        </navLabel>
+        <content src="Text/E05.htm#calibre_toc_8"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>MARKSİZM VE AYAKLANMA RSDİP(B) MERKEZ KOMİTESİNE MEKTUP</text>
+        </navLabel>
+        <content src="Text/E05.htm#calibre_toc_18"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>RUS DEVRİMİ VE İÇ SAVAŞ İÇ SAVAŞ KORKULUĞU</text>
+        </navLabel>
+        <content src="Text/E05.htm#calibre_toc_19"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>DEVRİMİN GÖREVLERİ</text>
+        </navLabel>
+        <content src="Text/E05.htm#calibre_toc_20"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>KAPİTALİSTLERLE ANLAŞMA SİYASETİNİN ZARARLI SONUÇLARI</text>
+        </navLabel>
+        <content src="Text/E05.htm#calibre_toc_26"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>İKTİDAR SOVYETLERE</text>
+        </navLabel>
+        <content src="Text/E05.htm#calibre_toc_27"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>HALKLARA BARIŞ</text>
+        </navLabel>
+        <content src="Text/E05.htm#calibre_toc_28"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>TOPRAK İŞLEYENLERE</text>
+        </navLabel>
+        <content src="Text/E05.htm#calibre_toc_29"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>AÇLIĞA, VE İKTİSADÎ ÇÖKÜŞE KARŞI SAVAŞIM</text>
+        </navLabel>
+        <content src="Text/E05.htm#calibre_toc_21"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>DEVRİM DÜŞMANI TOPRAK SAHİPLERİNE VE KAPİTALİSTLERE KARŞI SAVAŞIM</text>
+        </navLabel>
+        <content src="Text/E05.htm#calibre_toc_30"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>DEVRİMİN BARIŞÇI YOLLA GELİŞMESİ</text>
+        </navLabel>
+        <content src="Text/E05.htm#calibre_toc_31"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>KUZEY BÖLGESİ SOVYETLERİ KONGRESİNE KATILAN BOLŞEVİK YOLDAŞLARA MEKTUP</text>
+        </navLabel>
+        <content src="Text/E05.htm#calibre_toc_22"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>RAPOR. TUTANAK</text>
+        </navLabel>
+        <content src="Text/E05.htm#calibre_toc_32"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>KARAR</text>
+        </navLabel>
+        <content src="Text/E05.htm#calibre_toc_33"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>YOLDAŞLARA MEKTUP</text>
+        </navLabel>
+        <content src="Text/E05.htm#calibre_toc_23"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>SONSÖZ</text>
+        </navLabel>
+        <content src="Text/E05.htm#calibre_toc_34"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Açıklayıcı Notlar</text>
+      </navLabel>
+      <content src="Text/E06.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

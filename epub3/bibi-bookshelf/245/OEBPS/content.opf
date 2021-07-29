@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Sineklerin Tanrısı</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Golding, William">William Golding</dc:creator>
+    <dc:date>2007-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:6f8f412e-44fc-408c-b730-7ddd3e332df7</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;"Sineklerin Tanrısı", günümüzde bir atom savaşı sırasında, ıssız bir adaya düşen bir avuç okul çocuğunun, geldikleri dünyanın bütün uygar törelerinden uzaklaşarak, insan yaradılışının temelindeki korkunç bir gerçeği ortaya koymalarını dile getirir. Konusu, R. M. Ballantyne'ın Mercan Adası gibi eşsiz bir mercan adasının cenneti andıran ortamında başlayan bu roman, çağdaş toplumlardaki çöküntünün, insan yaradılışındaki köklerini gözönüne sermek amacıyla Mercan Adası'ndaki duygusal iyimserlikten apayrı bir yönde gelişir. Uygar insanın yüreğinde gizlenen karanlığı deşerken "Sineklerin Tanrısı"; daha çok Conrad'ın kısa romanı "Karanlığın Yüreği"ni andırır. Golding'in romanındaki çocuklar da başlangıçta tıpkı Kurtz gibi, uygar toplumun baskılarından uzak bir örnek düzen kurmak isterlerken, gitgide hayvanlaşır, korkunç bir kişiliğe bürünürler. Bu yönüyle Sineklerin Tanrısı'nın Mercan Adası ile öbür ıssız ada serüvenlerinden ayrıldığı en önemli nokta, ıssız ada yaşamının çetin güçlüklerini ya da mutluluğunu anlatmaktan daha çok, bir insanlık durumunu, kişiler arasındaki çatışma aracılığıyla ortaya koymaya çalışmasıdır.&lt;/p&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">47626b98-f5b2-4ac5-8cb5-5ee189fc72f5</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789754582901</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-04-17 _fmt.png" id="Screen-20Shot-202012-04-17-20_fmt.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-04-17_fmt1.png" id="Screen-20Shot-202012-04-17_fmt1.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-04-17_fmt2.png" id="Screen-20Shot-202012-04-17_fmt2.png" media-type="image/png"/>
+    <item href="images/YUVARLAK_fmt.png" id="YUVARLAK_fmt.png" media-type="image/png"/>
+    <item href="fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/MinionPro-It.otf" id="MinionPro-It.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/x-font-otf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

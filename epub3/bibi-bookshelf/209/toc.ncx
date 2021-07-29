@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="efa0ef59-69ff-499d-8873-f13c47039276" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kapan</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="9ec1b0dc-9555-4fbd-8500-fba7743b3c07" playOrder="1">
+      <navLabel>
+        <text>Palto</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_004.html"/>
+    </navPoint>
+    <navPoint id="84885638-6751-485b-9789-cd8f6570a951" playOrder="2">
+      <navLabel>
+        <text>Dönüşsüzlüğe Övgü</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_005.html"/>
+    </navPoint>
+    <navPoint id="fa53dca4-6d65-4dc3-b188-3629494b0ef6" playOrder="3">
+      <navLabel>
+        <text>Ya Herru Ya Merru</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_006.html"/>
+    </navPoint>
+    <navPoint id="81623afb-51cb-4561-b8a7-0d3538b1433f" playOrder="4">
+      <navLabel>
+        <text>Kurtuluş</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_007.html"/>
+    </navPoint>
+    <navPoint id="f72aaf24-7e61-4b85-b8d1-c3386834c416" playOrder="5">
+      <navLabel>
+        <text>Yanılgı mı?</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_008.html"/>
+    </navPoint>
+    <navPoint id="f9f616ec-ebb2-43c0-aacb-8a9525e1692a" playOrder="6">
+      <navLabel>
+        <text>Uyumak</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_009.html"/>
+    </navPoint>
+    <navPoint id="08ae68f4-a96e-43c4-a165-237750690450" playOrder="7">
+      <navLabel>
+        <text>Kapan</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_010.html"/>
+    </navPoint>
+    <navPoint id="2f16caaf-489a-4cde-8952-36d921be8a4a" playOrder="8">
+      <navLabel>
+        <text>Durum</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_011.html"/>
+    </navPoint>
+    <navPoint id="96b9a78a-85e1-4f6b-9619-d023efb483fa" playOrder="9">
+      <navLabel>
+        <text>Sayıklama</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_012.html"/>
+    </navPoint>
+    <navPoint id="52eed3a7-371d-4e41-ae78-1db997667f7a" playOrder="10">
+      <navLabel>
+        <text>Yorumsuz</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_013.html"/>
+    </navPoint>
+    <navPoint id="eda467d7-6134-456e-ad0d-c65ddfeed58a" playOrder="11">
+      <navLabel>
+        <text>Çıkmaz Sokaklarda</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_014.html"/>
+    </navPoint>
+    <navPoint id="6c58049a-0c8b-4180-9195-5348340e464e" playOrder="12">
+      <navLabel>
+        <text>Kulak</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_015.html"/>
+    </navPoint>
+    <navPoint id="df524e51-38ff-43f1-a811-e3bd162b3b0c" playOrder="13">
+      <navLabel>
+        <text>Yakınma</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_016.html"/>
+    </navPoint>
+    <navPoint id="b1f81382-652d-4dc5-8f8c-7c8a80d0677f" playOrder="14">
+      <navLabel>
+        <text>Nine</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_017.html"/>
+    </navPoint>
+    <navPoint id="cf142ca6-23e2-4690-9442-04866e1045c8" playOrder="15">
+      <navLabel>
+        <text>Tiryaki</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_018.html"/>
+    </navPoint>
+    <navPoint id="c504581a-4ddf-48e4-b266-5620025e82d0" playOrder="16">
+      <navLabel>
+        <text>Sorular</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_019.html"/>
+    </navPoint>
+    <navPoint id="4a9d7757-833f-43a4-9884-e2de902bdda7" playOrder="17">
+      <navLabel>
+        <text>Kaya</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_020.html"/>
+    </navPoint>
+    <navPoint id="11cb21a7-4fdd-47a3-8084-013d302c86c6" playOrder="18">
+      <navLabel>
+        <text>Tabanca</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_021.html"/>
+    </navPoint>
+    <navPoint id="0a480e68-9a64-49bf-bb63-346b2898f19a" playOrder="19">
+      <navLabel>
+        <text>Bir Bardak Sıcak Çay</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_022.html"/>
+    </navPoint>
+    <navPoint id="587a8907-f73a-44c5-86e3-60c214f5a8d1" playOrder="20">
+      <navLabel>
+        <text>Bağımlılar Koğuşu</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_023.html"/>
+    </navPoint>
+    <navPoint id="d3b77cfa-3e8a-4d6b-b719-825d4ee57f5e" playOrder="21">
+      <navLabel>
+        <text>Mahmut Bey</text>
+      </navLabel>
+      <content src="Kapan_Vusat Bener_split_024.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

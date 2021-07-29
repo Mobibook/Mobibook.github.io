@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Dost Yaşamasız</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bener, Vüs'at O.">Vüs'at O. Bener</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:e2734640-7aa5-4226-a5a4-cb32983904cd</dc:identifier>
+    <dc:description>Modern Türk öyküclüğünde "altın kuşak" olarak tanımlanabilecek 1950 kuşağının önde gelen isimlerinden birisidir Vüs'at O. Bener. 1950'de New York Herald Tribune gazetesi ile Yeni İstanbul gazetesinin ortaklaşa düzenledikleri öykü yarışmasında "Dost" adlı öyküsüyle adını duyurdu. Yarım yüzyılda ortaya koyduğu az sayıdaki öykü, roman ve oyunlarla edebiyatımızda etkili ve saygın bir yer edindi. Şimdi bütün yapıtlarıyla YKY'de... Bener, konuşma dilini tüm doğallığıyla, ona yoğunluk kazandırarak kullanır. Behçet Necatigil, onun için "Gerçekleri aydınlıktan uzaklaştırıp soyutlamaları götürme çabaları ve anlatışındaki yeniliklerle çağdaşı hikayecilerden ayrı bir yol tuttu" der.</dc:description>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:date>2010-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:date opf:event="modification">2014-04-05</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">c45d5bff-a5b7-4c3a-ae0d-430c7adf7af0</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">2789785933540</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/1.html" id="x1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3.html" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="template.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/yky_fmt.jpeg" id="yky_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover-1.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="u5Ns83Ewnytl2VGbpVkhR23" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1.html"/>
+    <itemref idref="x2.html"/>
+    <itemref idref="x3.html"/>
+    <itemref idref="x4.html"/>
+    <itemref idref="x5.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

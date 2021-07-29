@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Hodgson, William Hope">William Hope Hodgson</dc:creator>
+<meta content="10.0" name="calibre:rating"/>
+    <dc:description>&lt;div&gt;Korku edebiyatının ustalarından William Hope Hodgson'ın en önemli eseri olarak kabul edilen Sınırdaki Ev, bilimkurgunun, gotik edebiyatın ve fantastik kurgunun iç içe geçtiği tekinsizbir öyküye sahne oluyor. Lovecraft'ın hayranlık duyduğu eserlerden biri olan bu kitap, yeraltı ile yeryüzünün,Dünya ile Kozmos'un, geçmiş ile geleceğin, gerçeklik ile fantastiğin arasında sıkışıp kalan bir münzevinin öyküsünü anlatıyor. Modern edebiyatın başlıca konuları arasına giren Zaman, Ev, Birey, Akıl gibi kavramlar hakkında yadırgatıcı birbakış açısı sunan Sınırdaki Ev, her zaman "sınırlar"la ilgilenmiş olan korku edebiyatının bize tuttuğu aynalardan biri. Hodgson'ın da gösterdiği gibi, sırlarımız sınırlarımızda gizli.&lt;br&gt;(Tanıtım Bülteninden)&lt;br&gt;&lt;br&gt;&lt;/div&gt;</dc:description>
+    <meta content="2015-04-13T14:10:37.968000+00:00" name="calibre:timestamp"/>
+    <meta content="Sınırdaki Ev" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2014-04-12T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">793e0daf-81bf-46cc-8121-cc161c5af3ac</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2015-06-14</dc:date>
+  <dc:title>Sınırdaki Ev</dc:title>
+<dc:publisher>İthaki Yayınları</dc:publisher>
+<dc:subject>Korku</dc:subject>
+<dc:subject>Fantasik</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;William Hope Hodgson&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">a89ad68e-5a0a-4266-a2aa-55100ecf8671</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786053753735</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/main-14.png" id="id14" media-type="image/png"/>
+    <item href="Images/main-16.png" id="id16" media-type="image/png"/>
+    <item href="Images/main-18.png" id="id18" media-type="image/png"/>
+    <item href="Images/main-3.png" id="id3" media-type="image/png"/>
+    <item href="Images/main-4.png" id="id4" media-type="image/png"/>
+    <item href="Images/main-5.png" id="id5" media-type="image/png"/>
+    <item href="Images/main-6.png" id="id6" media-type="image/png"/>
+    <item href="Images/main-7.png" id="id7" media-type="image/png"/>
+    <item href="Images/ses.JPG" id="ses.JPG" media-type="image/jpeg"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

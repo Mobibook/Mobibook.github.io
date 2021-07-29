@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Lenin, Vladimir İlyiç">Vladimir İlyiç Lenin</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">82f0a02c-d2c2-42e0-9d13-6a6fe4afbcdb</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2007-12-30T22:00:00+00:00</dc:date>
+    <dc:publisher>Eriş Yayınları</dc:publisher>
+    <meta content="Nisan Tezleri ve Ekim Devrimi" name="calibre:title_sort"/>
+    <meta content="2014-12-31T19:48:53.161000+00:00" name="calibre:timestamp"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Vladimir İlyiç Lenin&quot;: &quot;&quot;}"/>
+  <dc:title>Nisan Tezleri ve Ekim Devrimi</dc:title>
+<dc:subject>Komünizm</dc:subject>
+<dc:subject>Sosyalizm</dc:subject>
+<dc:subject>Siyaset</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">611e7088-7b8a-4270-b56a-a3ffecd50945</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/E01.htm" id="E01.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/E02.htm" id="E02.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/E03.htm" id="E03.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/E04.htm" id="E04.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/E05.htm" id="E05.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/E06.htm" id="E06.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="E01.htm"/>
+    <itemref idref="E02.htm"/>
+    <itemref idref="E03.htm"/>
+    <itemref idref="E04.htm"/>
+    <itemref idref="E05.htm"/>
+    <itemref idref="E06.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

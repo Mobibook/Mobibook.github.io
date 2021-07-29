@@ -1,0 +1,2548 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="d78ba590-ecb9-46b2-a93b-7349697e7c6a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Sefiller</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM -FANTİNE</text>
+      </navLabel>
+      <content src="Text/006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>BİRİNCİ KİTAP -HAKTANIR BİR ADAM</text>
+      </navLabel>
+      <content src="Text/007.html#sigil_toc_id_1"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>1 PİSKOPOS MYRİEL</text>
+        </navLabel>
+        <content src="Text/007.html#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>2 CHARLES MYRIEL’İN «MONSENYÖR BIENVENU»(*) UNVANINI ALMASI</text>
+        </navLabel>
+        <content src="Text/007.html#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>3 İYİ KALPLİ PİSKOPOS’UN ÇETİN GÖREVİ</text>
+        </navLabel>
+        <content src="Text/007.html#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>4 TEORİ VE PRATİĞİN BİRLİĞİ</text>
+        </navLabel>
+        <content src="Text/007.html#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>5 MONSENYÖR BIENVENU’NUN AYNI CÜPPEYİ YILLAR BOYUNCA KULLANMASI</text>
+        </navLabel>
+        <content src="Text/007.html#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>6 PİSKOPOS’UN EVİNİN KORUYUCULARI</text>
+        </navLabel>
+        <content src="Text/007.html#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>7 CRAVATTE</text>
+        </navLabel>
+        <content src="Text/007.html#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>8 ŞARAPTAN SONRA FELSEFE</text>
+        </navLabel>
+        <content src="Text/007.html#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>9 KIZ KARDEŞİN AĞABEYE BAKIŞI</text>
+        </navLabel>
+        <content src="Text/007.html#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>10 MEÇHUL BİR IŞIK KARŞISINDA</text>
+        </navLabel>
+        <content src="Text/007.html#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>11 BİR AÇIKLAMA</text>
+        </navLabel>
+        <content src="Text/007.html#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>12 PİSKOPOS’UN YALNIZLIĞI</text>
+        </navLabel>
+        <content src="Text/007.html#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>13 PİSKOPOS’UN İNANÇLARI</text>
+        </navLabel>
+        <content src="Text/007.html#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>15 DÜŞÜNCELERİ</text>
+        </navLabel>
+        <content src="Text/007.html#sigil_toc_id_15"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>İKİNCİ KİTAP -DÜŞÜŞ</text>
+      </navLabel>
+      <content src="Text/008.html"/>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>1 YÜRÜMEKLE GEÇEN BİR GÜNÜN BİTİMİ</text>
+        </navLabel>
+        <content src="Text/008.html#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>2 ÖNLEMLİLİK VE BİLGELİK</text>
+        </navLabel>
+        <content src="Text/008.html#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>3 GÖZÜ KAPALI İTAAT</text>
+        </navLabel>
+        <content src="Text/008.html#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>4 PONTARLİER’DEKİ MANDIRALARA DAİR KİMİ AYRINTILAR</text>
+        </navLabel>
+        <content src="Text/008.html#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>5 HUZUR</text>
+        </navLabel>
+        <content src="Text/008.html#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>6 JEAN VALJEAN</text>
+        </navLabel>
+        <content src="Text/008.html#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>7 ÇARESİZLİĞİN UÇURUMUNDA</text>
+        </navLabel>
+        <content src="Text/008.html#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>8 GÖLGELER VE DENİZ</text>
+        </navLabel>
+        <content src="Text/008.html#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>9 YENİ YAKINMALAR</text>
+        </navLabel>
+        <content src="Text/008.html#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>10 JEAN VALJEAN’IN UYANIŞI</text>
+        </navLabel>
+        <content src="Text/008.html#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>11 JEAN VALJEAN NE YAPTI?</text>
+        </navLabel>
+        <content src="Text/008.html#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>12 PİSKOPOS ÇALIŞIYOR</text>
+        </navLabel>
+        <content src="Text/008.html#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>13 KÜÇÜK GERVAİS</text>
+        </navLabel>
+        <content src="Text/008.html#sigil_toc_id_28"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>ÜÇÜNCÜ KİTAP 1817</text>
+      </navLabel>
+      <content src="Text/009.html"/>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>1 1817 YILI</text>
+        </navLabel>
+        <content src="Text/009.html#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>2 ÇİFT DÖRTLÜ</text>
+        </navLabel>
+        <content src="Text/009.html#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>3 DÖRTLER</text>
+        </navLabel>
+        <content src="Text/009.html#sigil_toc_id_31"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>4 THOLOMYES'İN NEŞEYLE İSPANYOLCA BİR ŞARKI SÖYLEMESİ</text>
+        </navLabel>
+        <content src="Text/009.html#sigil_toc_id_32"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>5 BOMBARDA LOKANTASINDA</text>
+        </navLabel>
+        <content src="Text/009.html#sigil_toc_id_33"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>6 AŞKTAN SÖZ EDİLİYOR</text>
+        </navLabel>
+        <content src="Text/009.html#sigil_toc_id_34"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>7 THOLOMYES’NİN FELSEFESİ</text>
+        </navLabel>
+        <content src="Text/009.html#sigil_toc_id_35"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>8 BİR ATIN ÖLÜMÜ</text>
+        </navLabel>
+        <content src="Text/009.html#sigil_toc_id_36"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>9 NEŞELİ SON</text>
+        </navLabel>
+        <content src="Text/009.html#sigil_toc_id_37"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>DÖRDÜNCÜ KİTAP -EMANET ETMEK, BAZEN VERMEKTİR</text>
+      </navLabel>
+      <content src="Text/010.html"/>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>1 KARŞILAŞAN ANALAR</text>
+        </navLabel>
+        <content src="Text/010.html#sigil_toc_id_38"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>2 KARANLIK İKİ YÜZÜN BAŞLANGIÇ GÖRÜNÜŞLERİ</text>
+        </navLabel>
+        <content src="Text/010.html#sigil_toc_id_39"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>3 TARLAKUŞU</text>
+        </navLabel>
+        <content src="Text/010.html#sigil_toc_id_40"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>BEŞİNCİ KİTAP -DÜŞÜŞ</text>
+      </navLabel>
+      <content src="Text/011.html"/>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>1 SİYAH BONCUK SANAYİSİNİN YÜKSELİŞİ</text>
+        </navLabel>
+        <content src="Text/011.html#sigil_toc_id_41"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>2 MADELEİNE</text>
+        </navLabel>
+        <content src="Text/011.html#sigil_toc_id_42"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>3 LAFFİTTE BANKASINDAKİ BÜYÜK PARA</text>
+        </navLabel>
+        <content src="Text/011.html#sigil_toc_id_43"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>4 BAY MADELEİNE’İN MATEMİ</text>
+        </navLabel>
+        <content src="Text/011.html#sigil_toc_id_44"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>5 UFUKTAKİ ŞİMŞEKLER</text>
+        </navLabel>
+        <content src="Text/011.html#sigil_toc_id_45"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>6 FAUCHELEVENT BABA</text>
+        </navLabel>
+        <content src="Text/011.html#sigil_toc_id_46"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>7 FAUCHELEVENT BABANIN PARİS’TE BAHÇIVAN OLMASI</text>
+        </navLabel>
+        <content src="Text/011.html#sigil_toc_id_47"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>8 KÖTÜ YÜREKLİ BİR CADALOZ</text>
+        </navLabel>
+        <content src="Text/011.html#sigil_toc_id_48"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>9 CADI VİCTURNİEN'İN BAŞARISI</text>
+        </navLabel>
+        <content src="Text/011.html#sigil_toc_id_49"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>10 KARANLIK GÜNLER</text>
+        </navLabel>
+        <content src="Text/011.html#sigil_toc_id_50"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>11 EN KORKUNÇ YIKIM</text>
+        </navLabel>
+        <content src="Text/011.html#sigil_toc_id_51"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>12 MÖSYÖ BAMATABOİS</text>
+        </navLabel>
+        <content src="Text/011.html#sigil_toc_id_52"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>13 POLİS YETKİLERİNE DAİR AYRINTILAR</text>
+        </navLabel>
+        <content src="Text/011.html#sigil_toc_id_53"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>ALTINCI KİTAP -JAVERT</text>
+      </navLabel>
+      <content src="Text/012.html"/>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>1 FANTİNE’İN HAYATINDA BİR UMUT</text>
+        </navLabel>
+        <content src="Text/012.html#sigil_toc_id_54"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>2 BİR İSİM BENZERLİĞİ</text>
+        </navLabel>
+        <content src="Text/012.html#sigil_toc_id_55"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>YEDİNCİ KİTAP -CHAMPMATHIEU DURUŞMASI</text>
+      </navLabel>
+      <content src="Text/013.html"/>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>1 HEMŞİRE SIMPLICIE</text>
+        </navLabel>
+        <content src="Text/013.html#sigil_toc_id_56"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>2 SCAUFFLAIRE USTA’NIN UZAK GÖRÜŞLÜLÜĞÜ</text>
+        </navLabel>
+        <content src="Text/013.html#sigil_toc_id_57"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>3 MÖSYÖ MADELEİNE’İN BOCALAMALARI...</text>
+        </navLabel>
+        <content src="Text/013.html#sigil_toc_id_58"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>4 UYKUDAKİ ACI</text>
+        </navLabel>
+        <content src="Text/013.html#sigil_toc_id_59"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>5 YOLDAKİ GÜÇLÜK</text>
+        </navLabel>
+        <content src="Text/013.html#sigil_toc_id_60"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>6 HEMŞİRE SIMPLICIE GÜÇ DURUMDA</text>
+        </navLabel>
+        <content src="Text/013.html#sigil_toc_id_61"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>7 YOLCU HEMEN DÖNMEK İÇİN HAZIRLIKLAR YAPIYOR</text>
+        </navLabel>
+        <content src="Text/013.html#sigil_toc_id_62"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>8 SAYGILI BİR KARŞILAMA</text>
+        </navLabel>
+        <content src="Text/013.html#sigil_toc_id_63"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>9 KARARLARIN SON HALİNİ ALDIĞI YER</text>
+        </navLabel>
+        <content src="Text/013.html#sigil_toc_id_64"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>10 İNKÂR YÖNTEMİ</text>
+        </navLabel>
+        <content src="Text/013.html#sigil_toc_id_65"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>11 CHAMPMATHİEU DAHA DA ŞAŞIRIYOR!</text>
+        </navLabel>
+        <content src="Text/013.html#sigil_toc_id_66"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>SEKİZİNCİ KİTAP -GERİ TEPMELER</text>
+      </navLabel>
+      <content src="Text/014.html"/>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>1 BAY MADELEİNE’İN SAÇLARINA BAKTIĞI AYNA</text>
+        </navLabel>
+        <content src="Text/014.html#sigil_toc_id_67"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>2 FANTİNE MUTLU</text>
+        </navLabel>
+        <content src="Text/014.html#sigil_toc_id_68"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>3 JAVERT MEMNUN</text>
+        </navLabel>
+        <content src="Text/014.html#sigil_toc_id_69"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>4 OTORİTE HAKKININ YENİDEN KAZANILMASI</text>
+        </navLabel>
+        <content src="Text/014.html#sigil_toc_id_70"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>5 TUTUKLUYA UYGUN MEZAR BULUNMASI</text>
+        </navLabel>
+        <content src="Text/014.html#sigil_toc_id_71"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-81" playOrder="81">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM -COSETTE</text>
+      </navLabel>
+      <content src="Text/015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-82" playOrder="82">
+      <navLabel>
+        <text>BİRİNCİ KİTAP -WATERLOO</text>
+      </navLabel>
+      <content src="Text/016.html"/>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>1 NİVELLES’DEN GELENLERİN GÖRDÜKLERİ</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_73"/>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>2 HOUGOMONT</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_74"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>3 1815’İN 18 HAZİRANI</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_75"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>4 A</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_76"/>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>5 SAVAŞLARIN KARANLIK KESİMLERİ</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_77"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>6 AKŞAM ÜZERİ SAAT DÖRT</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_78"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>7 NAPOLEON NEŞELİ</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_79"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>8 İMPARATOR, KILAVUZ LACOSTE'A BİR SORU SORUYOR</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_80"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>9 BEKLENMEYEN</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_81"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>10 MONT SAİNT-JEAN YAYLASI</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_82"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>11 NAPOLEON'A KÖTÜ, BULOW'A İYİ REHBERLİK EDEN ADAM</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_83"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>12 MUHAFIZ ALAYI</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_84"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>13 FELAKET</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_85"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>14 SON BÖLÜK</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_86"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>15 CAMBRONNE</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_87"/>
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>16 HER ŞEY BİTTİ</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_88"/>
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>17 WATERLOO İÇİN DÜŞÜNMEK</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_89"/>
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>18 KUTSAL HAKKIN CANLANMASI</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_90"/>
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>19 GECELEYİN SAVAŞ MEYDANI</text>
+        </navLabel>
+        <content src="Text/016.html#sigil_toc_id_91"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-102" playOrder="102">
+      <navLabel>
+        <text>İKİNCİ KİTAP -ORİON SAVAŞ GEMİSİ</text>
+      </navLabel>
+      <content src="Text/017.html"/>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>1 24601 NUMARA, 9430 NUMARA OLDU</text>
+        </navLabel>
+        <content src="Text/017.html#sigil_toc_id_92"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>2 BU İŞE ŞEYTAN MI KARIŞTI?</text>
+        </navLabel>
+        <content src="Text/017.html#sigil_toc_id_93"/>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>3 TEK ÇEKİÇ DARBESİNDE PRANGANIN ZİNCİRİ KIRILACAK ÖLÇÜDE İNCELDİĞİNE GÖRE, ACABA DAHA ÖNCEDEN Mİ İNCELTİLMİŞTİ?</text>
+        </navLabel>
+        <content src="Text/017.html#sigil_toc_id_94"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-106" playOrder="106">
+      <navLabel>
+        <text>ÜÇÜNCÜ KİTAP -ÖLMÜŞ ANNEYE VERİLEN SÖZDE DURULUYOR</text>
+      </navLabel>
+      <content src="Text/018.html"/>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>1 MONTFERMEİL’İN SU SORUNU</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_95"/>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>2 İKİ PORTRE</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_96"/>
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>3 İNSANLARA ŞARAP, ATLARA SU</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_97"/>
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>4 BİR BEBEĞİN ARALARINA KATILMASI</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_98"/>
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>5 KÜÇÜK KIZ BİR BAŞINA</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_99"/>
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>6 YABANCI</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_100"/>
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>7 COSETTE ORMANDA BİR YABANCIYLA BİRLİKTE</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_101"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>8 YOKSUL GÖRÜNÜMLÜ AMA, BELKİ DE PARALI BİR MÜŞTERİ</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_102"/>
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>9 THENARDİER’NİN HÜNERLERİ</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_103"/>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>10 AZ TAMAH ÇOK ZARAR GETİRİR</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_104"/>
+      </navPoint>
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>11 9430 NUMARA TEKRAR GÖRÜNÜYOR VE COSETTE PİYANGO KAZANIYOR</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_105"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-118" playOrder="118">
+      <navLabel>
+        <text>DÖRDÜNCÜ KİTAP HARABE GORBEAU</text>
+      </navLabel>
+      <content src="Text/006_1.html"/>
+      <navPoint id="navPoint-119" playOrder="119">
+        <navLabel>
+          <text>1 GORBEAU USTA</text>
+        </navLabel>
+        <content src="Text/006_1.html#sigil_toc_id_106"/>
+      </navPoint>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>2 YOKSULLARA BARINAK</text>
+        </navLabel>
+        <content src="Text/006_1.html#sigil_toc_id_107"/>
+      </navPoint>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>3 ŞANSSIZLIKLARIN GETİRDİĞİ MUTLULUK</text>
+        </navLabel>
+        <content src="Text/006_1.html#sigil_toc_id_108"/>
+      </navPoint>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>4 KAPICININ DÜŞÜNCELERİ</text>
+        </navLabel>
+        <content src="Text/006_1.html#sigil_toc_id_109"/>
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>5 METAL PARANIN SESİ</text>
+        </navLabel>
+        <content src="Text/006_1.html#sigil_toc_id_110"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-124" playOrder="124">
+      <navLabel>
+        <text>BEŞİNCİ KİTAP KARANLIKTA AV VE KÖPEKLER</text>
+      </navLabel>
+      <content src="Text/007_1.html"/>
+      <navPoint id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>1 STRATEJİK EĞRİLER</text>
+        </navLabel>
+        <content src="Text/007_1.html#sigil_toc_id_111"/>
+      </navPoint>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>2 İYİ Kİ AUSTERLİTZ KÖPRÜSÜNDEN ARABALAR GEÇİYOR</text>
+        </navLabel>
+        <content src="Text/007_1.html#sigil_toc_id_112"/>
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>3 1727'Lİ YILLARIN ŞEHİR PLANI</text>
+        </navLabel>
+        <content src="Text/007_1.html#sigil_toc_id_113"/>
+      </navPoint>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>4 KAÇIŞ İÇİN TEK ÇARE</text>
+        </navLabel>
+        <content src="Text/007_1.html#sigil_toc_id_114"/>
+      </navPoint>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>5 GAZ FENERLERİNİN OLMAYIŞI BÜYÜK ŞANS</text>
+        </navLabel>
+        <content src="Text/007_1.html#sigil_toc_id_115"/>
+      </navPoint>
+      <navPoint id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>6 SIRLARIN BAŞLANGICI</text>
+        </navLabel>
+        <content src="Text/007_1.html#sigil_toc_id_116"/>
+      </navPoint>
+      <navPoint id="navPoint-131" playOrder="131">
+        <navLabel>
+          <text>7 SIRRIN DEVAMI</text>
+        </navLabel>
+        <content src="Text/007_1.html#sigil_toc_id_117"/>
+      </navPoint>
+      <navPoint id="navPoint-132" playOrder="132">
+        <navLabel>
+          <text>8 SIRRIN ŞİDDETİ</text>
+        </navLabel>
+        <content src="Text/007_1.html#sigil_toc_id_118"/>
+      </navPoint>
+      <navPoint id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>9 BAHÇIVAN</text>
+        </navLabel>
+        <content src="Text/007_1.html#sigil_toc_id_119"/>
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>10 JAVERT BOŞUNA YORULUYOR</text>
+        </navLabel>
+        <content src="Text/007_1.html#sigil_toc_id_120"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-135" playOrder="135">
+      <navLabel>
+        <text>ALTINCI KİTAP PETİT-PİCPUS MANASTIRI</text>
+      </navLabel>
+      <content src="Text/008_1.html"/>
+      <navPoint id="navPoint-136" playOrder="136">
+        <navLabel>
+          <text>1 PETİT-PİCPUS SOKAĞI NUMARA 62</text>
+        </navLabel>
+        <content src="Text/008_1.html#sigil_toc_id_121"/>
+      </navPoint>
+      <navPoint id="navPoint-137" playOrder="137">
+        <navLabel>
+          <text>2 MARTİN VERGA RUHANİ İDARESİ</text>
+        </navLabel>
+        <content src="Text/008_1.html#sigil_toc_id_122"/>
+      </navPoint>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>3 SIKIDÜZEN</text>
+        </navLabel>
+        <content src="Text/008_1.html#sigil_toc_id_123"/>
+      </navPoint>
+      <navPoint id="navPoint-139" playOrder="139">
+        <navLabel>
+          <text>4 EĞLENCELİ VAKİTLER</text>
+        </navLabel>
+        <content src="Text/008_1.html#sigil_toc_id_124"/>
+      </navPoint>
+      <navPoint id="navPoint-140" playOrder="140">
+        <navLabel>
+          <text>5 MUTLULUKLAR</text>
+        </navLabel>
+        <content src="Text/008_1.html#sigil_toc_id_125"/>
+      </navPoint>
+      <navPoint id="navPoint-141" playOrder="141">
+        <navLabel>
+          <text>6 KÜÇÜK MANASTIR</text>
+        </navLabel>
+        <content src="Text/008_1.html#sigil_toc_id_126"/>
+      </navPoint>
+      <navPoint id="navPoint-142" playOrder="142">
+        <navLabel>
+          <text>7 IŞIK VEREN BİRKAÇ GÖLGE</text>
+        </navLabel>
+        <content src="Text/008_1.html#sigil_toc_id_127"/>
+      </navPoint>
+      <navPoint id="navPoint-143" playOrder="143">
+        <navLabel>
+          <text>8 İÇTENLİK VE ELEŞTİRİ</text>
+        </navLabel>
+        <content src="Text/008_1.html#sigil_toc_id_128"/>
+      </navPoint>
+      <navPoint id="navPoint-144" playOrder="144">
+        <navLabel>
+          <text>9 RAHİBE DUVAĞINA GİZLENEN YÜZYIL</text>
+        </navLabel>
+        <content src="Text/008_1.html#sigil_toc_id_129"/>
+      </navPoint>
+      <navPoint id="navPoint-145" playOrder="145">
+        <navLabel>
+          <text>10 'ARA VERMEDEN TAPINMA'NIN KÖKENİ</text>
+        </navLabel>
+        <content src="Text/008_1.html#sigil_toc_id_130"/>
+      </navPoint>
+      <navPoint id="navPoint-146" playOrder="146">
+        <navLabel>
+          <text>11 BU TARİKATIN SONU</text>
+        </navLabel>
+        <content src="Text/008_1.html#sigil_toc_id_131"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-147" playOrder="147">
+      <navLabel>
+        <text>YEDİNCİ KİTAP PARANTEZ</text>
+      </navLabel>
+      <content src="Text/009_1.html"/>
+      <navPoint id="navPoint-148" playOrder="148">
+        <navLabel>
+          <text>1 MANASTIR: SOYUT BİR DÜŞÜNCE</text>
+        </navLabel>
+        <content src="Text/009_1.html#sigil_toc_id_132"/>
+      </navPoint>
+      <navPoint id="navPoint-149" playOrder="149">
+        <navLabel>
+          <text>2 TARİHSEL AÇIDAN MANASTIR</text>
+        </navLabel>
+        <content src="Text/009_1.html#sigil_toc_id_133"/>
+      </navPoint>
+      <navPoint id="navPoint-150" playOrder="150">
+        <navLabel>
+          <text>3 GEÇMİŞE SAYGI DUYMANIN YOLLARI</text>
+        </navLabel>
+        <content src="Text/009_1.html#sigil_toc_id_134"/>
+      </navPoint>
+      <navPoint id="navPoint-151" playOrder="151">
+        <navLabel>
+          <text>4 MANASTIR PRENSİPLERİ</text>
+        </navLabel>
+        <content src="Text/009_1.html#sigil_toc_id_135"/>
+      </navPoint>
+      <navPoint id="navPoint-152" playOrder="152">
+        <navLabel>
+          <text>5 DUA</text>
+        </navLabel>
+        <content src="Text/009_1.html#sigil_toc_id_136"/>
+      </navPoint>
+      <navPoint id="navPoint-153" playOrder="153">
+        <navLabel>
+          <text>6 DUA’NIN TARTIŞILMAZLIĞI</text>
+        </navLabel>
+        <content src="Text/009_1.html#sigil_toc_id_137"/>
+      </navPoint>
+      <navPoint id="navPoint-154" playOrder="154">
+        <navLabel>
+          <text>7 ANLAMA ÇABASI</text>
+        </navLabel>
+        <content src="Text/009_1.html#sigil_toc_id_138"/>
+      </navPoint>
+      <navPoint id="navPoint-155" playOrder="155">
+        <navLabel>
+          <text>8 KANUN VE İNANÇ</text>
+        </navLabel>
+        <content src="Text/009_1.html#sigil_toc_id_139"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-156" playOrder="156">
+      <navLabel>
+        <text>SEKİZİNCİ KİTAP MEZARLAR VERİLENİ ALIR</text>
+      </navLabel>
+      <content src="Text/010_1.html"/>
+      <navPoint id="navPoint-157" playOrder="157">
+        <navLabel>
+          <text>1 MANASTIRA GİRİŞ</text>
+        </navLabel>
+        <content src="Text/010_1.html#sigil_toc_id_140"/>
+      </navPoint>
+      <navPoint id="navPoint-158" playOrder="158">
+        <navLabel>
+          <text>2 FAUCHELEVENT DARDA</text>
+        </navLabel>
+        <content src="Text/010_1.html#sigil_toc_id_141"/>
+      </navPoint>
+      <navPoint id="navPoint-159" playOrder="159">
+        <navLabel>
+          <text>3 MELEK ANA</text>
+        </navLabel>
+        <content src="Text/010_1.html#sigil_toc_id_142"/>
+      </navPoint>
+      <navPoint id="navPoint-160" playOrder="160">
+        <navLabel>
+          <text>4 JEAN VALJEAN’IN MANASTIRDAN ÇIKMAK İÇİN BULDUĞU ÇARE</text>
+        </navLabel>
+        <content src="Text/010_1.html#sigil_toc_id_143"/>
+      </navPoint>
+      <navPoint id="navPoint-161" playOrder="161">
+        <navLabel>
+          <text>5 SARHOŞLUK ÖLÜMSÜZLÜK DEĞİLDİR</text>
+        </navLabel>
+        <content src="Text/010_1.html#sigil_toc_id_144"/>
+      </navPoint>
+      <navPoint id="navPoint-162" playOrder="162">
+        <navLabel>
+          <text>6 TAHTALAR ARASINDA</text>
+        </navLabel>
+        <content src="Text/010_1.html#sigil_toc_id_145"/>
+      </navPoint>
+      <navPoint id="navPoint-163" playOrder="163">
+        <navLabel>
+          <text>7 KARTI KAYBETMEK NE DEMEK?</text>
+        </navLabel>
+        <content src="Text/010_1.html#sigil_toc_id_146"/>
+      </navPoint>
+      <navPoint id="navPoint-164" playOrder="164">
+        <navLabel>
+          <text>8 SORGUDAKİ BAŞARI</text>
+        </navLabel>
+        <content src="Text/010_1.html#sigil_toc_id_147"/>
+      </navPoint>
+      <navPoint id="navPoint-165" playOrder="165">
+        <navLabel>
+          <text>9 MANASTIR-OKUL</text>
+        </navLabel>
+        <content src="Text/010_1.html#sigil_toc_id_148"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-166" playOrder="166">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM MARIUS</text>
+      </navLabel>
+      <content src="Text/011_1.html"/>
+    </navPoint>
+    <navPoint id="navPoint-167" playOrder="167">
+      <navLabel>
+        <text/>
+      </navLabel>
+      <content src="Text/012_1.html"/>
+    </navPoint>
+    <navPoint id="navPoint-168" playOrder="168">
+      <navLabel>
+        <text>BİRİNCİ KİTAP PARİS’E DAİR ÖNEMSİZ AYRINTILAR</text>
+      </navLabel>
+      <content src="Text/012_1.html#sigil_toc_id_149"/>
+      <navPoint id="navPoint-169" playOrder="169">
+        <navLabel>
+          <text>1 FAZLA GENÇ</text>
+        </navLabel>
+        <content src="Text/012_1.html#sigil_toc_id_150"/>
+      </navPoint>
+      <navPoint id="navPoint-170" playOrder="170">
+        <navLabel>
+          <text>2 ÖZELLİKLER</text>
+        </navLabel>
+        <content src="Text/012_1.html#sigil_toc_id_151"/>
+      </navPoint>
+      <navPoint id="navPoint-171" playOrder="171">
+        <navLabel>
+          <text>3 CANA YAKINDIR DA</text>
+        </navLabel>
+        <content src="Text/012_1.html#sigil_toc_id_152"/>
+      </navPoint>
+      <navPoint id="navPoint-172" playOrder="172">
+        <navLabel>
+          <text>4 FAYDALARI DA DOKUNABİLİR</text>
+        </navLabel>
+        <content src="Text/012_1.html#sigil_toc_id_153"/>
+      </navPoint>
+      <navPoint id="navPoint-173" playOrder="173">
+        <navLabel>
+          <text>5 İZİN VEREMEYECEKLERİ</text>
+        </navLabel>
+        <content src="Text/012_1.html#sigil_toc_id_154"/>
+      </navPoint>
+      <navPoint id="navPoint-174" playOrder="174">
+        <navLabel>
+          <text>6 BİR PARÇA TARİHİ BİLGİ</text>
+        </navLabel>
+        <content src="Text/012_1.html#sigil_toc_id_155"/>
+      </navPoint>
+      <navPoint id="navPoint-175" playOrder="175">
+        <navLabel>
+          <text>7 HİNDİSTAN’DA BİLE AFACANLAR KAST MENSUBU OLURDU</text>
+        </navLabel>
+        <content src="Text/012_1.html#sigil_toc_id_156"/>
+      </navPoint>
+      <navPoint id="navPoint-176" playOrder="176">
+        <navLabel>
+          <text>8 SON KRALIN KAYDA DEĞER BİR SÖZÜ</text>
+        </navLabel>
+        <content src="Text/012_1.html#sigil_toc_id_157"/>
+      </navPoint>
+      <navPoint id="navPoint-177" playOrder="177">
+        <navLabel>
+          <text>9 GALYA RUHUNUN ÖLÜMSÜZLÜĞÜ</text>
+        </navLabel>
+        <content src="Text/012_1.html#sigil_toc_id_158"/>
+      </navPoint>
+      <navPoint id="navPoint-178" playOrder="178">
+        <navLabel>
+          <text>10 VE PARİS...</text>
+        </navLabel>
+        <content src="Text/012_1.html#sigil_toc_id_159"/>
+      </navPoint>
+      <navPoint id="navPoint-179" playOrder="179">
+        <navLabel>
+          <text>11 EGEMENLİK VE EĞLENCE</text>
+        </navLabel>
+        <content src="Text/012_1.html#sigil_toc_id_160"/>
+      </navPoint>
+      <navPoint id="navPoint-180" playOrder="180">
+        <navLabel>
+          <text>12 HALKIN SAKLI CEVHERİ</text>
+        </navLabel>
+        <content src="Text/012_1.html#sigil_toc_id_161"/>
+      </navPoint>
+      <navPoint id="navPoint-181" playOrder="181">
+        <navLabel>
+          <text>13 GAVROCHE</text>
+        </navLabel>
+        <content src="Text/012_1.html#sigil_toc_id_162"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-182" playOrder="182">
+      <navLabel>
+        <text>İKİNCİ KİTAP BÜYÜK KENTSOYLU</text>
+      </navLabel>
+      <content src="Text/013_1.html"/>
+      <navPoint id="navPoint-183" playOrder="183">
+        <navLabel>
+          <text>1 OTUZ İKİ DİŞ-DOKSAN YAŞ</text>
+        </navLabel>
+        <content src="Text/013_1.html#sigil_toc_id_163"/>
+      </navPoint>
+      <navPoint id="navPoint-184" playOrder="184">
+        <navLabel>
+          <text>2 KENTSOYLUYA UYGUN BİR BARINAK</text>
+        </navLabel>
+        <content src="Text/013_1.html#sigil_toc_id_164"/>
+      </navPoint>
+      <navPoint id="navPoint-185" playOrder="185">
+        <navLabel>
+          <text>3 LUC-ESPRİT</text>
+        </navLabel>
+        <content src="Text/013_1.html#sigil_toc_id_165"/>
+      </navPoint>
+      <navPoint id="navPoint-186" playOrder="186">
+        <navLabel>
+          <text>4 DALYA! DEME BEKLENTİSİ</text>
+        </navLabel>
+        <content src="Text/013_1.html#sigil_toc_id_166"/>
+      </navPoint>
+      <navPoint id="navPoint-187" playOrder="187">
+        <navLabel>
+          <text>5 BASQUE İLE NİCOLETTE</text>
+        </navLabel>
+        <content src="Text/013_1.html#sigil_toc_id_167"/>
+      </navPoint>
+      <navPoint id="navPoint-188" playOrder="188">
+        <navLabel>
+          <text>6 MAGNON VE MİNİK YAVRULARI</text>
+        </navLabel>
+        <content src="Text/013_1.html#sigil_toc_id_168"/>
+      </navPoint>
+      <navPoint id="navPoint-189" playOrder="189">
+        <navLabel>
+          <text>7 ZİYARETÇİLERİ GEÇ SAATLERDE GELİRDİ</text>
+        </navLabel>
+        <content src="Text/013_1.html#sigil_toc_id_169"/>
+      </navPoint>
+      <navPoint id="navPoint-190" playOrder="190">
+        <navLabel>
+          <text>8 BİRBİRİ GİBİ OLMAYAN KIZ KARDEŞLER</text>
+        </navLabel>
+        <content src="Text/013_1.html#sigil_toc_id_170"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-191" playOrder="191">
+      <navLabel>
+        <text>ÜÇÜNCÜ KİTAP BÜYÜKBABA İLE TORUN</text>
+      </navLabel>
+      <content src="Text/014_1.html"/>
+      <navPoint id="navPoint-192" playOrder="192">
+        <navLabel>
+          <text>1 ESKİ ZAMANLARDAN BİR SALON</text>
+        </navLabel>
+        <content src="Text/014_1.html#sigil_toc_id_171"/>
+      </navPoint>
+      <navPoint id="navPoint-193" playOrder="193">
+        <navLabel>
+          <text>2 ESKİ ZAMANLARIN KIZIL HORTLAĞI</text>
+        </navLabel>
+        <content src="Text/014_1.html#sigil_toc_id_172"/>
+      </navPoint>
+      <navPoint id="navPoint-194" playOrder="194">
+        <navLabel>
+          <text>3 NUR İÇİNDE YATSINLAR</text>
+        </navLabel>
+        <content src="Text/014_1.html#sigil_toc_id_173"/>
+      </navPoint>
+      <navPoint id="navPoint-195" playOrder="195">
+        <navLabel>
+          <text>4 EŞKIYANIN SONU NE OLDU</text>
+        </navLabel>
+        <content src="Text/014_1.html#sigil_toc_id_174"/>
+      </navPoint>
+      <navPoint id="navPoint-196" playOrder="196">
+        <navLabel>
+          <text>5 İHTİLAL YANLISI OLMAK İÇİN KİLİSEYE GİTME KOŞULU</text>
+        </navLabel>
+        <content src="Text/014_1.html#sigil_toc_id_175"/>
+      </navPoint>
+      <navPoint id="navPoint-197" playOrder="197">
+        <navLabel>
+          <text>6 KİLİSEDEN BİRİYLE TANIŞMAK</text>
+        </navLabel>
+        <content src="Text/014_1.html#sigil_toc_id_176"/>
+      </navPoint>
+      <navPoint id="navPoint-198" playOrder="198">
+        <navLabel>
+          <text>7 GÖNÜL İŞLERİ</text>
+        </navLabel>
+        <content src="Text/014_1.html#sigil_toc_id_177"/>
+      </navPoint>
+      <navPoint id="navPoint-199" playOrder="199">
+        <navLabel>
+          <text>8 MERMER VE KAYA</text>
+        </navLabel>
+        <content src="Text/014_1.html#sigil_toc_id_178"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-200" playOrder="200">
+      <navLabel>
+        <text>DÖRDÜNCÜ KİTAP ABC DOSTLARI</text>
+      </navLabel>
+      <content src="Text/015_1.html"/>
+      <navPoint id="navPoint-201" playOrder="201">
+        <navLabel>
+          <text>1 TARİH YAPMAYA YAKIN BİR KALABALIK</text>
+        </navLabel>
+        <content src="Text/015_1.html#sigil_toc_id_179"/>
+      </navPoint>
+      <navPoint id="navPoint-202" playOrder="202">
+        <navLabel>
+          <text>2 BOSSUET’DAN BLONDEAU’YA AĞIT</text>
+        </navLabel>
+        <content src="Text/015_1.html#sigil_toc_id_180"/>
+      </navPoint>
+      <navPoint id="navPoint-203" playOrder="203">
+        <navLabel>
+          <text>3 MARİUS HAYRETLER İÇİNDE</text>
+        </navLabel>
+        <content src="Text/015_1.html#sigil_toc_id_181"/>
+      </navPoint>
+      <navPoint id="navPoint-204" playOrder="204">
+        <navLabel>
+          <text>4 MUSAİN CAFESİ'NİN ARKA SALONU</text>
+        </navLabel>
+        <content src="Text/015_1.html#sigil_toc_id_182"/>
+      </navPoint>
+      <navPoint id="navPoint-205" playOrder="205">
+        <navLabel>
+          <text>5 GENİŞ UFUKLAR</text>
+        </navLabel>
+        <content src="Text/015_1.html#sigil_toc_id_183"/>
+      </navPoint>
+      <navPoint id="navPoint-206" playOrder="206">
+        <navLabel>
+          <text>6 MARİUS’ÜN ACILARI</text>
+        </navLabel>
+        <content src="Text/015_1.html#sigil_toc_id_184"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-207" playOrder="207">
+      <navLabel>
+        <text>BEŞİNCİ KİTAP YIKIMLAR VE YARARLARI</text>
+      </navLabel>
+      <content src="Text/016_1.html"/>
+      <navPoint id="navPoint-208" playOrder="208">
+        <navLabel>
+          <text>1 MARİUS’UN DURUMUNUN KÖTÜLEMESİ</text>
+        </navLabel>
+        <content src="Text/016_1.html#sigil_toc_id_185"/>
+      </navPoint>
+      <navPoint id="navPoint-209" playOrder="209">
+        <navLabel>
+          <text>2 YOKSULLUĞU BİR YANA, MARİUS’ÜN KOŞULLARI İYİLEŞTİ</text>
+        </navLabel>
+        <content src="Text/016_1.html#sigil_toc_id_186"/>
+      </navPoint>
+      <navPoint id="navPoint-210" playOrder="210">
+        <navLabel>
+          <text>3 MARİUS DELİKANLILIK DÖNEMİNDE</text>
+        </navLabel>
+        <content src="Text/016_1.html#sigil_toc_id_187"/>
+      </navPoint>
+      <navPoint id="navPoint-211" playOrder="211">
+        <navLabel>
+          <text>4 MÖSYÖ MABEUF</text>
+        </navLabel>
+        <content src="Text/016_1.html#sigil_toc_id_188"/>
+      </navPoint>
+      <navPoint id="navPoint-212" playOrder="212">
+        <navLabel>
+          <text>5 YOKSULLUK VE SEFALETİN İÇTEN DOSTLUKLARI</text>
+        </navLabel>
+        <content src="Text/016_1.html#sigil_toc_id_189"/>
+      </navPoint>
+      <navPoint id="navPoint-213" playOrder="213">
+        <navLabel>
+          <text>6 THEODULE GİLLENORMAND</text>
+        </navLabel>
+        <content src="Text/016_1.html#sigil_toc_id_190"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-214" playOrder="214">
+      <navLabel>
+        <text>ALTINCI KİTAP İKİ YILDIZ BULUŞUYOR</text>
+      </navLabel>
+      <content src="Text/017_1.html"/>
+    </navPoint>
+    <navPoint id="navPoint-215" playOrder="215">
+      <navLabel>
+        <text>2 LAKAP</text>
+      </navLabel>
+      <content src="Text/017_1.html#sigil_toc_id_191"/>
+      <navPoint id="navPoint-216" playOrder="216">
+        <navLabel>
+          <text>AİLESEL ADLARININ OLUŞMASI</text>
+        </navLabel>
+        <content src="Text/017_1.html#sigil_toc_id_192"/>
+      </navPoint>
+      <navPoint id="navPoint-217" playOrder="217">
+        <navLabel>
+          <text>2 DÖNÜŞÜM</text>
+        </navLabel>
+        <content src="Text/017_1.html#sigil_toc_id_193"/>
+      </navPoint>
+      <navPoint id="navPoint-218" playOrder="218">
+        <navLabel>
+          <text>3 BAHARIN SİHİRLİ OYUNU</text>
+        </navLabel>
+        <content src="Text/017_1.html#sigil_toc_id_194"/>
+      </navPoint>
+      <navPoint id="navPoint-219" playOrder="219">
+        <navLabel>
+          <text>4 O BÜYÜK HASTALIĞIN BAŞLANGICI</text>
+        </navLabel>
+        <content src="Text/017_1.html#sigil_toc_id_195"/>
+      </navPoint>
+      <navPoint id="navPoint-220" playOrder="220">
+        <navLabel>
+          <text>5 KAPICI KADIN OLANLARI BİLMİYOR</text>
+        </navLabel>
+        <content src="Text/017_1.html#sigil_toc_id_196"/>
+      </navPoint>
+      <navPoint id="navPoint-221" playOrder="221">
+        <navLabel>
+          <text>6 MARİUS’ÜN ZİNCİRLERE VURULMASI</text>
+        </navLabel>
+        <content src="Text/017_1.html#sigil_toc_id_197"/>
+      </navPoint>
+      <navPoint id="navPoint-222" playOrder="222">
+        <navLabel>
+          <text>7 «U»YA DAYALI TAHMİHLER</text>
+        </navLabel>
+        <content src="Text/017_1.html#sigil_toc_id_198"/>
+      </navPoint>
+      <navPoint id="navPoint-223" playOrder="223">
+        <navLabel>
+          <text>8 GAZİLERİN MUTLULUĞU</text>
+        </navLabel>
+        <content src="Text/017_1.html#sigil_toc_id_199"/>
+      </navPoint>
+      <navPoint id="navPoint-224" playOrder="224">
+        <navLabel>
+          <text>9 MARİUS’ÜN KARARAN ŞAFAĞI</text>
+        </navLabel>
+        <content src="Text/017_1.html#sigil_toc_id_200"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-225" playOrder="225">
+      <navLabel>
+        <text>YEDİNCİ KİTAP ŞEBEKE</text>
+      </navLabel>
+      <content src="Text/018_1.html"/>
+      <navPoint id="navPoint-226" playOrder="226">
+        <navLabel>
+          <text>1 MADENLER VE MADENCİLER</text>
+        </navLabel>
+        <content src="Text/018_1.html#sigil_toc_id_201"/>
+      </navPoint>
+      <navPoint id="navPoint-227" playOrder="227">
+        <navLabel>
+          <text>2 YERALTI</text>
+        </navLabel>
+        <content src="Text/018_1.html#sigil_toc_id_202"/>
+      </navPoint>
+      <navPoint id="navPoint-228" playOrder="228">
+        <navLabel>
+          <text>3 BABET, GUEULEMER, CLAQUESOUS VE MONTPARNASSE</text>
+        </navLabel>
+        <content src="Text/018_1.html#sigil_toc_id_203"/>
+      </navPoint>
+      <navPoint id="navPoint-229" playOrder="229">
+        <navLabel>
+          <text>4 ŞEBEKE ÜYELERİ</text>
+        </navLabel>
+        <content src="Text/018_1.html#sigil_toc_id_204"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-230" playOrder="230">
+      <navLabel>
+        <text>SEKİZİNCİ KİTAP İHANET VE YOKSULLUK</text>
+      </navLabel>
+      <content src="Text/019.html"/>
+      <navPoint id="navPoint-231" playOrder="231">
+        <navLabel>
+          <text>1 MARİUS KIZI ARARKEN ŞAPKALI BİR ADAMA RASTLAR</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_205"/>
+      </navPoint>
+      <navPoint id="navPoint-232" playOrder="232">
+        <navLabel>
+          <text>2 MARİUS’ÜN SOKAKTA BULDUKLARI</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_206"/>
+      </navPoint>
+      <navPoint id="navPoint-233" playOrder="233">
+        <navLabel>
+          <text>3 ZARF VE MAZRUF</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_207"/>
+      </navPoint>
+      <navPoint id="navPoint-234" playOrder="234">
+        <navLabel>
+          <text>4 BATAKLIK ÇİÇEĞİ</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_208"/>
+      </navPoint>
+      <navPoint id="navPoint-235" playOrder="235">
+        <navLabel>
+          <text>5 MARİUS’ÜN ODASINDAKİ İZLEME YERİ</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_209"/>
+      </navPoint>
+      <navPoint id="navPoint-236" playOrder="236">
+        <navLabel>
+          <text>6 MAĞARADAKİ YABANCI</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_210"/>
+      </navPoint>
+      <navPoint id="navPoint-237" playOrder="237">
+        <navLabel>
+          <text>7 STRATEJİ</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_211"/>
+      </navPoint>
+      <navPoint id="navPoint-238" playOrder="238">
+        <navLabel>
+          <text>8 ÇÖPLÜĞE DOĞAN GÜNEŞ</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_212"/>
+      </navPoint>
+      <navPoint id="navPoint-239" playOrder="239">
+        <navLabel>
+          <text>9 JONDRETTE MERHAMET EDİLSİN DİYE AĞLIYOR</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_213"/>
+      </navPoint>
+      <navPoint id="navPoint-240" playOrder="240">
+        <navLabel>
+          <text>10 KİRALIK ARABA TARİFESİ</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_214"/>
+      </navPoint>
+      <navPoint id="navPoint-241" playOrder="241">
+        <navLabel>
+          <text>11 MARİUS’E İYİLİK ETME TEKLİFİ</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_215"/>
+      </navPoint>
+      <navPoint id="navPoint-242" playOrder="242">
+        <navLabel>
+          <text>12 İHTİYARIN VERDİĞİ PARANIN HARCANMASI</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_216"/>
+      </navPoint>
+      <navPoint id="navPoint-243" playOrder="243">
+        <navLabel>
+          <text>13 MARİUS BİR ŞEYLER YAPMAYA ÇALIŞIYOR</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_217"/>
+      </navPoint>
+      <navPoint id="navPoint-244" playOrder="244">
+        <navLabel>
+          <text>14 POLİSİN BİR AVUKATLA KONUŞMASI</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_218"/>
+      </navPoint>
+      <navPoint id="navPoint-245" playOrder="245">
+        <navLabel>
+          <text>15 JONDRETTE ÇARŞI-PAZAR GEZİYOR</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_219"/>
+      </navPoint>
+      <navPoint id="navPoint-246" playOrder="246">
+        <navLabel>
+          <text>16 1832’NİN ÇOK TUTULMUŞ BİR ŞARKISI</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_220"/>
+      </navPoint>
+      <navPoint id="navPoint-247" playOrder="247">
+        <navLabel>
+          <text>17 MARİUS’ÜN BEŞ FRANKI NELERE GİTTİ</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_221"/>
+      </navPoint>
+      <navPoint id="navPoint-248" playOrder="248">
+        <navLabel>
+          <text>18 YARDIMSEVER ZİYARETÇİ</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_222"/>
+      </navPoint>
+      <navPoint id="navPoint-249" playOrder="249">
+        <navLabel>
+          <text>19 YASADIŞI İŞLER</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_223"/>
+      </navPoint>
+      <navPoint id="navPoint-250" playOrder="250">
+        <navLabel>
+          <text>20 TUZAK</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_224"/>
+      </navPoint>
+      <navPoint id="navPoint-251" playOrder="251">
+        <navLabel>
+          <text>21 ASLINDA KURBANLARI TUTUKLAMAK GEREK</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_225"/>
+      </navPoint>
+      <navPoint id="navPoint-252" playOrder="252">
+        <navLabel>
+          <text>22 BİR ZAMANLAR BAĞIRAN ÇOCUK</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_226"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-253" playOrder="253">
+      <navLabel>
+        <text>DÖRDÜNCÜ BÖLÜM - PLUMET VE SAINT-DENIS SOKAKLARINDA AŞK DA VAR, DESTAN DA...</text>
+      </navLabel>
+      <content src="Text/007_1_2.html"/>
+    </navPoint>
+    <navPoint id="navPoint-254" playOrder="254">
+      <navLabel>
+        <text/>
+      </navLabel>
+      <content src="Text/008_1_2.html"/>
+    </navPoint>
+    <navPoint id="navPoint-255" playOrder="255">
+      <navLabel>
+        <text>BİRİNCİ KİTAP BİRKAÇ SAYFALIK TARİHİ BİLGİ</text>
+      </navLabel>
+      <content src="Text/008_1_2.html#sigil_toc_id_227"/>
+      <navPoint id="navPoint-256" playOrder="256">
+        <navLabel>
+          <text>1 KESİM USTALIĞI</text>
+        </navLabel>
+        <content src="Text/008_1_2.html#sigil_toc_id_228"/>
+      </navPoint>
+      <navPoint id="navPoint-257" playOrder="257">
+        <navLabel>
+          <text>2 ACEMİ DİKİŞ</text>
+        </navLabel>
+        <content src="Text/008_1_2.html#sigil_toc_id_229"/>
+      </navPoint>
+      <navPoint id="navPoint-258" playOrder="258">
+        <navLabel>
+          <text>3 LOUİS-PHİLİPPE</text>
+        </navLabel>
+        <content src="Text/008_1_2.html#sigil_toc_id_230"/>
+      </navPoint>
+      <navPoint id="navPoint-259" playOrder="259">
+        <navLabel>
+          <text>4 TEMEL ÇATIŞMALAR</text>
+        </navLabel>
+        <content src="Text/008_1_2.html#sigil_toc_id_231"/>
+      </navPoint>
+      <navPoint id="navPoint-260" playOrder="260">
+        <navLabel>
+          <text>5 KÖKENİ TARİH OLAN, FAKAT TARİHİN HABERSİZ OLDUKLARI...</text>
+        </navLabel>
+        <content src="Text/008_1_2.html#sigil_toc_id_232"/>
+      </navPoint>
+      <navPoint id="navPoint-261" playOrder="261">
+        <navLabel>
+          <text>6 ENJOLRAS VE YARDIMCILARI</text>
+        </navLabel>
+        <content src="Text/008_1_2.html#sigil_toc_id_233"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-262" playOrder="262">
+      <navLabel>
+        <text>İKİNCİ KİTAP EPONINE</text>
+      </navLabel>
+      <content src="Text/009_1_2.html"/>
+      <navPoint id="navPoint-263" playOrder="263">
+        <navLabel>
+          <text>1 COSSETTE’NİN ÇAYIRI</text>
+        </navLabel>
+        <content src="Text/009_1_2.html#sigil_toc_id_234"/>
+      </navPoint>
+      <navPoint id="navPoint-264" playOrder="264">
+        <navLabel>
+          <text>2 CEZAEVLERİNDE TASARLANAN CİNAYETLERİN ÖNHAZIRLIKLARI</text>
+        </navLabel>
+        <content src="Text/009_1_2.html#sigil_toc_id_235"/>
+      </navPoint>
+      <navPoint id="navPoint-265" playOrder="265">
+        <navLabel>
+          <text>3 MABEUF BABA’NIN GÖRDÜĞÜ HAYALET</text>
+        </navLabel>
+        <content src="Text/009_1_2.html#sigil_toc_id_236"/>
+      </navPoint>
+      <navPoint id="navPoint-266" playOrder="266">
+        <navLabel>
+          <text>4 MARİUS’E GÖRÜNEN HAYAL</text>
+        </navLabel>
+        <content src="Text/009_1_2.html#sigil_toc_id_237"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-267" playOrder="267">
+      <navLabel>
+        <text>ÜÇÜNCÜ KİTAP PLUMET SOKAĞINDA BİR EV</text>
+      </navLabel>
+      <content src="Text/010_1_2.html"/>
+      <navPoint id="navPoint-268" playOrder="268">
+        <navLabel>
+          <text>1 ESRARENGİZ BİR EV</text>
+        </navLabel>
+        <content src="Text/010_1_2.html#sigil_toc_id_238"/>
+      </navPoint>
+      <navPoint id="navPoint-269" playOrder="269">
+        <navLabel>
+          <text>2 JEAN VALJEAN MUHAFIZ ALAYINDA</text>
+        </navLabel>
+        <content src="Text/010_1_2.html#sigil_toc_id_239"/>
+      </navPoint>
+      <navPoint id="navPoint-270" playOrder="270">
+        <navLabel>
+          <text>3 DALLI YAPRAKLI BAHÇE</text>
+        </navLabel>
+        <content src="Text/010_1_2.html#sigil_toc_id_240"/>
+      </navPoint>
+      <navPoint id="navPoint-271" playOrder="271">
+        <navLabel>
+          <text>4 KAPI PARMAKLIĞININ DEĞİŞMESİ</text>
+        </navLabel>
+        <content src="Text/010_1_2.html#sigil_toc_id_241"/>
+      </navPoint>
+      <navPoint id="navPoint-272" playOrder="272">
+        <navLabel>
+          <text>5 GÜLLERİN BİRER SAVAŞ ARACI OLMALARI</text>
+        </navLabel>
+        <content src="Text/010_1_2.html#sigil_toc_id_242"/>
+      </navPoint>
+      <navPoint id="navPoint-273" playOrder="273">
+        <navLabel>
+          <text>6 SAVAŞ</text>
+        </navLabel>
+        <content src="Text/010_1_2.html#sigil_toc_id_243"/>
+      </navPoint>
+      <navPoint id="navPoint-274" playOrder="274">
+        <navLabel>
+          <text>7 KEDERİN PAYLAŞILMASI</text>
+        </navLabel>
+        <content src="Text/010_1_2.html#sigil_toc_id_244"/>
+      </navPoint>
+      <navPoint id="navPoint-275" playOrder="275">
+        <navLabel>
+          <text>8 FORSALAR</text>
+        </navLabel>
+        <content src="Text/010_1_2.html#sigil_toc_id_245"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-276" playOrder="276">
+      <navLabel>
+        <text>DÖRDÜNCÜ KİTAP ALTTAN GELEN İMDAT ÇAĞRISI, YUKARIDAN GELEN YARDIM DA OLABİLİR</text>
+      </navLabel>
+      <content src="Text/011_1_2.html"/>
+      <navPoint id="navPoint-277" playOrder="277">
+        <navLabel>
+          <text>1 DIŞ YARALAR, İÇTEKİLERİ İYİLEŞTİREBİLİR</text>
+        </navLabel>
+        <content src="Text/011_1_2.html#sigil_toc_id_246"/>
+      </navPoint>
+      <navPoint id="navPoint-278" playOrder="278">
+        <navLabel>
+          <text>2 PLUTARQUE ANA İNANILMAZ BİR ŞEYLER ANLATMAYI BAŞARIYOR</text>
+        </navLabel>
+        <content src="Text/011_1_2.html#sigil_toc_id_247"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-279" playOrder="279">
+      <navLabel>
+        <text>BEŞİNCİ KİTAP HİKÂYENİN BAŞI SONUNA BENZEMİYOR</text>
+      </navLabel>
+      <content src="Text/012_1_2.html"/>
+      <navPoint id="navPoint-280" playOrder="280">
+        <navLabel>
+          <text>1 KIŞLA VE YALNIZLIK</text>
+        </navLabel>
+        <content src="Text/012_1_2.html#sigil_toc_id_248"/>
+      </navPoint>
+      <navPoint id="navPoint-281" playOrder="281">
+        <navLabel>
+          <text>2 KAYGILI COSETTE</text>
+        </navLabel>
+        <content src="Text/012_1_2.html#sigil_toc_id_249"/>
+      </navPoint>
+      <navPoint id="navPoint-282" playOrder="282">
+        <navLabel>
+          <text>3 HİZMETÇİNİN YORUMLARI</text>
+        </navLabel>
+        <content src="Text/012_1_2.html#sigil_toc_id_250"/>
+      </navPoint>
+      <navPoint id="navPoint-283" playOrder="283">
+        <navLabel>
+          <text>4 TAŞIN ALTINDAKİ AŞK</text>
+        </navLabel>
+        <content src="Text/012_1_2.html#sigil_toc_id_251"/>
+      </navPoint>
+      <navPoint id="navPoint-284" playOrder="284">
+        <navLabel>
+          <text>5 COSETTE VE MEKTUP</text>
+        </navLabel>
+        <content src="Text/012_1_2.html#sigil_toc_id_252"/>
+      </navPoint>
+      <navPoint id="navPoint-285" playOrder="285">
+        <navLabel>
+          <text>6 YAŞLILAR EN UYGUN VAKİTLERDE SOKAĞA ÇIKARAK İYİLİK EDERLER</text>
+        </navLabel>
+        <content src="Text/012_1_2.html#sigil_toc_id_253"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-286" playOrder="286">
+      <navLabel>
+        <text>ALTINCI KİTAP HAŞARI GAVROCHE</text>
+      </navLabel>
+      <content src="Text/013_1_2.html"/>
+      <navPoint id="navPoint-287" playOrder="287">
+        <navLabel>
+          <text>1 RÜZGÂRIN SEVİMSİZ ŞAKASI</text>
+        </navLabel>
+        <content src="Text/013_1_2.html#sigil_toc_id_254"/>
+      </navPoint>
+      <navPoint id="navPoint-288" playOrder="288">
+        <navLabel>
+          <text>2 NAPOLEON'DAN YARDIM ALAN KÜÇÜK GAVROCHE</text>
+        </navLabel>
+        <content src="Text/013_1_2.html#sigil_toc_id_255"/>
+      </navPoint>
+      <navPoint id="navPoint-289" playOrder="289">
+        <navLabel>
+          <text>3 KAÇIŞ HEYECANI</text>
+        </navLabel>
+        <content src="Text/013_1_2.html#sigil_toc_id_256"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-290" playOrder="290">
+      <navLabel>
+        <text>YEDİNCİ KİTAP ARGO</text>
+      </navLabel>
+      <content src="Text/014_1_2.html"/>
+      <navPoint id="navPoint-291" playOrder="291">
+        <navLabel>
+          <text>1 KAYNAK</text>
+        </navLabel>
+        <content src="Text/014_1_2.html#sigil_toc_id_257"/>
+      </navPoint>
+      <navPoint id="navPoint-292" playOrder="292">
+        <navLabel>
+          <text>2 KÖKENLER</text>
+        </navLabel>
+        <content src="Text/014_1_2.html#sigil_toc_id_258"/>
+      </navPoint>
+      <navPoint id="navPoint-293" playOrder="293">
+        <navLabel>
+          <text>3 GÖZÜ YAŞLI VE GÜLEN ARGO</text>
+        </navLabel>
+        <content src="Text/014_1_2.html#sigil_toc_id_259"/>
+      </navPoint>
+      <navPoint id="navPoint-294" playOrder="294">
+        <navLabel>
+          <text>4 İKİ GÖREV: UMUT ETMEK VE GÖZETMEK</text>
+        </navLabel>
+        <content src="Text/014_1_2.html#sigil_toc_id_260"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-295" playOrder="295">
+      <navLabel>
+        <text>SEKİZİNCİ KİTAP MUTLULUKLAR VE ACILAR</text>
+      </navLabel>
+      <content src="Text/015_1_2.html"/>
+      <navPoint id="navPoint-296" playOrder="296">
+        <navLabel>
+          <text>1 KUSURSUZ AYDINLIK</text>
+        </navLabel>
+        <content src="Text/015_1_2.html#sigil_toc_id_261"/>
+      </navPoint>
+      <navPoint id="navPoint-297" playOrder="297">
+        <navLabel>
+          <text>2 KUSURSUZ MUTLULUK</text>
+        </navLabel>
+        <content src="Text/015_1_2.html#sigil_toc_id_262"/>
+      </navPoint>
+      <navPoint id="navPoint-298" playOrder="298">
+        <navLabel>
+          <text>3 GÖLGELENMELER</text>
+        </navLabel>
+        <content src="Text/015_1_2.html#sigil_toc_id_263"/>
+      </navPoint>
+      <navPoint id="navPoint-299" playOrder="299">
+        <navLabel>
+          <text>4 «CAB» İNGİLİZCEDE TEKERLER ÜZERİNDE GİDER; ARGODA HAVLAR</text>
+        </navLabel>
+        <content src="Text/015_1_2.html#sigil_toc_id_264"/>
+      </navPoint>
+      <navPoint id="navPoint-300" playOrder="300">
+        <navLabel>
+          <text>5 GECE NELER OLDU?</text>
+        </navLabel>
+        <content src="Text/015_1_2.html#sigil_toc_id_265"/>
+      </navPoint>
+      <navPoint id="navPoint-301" playOrder="301">
+        <navLabel>
+          <text>6 DELİKANLI, GENÇ KIZA ADRESİNİ VERİYOR</text>
+        </navLabel>
+        <content src="Text/015_1_2.html#sigil_toc_id_266"/>
+      </navPoint>
+      <navPoint id="navPoint-302" playOrder="302">
+        <navLabel>
+          <text>7 KOCAMIŞ VE GENÇ YÜREKLER</text>
+        </navLabel>
+        <content src="Text/015_1_2.html#sigil_toc_id_267"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-303" playOrder="303">
+      <navLabel>
+        <text>DOKUZUNCU KİTAP YOLCULUK</text>
+      </navLabel>
+      <content src="Text/016_1_2.html"/>
+      <navPoint id="navPoint-304" playOrder="304">
+        <navLabel>
+          <text>1 JEAN VALJEAN</text>
+        </navLabel>
+        <content src="Text/016_1_2.html#sigil_toc_id_268"/>
+      </navPoint>
+      <navPoint id="navPoint-305" playOrder="305">
+        <navLabel>
+          <text>2 AŞIK GENÇ</text>
+        </navLabel>
+        <content src="Text/016_1_2.html#sigil_toc_id_269"/>
+      </navPoint>
+      <navPoint id="navPoint-306" playOrder="306">
+        <navLabel>
+          <text>3 MABEUF BABA</text>
+        </navLabel>
+        <content src="Text/016_1_2.html#sigil_toc_id_270"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-307" playOrder="307">
+      <navLabel>
+        <text>ONUNCU KİTAP 5 HAZİRAN 1832</text>
+      </navLabel>
+      <content src="Text/017_1_2.html"/>
+      <navPoint id="navPoint-308" playOrder="308">
+        <navLabel>
+          <text>1 İSYANLAR</text>
+        </navLabel>
+        <content src="Text/017_1_2.html#sigil_toc_id_271"/>
+      </navPoint>
+      <navPoint id="navPoint-309" playOrder="309">
+        <navLabel>
+          <text>2 MESELENİN ASLI</text>
+        </navLabel>
+        <content src="Text/017_1_2.html#sigil_toc_id_272"/>
+      </navPoint>
+      <navPoint id="navPoint-310" playOrder="310">
+        <navLabel>
+          <text>3 YENİDEN DİRİLİŞE NEDEN OLACAK BİR ÖLÜM</text>
+        </navLabel>
+        <content src="Text/017_1_2.html#sigil_toc_id_273"/>
+      </navPoint>
+      <navPoint id="navPoint-311" playOrder="311">
+        <navLabel>
+          <text>4 ESKİ ZAMANLARIN KAYNAŞMASI</text>
+        </navLabel>
+        <content src="Text/017_1_2.html#sigil_toc_id_274"/>
+      </navPoint>
+      <navPoint id="navPoint-312" playOrder="312">
+        <navLabel>
+          <text>5 PARİS’İN KENDİNE HAS YANLARI</text>
+        </navLabel>
+        <content src="Text/017_1_2.html#sigil_toc_id_275"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-313" playOrder="313">
+      <navLabel>
+        <text>ON BİRİNCİ KİTAP ATOMUN KASIRGAYLA KARDEŞLİĞİ</text>
+      </navLabel>
+      <content src="Text/018_1_2.html"/>
+      <navPoint id="navPoint-314" playOrder="314">
+        <navLabel>
+          <text>1 GAVROCHE’UN ŞİİR KAYNAKLARINA İLİŞKİN BAZI AÇIKLAMALAR VE BİR AKADEMİSYENİN BU ŞİİRE ETKİLERİ</text>
+        </navLabel>
+        <content src="Text/018_1_2.html#sigil_toc_id_276"/>
+      </navPoint>
+      <navPoint id="navPoint-315" playOrder="315">
+        <navLabel>
+          <text>2 GAVROCHE YÜRÜYOR</text>
+        </navLabel>
+        <content src="Text/018_1_2.html#sigil_toc_id_277"/>
+      </navPoint>
+      <navPoint id="navPoint-316" playOrder="316">
+        <navLabel>
+          <text>3 BİR BERBERİN ÖFKESİ</text>
+        </navLabel>
+        <content src="Text/018_1_2.html#sigil_toc_id_278"/>
+      </navPoint>
+      <navPoint id="navPoint-317" playOrder="317">
+        <navLabel>
+          <text>4 YAŞLI ADAMIN ŞAŞIRTTIĞI ÇOCUK</text>
+        </navLabel>
+        <content src="Text/018_1_2.html#sigil_toc_id_279"/>
+      </navPoint>
+      <navPoint id="navPoint-318" playOrder="318">
+        <navLabel>
+          <text>5 İHTİYARCIK</text>
+        </navLabel>
+        <content src="Text/018_1_2.html#sigil_toc_id_280"/>
+      </navPoint>
+      <navPoint id="navPoint-319" playOrder="319">
+        <navLabel>
+          <text>6 GÖNÜLLÜLER</text>
+        </navLabel>
+        <content src="Text/018_1_2.html#sigil_toc_id_281"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-320" playOrder="320">
+      <navLabel>
+        <text>ON İKİNCİ KİTAP CORİNTHE</text>
+      </navLabel>
+      <content src="Text/019_1.html"/>
+      <navPoint id="navPoint-321" playOrder="321">
+        <navLabel>
+          <text>1 CORİNTHE’İN KURULUŞU</text>
+        </navLabel>
+        <content src="Text/019_1.html#sigil_toc_id_282"/>
+      </navPoint>
+      <navPoint id="navPoint-322" playOrder="322">
+        <navLabel>
+          <text>2 SEVİNÇLERİN BAŞLANGICI</text>
+        </navLabel>
+        <content src="Text/019_1.html#sigil_toc_id_283"/>
+      </navPoint>
+      <navPoint id="navPoint-323" playOrder="323">
+        <navLabel>
+          <text>3 GRANTAİRE’YE KARANLIK ÇÖKÜYOR</text>
+        </navLabel>
+        <content src="Text/019_1.html#sigil_toc_id_284"/>
+      </navPoint>
+      <navPoint id="navPoint-324" playOrder="324">
+        <navLabel>
+          <text>4 HUCHELOUP ANAYI AVUTMAK</text>
+        </navLabel>
+        <content src="Text/019_1.html#sigil_toc_id_285"/>
+      </navPoint>
+      <navPoint id="navPoint-325" playOrder="325">
+        <navLabel>
+          <text>5 HAZIRLIK BAŞLIYOR</text>
+        </navLabel>
+        <content src="Text/019_1.html#sigil_toc_id_286"/>
+      </navPoint>
+      <navPoint id="navPoint-326" playOrder="326">
+        <navLabel>
+          <text>6 BEKLEYİŞ</text>
+        </navLabel>
+        <content src="Text/019_1.html#sigil_toc_id_287"/>
+      </navPoint>
+      <navPoint id="navPoint-327" playOrder="327">
+        <navLabel>
+          <text>7 BİLLETS SOKAĞINDAN GELEN BİR GÖNÜLLÜ</text>
+        </navLabel>
+        <content src="Text/019_1.html#sigil_toc_id_288"/>
+      </navPoint>
+      <navPoint id="navPoint-328" playOrder="328">
+        <navLabel>
+          <text>8 «LE CABUC» İSİMLİ FAKAT «LE CABUC» DA OLMAYACAK BİRİNE DAİR BİLİNMEYENLER</text>
+        </navLabel>
+        <content src="Text/019_1.html#sigil_toc_id_289"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-329" playOrder="329">
+      <navLabel>
+        <text>ON ÜÇÜNCÜ KİTAP MARİUS GÖLGELER İÇİNDE</text>
+      </navLabel>
+      <content src="Text/020.html"/>
+      <navPoint id="navPoint-330" playOrder="330">
+        <navLabel>
+          <text>1 PLUMET SOKAĞINDAN SAINT-DENIS’E</text>
+        </navLabel>
+        <content src="Text/020.html#sigil_toc_id_290"/>
+      </navPoint>
+      <navPoint id="navPoint-331" playOrder="331">
+        <navLabel>
+          <text>2 PARİS GECESİ</text>
+        </navLabel>
+        <content src="Text/020.html#sigil_toc_id_291"/>
+      </navPoint>
+      <navPoint id="navPoint-332" playOrder="332">
+        <navLabel>
+          <text>3 NİHAİ KARAR</text>
+        </navLabel>
+        <content src="Text/020.html#sigil_toc_id_292"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-333" playOrder="333">
+      <navLabel>
+        <text>ON DÖRDÜNCÜ KİTAP ÇARESİZLİĞİN GÖSTERİLERİ</text>
+      </navLabel>
+      <content src="Text/021.html"/>
+      <navPoint id="navPoint-334" playOrder="334">
+        <navLabel>
+          <text>1 BİRİNCİ PERDE BAYRAK</text>
+        </navLabel>
+        <content src="Text/021.html#sigil_toc_id_293"/>
+      </navPoint>
+      <navPoint id="navPoint-335" playOrder="335">
+        <navLabel>
+          <text>2 BAYRAK İKİNCİ PERDE</text>
+        </navLabel>
+        <content src="Text/021.html#sigil_toc_id_294"/>
+      </navPoint>
+      <navPoint id="navPoint-336" playOrder="336">
+        <navLabel>
+          <text>3 GAVROCHE COURFEYRAC'IN SİLAHINI ALSAYDI KEŞKE</text>
+        </navLabel>
+        <content src="Text/021.html#sigil_toc_id_295"/>
+      </navPoint>
+      <navPoint id="navPoint-337" playOrder="337">
+        <navLabel>
+          <text>4 TEHLİKE</text>
+        </navLabel>
+        <content src="Text/021.html#sigil_toc_id_296"/>
+      </navPoint>
+      <navPoint id="navPoint-338" playOrder="338">
+        <navLabel>
+          <text>5 JEAN PROUVAIRE’İN DİZELERİ NASIL BİTİYOR</text>
+        </navLabel>
+        <content src="Text/021.html#sigil_toc_id_297"/>
+      </navPoint>
+      <navPoint id="navPoint-339" playOrder="339">
+        <navLabel>
+          <text>6 HAYATTAN SONRA CAN VEREN ÖLÜM</text>
+        </navLabel>
+        <content src="Text/021.html#sigil_toc_id_298"/>
+      </navPoint>
+      <navPoint id="navPoint-340" playOrder="340">
+        <navLabel>
+          <text>8 MESAFELERİ HESAPLAYAN GAVROCHE</text>
+        </navLabel>
+        <content src="Text/021.html#sigil_toc_id_299"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-341" playOrder="341">
+      <navLabel>
+        <text>ON BEŞİNCİ KİTAP SİLAHLI ADAM SOKAĞI</text>
+      </navLabel>
+      <content src="Text/022.html"/>
+      <navPoint id="navPoint-342" playOrder="342">
+        <navLabel>
+          <text>1 LAFAZAN BİR KURUTMA KÂĞIDI</text>
+        </navLabel>
+        <content src="Text/022.html#sigil_toc_id_300"/>
+      </navPoint>
+      <navPoint id="navPoint-343" playOrder="343">
+        <navLabel>
+          <text>2 FENERLERE DÜŞMAN HAYLAZ</text>
+        </navLabel>
+        <content src="Text/022.html#sigil_toc_id_301"/>
+      </navPoint>
+      <navPoint id="navPoint-344" playOrder="344">
+        <navLabel>
+          <text>3 HİZMETÇİ İLE COSETTE UYKUDA</text>
+        </navLabel>
+        <content src="Text/022.html#sigil_toc_id_302"/>
+      </navPoint>
+      <navPoint id="navPoint-345" playOrder="345">
+        <navLabel>
+          <text>4 GAVROCHE GAYRET EDİYOR</text>
+        </navLabel>
+        <content src="Text/022.html#sigil_toc_id_303"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-346" playOrder="346">
+      <navLabel>
+        <text>BEŞİNCİ BÖLÜM -</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-347" playOrder="347">
+      <navLabel>
+        <text>BİRİNCİ KİTAP DUVARLARA SIKIŞAN SAVAŞ</text>
+      </navLabel>
+      <content src="Text/007_1_2_3.html"/>
+      <navPoint id="navPoint-348" playOrder="348">
+        <navLabel>
+          <text>1 ANAFOR VE AKINTI</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_304"/>
+      </navPoint>
+      <navPoint id="navPoint-349" playOrder="349">
+        <navLabel>
+          <text>2 BARİKATTA KONUŞMAK DIŞINDA NELER YAPILIR?</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_305"/>
+      </navPoint>
+      <navPoint id="navPoint-350" playOrder="350">
+        <navLabel>
+          <text>3 KARANLIK VE IŞIK</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_306"/>
+      </navPoint>
+      <navPoint id="navPoint-351" playOrder="351">
+        <navLabel>
+          <text>4 BİR FAZLA, BEŞ EKSİK</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_307"/>
+      </navPoint>
+      <navPoint id="navPoint-352" playOrder="352">
+        <navLabel>
+          <text>5 BARİKATIN ÜZERİNDEN GÖRÜNENLER</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_308"/>
+      </navPoint>
+      <navPoint id="navPoint-353" playOrder="353">
+        <navLabel>
+          <text>6 MARİUS MORALSİZ, JAVERT KISA SÖZCÜKLERLE KONUŞUYOR</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_309"/>
+      </navPoint>
+      <navPoint id="navPoint-354" playOrder="354">
+        <navLabel>
+          <text>7 DURUM GİDEREK KRİTİK HALE GELİYOR</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_310"/>
+      </navPoint>
+      <navPoint id="navPoint-355" playOrder="355">
+        <navLabel>
+          <text>8 TOPÇULAR POSTU PAHALIYA SATIYOR</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_311"/>
+      </navPoint>
+      <navPoint id="navPoint-356" playOrder="356">
+        <navLabel>
+          <text>9 RUHSATSIZ AVCININ ISKALAMAYAN ATIŞLARI</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_312"/>
+      </navPoint>
+      <navPoint id="navPoint-357" playOrder="357">
+        <navLabel>
+          <text>10 ORTALIK AĞARIRKEN</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_313"/>
+      </navPoint>
+      <navPoint id="navPoint-358" playOrder="358">
+        <navLabel>
+          <text>11 HİÇ ŞAŞMAYAN FAKAT KİMSENİN CANINI ALMAYAN BİR SİLAH</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_314"/>
+      </navPoint>
+      <navPoint id="navPoint-359" playOrder="359">
+        <navLabel>
+          <text>12 DÜZENDEN TARAF OLAN DÜZENSİZLİK</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_315"/>
+      </navPoint>
+      <navPoint id="navPoint-360" playOrder="360">
+        <navLabel>
+          <text>13 ŞİMŞEKLER</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_316"/>
+      </navPoint>
+      <navPoint id="navPoint-361" playOrder="361">
+        <navLabel>
+          <text>14 ENJOLRAS’IN SEVGİLİSİNİN İSMİ</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_317"/>
+      </navPoint>
+      <navPoint id="navPoint-362" playOrder="362">
+        <navLabel>
+          <text>15 GAVROCHE BARİKATIN DIŞINDA</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_318"/>
+      </navPoint>
+      <navPoint id="navPoint-363" playOrder="363">
+        <navLabel>
+          <text>16 AĞABEYLİKTEN BABALIĞA GEÇİŞ</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_319"/>
+      </navPoint>
+      <navPoint id="navPoint-364" playOrder="364">
+        <navLabel>
+          <text>17 ÖLÜ BABA, ÖLMEYE HAZIRLANAN OĞLUNU İZLİYOR</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_320"/>
+      </navPoint>
+      <navPoint id="navPoint-365" playOrder="365">
+        <navLabel>
+          <text>18 AV OLAN ATMACA</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_321"/>
+      </navPoint>
+      <navPoint id="navPoint-366" playOrder="366">
+        <navLabel>
+          <text>19 JEAN VALJEAN’IN İNTİKAMI</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_322"/>
+      </navPoint>
+      <navPoint id="navPoint-367" playOrder="367">
+        <navLabel>
+          <text>20 ÖLÜLERİN HAKKI VAR; FAKAT DİRİLER DE HAKSIZ SAYILMAZ</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_323"/>
+      </navPoint>
+      <navPoint id="navPoint-368" playOrder="368">
+        <navLabel>
+          <text>21 MANGAL YÜREKLİLER</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_324"/>
+      </navPoint>
+      <navPoint id="navPoint-369" playOrder="369">
+        <navLabel>
+          <text>22 GÖĞÜS GÖĞÜSE</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_325"/>
+      </navPoint>
+      <navPoint id="navPoint-370" playOrder="370">
+        <navLabel>
+          <text>23 AÇ VE SARHOŞ</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_326"/>
+      </navPoint>
+      <navPoint id="navPoint-371" playOrder="371">
+        <navLabel>
+          <text>24 ESİR</text>
+        </navLabel>
+        <content src="Text/007_1_2_3.html#sigil_toc_id_327"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-372" playOrder="372">
+      <navLabel>
+        <text>İKİNCİ KİTAP LEVİATHAN’IN(*) BAĞIRSAĞI</text>
+      </navLabel>
+      <content src="Text/008_1_2_3.html"/>
+      <navPoint id="navPoint-373" playOrder="373">
+        <navLabel>
+          <text>1 DENİZİN ÖRSELEDİĞİ TOPRAK</text>
+        </navLabel>
+        <content src="Text/008_1_2_3.html#sigil_toc_id_328"/>
+      </navPoint>
+      <navPoint id="navPoint-374" playOrder="374">
+        <navLabel>
+          <text>2 LAĞIMIN HİKÂYESİ</text>
+        </navLabel>
+        <content src="Text/008_1_2_3.html#sigil_toc_id_329"/>
+      </navPoint>
+      <navPoint id="navPoint-375" playOrder="375">
+        <navLabel>
+          <text>3 BRUNESEAU</text>
+        </navLabel>
+        <content src="Text/008_1_2_3.html#sigil_toc_id_330"/>
+      </navPoint>
+      <navPoint id="navPoint-376" playOrder="376">
+        <navLabel>
+          <text>4 BAZI DETAYLAR</text>
+        </navLabel>
+        <content src="Text/008_1_2_3.html#sigil_toc_id_331"/>
+      </navPoint>
+      <navPoint id="navPoint-377" playOrder="377">
+        <navLabel>
+          <text>5 İLERLEMELER</text>
+        </navLabel>
+        <content src="Text/008_1_2_3.html#sigil_toc_id_332"/>
+      </navPoint>
+      <navPoint id="navPoint-378" playOrder="378">
+        <navLabel>
+          <text>6 GELECEĞİN İLERLEMELERİ</text>
+        </navLabel>
+        <content src="Text/008_1_2_3.html#sigil_toc_id_333"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-379" playOrder="379">
+      <navLabel>
+        <text>ÜÇÜNCÜ KİTAP ÇAMUR FAKAT RUH</text>
+      </navLabel>
+      <content src="Text/009_1_2_3.html"/>
+      <navPoint id="navPoint-380" playOrder="380">
+        <navLabel>
+          <text>1 ÇİRKEFİN BİLİNMEZLERİ</text>
+        </navLabel>
+        <content src="Text/009_1_2_3.html#sigil_toc_id_334"/>
+      </navPoint>
+      <navPoint id="navPoint-381" playOrder="381">
+        <navLabel>
+          <text>2 AÇIKLAMA</text>
+        </navLabel>
+        <content src="Text/009_1_2_3.html#sigil_toc_id_335"/>
+      </navPoint>
+      <navPoint id="navPoint-382" playOrder="382">
+        <navLabel>
+          <text>3 TAKİP</text>
+        </navLabel>
+        <content src="Text/009_1_2_3.html#sigil_toc_id_336"/>
+      </navPoint>
+      <navPoint id="navPoint-383" playOrder="383">
+        <navLabel>
+          <text>4 HAÇ TAŞIYAN</text>
+        </navLabel>
+        <content src="Text/009_1_2_3.html#sigil_toc_id_337"/>
+      </navPoint>
+      <navPoint id="navPoint-384" playOrder="384">
+        <navLabel>
+          <text>5 KADINLAR VE KUMLARIN HAİNCE İNCELİKLERİ</text>
+        </navLabel>
+        <content src="Text/009_1_2_3.html#sigil_toc_id_338"/>
+      </navPoint>
+      <navPoint id="navPoint-385" playOrder="385">
+        <navLabel>
+          <text>6 FONTİS</text>
+        </navLabel>
+        <content src="Text/009_1_2_3.html#sigil_toc_id_339"/>
+      </navPoint>
+      <navPoint id="navPoint-386" playOrder="386">
+        <navLabel>
+          <text>7 KİŞİ KURTULDUĞUNA SEVİNİR SEVİNMEZ, TEKRAR KARAYA OTURUR</text>
+        </navLabel>
+        <content src="Text/009_1_2_3.html#sigil_toc_id_340"/>
+      </navPoint>
+      <navPoint id="navPoint-387" playOrder="387">
+        <navLabel>
+          <text>8 CEKETİN YIRTILAN PARÇASI</text>
+        </navLabel>
+        <content src="Text/009_1_2_3.html#sigil_toc_id_341"/>
+      </navPoint>
+      <navPoint id="navPoint-388" playOrder="388">
+        <navLabel>
+          <text>9 İŞBİLİR BİRİ DE MARİUS'Ü ÖLÜ SANIYORDU</text>
+        </navLabel>
+        <content src="Text/009_1_2_3.html#sigil_toc_id_342"/>
+      </navPoint>
+      <navPoint id="navPoint-389" playOrder="389">
+        <navLabel>
+          <text>10 HAYATA DÖNÜŞ</text>
+        </navLabel>
+        <content src="Text/009_1_2_3.html#sigil_toc_id_343"/>
+      </navPoint>
+      <navPoint id="navPoint-390" playOrder="390">
+        <navLabel>
+          <text>11 MUTLAK’IN DEPREMİ</text>
+        </navLabel>
+        <content src="Text/009_1_2_3.html#sigil_toc_id_344"/>
+      </navPoint>
+      <navPoint id="navPoint-391" playOrder="391">
+        <navLabel>
+          <text>12 DEDE</text>
+        </navLabel>
+        <content src="Text/009_1_2_3.html#sigil_toc_id_345"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-392" playOrder="392">
+      <navLabel>
+        <text>DÖRDÜNCÜ KİTAP JAVERT’İN BOZGUNU</text>
+      </navLabel>
+      <content src="Text/010_1_2_3.html"/>
+    </navPoint>
+    <navPoint id="navPoint-393" playOrder="393">
+      <navLabel>
+        <text>BEŞİNCİ KİTAP DEDE VE TORUN</text>
+      </navLabel>
+      <content src="Text/011_1_2_3.html"/>
+      <navPoint id="navPoint-394" playOrder="394">
+        <navLabel>
+          <text>1 ÇİNKO KAPLI AĞAÇ</text>
+        </navLabel>
+        <content src="Text/011_1_2_3.html#sigil_toc_id_346"/>
+      </navPoint>
+      <navPoint id="navPoint-395" playOrder="395">
+        <navLabel>
+          <text>2 İÇ SAVAŞTAN ÇIKAN MARİUS, AİLE SAVAŞINDA</text>
+        </navLabel>
+        <content src="Text/011_1_2_3.html#sigil_toc_id_347"/>
+      </navPoint>
+      <navPoint id="navPoint-396" playOrder="396">
+        <navLabel>
+          <text>3 MARİUS ATAĞA GEÇİYOR</text>
+        </navLabel>
+        <content src="Text/011_1_2_3.html#sigil_toc_id_348"/>
+      </navPoint>
+      <navPoint id="navPoint-397" playOrder="397">
+        <navLabel>
+          <text>4 MATMAZEL GİLLENORMAND’IN MÖSYÖ FAUCHELEVENT’İN KOLTUĞUNUN ALTINDAKİ PAKETİ GÖRMESİ</text>
+        </navLabel>
+        <content src="Text/011_1_2_3.html#sigil_toc_id_349"/>
+      </navPoint>
+      <navPoint id="navPoint-398" playOrder="398">
+        <navLabel>
+          <text>5 PARANIZI ORMANA YATIRMAK BANKAYA YATIRMAKTAN GÜVENLİDİR</text>
+        </navLabel>
+        <content src="Text/011_1_2_3.html#sigil_toc_id_350"/>
+      </navPoint>
+      <navPoint id="navPoint-399" playOrder="399">
+        <navLabel>
+          <text>6 HER İKİ İHTİYAR DA COSETTE’İN MUTLULUĞU İÇİN ÇALIŞIYOR</text>
+        </navLabel>
+        <content src="Text/011_1_2_3.html#sigil_toc_id_351"/>
+      </navPoint>
+      <navPoint id="navPoint-400" playOrder="400">
+        <navLabel>
+          <text>7 MUTLULUĞA KARIŞAN DÜŞ</text>
+        </navLabel>
+        <content src="Text/011_1_2_3.html#sigil_toc_id_352"/>
+      </navPoint>
+      <navPoint id="navPoint-401" playOrder="401">
+        <navLabel>
+          <text>8 BULUNMALARI MÜMKÜN OLMAYAN İKİLİ</text>
+        </navLabel>
+        <content src="Text/011_1_2_3.html#sigil_toc_id_353"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-402" playOrder="402">
+      <navLabel>
+        <text>ALTINCI KİTAP UYKUSUZ GECE</text>
+      </navLabel>
+      <content src="Text/012_1_2_3.html"/>
+      <navPoint id="navPoint-403" playOrder="403">
+        <navLabel>
+          <text>1 1833’ÜN 13 ŞUBATI</text>
+        </navLabel>
+        <content src="Text/012_1_2_3.html#sigil_toc_id_354"/>
+      </navPoint>
+      <navPoint id="navPoint-404" playOrder="404">
+        <navLabel>
+          <text>2 JEAN VALJEAN’IN KOLUNUN SARGILARI DAHA AÇILMADI</text>
+        </navLabel>
+        <content src="Text/012_1_2_3.html#sigil_toc_id_355"/>
+      </navPoint>
+      <navPoint id="navPoint-405" playOrder="405">
+        <navLabel>
+          <text>3 SADIK DOST</text>
+        </navLabel>
+        <content src="Text/012_1_2_3.html#sigil_toc_id_356"/>
+      </navPoint>
+      <navPoint id="navPoint-406" playOrder="406">
+        <navLabel>
+          <text>4 DİNMEYEN ACI</text>
+        </navLabel>
+        <content src="Text/012_1_2_3.html#sigil_toc_id_357"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-407" playOrder="407">
+      <navLabel>
+        <text>YEDİNCİ KİTAP AĞUNUN SON YUDUMLARI</text>
+      </navLabel>
+      <content src="Text/013_1_2_3.html"/>
+      <navPoint id="navPoint-408" playOrder="408">
+        <navLabel>
+          <text>1 DAİRE YEDİ, GÖK SEKİZ</text>
+        </navLabel>
+        <content src="Text/013_1_2_3.html#sigil_toc_id_358"/>
+      </navPoint>
+      <navPoint id="navPoint-409" playOrder="409">
+        <navLabel>
+          <text>2 İTİRAFIN KARANLIKLARI</text>
+        </navLabel>
+        <content src="Text/013_1_2_3.html#sigil_toc_id_359"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-410" playOrder="410">
+      <navLabel>
+        <text>SEKİZİNCİ KİTAP KARARAN UFUKLAR</text>
+      </navLabel>
+      <content src="Text/014_1_2_3.html"/>
+      <navPoint id="navPoint-411" playOrder="411">
+        <navLabel>
+          <text>1 ALT KAT</text>
+        </navLabel>
+        <content src="Text/014_1_2_3.html#sigil_toc_id_360"/>
+      </navPoint>
+      <navPoint id="navPoint-412" playOrder="412">
+        <navLabel>
+          <text>2 GEÇMİŞE ATILAN ADIMLAR</text>
+        </navLabel>
+        <content src="Text/014_1_2_3.html#sigil_toc_id_361"/>
+      </navPoint>
+      <navPoint id="navPoint-413" playOrder="413">
+        <navLabel>
+          <text>3 AŞK BAHÇESİNİ UNUTMUYORLAR</text>
+        </navLabel>
+        <content src="Text/014_1_2_3.html#sigil_toc_id_362"/>
+      </navPoint>
+      <navPoint id="navPoint-414" playOrder="414">
+        <navLabel>
+          <text>4 TÜKENİŞ</text>
+        </navLabel>
+        <content src="Text/014_1_2_3.html#sigil_toc_id_363"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-415" playOrder="415">
+      <navLabel>
+        <text>DOKUZUNCU KİTAP BÜYÜK ŞAFAK</text>
+      </navLabel>
+      <content src="Text/015_1_2_3.html"/>
+      <navPoint id="navPoint-416" playOrder="416">
+        <navLabel>
+          <text>1 BEDBAHT İNSANLARA ACIYALIM, MESUT İNSANLARI HOŞGÖRELİM</text>
+        </navLabel>
+        <content src="Text/015_1_2_3.html#sigil_toc_id_364"/>
+      </navPoint>
+      <navPoint id="navPoint-417" playOrder="417">
+        <navLabel>
+          <text>2 YAĞI AZALMAYA YÜZ TUTAN KANDİLİN TİTREMELERİ</text>
+        </navLabel>
+        <content src="Text/015_1_2_3.html#sigil_toc_id_365"/>
+      </navPoint>
+      <navPoint id="navPoint-418" playOrder="418">
+        <navLabel>
+          <text>3 BİR ZAMANLAR FAUCHELEVENT’İN ARABASINI YÜKLENEN ADAM, BUGÜN KALEMİ BİLE KALDIRAMIYOR</text>
+        </navLabel>
+        <content src="Text/015_1_2_3.html#sigil_toc_id_366"/>
+      </navPoint>
+      <navPoint id="navPoint-419" playOrder="419">
+        <navLabel>
+          <text>4 AKLAMAK İÇİN GEREKEN MÜREKKEP ŞİŞESİ</text>
+        </navLabel>
+        <content src="Text/015_1_2_3.html#sigil_toc_id_367"/>
+      </navPoint>
+      <navPoint id="navPoint-420" playOrder="420">
+        <navLabel>
+          <text>5 IŞIĞI GETİREN KARANLIK</text>
+        </navLabel>
+        <content src="Text/015_1_2_3.html#sigil_toc_id_368"/>
+      </navPoint>
+      <navPoint id="navPoint-421" playOrder="421">
+        <navLabel>
+          <text>6 OTLAR GİZLER, YAĞMUR TEMİZLER</text>
+        </navLabel>
+        <content src="Text/015_1_2_3.html#sigil_toc_id_369"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-422" playOrder="422">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/TOC.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
