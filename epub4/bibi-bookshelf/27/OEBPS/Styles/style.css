@@ -1,0 +1,31 @@
+@font-face{font-family:"Comic Sans MS";font-style:normal;font-weight:normal;src:url(../Fonts/comic.ttf)}
+@font-face{font-family:"Comic Sans MS";font-style:normal;font-weight:bold;src:url(../Fonts/comicbd.ttf)}
+p{text-indent:1.8em;margin-left:.26em;line-height:1.4em;margin-right:.26em;text-align:justify;margin-top:.55em;margin-bottom:0;font-family:"Comic Sans MS",cursive;font-size:100%}
+.p0{text-indent:0;margin-left:.26em;line-height:150%;text-align:center;margin-top:0}
+.p1{text-indent:0;margin-left:.26em;line-height:150%;text-align:center;margin-top:1.6em;margin-bottom:1.6em}
+.p2{text-indent:0;margin-left:.26em;line-height:100%;text-align:left;margin-top:0}
+.p3{text-indent:0;margin-left:.26em;line-height:100%;text-align:center;margin-top:7em;margin-bottom:1.1em}
+.p4{text-indent:0;margin-left:.26em;line-height:100%;text-align:center;margin-top:0;margin-bottom:1.1em}
+.p5{text-indent:0;margin-left:.26em;line-height:100%;text-align:center;margin-top:0}
+.p6{text-indent:0;margin-left:.26em;line-height:100%;text-align:center;margin-top:2.2em}
+.p7{text-indent:1.8em;line-height:100%;text-align:center;margin-top:0}
+.p8{text-indent:1.8em;line-height:1.2em;page-break-after:avoid}
+.p10{text-indent:1.8em;text-align:right}
+.p11{text-indent:1.8em;page-break-after:avoid}
+.p12{text-indent:0;margin-left:3.9em;line-height:100%;margin-right:3.9em;text-align:center;margin-top:.91em;margin-bottom:.73em}
+.p13{text-indent:0;margin-left:0;line-height:100%;margin-right:0;text-align:center;margin-top:0;margin-bottom:.73em}
+.p14{text-indent:0;margin-left:0;line-height:100%;margin-right:0;text-align:center;margin-top:0}
+.p15{text-indent:0}
+h1{text-indent:0;margin-left:.18em;line-height:150%;margin-right:.18em;text-align:center;page-break-after:avoid;margin-top:1.1em;margin-bottom:1.1em;font-family:"Comic Sans MS",cursive;font-size:145%;font-weight:bold;color:#c00000}
+.h11{text-indent:0}
+.t1{font-size:1.3em;line-height:150%;font-weight:bold;color:#c00000}
+.t2{color:#5b9bd5}
+.t3{font-size:2.4em;line-height:100%;font-weight:bold;color:#5b9bd5}
+.t4{font-size:3.6em;line-height:100%;color:#5b9bd5}
+.t5{font-size:1.6em;line-height:100%;font-weight:bold;color:#5b9bd5}
+.t7{font-style:italic}
+.t8{font-weight:bold}
+.t9{color:#0066cc;text-decoration:underline}
+.t10{font-weight:bold}
+.t12{font-size:.91em;line-height:100%;font-style:italic;color:#404040}
+.t13{color:#5a5a5a;letter-spacing:.068em}

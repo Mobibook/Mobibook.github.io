@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Goethe, Johann Wolfgang von">Johann Wolfgang von Goethe</dc:creator>
+<dc:identifier id="bookid"/>
+    <dc:publisher>Türkiye İş Bankası</dc:publisher>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf">2009-02-14T22:00:00+00:00</dc:date>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta content="Yaşamımdan Şiir ve Hakikat" name="calibre:title_sort"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Johann Wolfgang von Goethe&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Yaşamımdan Şiir ve Hakikat</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Orjinal</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Biyografi</dc:subject>
+<dc:description>&lt;p&gt;Şiir ve Hakikat Gothe'nin dünya görüşünü ve sanat anlayışını yaşamöyküsü içinde aktardığı en dikkat çekici eserlerinden biridir. İlk bölümü 1811'de yayımlanan, dördüncü bölümü ise 1833'de Gothe'nin ölümünden sonra tamamlanan Şiir ve Hakiket'te dönemin tanınmış sanatçı, bilim adamı ve devlet adamlarının yaşamlarından kesitler de yer almaktadır.&lt;/p&gt;</dc:description>
+<dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">ea45aa97-e5e1-4471-bf65-7e505e71b38a</dc:identifier>
+<dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="GOOGLE">Yco_uAAACAAJ</dc:identifier>
+<dc:identifier xmlns:ns5="http://www.idpf.org/2007/opf" ns5:scheme="ISBN">9789944886673</dc:identifier>
+<meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB,MOBI&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'approximate_formats()'}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Text/kapak.html" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Images/ic_kapak_fmt.png" id="ic_kapak_fmt.png" media-type="image/png"/>
+    <item href="Images/is_kultur_kucuk_yuvarla_fmt.png" id="is_kultur_kucuk_yuvarla_fmt.png" media-type="image/png"/>
+    <item href="Images/_kapak_fmt.jpeg" id="_kapak_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+  </spine>
+</package>

@@ -1,0 +1,112 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Goethe">Goethe</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">b560ef9b-314d-464f-a4dd-dfdd5995b289</dc:identifier>
+    <meta content="Faust" name="calibre:title_sort"/>
+    <meta content="2012-05-07T16:21:26+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>2014-03-20T22:00:00+00:00</dc:date>
+    <dc:publisher>Sosyal Yayınları</dc:publisher>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:description>&lt;p&gt;Goethe'nin Faust'u, büyülü güçler elde etmek ve bilinmeyenleri öğrenmek için ruhunu Mephistopheles adındaki şeytana satan gezgin hokkabazın öyküsünü anlatır. Eski bir Alman masalının oldukça uç bir uyarlanışı olan Faust'u yazmak altmış yıl sürdü. Bunun sonucunda Goethe yaşamı boyunca kafasını kurcalayan tüm sorulara -ahlak yasalarından mitolojiye kadar- bu büyük dramatik ve şiirsel yapıtta yer vermeyi başardı. Faust yazarın tüm ahlaksal, sanatsal ve felsefi gelişiminin capcanlı bir belgesidir. Sosyal Yayınlar, Goethe'nin baş yapıtı ve Avrupa edebiyatının en güzel eserlerinden biri sayılan Faust'u, bu kez İsmet Zeki Eyuboğlu'nun yeni bir çevirisiyle, ilk kez tam metin olarak Türk okurunun beğenisine sunuyor. (Tanıtım Bülteninden)&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Goethe&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date opf:event="modification">2014-06-20</dc:date>
+  <dc:title>Faust</dc:title>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Tiyatro Oyunu</dc:subject>
+<dc:subject>Dram</dc:subject>
+<dc:subject>Alman Edebiyatı</dc:subject>
+<dc:subject>Şiir</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">488019cf-a6fb-40d4-899d-15aa6420a188</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9757384151</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="Text/014.html" id="id014" media-type="application/xhtml+xml"/>
+    <item href="Text/015.html" id="id015" media-type="application/xhtml+xml"/>
+    <item href="Text/016.html" id="id016" media-type="application/xhtml+xml"/>
+    <item href="Text/017.html" id="id017" media-type="application/xhtml+xml"/>
+    <item href="Text/018.html" id="id018" media-type="application/xhtml+xml"/>
+    <item href="Text/019.html" id="id019" media-type="application/xhtml+xml"/>
+    <item href="Text/020.html" id="id020" media-type="application/xhtml+xml"/>
+    <item href="Text/021.html" id="id021" media-type="application/xhtml+xml"/>
+    <item href="Text/022.html" id="id022" media-type="application/xhtml+xml"/>
+    <item href="Text/023.html" id="id023" media-type="application/xhtml+xml"/>
+    <item href="Text/024.html" id="id024" media-type="application/xhtml+xml"/>
+    <item href="Text/025.html" id="id025" media-type="application/xhtml+xml"/>
+    <item href="Text/026.html" id="id026" media-type="application/xhtml+xml"/>
+    <item href="Text/027.html" id="id027" media-type="application/xhtml+xml"/>
+    <item href="Text/028.html" id="id028" media-type="application/xhtml+xml"/>
+    <item href="Text/029.html" id="id029" media-type="application/xhtml+xml"/>
+    <item href="Text/030.html" id="id030" media-type="application/xhtml+xml"/>
+    <item href="Text/031.html" id="id031" media-type="application/xhtml+xml"/>
+    <item href="Text/032.html" id="id032" media-type="application/xhtml+xml"/>
+    <item href="Text/033.html" id="id033" media-type="application/xhtml+xml"/>
+    <item href="Text/034.html" id="id034" media-type="application/xhtml+xml"/>
+    <item href="Images/img1.jpg" id="img1" media-type="image/jpeg"/>
+    <item href="Images/img2.jpg" id="img2" media-type="image/jpeg"/>
+    <item href="Text/notes.html" id="idnotes" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id001"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+    <itemref idref="id017"/>
+    <itemref idref="id018"/>
+    <itemref idref="id019"/>
+    <itemref idref="id020"/>
+    <itemref idref="id021"/>
+    <itemref idref="id022"/>
+    <itemref idref="id023"/>
+    <itemref idref="id024"/>
+    <itemref idref="id025"/>
+    <itemref idref="id026"/>
+    <itemref idref="id027"/>
+    <itemref idref="id028"/>
+    <itemref idref="id029"/>
+    <itemref idref="id030"/>
+    <itemref idref="id031"/>
+    <itemref idref="id032"/>
+    <itemref idref="id033"/>
+    <itemref idref="id034"/>
+    <itemref idref="idnotes"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

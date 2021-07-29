@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="997eac03-1127-4bb9-9a0c-8cc4c01669cd" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Hayali Söyleşiler: Freud</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="183fab23-31c9-41cb-bb43-6578d9b62dbc" playOrder="1">
+      <navLabel>
+        <text>Önsöz Edward de Bono</text>
+      </navLabel>
+      <content src="Text/freud_split_002.html"/>
+    </navPoint>
+    <navPoint id="0603c0fe-e49b-4505-8e22-b788afafc8ef" playOrder="2">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/freud_split_003.html"/>
+    </navPoint>
+    <navPoint id="33ed62cf-3de4-42e3-9a5c-3e15b671fdb2" playOrder="3">
+      <navLabel>
+        <text>Sigmund Freud (1856-1939) Kısaca Hayatı</text>
+      </navLabel>
+      <content src="Text/freud_split_004.html"/>
+    </navPoint>
+    <navPoint id="25cf7d38-38fc-453d-9993-68c0ec6ce9d2" playOrder="4">
+      <navLabel>
+        <text>Şimdi Artık Konuşmaya Başlayalım...</text>
+      </navLabel>
+      <content src="Text/freud_split_005.html"/>
+      <navPoint id="ab46c35e-4519-4d8e-8f90-74000d3cb9a4" playOrder="5">
+        <navLabel>
+          <text>Çocukluğu Üzerine</text>
+        </navLabel>
+        <content src="Text/freud_split_006.html"/>
+      </navPoint>
+      <navPoint id="89d28efd-e235-4e86-89fa-9486e683bce1" playOrder="6">
+        <navLabel>
+          <text>Cinselliğin Kökenleri Üzerine</text>
+        </navLabel>
+        <content src="Text/freud_split_007.html"/>
+      </navPoint>
+      <navPoint id="b356d3b4-e138-487c-98cd-6b887ce9a46d" playOrder="7">
+        <navLabel>
+          <text>Oedipus Kompleksi Üzerine</text>
+        </navLabel>
+        <content src="Text/freud_split_008.html"/>
+      </navPoint>
+      <navPoint id="9548a005-b036-405f-96d2-da1e951f5369" playOrder="8">
+        <navLabel>
+          <text>Konuşma Terapisi Üzerine</text>
+        </navLabel>
+        <content src="Text/freud_split_009.html"/>
+      </navPoint>
+      <navPoint id="e46ff91a-bd36-4888-9cd5-79e6a9d5a8ac" playOrder="9">
+        <navLabel>
+          <text>Rüyalar Üzerine</text>
+        </navLabel>
+        <content src="Text/freud_split_010.html"/>
+      </navPoint>
+      <navPoint id="f587a245-2ae9-4226-a5b2-c994e9b62da7" playOrder="10">
+        <navLabel>
+          <text>Kurt Adam Üzerine</text>
+        </navLabel>
+        <content src="Text/freud_split_011.html"/>
+      </navPoint>
+      <navPoint id="eb6220d5-fe69-4484-b622-d58813d0c868" playOrder="11">
+        <navLabel>
+          <text>Sanat ve Edebiyat Üzerine</text>
+        </navLabel>
+        <content src="Text/freud_split_012.html"/>
+      </navPoint>
+      <navPoint id="5138bddd-1d4a-4411-bfa6-d4b5d57c4244" playOrder="12">
+        <navLabel>
+          <text>Carl Jung Üzerine</text>
+        </navLabel>
+        <content src="Text/freud_split_013.html"/>
+      </navPoint>
+      <navPoint id="4c49d577-77cb-42e1-ba1f-1b4822814c5d" playOrder="13">
+        <navLabel>
+          <text>Dora Üzerine</text>
+        </navLabel>
+        <content src="Text/freud_split_014.html"/>
+      </navPoint>
+      <navPoint id="4dd6e949-6180-419b-b1cb-614ce4ef3f6c" playOrder="14">
+        <navLabel>
+          <text>Kadınlar Üzerine</text>
+        </navLabel>
+        <content src="Text/freud_split_015.html"/>
+      </navPoint>
+      <navPoint id="b14f098f-8395-440a-86be-6ddf9e1aaa59" playOrder="15">
+        <navLabel>
+          <text>Yahudi Olmak Üzerine</text>
+        </navLabel>
+        <content src="Text/freud_split_016.html"/>
+      </navPoint>
+      <navPoint id="b737f5c3-37e5-4b6e-99d4-294417076ab6" playOrder="16">
+        <navLabel>
+          <text>Ölüm Arzusu ve Mutluluk Üzerine</text>
+        </navLabel>
+        <content src="Text/freud_split_017.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

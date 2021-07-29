@@ -1,0 +1,144 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Roberts, Gregory David">Gregory David Roberts</dc:creator>
+<dc:identifier id="uuid">{F2EB87A9-4457-4FAA-AE20-0417DCE8794F}</dc:identifier>
+    <dc:date>2009-02-02T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2015-02-13</dc:date>
+    <dc:publisher>Artemis Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;“Aşk, kader ve yaptığımız seçimler hakkında bildiklerimi öğrenmem çok uzun sürdü, dünyanın pek çok yerini dolaşmam gerekti ama hepsinin özünü bir anda, bir duvara zincirlenmiş halde işkence görürken kavradım.”
+
+“Eşsiz, kesinlikle çok cesur ve inanılmaz vahşi. Shantaram en zengin hayal güçlerini bile hazırlıksız yakalayacak.”
+-Elle
+
+“Shantaram ilk cümlesiyle tavlıyor. Heyecanverici, dokunaklı ve korkutucu... Muhteşem bir roman.”
+-Detroit Free Press
+
+“Çok zekice... Canlı karakterlerle dolu.Ama Shantaram'daki en güçlü karakter şehrin ta kendisi, Bombay. Roberts'ınHindistan'a, orada yaşayan insanlara duyduğu içten sevgi, kitabı okumayı daha da zevkli kılıyor. Roberts bizi Bombay'ıngecekondularına, uyuşturucu satılan mekanlarına, batakhanelerine, barlarına götürüyor ve, siz de gelin, diyor. Biz de gidiyoruz.” 
+-The Washington Post
+&lt;/p&gt;</dc:description>
+    <meta content="Shantaram" name="calibre:title_sort"/>
+    <meta content="{&quot;Gregory David Roberts&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  <dc:title>Shantaram</dc:title>
+<dc:subject>Gezi</dc:subject>
+<dc:subject>Gerçek</dc:subject>
+<dc:subject>Biyografi</dc:subject>
+<dc:subject>Çağdaş Edebiyat</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">8a84d5d0-21fc-4210-8d7a-2c467724fc01</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786054228379</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main0.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/kisim1.xhtml" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-1.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-2.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-3.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-4.xhtml" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-5.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-6.xhtml" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-7.xhtml" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-8.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/kisim2.xhtml" id="id30" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-9.xhtml" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-10.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-11.xhtml" id="id31" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-12.xhtml" id="id32" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-13.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-14.xhtml" id="id33" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-15.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-16.xhtml" id="id34" media-type="application/xhtml+xml"/>
+    <item href="Text/kisim3.xhtml" id="id35" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-17.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-18.xhtml" id="id36" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-19.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-20.xhtml" id="id37" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-21.xhtml" id="id38" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-22.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-23.xhtml" id="id39" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-24.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-25.xhtml" id="id40" media-type="application/xhtml+xml"/>
+    <item href="Text/kisim4.xhtml" id="id41" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-26.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-27.xhtml" id="id42" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-28.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-29.xhtml" id="id43" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-30.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-31.xhtml" id="id44" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-32.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-33.xhtml" id="id45" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-34.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-35.xhtml" id="id46" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-36.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/kisim5.xhtml" id="id48" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-37.xhtml" id="id47" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-38.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-39.xhtml" id="id49" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-40.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-41.xhtml" id="id50" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-42.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id21" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id20" media-type="text/css"/>
+    <item href="Images/artemis.jpg" id="id22" media-type="image/jpeg"/>
+    <item href="Images/shantaram2.jpg" id="id51" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id21">
+    <itemref idref="id"/>
+    <itemref idref="id23"/>
+    <itemref idref="id26"/>
+    <itemref idref="id0"/>
+    <itemref idref="id24"/>
+    <itemref idref="id1"/>
+    <itemref idref="id25"/>
+    <itemref idref="id2"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id3"/>
+    <itemref idref="id30"/>
+    <itemref idref="id29"/>
+    <itemref idref="id4"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id5"/>
+    <itemref idref="id33"/>
+    <itemref idref="id6"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id7"/>
+    <itemref idref="id36"/>
+    <itemref idref="id8"/>
+    <itemref idref="id37"/>
+    <itemref idref="id38"/>
+    <itemref idref="id9"/>
+    <itemref idref="id39"/>
+    <itemref idref="id10"/>
+    <itemref idref="id40"/>
+    <itemref idref="id41"/>
+    <itemref idref="id11"/>
+    <itemref idref="id42"/>
+    <itemref idref="id12"/>
+    <itemref idref="id43"/>
+    <itemref idref="id13"/>
+    <itemref idref="id44"/>
+    <itemref idref="id14"/>
+    <itemref idref="id45"/>
+    <itemref idref="id15"/>
+    <itemref idref="id46"/>
+    <itemref idref="id16"/>
+    <itemref idref="id48"/>
+    <itemref idref="id47"/>
+    <itemref idref="id17"/>
+    <itemref idref="id49"/>
+    <itemref idref="id18"/>
+    <itemref idref="id50"/>
+    <itemref idref="id19"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.html" type="cover"/>
+  </guide>
+</package>

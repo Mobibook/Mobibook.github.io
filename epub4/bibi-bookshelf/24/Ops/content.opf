@@ -1,0 +1,74 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:creator opf:role="aut" opf:file-as="Carey, Diana">Diana Carey</dc:creator>
+<dc:date>2013-07-19T21:00:00+00:00</dc:date>
+<dc:identifier id="BookId">awp2013-07-20T10:48:04Z</dc:identifier>
+<meta name="cover" content="cover"/>
+<meta name="calibre:title_sort" content="Hayalet Gemi"/>
+<dc:publisher>Ankira Yayıncılık</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255); "&gt;1985: Esrarengiz bir yaratık Rus uçak gemisini yok eder ve gizemli bir şekilde ortadan kaybolur. Bundan tam üç yüz yıl sonra, Danışman Deanna Troi gördüğü kabustan uyanır. Rus gemisini yok eden yaratığın içinde kısılıp kalmış mürettebatın seslerini duymuştur. Bu mürettebatın yaşam özleri, bir şekilde, uzun yıllar önce gemilerini yok eden yaratık tarafından emilmiştir.Şimdi, Picard bu yaratıkla iletişim kurmanın bir yolunu bulmak zorundadır. Aksi takdirde, onlar da, aynı şekilde, bu hayalet gemide tutsak olacaklardır!&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Diana Carey&quot;: &quot;&quot;}"/>
+<dc:title>Hayalet Gemi</dc:title>
+<dc:subject>Bilimkurgu</dc:subject>
+<dc:subject>Uzay</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">6e403283-1b61-4333-8282-dbce02f39ae2</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789758387014</dc:identifier>
+</metadata>
+<manifest>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="style" href="style.css" media-type="text/css"/>
+<item id="id001" href="001.html" media-type="application/xhtml+xml"/>
+<item id="id002" href="002.html" media-type="application/xhtml+xml"/>
+<item id="id003" href="003.html" media-type="application/xhtml+xml"/>
+<item id="id004" href="004.html" media-type="application/xhtml+xml"/>
+<item id="id005" href="005.html" media-type="application/xhtml+xml"/>
+<item id="id006" href="006.html" media-type="application/xhtml+xml"/>
+<item id="id007" href="007.html" media-type="application/xhtml+xml"/>
+<item id="id008" href="008.html" media-type="application/xhtml+xml"/>
+<item id="id009" href="009.html" media-type="application/xhtml+xml"/>
+<item id="id010" href="010.html" media-type="application/xhtml+xml"/>
+<item id="id011" href="011.html" media-type="application/xhtml+xml"/>
+<item id="id012" href="012.html" media-type="application/xhtml+xml"/>
+<item id="id013" href="013.html" media-type="application/xhtml+xml"/>
+<item id="id014" href="014.html" media-type="application/xhtml+xml"/>
+<item id="id015" href="015.html" media-type="application/xhtml+xml"/>
+<item id="id016" href="016.html" media-type="application/xhtml+xml"/>
+<item id="id017" href="017.html" media-type="application/xhtml+xml"/>
+<item id="id018" href="018.html" media-type="application/xhtml+xml"/>
+<item id="id019" href="019.html" media-type="application/xhtml+xml"/>
+<item id="id020" href="020.html" media-type="application/xhtml+xml"/>
+<item id="id021" href="021.html" media-type="application/xhtml+xml"/>
+<item id="cover" href="images/cover.jpg" media-type="image/jpeg"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="id001" linear="no"/>
+<itemref idref="id002"/>
+<itemref idref="id003"/>
+<itemref idref="id004"/>
+<itemref idref="id005"/>
+<itemref idref="id006"/>
+<itemref idref="id007"/>
+<itemref idref="id008"/>
+<itemref idref="id009"/>
+<itemref idref="id010"/>
+<itemref idref="id011"/>
+<itemref idref="id012"/>
+<itemref idref="id013"/>
+<itemref idref="id014"/>
+<itemref idref="id015"/>
+<itemref idref="id016"/>
+<itemref idref="id017"/>
+<itemref idref="id018"/>
+<itemref idref="id019"/>
+<itemref idref="id020"/>
+<itemref idref="id021"/>
+</spine>
+<guide>
+<reference type="cover" title="Cover" href="001.html"/>
+</guide>
+</package>

@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="add4aff2-fc94-4345-823e-67cd53a17315" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.28.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Haçlılar</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>BİZİMKİLER..........................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="1">
+      <navLabel>
+        <text>Baudouin Kudüs Kralı................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="1">
+      <navLabel>
+        <text>Selçuklu Sultanları ve Ufak Orduları ...............................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="1">
+      <navLabel>
+        <text>Anadolu Yolları.....................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="1">
+      <navLabel>
+        <text>Merzifon Savaşı.....................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="1">
+      <navLabel>
+        <text>2ci Haçlı Ordusu..................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="1">
+      <navLabel>
+        <text>Ereğli Savaşı.......................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="1">
+      <navLabel>
+        <text>Berkyaruk Tapar mücadelesi..........................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="1">
+      <navLabel>
+        <text>Bohemond ...........................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="1">
+      <navLabel>
+        <text>Harran Savaşı ......................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="1">
+      <navLabel>
+        <text>XI. Yüzyıl Başlangıcı..............................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="1">
+      <navLabel>
+        <text>Haşhaşi avı ........................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="1">
+      <navLabel>
+        <text>Selçuklu, Anadolu Selçuklu Çekişmesi ...............................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="1">
+      <navLabel>
+        <text>Habur Savaşı .......................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="1">
+      <navLabel>
+        <text>Mücadele Selçuklu Komutanları Arasında .............................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="1">
+      <navLabel>
+        <text>Kudüs Krallığı Güçlü, Müslüman Halk Tepkili.........................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="1">
+      <navLabel>
+        <text>Endülüs parlıyor ...................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="1">
+      <navLabel>
+        <text>Haçlı, Selçuklu, Haşhaşi Mücadeleleri ..............................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="1">
+      <navLabel>
+        <text>Suriye’de Melik Rıdvan’dan sonrası..................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="1">
+      <navLabel>
+        <text>Alexios Komnenos ...................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="1">
+      <navLabel>
+        <text>Sultan Sencer.......................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="1">
+      <navLabel>
+        <text>Ortadoğu’da yeni gelişmeler ........................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="1">
+      <navLabel>
+        <text>Templier ...........................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="1">
+      <navLabel>
+        <text>Sencer, Haşhaşi uzlaşması...........................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="1">
+      <navLabel>
+        <text>Dübeys..............................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_26" playOrder="1">
+      <navLabel>
+        <text>Kıpçaklar Gürcistan’da .............................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_27" playOrder="1">
+      <navLabel>
+        <text>Worms Konkordası ...................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_28" playOrder="1">
+      <navLabel>
+        <text>Halife Sultanlık Peşinde ...........................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_29" playOrder="1">
+      <navLabel>
+        <text>Anadolu’da Danışmend Hakimiyeti.....................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_30" playOrder="1">
+      <navLabel>
+        <text>Irak Selçuklu Sultanı Mahmut Bağdat’da .............................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_31" playOrder="1">
+      <navLabel>
+        <text>Moğollar ...........................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_32" playOrder="1">
+      <navLabel>
+        <text>Özel Yetki .........................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_33" playOrder="1">
+      <navLabel>
+        <text>Sencer’in Emirleri .................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_34" playOrder="1">
+      <navLabel>
+        <text>Halife daha fazla güç istiyor.......................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_35" playOrder="1">
+      <navLabel>
+        <text>Sencer’in mektubu...................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_36" playOrder="1">
+      <navLabel>
+        <text>Halifenin Ölümü.....................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_37" playOrder="1">
+      <navLabel>
+        <text>Kim Halife olacak ..................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_38" playOrder="1">
+      <navLabel>
+        <text>Sufilikte Gelişme...................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_39" playOrder="1">
+      <navLabel>
+        <text>Akitanyalılar.......................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_40" playOrder="1">
+      <navLabel>
+        <text>Antakya Kimin? .....................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_41" playOrder="1">
+      <navLabel>
+        <text>Kilise Adaleti......................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_42" playOrder="1">
+      <navLabel>
+        <text>Khmer İmparatorluğu.................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_43" playOrder="1">
+      <navLabel>
+        <text>Doğu İran Oğuzları..................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_44" playOrder="1">
+      <navLabel>
+        <text>Karahitaylar........................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_45" playOrder="1">
+      <navLabel>
+        <text>Harzemşah Sencer için Problem Oluyor ...............................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_46" playOrder="1">
+      <navLabel>
+        <text>Kim Kimin Hamisi ...................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_47" playOrder="1">
+      <navLabel>
+        <text>Katwan Savaşı ......................................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_48" playOrder="1">
+      <navLabel>
+        <text>Harzemşahların Yükselişi ...........................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_49" playOrder="1">
+      <navLabel>
+        <text>Rum-Rum Selçuklu savaşı ............................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_50" playOrder="1">
+      <navLabel>
+        <text>Selçuklular ve Doğusu karışık.......................................................................</text>
+      </navLabel>
+      <content src="10_-_Haclilar_split_000.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

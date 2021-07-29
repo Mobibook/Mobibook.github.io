@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'kids';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/KGCorneroftheSky.ttf');
+}
+body	{
+	background-color:#fcfff6;
+	color:#000;
+	font-family:'kids', serif;
+	font-size:1em;
+	margin:auto;
+	max-width:33em;
+	}
+@media screen and (orientation:landscape) {
+    html {
+	background:#fdfdfd fixed;
+	}
+    body {
+	-moz-box-shadow: 5px 5px 25px 10px #888;
+	-webkit-box-shadow: 5px 5px 25px 10px #888;
+	box-shadow: 5px 5px 25px 10px #888;
+    }
+}
+@media screen {
+    body {
+	margin:1em auto;
+	max-width:33em;
+	padding:5em 4em;
+    }
+}
+
+p {line-height:120%;margin: 0px;text-align:justify;text-indent:25px;font-size:1em;}
+h2 {text-indent:0px;text-align: center;margin-bottom: 30px;font-size:3.5em;}
+h3 {text-indent:0px;text-align: center;margin-bottom: 30px;}
+h4 {text-indent:0px;text-align: left;margin-top: 30px;margin-bottom: 10px;}
+blockquote {padding: 0px;margin: 10px 70px;border: 0px;}
+blockquote p {font-size: 80%;font-style: normal;text-indent: 0px;}
+.baslik {text-align:center;text-indent:0em;margin: 40px 0px;color: #c1a13c;font-size:1.75em;}
+.yazar {font-size:1.5em;text-align:center;text-indent:0em;margin-top:40px;margin-bottom:40px}
+.ara {font-size:0.875em;text-align:center;text-indent:0em;margin-top:40px;margin-bottom:40px}
+.detay {text-align:center;text-indent:0em;margin-top:10px;}
+.renk {color: #c1a13c;font-size:1.75em;}
+

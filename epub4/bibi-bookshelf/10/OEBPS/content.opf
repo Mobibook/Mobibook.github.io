@@ -1,0 +1,43 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Bebel, August">August Bebel</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:76724488-0cb9-4975-af49-40e8e4e6de95</dc:identifier>
+    <dc:date>2011-05-28T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="x9789758491575.jpg"/>
+  <dc:title>Hz. Muhammed ve Arap İslam Kültürü</dc:title>
+<meta name="calibre:title_sort" content="Hz. Muhammed ve Arap İslam Kültürü"/>
+<dc:publisher>Arya Yayıncılık</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Tarih</dc:subject>
+<dc:subject>Kültür</dc:subject>
+<dc:subject>Din</dc:subject>
+<dc:subject>İnanç</dc:subject>
+<dc:subject>İslam</dc:subject>
+<dc:description>&lt;p&gt;Bugün Avrupa'da hala yaygın olan - ve İslamiyet'in, inanmayanlara (başka dinden olanlara) karşı - fanatik bir tahammülsüzlükle yaklaştığı sanısına karşı, bunun tam tersinin doğru olduğunu göstermek gerekmektedir. Hıristiyanlar, Museviler ve öteki dinlerden olanlar, Müslüman dinin ilk doğduğu günden itibaren, aynı dönemde ki Hıristiyan Avrupa'da akılların ucundan bile geçmeyecek bir rahatlık ve güven içinde yaşamışlardır. Neden sonra, 11. ve 13. yüzyıllar arasında Hıristiyan Avrupa Haçlı seferleri adı altında haydutluğa soyunmuş talancı ve istilacı ordularını doğuya gönderip, burada barbarlık ve zulümleriyle İslam fanatiklerini ve fanatikliğini de çığırından çıkarınca, başka dinden olanlara gösterilen hoşgörünün yerini katı bir düşmanlık almıştır. Yinede, bu dönemlerde bile, İslam savaş önderleri, Haçlı ordularının Hıristiyan prenslerine ve soylularına gösterdikleri mertlik ve saygıyla onlar sık sık utandırmaktan geri kalmamışlardır.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;August Bebel&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">f48ffed0-69a2-4fa3-a1d5-35fbc44af629</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789758491575</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/9789758491575.jpg" id="x9789758491575.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

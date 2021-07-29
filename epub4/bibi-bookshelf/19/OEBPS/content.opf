@@ -1,0 +1,116 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Palahniuk, Chuck">Chuck Palahniuk</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">7d93a131-5a30-4b66-a2e7-214ebe9080a5</dc:identifier>
+    <dc:publisher>Ayrıntı Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Hiçbir şeyin göründüğü gibi olmadığı, yanılsamanın hüküm sürdüğü şu dünyada bize iyi ve doğru olarak dayatılanı değil de, kötü olduğu söylenerek bizden uzak tutulanı tercih etmek ne derece mümkündür? Chuck Palahniuk, bize yine roman olarak ulaşan bu üçüncü "kimlik krizi"nde, aile ve toplumda var olan genel geçer davranış kalıplarının altında yatan gerçekliği evirip çeviriyor.
+Genç ve güzel manken Shannon mutlu olmak için her şeye sahiptir: Parlak bir kariyer, kitlelerin ilgisi, yakışıklı bir sevgili ve yakın bir dost. Ancak geçirdiği bir 'kaza' yüzünün yarısını yok ettiğinde, görünmez bir canavara dönüşür. Hastanede tanıştığı, ameliyatla kadın olmaya hazırlanan transseksüel Brandy Alexander, ona geleceğini yaratabilmek için geçmişini silmesi gerektiğini, gerçek keşiflerin hep kaostan çıktığını öğretir. Bu süreçte Shannon, Brandy Alexander'la ve kendisini aldatan sevgilisi Manus'la bir intikam yolculuğuna çıkacaktır. Kişisel ve toplumsal arızaların kol gezdiği, çağdaş bir çorak ülkede çıkılan bu yolculukta üçünün isimleri, kimlikleri ve geçmişleri her şehirde değişirken, okur da görüntüye, yüzeyselliğe odaklanmış bir dünyada aile, sevgili, arkadaş konumundaki insanlarla ilişkilerin sığlığına tanık olur.
+Palahniuk cinsiyet değiştirme operasyonlarının büyük ölçüde kolaylaştığı ve yaygınlaştığı bir çağda, cinsiyetlerin bile görüntüden ibaret olduğunu vurguluyor. Bir yandan güzellik ve kimlik kavramlarına bakarken, tüketim toplumuna ve estetik operasyon kültürüne haşin saldırılar yöneltiyor. Üstelik bütün bunları okurunu adeta bir eğlence trenine bindirip baş karakterinin geçmişiyle bugünü arasında dolaştırarak ve şaşırtıcı bir finalle adamakıllı sarsarak yapıyor.
+
+Yazarın sarsıcı ilk romanı Dövüş Kulübü, Görünmez Canavarlar'ın yanında aheste bir payton gezisi gibi kalıyor.
+James Sullivan&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2014-02-03T22:00:00+00:00</dc:date>
+    <meta content="Görünmez Canavarlar" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="2014-02-03T12:41:46.217000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.8.6" name="Sigil version"/>
+  <dc:title>Görünmez Canavarlar</dc:title>
+<dc:subject>Yeraltı Edebiyatı</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Chuck Palahniuk&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">eef0f23a-3f08-4899-b66f-92a0fdba081c</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9755394257</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/gorunmez_canavarlar_002.html" id="gorunmez_canavarlar_002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_001.html" id="gorunmez_canavarlar_001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_003.html" id="gorunmez_canavarlar_003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_101.html" id="gorunmez_canavarlar_101.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_102.html" id="gorunmez_canavarlar_102.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_103.html" id="gorunmez_canavarlar_103.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_104.html" id="gorunmez_canavarlar_104.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_105.html" id="gorunmez_canavarlar_105.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_106.html" id="gorunmez_canavarlar_106.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_107.html" id="gorunmez_canavarlar_107.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_108.html" id="gorunmez_canavarlar_108.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_109.html" id="gorunmez_canavarlar_109.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_110.html" id="gorunmez_canavarlar_110.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_111.html" id="gorunmez_canavarlar_111.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_112.html" id="gorunmez_canavarlar_112.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_113.html" id="gorunmez_canavarlar_113.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_114.html" id="gorunmez_canavarlar_114.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_115.html" id="gorunmez_canavarlar_115.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_116.html" id="gorunmez_canavarlar_116.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_117.html" id="gorunmez_canavarlar_117.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_118.html" id="gorunmez_canavarlar_118.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_119.html" id="gorunmez_canavarlar_119.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_120.html" id="gorunmez_canavarlar_120.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_121.html" id="gorunmez_canavarlar_121.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_122.html" id="gorunmez_canavarlar_122.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_123.html" id="gorunmez_canavarlar_123.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_124.html" id="gorunmez_canavarlar_124.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_125.html" id="gorunmez_canavarlar_125.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_126.html" id="gorunmez_canavarlar_126.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_127.html" id="gorunmez_canavarlar_127.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_128.html" id="gorunmez_canavarlar_128.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_129.html" id="gorunmez_canavarlar_129.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_130.html" id="gorunmez_canavarlar_130.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_131.html" id="gorunmez_canavarlar_131.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_132.html" id="gorunmez_canavarlar_132.html" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmez_canavarlar_201.html" id="gorunmez_canavarlar_201.html" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/gorunmez_canavarlar_000.xhtml" id="gorunmez_canavarlar_000.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/logo.xhtml" id="logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="gorunmez_canavarlar_000.xhtml"/>
+    <itemref idref="logo.xhtml"/>
+    <itemref idref="gorunmez_canavarlar_001.html"/>
+    <itemref idref="gorunmez_canavarlar_002.html"/>
+    <itemref idref="gorunmez_canavarlar_003.html"/>
+    <itemref idref="gorunmez_canavarlar_101.html"/>
+    <itemref idref="gorunmez_canavarlar_102.html"/>
+    <itemref idref="gorunmez_canavarlar_103.html"/>
+    <itemref idref="gorunmez_canavarlar_104.html"/>
+    <itemref idref="gorunmez_canavarlar_105.html"/>
+    <itemref idref="gorunmez_canavarlar_106.html"/>
+    <itemref idref="gorunmez_canavarlar_107.html"/>
+    <itemref idref="gorunmez_canavarlar_108.html"/>
+    <itemref idref="gorunmez_canavarlar_109.html"/>
+    <itemref idref="gorunmez_canavarlar_110.html"/>
+    <itemref idref="gorunmez_canavarlar_111.html"/>
+    <itemref idref="gorunmez_canavarlar_112.html"/>
+    <itemref idref="gorunmez_canavarlar_113.html"/>
+    <itemref idref="gorunmez_canavarlar_114.html"/>
+    <itemref idref="gorunmez_canavarlar_115.html"/>
+    <itemref idref="gorunmez_canavarlar_116.html"/>
+    <itemref idref="gorunmez_canavarlar_117.html"/>
+    <itemref idref="gorunmez_canavarlar_118.html"/>
+    <itemref idref="gorunmez_canavarlar_119.html"/>
+    <itemref idref="gorunmez_canavarlar_120.html"/>
+    <itemref idref="gorunmez_canavarlar_121.html"/>
+    <itemref idref="gorunmez_canavarlar_122.html"/>
+    <itemref idref="gorunmez_canavarlar_123.html"/>
+    <itemref idref="gorunmez_canavarlar_124.html"/>
+    <itemref idref="gorunmez_canavarlar_125.html"/>
+    <itemref idref="gorunmez_canavarlar_126.html"/>
+    <itemref idref="gorunmez_canavarlar_127.html"/>
+    <itemref idref="gorunmez_canavarlar_128.html"/>
+    <itemref idref="gorunmez_canavarlar_129.html"/>
+    <itemref idref="gorunmez_canavarlar_130.html"/>
+    <itemref idref="gorunmez_canavarlar_131.html"/>
+    <itemref idref="gorunmez_canavarlar_132.html"/>
+    <itemref idref="gorunmez_canavarlar_201.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/gorunmez_canavarlar_000.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/gorunmez_canavarlar_101.html" title="Table Of Contents" type="toc"/>
+  </guide>
+</package>
